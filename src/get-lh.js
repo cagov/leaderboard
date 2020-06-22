@@ -43,7 +43,7 @@ async function rockit() {
     let dirs = `../data/${domain}/${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()}`;
   
     fs.mkdirSync(dirs, { recursive: true });
-    // fs.writeFileSync(dirs+'/lighthouse.json',json,'utf8')
+    fs.writeFileSync(dirs+'/lighthouse.json',result,'utf8')
     console.log('did '+url)
 
   }

@@ -110,7 +110,7 @@ function progressBarRead(score) {
     barClass = 'bg-success';
   }
   let scoreValue = calculateRead(score);
-  return `<div class="progress">
+  return `<div class="progress" alt="readability grade level ${Math.ceil(score)}">
         <div class="progress-bar progress-bar-striped ${barClass}" role="progressbar" style="width: ${parseInt(scoreValue)}%" aria-valuenow="${parseInt(scoreValue)}" aria-valuemin="0" aria-valuemax="100"></div>
       </div>`
 }

@@ -5,22 +5,33 @@ let unreaddomains = []
 let reports = [];
 
 let refs = JSON.parse(fs.readFileSync('./refs.json','utf8'))
-function calculatePerf(audit) {
+function calculatePerf(audit, url) {
   let perfScore = 0;
   refs.categories.performance.auditRefs.forEach(ref => {
     if(ref.weight !== 0) {
       perfScore += audit.audits[ref.id].score * ref.weight;
     }
   })
+  if(url == 'https://alpha.ca.gov') {
+    refs.categories.performance.auditRefs.forEach(ref => {
+      if(ref.weight !== 0) {
+        console.log(ref)
+        console.log(audit.audits[ref.id]);
+      }
+    })  
+  }
+
   return perfScore;
 }
-function calculateA11y(audit) {
+function calculateA11y(audit, url) {
   let score = 0;
   let possible = 0;
   refs.categories.accessibility.auditRefs.forEach(ref => {
     if(ref.weight !== 0) {
-      possible += ref.weight;
-      score += audit.audits[ref.id].score * ref.weight;
+      if(audit.audits[ref.id].scoreDisplayMode !=  'notApplicable') {
+        possible += ref.weight;
+        score += audit.audits[ref.id].score * ref.weight;  
+      }
     }
   })
   return parseInt((score/possible) * 100);
@@ -54,8 +65,8 @@ sites.forEach(url => {
   }
   if(lighthouse) {
     let lightData = JSON.parse(fs.readFileSync(`../../data/${domain}/2020-6-22/lighthouse.json`,'utf8'))
-    reportObj.perf = calculatePerf(lightData);
-    reportObj.a11y = calculateA11y(lightData);
+    reportObj.perf = calculatePerf(lightData, url);
+    reportObj.a11y = calculateA11y(lightData, url);
   }
   if(lighthouse && readScore) {
     reports.push(reportObj)

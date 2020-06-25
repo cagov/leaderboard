@@ -19,11 +19,14 @@ async function lighthouseFromPuppeteer(url, options, config = null) {
   options.port = chrome.port;
 
   // Connect chrome-launcher to puppeteer
+
   const resp = await util.promisify(request)(`http://localhost:${options.port}/json/version`);
   const { webSocketDebuggerUrl } = JSON.parse(resp.body);
   const browser = await puppeteer.connect({ browserWSEndpoint: webSocketDebuggerUrl });
 
   // Run Lighthouse
+  const { warmup } = await lighthouse(url, options, config);
+
   const { lhr } = await lighthouse(url, options, config);
   await browser.disconnect();
   await chrome.kill();
@@ -40,7 +43,7 @@ async function rockit() {
 
     let domain = url.split('//')[1].split('/')[0];
     let d = new Date();
-    let dirs = `../data/${domain}/${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()}`;
+    let dirs = `../../data/${domain}/${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()-2}`;
   
     fs.mkdirSync(dirs, { recursive: true });
     fs.writeFileSync(dirs+'/lighthouse.json',result,'utf8')
@@ -50,14 +53,14 @@ async function rockit() {
 }
 
 // let sites = JSON.parse(fs.readFileSync('./sites.json')).sites;
-let sites = [];
-let agencies = JSON.parse(fs.readFileSync('./agencies.json')).Data;
-agencies.forEach(agency => {
-  sites.push(agency.WebsiteURL);
-})
+let sites = ["https://scc.ca.gov/"];
+// let agencies = JSON.parse(fs.readFileSync('./agencies.json')).Data;
+// agencies.forEach(agency => {
+//   sites.push(agency.WebsiteURL);
+// })
 
 rockit()
   
 
 
-// calculate perf, a11y from those results using refs.json
+// review data collected, calculate perf, a11y from those results using refs.json

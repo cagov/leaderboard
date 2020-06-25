@@ -10,7 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "automated-readability": "^1.0.5",
     "performance-leaderboard": "^3.0.2",
-    "puppeteer": "^4.0.0"
+    "puppeteer": "^4.0.0",
+    "readability-scores": "^1.0.8",
+    "request": "^2.88.2",
+    "text-readability": "^1.0.5",
+    "unfluff": "^3.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
   }
 }

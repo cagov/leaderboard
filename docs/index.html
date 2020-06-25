@@ -6,7 +6,7 @@
     <meta name="description" content="Alpha.CA.gov news.">
     <meta name="author" content="State of California">
     <meta name="generator" content="Hugo 0.61.0">
-    <title>News - Alpha.CA.gov</title>
+    <title>CA.gov leaderboard</title>
     <!-- Styles -->
     <link href="https://california.azureedge.net/cdt/statetemplate/6.0.0/css/cagov.font-only.min.css" rel="stylesheet" />
     <link href="https://news.alpha.ca.gov/css/alpha.css" rel="stylesheet">
@@ -129,7 +129,7 @@ function calculateRead(score) {
 fetch('reports.json')
   .then(response => response.json())
   .then(data => {
-    let output = '';
+    let output = '<p>Scores are measured using lighthouse version 6 accessibility and performance audits and automated readability index of site homepage for readability. Improve rankings using lighthouse recommendations: <a href="https://web.dev/measure">https://web.dev/measure</a> or hemingway tips: <a href="https://hemingwayapp.com">https://hemingwayapp.com</a></p>';
     let rank = 1;
     data.sort(function(a,b) {
       let aScore = a.perf + a.a11y - a.readability;

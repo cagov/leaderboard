@@ -129,7 +129,7 @@ function calculateRead(score) {
 fetch('reports.json')
   .then(response => response.json())
   .then(data => {
-    let output = '<p>Scores are measured using lighthouse version 6 accessibility and performance audits and automated readability index of main content on site homepage for readability. Improve rankings using lighthouse recommendations: <a href="https://web.dev/measure">https://web.dev/measure</a> or hemingway tips: <a href="https://hemingwayapp.com">https://hemingwayapp.com</a>. Next version will run audits repeatedly to get average performance rating and crawl deeper into site for better readability index.</p>';
+    let output = '<p>Scores are measured using lighthouse version 6 accessibility and performance audits and automated readability index of main content on site homepage for readability. Readability progress bar shows distance from target grade level 9 or lower. Improve rankings using lighthouse recommendations: <a href="https://web.dev/measure">https://web.dev/measure</a> or hemingway tips: <a href="https://hemingwayapp.com">https://hemingwayapp.com</a>. Next version will run audits repeatedly to get average performance rating and crawl deeper into site for more thorough reports.</p>';
     let rank = 1;
     data.sort(function(a,b) {
       let aScore = a.perf + a.a11y - a.readability;
@@ -144,9 +144,9 @@ fetch('reports.json')
     }).reverse().forEach(item => {
       output += `<div class="card">
         <!--<img src="..." class="card-img-top" alt="...">-->
-        <h3 class="card-header card-title">${item.url}</h3>
+        <h4 class="card-header card-title">${item.url}</h4>
         <div class="card-body">
-          <div class="rank">
+          <div class="card bg-light rank border-0">
             <div>Rank</div>
             <div class="ranking-value">${rank}</div>
           </div>

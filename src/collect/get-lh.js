@@ -6,6 +6,7 @@ const chromeLauncher = require('chrome-launcher');
 const reportGenerator = require('lighthouse/lighthouse-core/report/report-generator');
 const request = require('request');
 const util = require('util');
+const dirName = require('./dirname.js');
 
 const options = {
   logLevel: 'info',
@@ -41,26 +42,29 @@ async function rockit() {
     let url = sites[i];
     let result = await lighthouseFromPuppeteer(url, options);
 
-    let domain = url.split('//')[1].split('/')[0];
+    let domain = dirName(url);
+    
     let d = new Date();
-    let dirs = `../../data/${domain}/${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()-2}`;
+    let currentMonth = d.getMonth()+1;
+    if(currentMonth < 10) {
+      currentMonth = '0'+currentMonth.toString();
+    }
+    let dirs = `../../data/${domain}/${d.getFullYear()}-${currentMonth}-${d.getDate()}`;
   
     fs.mkdirSync(dirs, { recursive: true });
     fs.writeFileSync(dirs+'/lighthouse.json',result,'utf8')
     console.log('did '+url)
-
+    
   }
 }
 
-// let sites = JSON.parse(fs.readFileSync('./sites.json')).sites;
-let sites = ["https://scc.ca.gov/"];
-// let agencies = JSON.parse(fs.readFileSync('./agencies.json')).Data;
-// agencies.forEach(agency => {
-//   sites.push(agency.WebsiteURL);
-// })
+let sites = JSON.parse(fs.readFileSync('./sites.json')).sites;
+// let sites = [];
+let agencies = JSON.parse(fs.readFileSync('./agencies.json')).Data;
+agencies.forEach(agency => {
+  sites.push(agency.WebsiteURL);
+})
 
 rockit()
   
 
-
-// review data collected, calculate perf, a11y from those results using refs.json

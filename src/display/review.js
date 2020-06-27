@@ -12,15 +12,6 @@ function calculatePerf(audit, url) {
       perfScore += audit.audits[ref.id].score * ref.weight;
     }
   })
-  if(url == 'https://alpha.ca.gov') {
-    refs.categories.performance.auditRefs.forEach(ref => {
-      if(ref.weight !== 0) {
-        console.log(ref)
-        console.log(audit.audits[ref.id]);
-      }
-    })  
-  }
-
   return perfScore;
 }
 function calculateA11y(audit, url) {
@@ -37,42 +28,58 @@ function calculateA11y(audit, url) {
   return parseInt((score/possible) * 100);
 }
 
-let sites = JSON.parse(fs.readFileSync('../sites.json')).sites;
-let agencies = JSON.parse(fs.readFileSync('../agencies.json')).Data;
-agencies.forEach(agency => {
-  sites.push(agency.WebsiteURL);
+function getDirectories(path) {
+  return fs.readdirSync(path).filter(function (file) {
+    return fs.statSync(path+'/'+file).isDirectory();
+  });
+}
+
+let dirPath = __dirname.replace('src/display','data');
+let dirs = getDirectories(dirPath);
+dirs.forEach(dir => {
+  let insideDirs = getDirectories(dirPath +'/'+ dir);
+  let lighthouse = null;
+  let readability = null;
+  insideDirs.forEach(insideDir => {
+    let filePath = dirPath +'/'+dir + '/' + insideDir;
+    console.log(filePath)
+    if(fs.existsSync(filePath+'/'+'readability.json')) {
+      console.log('found redability')
+      readability = fs.readFileSync(filePath+'/'+'readability.json','utf8');
+    }
+    if(fs.existsSync(filePath+'/'+'lighthouse.json')) {
+      console.log('found lighthouse')
+      lighthouse = fs.readFileSync(filePath+'/'+'lighthouse.json','utf8');
+    }
+  })
+  // console.log(lighthouse)
+  
+  if(readability && lighthouse) {
+    writeReport(readability, lighthouse)
+  }
+  // get latest date directory
+  // see if it has both lighthouse and readability.json
 })
 
-sites.forEach(url => {
-  let domain = url.split('//')[1].split('/')[0];
-  let reportObj = {};
-  reportObj.domain = domain;
-  reportObj.url = url;
-  let lighthouse = fs.existsSync(`../../data/${domain}/2020-6-22/lighthouse.json`);
-  let readFile = `../../data/${domain}/2020-6-22/readability.json`;
-  let readability = fs.existsSync(readFile);
+
+function writeReport(readInfo,lighthouse) {
+  
+  let reportObj = {};  
   let readScore;
-  if(readability) {
-    let readInfo = fs.readFileSync(readFile,'utf8')
-    if(readInfo !== 'undefined') {
-      readScore = JSON.parse(readInfo);
-      if(readScore) {
-        if(readScore.ari) {
-          reportObj.readability = readScore.ari;
-        }
-      }
+  readScore = JSON.parse(readInfo);
+  if(readScore) {
+    if(readScore.ari) {
+      reportObj.readability = readScore.ari;
     }
   }
-  if(lighthouse) {
-    let lightData = JSON.parse(fs.readFileSync(`../../data/${domain}/2020-6-22/lighthouse.json`,'utf8'))
-    reportObj.perf = calculatePerf(lightData, url);
-    reportObj.a11y = calculateA11y(lightData, url);
-  }
-  if(lighthouse && readScore) {
+  let lightData = JSON.parse(lighthouse);
+  reportObj.url = lightData.finalUrl;
+  reportObj.perf = calculatePerf(lightData, reportObj.url);
+  reportObj.a11y = calculateA11y(lightData, reportObj.url);
+  if(reportObj.perf && reportObj.a11y) {
     reports.push(reportObj)
   }
-
-})
+}
 
 fs.writeFileSync('./reports.json',JSON.stringify(reports),'utf8');
 

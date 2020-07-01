@@ -129,7 +129,7 @@ function calculateRead(score) {
 fetch('reports.json')
   .then(response => response.json())
   .then(data => {
-    let output = '<p>Scores are measured using lighthouse version 6 accessibility and performance audits and automated readability index of main content on site homepage for readability. Readability progress bar shows distance from target grade level 9 or lower. Improve rankings using lighthouse recommendations: <a href="https://web.dev/measure">https://web.dev/measure</a> or hemingway tips: <a href="https://hemingwayapp.com">https://hemingwayapp.com</a>. Next version will run audits repeatedly to get average performance rating and crawl deeper into site for more thorough reports.</p>';
+    let output = '<p>This leaderboard ranks sites on audits measuring accessibility, performance and readability. These metrics are useful as part of a user centered design process. The alpha team writes about all the priorities and processes that make up our approach <a href="https://github.com/cagov/covid19/wiki">here</a>. Scores are measured using lighthouse version 6 accessibility and performance audits and automated readability index of main content on site homepage for readability. Readability progress bar shows distance from target grade level 9 or lower. Improve rankings using lighthouse recommendations: <a href="https://web.dev/measure">https://web.dev/measure</a> or hemingway tips: <a href="https://hemingwayapp.com">https://hemingwayapp.com</a>. Next version will run audits repeatedly to get average performance rating and crawl deeper into site for more thorough reports.</p>';
     let rank = 1;
     data.sort(function(a,b) {
       let aScore = a.perf + a.a11y - a.readability;

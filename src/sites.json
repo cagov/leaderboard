@@ -1,6 +1,6 @@
 {
   "sites": [
-    "https://alpha.ca.gov/",
+		"https://alpha.ca.gov/",
     "https://digital.ca.gov/",
     "https://drought.ca.gov/",
     "https://headless.cannabis.ca.gov/",
@@ -11,7 +11,6 @@
     "https://cchcs.ca.gov/",
     "https://census.ca.gov/",
     "https://ceqanet.opr.ca.gov/",
-    "https://ceqasubmit.opr.ca.gov",
     "https://cfda.opr.ca.gov/",
     "https://climateassessment.ca.gov/",
     "https://code.ca.gov/",
@@ -21,7 +20,6 @@
     "https://covid19supplies.ca.gov/",
     "https://dashboard.cdt.ca.gov/",
     "https://data.ca.gov",
-    "https://findanewway.ca.gov/",
     "https://gis.data.ca.gov/",
     "https://green.ca.gov/",
     "https://handbook.data.ca.gov/",
@@ -107,7 +105,6 @@
     "https://www.counties.org/",
     "https://www.courtreportersboard.ca.gov/",
     "https://www.courts.ca.gov/",
-    "https://www.cdcr.ca.gov/ccjbh/",
     "https://www.treasurer.ca.gov/cdiac/",
     "https://www.treasurer.ca.gov/cdlac/",
     "http://delta.ca.gov/",
@@ -164,7 +161,7 @@
     "https://ohp.parks.ca.gov/",
     "http://www.chrb.ca.gov/",
     "https://bhgs.dca.ca.gov/",
-    "http://www.hcd.ca.gov/",
+    "https://www.hcd.ca.gov/",
     "https://www.calhfa.ca.gov/",
     "https://www.calhr.ca.gov/Pages/home.aspx",
     "https://www.calsilc.ca.gov/",
@@ -176,7 +173,6 @@
     "http://www.insurance.ca.gov/",
     "https://cjp.ca.gov/",
     "https://oag.ca.gov/",
-    "https://www.cdcr.ca.gov/juvenile-justice/juvenile-parole-board/",
     "https://www.labor.ca.gov/",
     "https://www.slc.ca.gov/",
     "https://www.latc.ca.gov/",
@@ -204,7 +200,6 @@
     "https://www.ombc.ca.gov/",
     "https://www.parks.ca.gov/commission",
     "https://www.parks.ca.gov",
-    "https://www.cdcr.ca.gov/bph/",
     "https://www.opa.ca.gov",
     "https://post.ca.gov/",
     "https://spb.ca.gov/",
@@ -224,7 +219,7 @@
     "https://www.calpers.ca.gov/",
     "https://perb.ca.gov/",
     "https://www.cdph.ca.gov/",
-    "http://www.cpuc.ca.gov/",
+    "https://www.cpuc.ca.gov/",
     "https://www.dre.ca.gov/",
     "https://www.cirm.ca.gov/",
     "https://www.rn.ca.gov/",
@@ -234,7 +229,7 @@
     "http://deltaconservancy.ca.gov/",
     "http://sdrc.ca.gov/",
     "https://www.bcdc.ca.gov/",
-    "http://www.rmc.ca.gov/",
+    "http://rmc.ca.gov/",
     "http://sjrc.ca.gov/",
     "https://smmc.ca.gov",
     "https://saveourwater.com/",
@@ -282,7 +277,7 @@
     "https://water.ca.gov",
     "https://wcb.ca.gov/",
     "https://www.dir.ca.gov/wcab/",
-    "https://cwdb.ca.gov"'
+    "https://cwdb.ca.gov/"
   ]
 }
 

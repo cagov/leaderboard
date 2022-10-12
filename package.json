@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "automated-readability": "^1.0.5",
-    "performance-leaderboard": "^3.0.2",
+    "performance-leaderboard": "^9.6.3",
     "puppeteer": "^4.0.0",
     "readability-scores": "^1.0.8",
     "request": "^2.88.2",

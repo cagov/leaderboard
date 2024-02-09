@@ -1,15 +1,13 @@
 # CA.gov sites leaderboard
 
-## V2 Latest version
+## V3, Feb. 2024
 
-Audit run using off the shelf speedlify against list of urls in src/sites.json
+Updated to the latest version of speedlify.
 
-Results file copied into this 11ty build
+## Run locally
 
-## V1 was a manual creation based on lighthouse and readability package scores of content extracted using unfluff
-
-Performance, a11y, readability audit results
-
-List of sites in ```src/agencies.json``` and ```src/sites.json```
-
-Audit results in ```data```
+```
+npm install
+npm run test-pages
+npm run start
+```

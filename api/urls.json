@@ -2107,19 +2107,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://water.ca.gov/": {
-    "requestedUrl": "https://water.ca.gov/",
-    "url": "https://water.ca.gov/",
-    "hash": "ebcdd7b2",
+  "https://www.opa.ca.gov/": {
+    "requestedUrl": "https://www.opa.ca.gov/",
+    "url": "https://www.opa.ca.gov/",
+    "hash": "ead0e600",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.opa.ca.gov/": {
-    "requestedUrl": "https://www.opa.ca.gov/",
-    "url": "https://www.opa.ca.gov/",
-    "hash": "ead0e600",
+  "https://water.ca.gov/": {
+    "requestedUrl": "https://water.ca.gov/",
+    "url": "https://water.ca.gov/",
+    "hash": "ebcdd7b2",
     "categories": [
       "cagov"
     ],

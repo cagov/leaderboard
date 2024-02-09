@@ -1,0 +1,67 @@
+{
+  "url": "https://fgc.ca.gov/",
+  "requestedUrl": "https://fgc.ca.gov/",
+  "timestamp": 1707434957832,
+  "ranks": {
+    "hundos": 193,
+    "performance": 199,
+    "accessibility": 147,
+    "cumulative": 193
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.33,
+    "accessibility": 0.94,
+    "bestPractices": 0.7,
+    "seo": 0.97,
+    "total": 294
+  },
+  "firstContentfulPaint": 10220.094000000001,
+  "firstMeaningfulPaint": 11220.852000000003,
+  "speedIndex": 10220.094000000001,
+  "largestContentfulPaint": 18935.869,
+  "totalBlockingTime": 186.5,
+  "cumulativeLayoutShift": 0.4423897324360229,
+  "timeToInteractive": 17063.37075,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 76.589,
+  "weight": {
+    "summary": "72 requests • 2.6 MiB",
+    "total": 2759892,
+    "image": 422978,
+    "imageCount": 16,
+    "script": 1586469,
+    "scriptCount": 28,
+    "document": 39495,
+    "font": 125733,
+    "fontCount": 3,
+    "stylesheet": 584018,
+    "stylesheetCount": 19,
+    "thirdParty": 470558,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 149,
+    "+weight.total": 111,
+    "-weight.document": 147,
+    "+weight.document": 113,
+    "-weight.script": 214,
+    "+weight.script": 44,
+    "-weight.image": 84,
+    "+weight.image": 174,
+    "-weight.font": 79,
+    "+weight.font": 141,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 121,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 219
+  },
+  "axe": {
+    "passes": 719,
+    "violations": 5
+  }
+}

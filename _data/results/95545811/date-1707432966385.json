@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ibank.ca.gov/",
+  "requestedUrl": "https://www.ibank.ca.gov/",
+  "timestamp": 1707435389751,
+  "ranks": {
+    "hundos": 242,
+    "performance": 231,
+    "accessibility": 234,
+    "cumulative": 242
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.26,
+    "accessibility": 0.84,
+    "bestPractices": 0.7,
+    "seo": 0.84,
+    "total": 264
+  },
+  "firstContentfulPaint": 3613.639,
+  "firstMeaningfulPaint": 3613.639,
+  "speedIndex": 21648.006077896982,
+  "largestContentfulPaint": 34859.06900000001,
+  "totalBlockingTime": 364.5,
+  "cumulativeLayoutShift": 0.7416595520230036,
+  "timeToInteractive": 38727.0005,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 2775.545,
+  "weight": {
+    "summary": "149 requests • 10.7 MiB",
+    "total": 11224149,
+    "image": 8913184,
+    "imageCount": 67,
+    "script": 857437,
+    "scriptCount": 34,
+    "document": 245866,
+    "font": 947291,
+    "fontCount": 11,
+    "stylesheet": 241044,
+    "stylesheetCount": 26,
+    "thirdParty": 733725,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 244,
+    "+weight.total": 16,
+    "-weight.document": 252,
+    "+weight.document": 8,
+    "-weight.script": 125,
+    "+weight.script": 133,
+    "-weight.image": 247,
+    "+weight.image": 11,
+    "-weight.font": 215,
+    "+weight.font": 5,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 252,
+    "-totalBlockingTime": 155,
+    "-largestContentfulPaint": 245
+  },
+  "axe": {
+    "passes": 1247,
+    "violations": 12
+  }
+}

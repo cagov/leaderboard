@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdss.ca.gov/",
+  "requestedUrl": "https://www.cdss.ca.gov/",
+  "timestamp": 1707436449943,
+  "ranks": {
+    "hundos": 247,
+    "performance": 197,
+    "accessibility": 124,
+    "cumulative": 247
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.33,
+    "accessibility": 0.96,
+    "bestPractices": 0.48,
+    "seo": 0.8,
+    "total": 257
+  },
+  "firstContentfulPaint": 4162.2649999999985,
+  "firstMeaningfulPaint": 4940.931249999999,
+  "speedIndex": 9556.508746036892,
+  "largestContentfulPaint": 8799.99725,
+  "totalBlockingTime": 1345.499999999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15997.517999999998,
+  "maxPotentialFirstInputDelay": 261,
+  "timeToFirstByte": 426.92299999999994,
+  "weight": {
+    "summary": "147 requests • 2.6 MiB",
+    "total": 2685561,
+    "image": 387018,
+    "imageCount": 45,
+    "script": 1813302,
+    "scriptCount": 49,
+    "document": 150780,
+    "font": 86402,
+    "fontCount": 5,
+    "stylesheet": 138583,
+    "stylesheetCount": 24,
+    "thirdParty": 2151734,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 145,
+    "+weight.total": 115,
+    "-weight.document": 233,
+    "+weight.document": 27,
+    "-weight.script": 230,
+    "+weight.script": 28,
+    "-weight.image": 76,
+    "+weight.image": 182,
+    "-weight.font": 44,
+    "+weight.font": 176,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 184,
+    "-totalBlockingTime": 219,
+    "-largestContentfulPaint": 118
+  },
+  "axe": {
+    "passes": 1970,
+    "violations": 123
+  }
+}

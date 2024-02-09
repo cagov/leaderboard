@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dir.ca.gov/chswc/",
+  "requestedUrl": "https://www.dir.ca.gov/chswc/",
+  "timestamp": 1707435134918,
+  "ranks": {
+    "hundos": 86,
+    "performance": 97,
+    "accessibility": 4,
+    "cumulative": 85
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.9,
+    "total": 334
+  },
+  "firstContentfulPaint": 2331.1070000000004,
+  "firstMeaningfulPaint": 4108.8045,
+  "speedIndex": 4934.983155557078,
+  "largestContentfulPaint": 3429.6759999999995,
+  "totalBlockingTime": 315.5,
+  "cumulativeLayoutShift": 0.7449425940377608,
+  "timeToInteractive": 9683.475000000002,
+  "maxPotentialFirstInputDelay": 164,
+  "timeToFirstByte": 184.37099999999998,
+  "weight": {
+    "summary": "53 requests • 1.2 MiB",
+    "total": 1231311,
+    "image": 155159,
+    "imageCount": 14,
+    "script": 732684,
+    "scriptCount": 16,
+    "document": 16370,
+    "font": 225416,
+    "fontCount": 7,
+    "stylesheet": 101083,
+    "stylesheetCount": 9,
+    "thirdParty": 1013526,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 52,
+    "+weight.total": 208,
+    "-weight.document": 57,
+    "+weight.document": 203,
+    "-weight.script": 103,
+    "+weight.script": 155,
+    "-weight.image": 38,
+    "+weight.image": 220,
+    "-weight.font": 128,
+    "+weight.font": 92,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 157,
+    "-totalBlockingTime": 140,
+    "-largestContentfulPaint": 28
+  },
+  "axe": {
+    "passes": 917,
+    "violations": 0
+  }
+}

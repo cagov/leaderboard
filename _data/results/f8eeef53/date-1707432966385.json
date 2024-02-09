@@ -1,0 +1,67 @@
+{
+  "url": "http://www.clrc.ca.gov/",
+  "requestedUrl": "http://www.clrc.ca.gov/",
+  "timestamp": 1707435502807,
+  "ranks": {
+    "hundos": 51,
+    "performance": 14,
+    "accessibility": 108,
+    "cumulative": 51
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.91,
+    "accessibility": 0.97,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 345
+  },
+  "firstContentfulPaint": 2233.7622,
+  "firstMeaningfulPaint": 2233.7622,
+  "speedIndex": 2233.7622,
+  "largestContentfulPaint": 3181.9817999999996,
+  "totalBlockingTime": 7.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2233.7622,
+  "maxPotentialFirstInputDelay": 39.5,
+  "timeToFirstByte": 20.174000000000007,
+  "weight": {
+    "summary": "30 requests • 224.3 KiB",
+    "total": 229706,
+    "image": 96374,
+    "imageCount": 12,
+    "script": 64265,
+    "scriptCount": 4,
+    "document": 27741,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 40432,
+    "stylesheetCount": 7,
+    "thirdParty": 66076,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 253,
+    "-weight.document": 82,
+    "+weight.document": 178,
+    "-weight.script": 11,
+    "+weight.script": 247,
+    "-weight.image": 24,
+    "+weight.image": 234,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 21
+  },
+  "axe": {
+    "passes": 270,
+    "violations": 5
+  }
+}

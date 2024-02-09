@@ -1,0 +1,67 @@
+{
+  "url": "https://www.speechandhearing.ca.gov/",
+  "requestedUrl": "https://www.speechandhearing.ca.gov/",
+  "timestamp": 1707436458771,
+  "ranks": {
+    "hundos": 64,
+    "performance": 42,
+    "accessibility": 69,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.71,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 341
+  },
+  "firstContentfulPaint": 1840.2145,
+  "firstMeaningfulPaint": 2976.3615,
+  "speedIndex": 3032.971163564314,
+  "largestContentfulPaint": 8306.5985,
+  "totalBlockingTime": 187.5,
+  "cumulativeLayoutShift": 0.00174622240136329,
+  "timeToInteractive": 5803.994499999999,
+  "maxPotentialFirstInputDelay": 223,
+  "timeToFirstByte": 24.294999999999987,
+  "weight": {
+    "summary": "63 requests • 1.6 MiB",
+    "total": 1705198,
+    "image": 1140773,
+    "imageCount": 35,
+    "script": 507068,
+    "scriptCount": 14,
+    "document": 34322,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 22553,
+    "stylesheetCount": 9,
+    "thirdParty": 477733,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 85,
+    "+weight.total": 175,
+    "-weight.document": 119,
+    "+weight.document": 141,
+    "-weight.script": 63,
+    "+weight.script": 195,
+    "-weight.image": 151,
+    "+weight.image": 107,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 36,
+    "-totalBlockingTime": 97,
+    "-largestContentfulPaint": 105
+  },
+  "axe": {
+    "passes": 461,
+    "violations": 19
+  }
+}

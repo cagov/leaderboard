@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdfa.ca.gov/",
+  "requestedUrl": "https://www.cdfa.ca.gov/",
+  "timestamp": 1707434984552,
+  "ranks": {
+    "hundos": 174,
+    "performance": 162,
+    "accessibility": 133,
+    "cumulative": 174
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.41,
+    "accessibility": 0.95,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 301
+  },
+  "firstContentfulPaint": 3242.7619999999997,
+  "firstMeaningfulPaint": 4043.1074999999996,
+  "speedIndex": 9209.541719308225,
+  "largestContentfulPaint": 6815.741999999999,
+  "totalBlockingTime": 455,
+  "cumulativeLayoutShift": 0.20204380650096723,
+  "timeToInteractive": 20336.281499999997,
+  "maxPotentialFirstInputDelay": 241,
+  "timeToFirstByte": 29.29400000000001,
+  "weight": {
+    "summary": "140 requests • 3.6 MiB",
+    "total": 3763022,
+    "image": 1719273,
+    "imageCount": 81,
+    "script": 1580413,
+    "scriptCount": 26,
+    "document": 108418,
+    "font": 179017,
+    "fontCount": 6,
+    "stylesheet": 132830,
+    "stylesheetCount": 11,
+    "thirdParty": 1808691,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 184,
+    "+weight.total": 76,
+    "-weight.document": 221,
+    "+weight.document": 39,
+    "-weight.script": 212,
+    "+weight.script": 46,
+    "-weight.image": 180,
+    "+weight.image": 78,
+    "-weight.font": 111,
+    "+weight.font": 109,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 57,
+    "-totalBlockingTime": 170,
+    "-largestContentfulPaint": 83
+  },
+  "axe": {
+    "passes": 1524,
+    "violations": 5
+  }
+}

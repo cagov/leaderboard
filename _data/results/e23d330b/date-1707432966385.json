@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dgs.ca.gov/ccda",
+  "requestedUrl": "https://www.dgs.ca.gov/ccda",
+  "timestamp": 1707434645418,
+  "ranks": {
+    "hundos": 97,
+    "performance": 105,
+    "accessibility": 118,
+    "cumulative": 97
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 0.89,
+    "total": 330
+  },
+  "firstContentfulPaint": 1766.4505000000004,
+  "firstMeaningfulPaint": 2957.2090000000007,
+  "speedIndex": 7117.112808209318,
+  "largestContentfulPaint": 12176.597500000003,
+  "totalBlockingTime": 123,
+  "cumulativeLayoutShift": 0.28750868644687083,
+  "timeToInteractive": 10709.751500000002,
+  "maxPotentialFirstInputDelay": 168,
+  "timeToFirstByte": 290.076,
+  "weight": {
+    "summary": "44 requests • 2.3 MiB",
+    "total": 2381490,
+    "image": 1688867,
+    "imageCount": 12,
+    "script": 529310,
+    "scriptCount": 14,
+    "document": 12349,
+    "font": 92704,
+    "fontCount": 7,
+    "stylesheet": 57998,
+    "stylesheetCount": 8,
+    "thirdParty": 413573,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 124,
+    "+weight.total": 136,
+    "-weight.document": 38,
+    "+weight.document": 222,
+    "-weight.script": 68,
+    "+weight.script": 190,
+    "-weight.image": 178,
+    "+weight.image": 80,
+    "-weight.font": 46,
+    "+weight.font": 174,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 168,
+    "-totalBlockingTime": 60,
+    "-largestContentfulPaint": 165
+  },
+  "axe": {
+    "passes": 7,
+    "violations": 3
+  }
+}

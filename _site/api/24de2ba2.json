@@ -1,0 +1,67 @@
+{
+  "url": "https://edd.ca.gov/",
+  "requestedUrl": "https://edd.ca.gov/",
+  "timestamp": 1707434751028,
+  "ranks": {
+    "hundos": 146,
+    "performance": 117,
+    "accessibility": 55,
+    "cumulative": 146
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.49,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.89,
+    "total": 312
+  },
+  "firstContentfulPaint": 5061.956,
+  "firstMeaningfulPaint": 5958.7665,
+  "speedIndex": 7602.775754605291,
+  "largestContentfulPaint": 12383.849000000002,
+  "totalBlockingTime": 175.5,
+  "cumulativeLayoutShift": 0.15939982327630528,
+  "timeToInteractive": 13744.6705,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 55.06399999999999,
+  "weight": {
+    "summary": "46 requests • 2.7 MiB",
+    "total": 2852025,
+    "image": 1254737,
+    "imageCount": 14,
+    "script": 817663,
+    "scriptCount": 17,
+    "document": 40003,
+    "font": 131691,
+    "fontCount": 2,
+    "stylesheet": 607208,
+    "stylesheetCount": 6,
+    "thirdParty": 602375,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 152,
+    "+weight.total": 108,
+    "-weight.document": 152,
+    "+weight.document": 108,
+    "-weight.script": 120,
+    "+weight.script": 138,
+    "-weight.image": 155,
+    "+weight.image": 103,
+    "-weight.font": 88,
+    "+weight.font": 132,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 106,
+    "-totalBlockingTime": 90,
+    "-largestContentfulPaint": 167
+  },
+  "axe": {
+    "passes": 838,
+    "violations": 7
+  }
+}

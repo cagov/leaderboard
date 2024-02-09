@@ -1,0 +1,67 @@
+{
+  "url": "https://www.counties.org/m",
+  "requestedUrl": "https://www.counties.org/",
+  "timestamp": 1707434480191,
+  "ranks": {
+    "hundos": 36,
+    "performance": 40,
+    "accessibility": 222,
+    "cumulative": 37
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.72,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 350
+  },
+  "firstContentfulPaint": 3872.0840000000007,
+  "firstMeaningfulPaint": 3930.0840000000007,
+  "speedIndex": 3872.0840000000007,
+  "largestContentfulPaint": 5024.7415,
+  "totalBlockingTime": 66,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4268.326,
+  "maxPotentialFirstInputDelay": 116,
+  "timeToFirstByte": 63.98199999999999,
+  "weight": {
+    "summary": "32 requests • 490.2 KiB",
+    "total": 501921,
+    "image": 74577,
+    "imageCount": 13,
+    "script": 305666,
+    "scriptCount": 10,
+    "document": 42251,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 79382,
+    "stylesheetCount": 6,
+    "thirdParty": 125437,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 243,
+    "-weight.document": 161,
+    "+weight.document": 99,
+    "-weight.script": 39,
+    "+weight.script": 219,
+    "-weight.image": 18,
+    "+weight.image": 240,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 114,
+    "-totalBlockingTime": 30,
+    "-largestContentfulPaint": 54
+  },
+  "axe": {
+    "passes": 1793,
+    "violations": 170
+  }
+}

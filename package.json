@@ -4,21 +4,30 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rm -rf _data/results/* && rm -rf .log && rm -rf _site",
+    "test-pages": "node run-tests",
+    "build": "npx @11ty/eleventy --quiet",
+    "start": "npx @11ty/eleventy --quiet --serve",
+    "zip-results": "node zip-results.js",
+    "build-production": "npm run test-pages && npm run build && npm run zip-results"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "performance",
+    "lighthouse"
+  ],
+  "license": "MIT",
   "dependencies": {
-    "automated-readability": "^1.0.5",
-    "performance-leaderboard": "^3.0.2",
-    "puppeteer": "^4.0.0",
-    "readability-scores": "^1.0.8",
-    "request": "^2.88.2",
-    "text-readability": "^1.0.5",
-    "unfluff": "^3.2.0"
-  },
-  "devDependencies": {
-    "express": "^4.17.1"
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-fetch": "^4.0.0",
+    "byte-size": "^8.1.1",
+    "chartist": "^0.11.4",
+    "cross-zip": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "fast-glob": "^3.2.12",
+    "lodash": "^4.17.21",
+    "performance-leaderboard": "^11.0.0",
+    "puppeteer": "^21.3.1",
+    "short-hash": "^1.0.0",
+    "speedlify-score": "^4.0.1"
   }
 }

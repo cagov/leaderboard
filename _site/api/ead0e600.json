@@ -1,0 +1,67 @@
+{
+  "url": "https://www.opa.ca.gov/",
+  "requestedUrl": "https://www.opa.ca.gov/",
+  "timestamp": 1707435845693,
+  "ranks": {
+    "hundos": 147,
+    "performance": 143,
+    "accessibility": 154,
+    "cumulative": 147
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.94,
+    "bestPractices": 0.85,
+    "seo": 0.89,
+    "total": 312
+  },
+  "firstContentfulPaint": 3428.0729999999994,
+  "firstMeaningfulPaint": 3533.2999999999997,
+  "speedIndex": 8894.797910066362,
+  "largestContentfulPaint": 4695.93,
+  "totalBlockingTime": 232,
+  "cumulativeLayoutShift": 0.46141750241102436,
+  "timeToInteractive": 14674.589000000002,
+  "maxPotentialFirstInputDelay": 189,
+  "timeToFirstByte": 451.29799999999994,
+  "weight": {
+    "summary": "72 requests • 2.3 MiB",
+    "total": 2361320,
+    "image": 944044,
+    "imageCount": 16,
+    "script": 1085203,
+    "scriptCount": 38,
+    "document": 132495,
+    "font": 50173,
+    "fontCount": 1,
+    "stylesheet": 148521,
+    "stylesheetCount": 11,
+    "thirdParty": 958157,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 123,
+    "+weight.total": 137,
+    "-weight.document": 228,
+    "+weight.document": 32,
+    "-weight.script": 180,
+    "+weight.script": 78,
+    "-weight.image": 139,
+    "+weight.image": 119,
+    "-weight.font": 14,
+    "+weight.font": 206,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 188,
+    "-totalBlockingTime": 112,
+    "-largestContentfulPaint": 51
+  },
+  "axe": {
+    "passes": 970,
+    "violations": 27
+  }
+}

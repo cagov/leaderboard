@@ -1,0 +1,67 @@
+{
+  "url": "https://www.treasurer.ca.gov/cpcfa/",
+  "requestedUrl": "https://www.treasurer.ca.gov/cpcfa/",
+  "timestamp": 1707436003496,
+  "ranks": {
+    "hundos": 57,
+    "performance": 47,
+    "accessibility": 70,
+    "cumulative": 57
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.7,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 343
+  },
+  "firstContentfulPaint": 855.2355,
+  "firstMeaningfulPaint": 855.2355,
+  "speedIndex": 4828.189376542515,
+  "largestContentfulPaint": 3634.009500000001,
+  "totalBlockingTime": 194.50000000000023,
+  "cumulativeLayoutShift": 0.2713981103387695,
+  "timeToInteractive": 8270.172999999999,
+  "maxPotentialFirstInputDelay": 189,
+  "timeToFirstByte": 45.20400000000001,
+  "weight": {
+    "summary": "54 requests • 860.7 KiB",
+    "total": 881308,
+    "image": 193649,
+    "imageCount": 23,
+    "script": 565728,
+    "scriptCount": 20,
+    "document": 112376,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8302,
+    "stylesheetCount": 4,
+    "thirdParty": 655390,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 29,
+    "+weight.total": 231,
+    "-weight.document": 223,
+    "+weight.document": 37,
+    "-weight.script": 72,
+    "+weight.script": 186,
+    "-weight.image": 44,
+    "+weight.image": 214,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 89,
+    "-totalBlockingTime": 103,
+    "-largestContentfulPaint": 30
+  },
+  "axe": {
+    "passes": 332,
+    "violations": 20
+  }
+}

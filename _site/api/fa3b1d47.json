@@ -1,0 +1,67 @@
+{
+  "url": "https://unemployment.edd.ca.gov/",
+  "requestedUrl": "https://unemployment.edd.ca.gov/",
+  "timestamp": 1707433733907,
+  "ranks": {
+    "hundos": 28,
+    "performance": 26,
+    "accessibility": 128,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.81,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.89,
+    "total": 358
+  },
+  "firstContentfulPaint": 1916.3319999999999,
+  "firstMeaningfulPaint": 2863.1569999999997,
+  "speedIndex": 1916.3319999999999,
+  "largestContentfulPaint": 3804.974,
+  "totalBlockingTime": 296.3454999999999,
+  "cumulativeLayoutShift": 0.0007278416928709603,
+  "timeToInteractive": 4947.173500000001,
+  "maxPotentialFirstInputDelay": 272,
+  "timeToFirstByte": 27.572000000000003,
+  "weight": {
+    "summary": "37 requests • 445.0 KiB",
+    "total": 455720,
+    "image": 29297,
+    "imageCount": 15,
+    "script": 356882,
+    "scriptCount": 4,
+    "document": 1406,
+    "font": 30232,
+    "fontCount": 2,
+    "stylesheet": 25196,
+    "stylesheetCount": 2,
+    "thirdParty": 188108,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 16,
+    "+weight.total": 244,
+    "-weight.document": 1,
+    "+weight.document": 259,
+    "-weight.script": 43,
+    "+weight.script": 215,
+    "-weight.image": 7,
+    "+weight.image": 251,
+    "-weight.font": 7,
+    "+weight.font": 213,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 48,
+    "-totalBlockingTime": 134,
+    "-largestContentfulPaint": 35
+  },
+  "axe": {
+    "passes": 446,
+    "violations": 2
+  }
+}

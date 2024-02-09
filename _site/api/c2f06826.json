@@ -1,0 +1,67 @@
+{
+  "url": "https://osfm.fire.ca.gov/",
+  "requestedUrl": "https://osfm.fire.ca.gov/",
+  "timestamp": 1707436471830,
+  "ranks": {
+    "hundos": 175,
+    "performance": 129,
+    "accessibility": 82,
+    "cumulative": 173
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.99,
+    "bestPractices": 0.59,
+    "seo": 0.97,
+    "total": 301
+  },
+  "firstContentfulPaint": 2467.206,
+  "firstMeaningfulPaint": 4131.772000000001,
+  "speedIndex": 8499.235180695874,
+  "largestContentfulPaint": 6697.6810000000005,
+  "totalBlockingTime": 813.5,
+  "cumulativeLayoutShift": 0.012783847423108957,
+  "timeToInteractive": 19337.607,
+  "maxPotentialFirstInputDelay": 248,
+  "timeToFirstByte": 31.578000000000003,
+  "weight": {
+    "summary": "80 requests • 4.0 MiB",
+    "total": 4234517,
+    "image": 2260823,
+    "imageCount": 23,
+    "script": 1633018,
+    "scriptCount": 24,
+    "document": 55634,
+    "font": 101408,
+    "fontCount": 6,
+    "stylesheet": 135269,
+    "stylesheetCount": 5,
+    "thirdParty": 3971555,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 198,
+    "+weight.total": 62,
+    "-weight.document": 185,
+    "+weight.document": 75,
+    "-weight.script": 216,
+    "+weight.script": 42,
+    "-weight.image": 198,
+    "+weight.image": 60,
+    "-weight.font": 51,
+    "+weight.font": 169,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 60,
+    "-totalBlockingTime": 203,
+    "-largestContentfulPaint": 76
+  },
+  "axe": {
+    "passes": 726,
+    "violations": 2
+  }
+}

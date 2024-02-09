@@ -1,0 +1,67 @@
+{
+  "url": "https://handbook.data.ca.gov/",
+  "requestedUrl": "https://handbook.data.ca.gov/",
+  "timestamp": 1707433354885,
+  "ranks": {
+    "hundos": 69,
+    "performance": 165,
+    "accessibility": 42,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 340
+  },
+  "firstContentfulPaint": 2195.424,
+  "firstMeaningfulPaint": 4751.1105,
+  "speedIndex": 5295.856542451607,
+  "largestContentfulPaint": 7145.424,
+  "totalBlockingTime": 323.5,
+  "cumulativeLayoutShift": 0.6566125905097145,
+  "timeToInteractive": 9327.046499999999,
+  "maxPotentialFirstInputDelay": 167,
+  "timeToFirstByte": 307.16499999999996,
+  "weight": {
+    "summary": "42 requests • 1.2 MiB",
+    "total": 1246222,
+    "image": 121997,
+    "imageCount": 5,
+    "script": 584891,
+    "scriptCount": 17,
+    "document": 27182,
+    "font": 366398,
+    "fontCount": 4,
+    "stylesheet": 144962,
+    "stylesheetCount": 9,
+    "thirdParty": 458338,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 53,
+    "+weight.total": 207,
+    "-weight.document": 80,
+    "+weight.document": 180,
+    "-weight.script": 73,
+    "+weight.script": 185,
+    "-weight.image": 30,
+    "+weight.image": 228,
+    "-weight.font": 162,
+    "+weight.font": 58,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 170,
+    "-totalBlockingTime": 143,
+    "-largestContentfulPaint": 85
+  },
+  "axe": {
+    "passes": 177,
+    "violations": 3
+  }
+}

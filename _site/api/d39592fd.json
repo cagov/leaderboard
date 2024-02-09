@@ -1,0 +1,67 @@
+{
+  "url": "https://calepa.ca.gov/",
+  "requestedUrl": "https://calepa.ca.gov/",
+  "timestamp": 1707434819431,
+  "ranks": {
+    "hundos": 211,
+    "performance": 238,
+    "accessibility": 66,
+    "cumulative": 210
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.22,
+    "accessibility": 1,
+    "bestPractices": 0.67,
+    "seo": 0.95,
+    "total": 284
+  },
+  "firstContentfulPaint": 2847.7209999999995,
+  "firstMeaningfulPaint": 3489.8769999999995,
+  "speedIndex": 16156.460130324513,
+  "largestContentfulPaint": 36439.641499999976,
+  "totalBlockingTime": 593.5,
+  "cumulativeLayoutShift": 0.8671381416741227,
+  "timeToInteractive": 30053.464999999993,
+  "maxPotentialFirstInputDelay": 224,
+  "timeToFirstByte": 1200.213,
+  "weight": {
+    "summary": "124 requests • 7.5 MiB",
+    "total": 7825431,
+    "image": 5811798,
+    "imageCount": 28,
+    "script": 1392728,
+    "scriptCount": 51,
+    "document": 33132,
+    "font": 397950,
+    "fontCount": 10,
+    "stylesheet": 191158,
+    "stylesheetCount": 22,
+    "thirdParty": 1267491,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 226,
+    "+weight.total": 34,
+    "-weight.document": 111,
+    "+weight.document": 149,
+    "-weight.script": 204,
+    "+weight.script": 54,
+    "-weight.image": 234,
+    "+weight.image": 24,
+    "-weight.font": 171,
+    "+weight.font": 49,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 239,
+    "-totalBlockingTime": 185,
+    "-largestContentfulPaint": 246
+  },
+  "axe": {
+    "passes": 49,
+    "violations": 9
+  }
+}

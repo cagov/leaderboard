@@ -1,0 +1,67 @@
+{
+  "url": "https://bhgs.dca.ca.gov/",
+  "requestedUrl": "https://bhgs.dca.ca.gov/",
+  "timestamp": 1707435279159,
+  "ranks": {
+    "hundos": 40,
+    "performance": 51,
+    "accessibility": 135,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.68,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 348
+  },
+  "firstContentfulPaint": 2398.0809999999997,
+  "firstMeaningfulPaint": 3135.0609999999997,
+  "speedIndex": 4527.7399289691875,
+  "largestContentfulPaint": 10357.7385,
+  "totalBlockingTime": 131,
+  "cumulativeLayoutShift": 0.0002459107760039804,
+  "timeToInteractive": 8739.5765,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 45.36099999999996,
+  "weight": {
+    "summary": "52 requests • 1.6 MiB",
+    "total": 1625339,
+    "image": 587523,
+    "imageCount": 25,
+    "script": 768505,
+    "scriptCount": 17,
+    "document": 27942,
+    "font": 64281,
+    "fontCount": 1,
+    "stylesheet": 176619,
+    "stylesheetCount": 4,
+    "thirdParty": 691968,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 80,
+    "+weight.total": 180,
+    "-weight.document": 84,
+    "+weight.document": 176,
+    "-weight.script": 111,
+    "+weight.script": 147,
+    "-weight.image": 99,
+    "+weight.image": 159,
+    "-weight.font": 22,
+    "+weight.font": 198,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 91,
+    "-totalBlockingTime": 67,
+    "-largestContentfulPaint": 145
+  },
+  "axe": {
+    "passes": 858,
+    "violations": 10
+  }
+}

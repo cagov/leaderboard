@@ -1,0 +1,67 @@
+{
+  "url": "https://www.statefundca.com/?WT.svl=5",
+  "requestedUrl": "https://www.statefundca.com/?WT.svl=5",
+  "timestamp": 1707434366605,
+  "ranks": {
+    "hundos": 126,
+    "performance": 60,
+    "accessibility": 112,
+    "cumulative": 125
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.66,
+    "accessibility": 0.96,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 322
+  },
+  "firstContentfulPaint": 1074.6249999999998,
+  "firstMeaningfulPaint": 1110.6249999999998,
+  "speedIndex": 7383.82213310047,
+  "largestContentfulPaint": 3720.5199999999995,
+  "totalBlockingTime": 639.9999999999995,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15323.5905,
+  "maxPotentialFirstInputDelay": 431.9999999999982,
+  "timeToFirstByte": 69.761,
+  "weight": {
+    "summary": "81 requests • 2.2 MiB",
+    "total": 2330131,
+    "image": 375211,
+    "imageCount": 24,
+    "script": 1761592,
+    "scriptCount": 26,
+    "document": 13731,
+    "font": 116613,
+    "fontCount": 6,
+    "stylesheet": 41062,
+    "stylesheetCount": 6,
+    "thirdParty": 1738799,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 121,
+    "+weight.total": 139,
+    "-weight.document": 46,
+    "+weight.document": 214,
+    "-weight.script": 226,
+    "+weight.script": 32,
+    "-weight.image": 74,
+    "+weight.image": 184,
+    "-weight.font": 73,
+    "+weight.font": 147,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 117,
+    "-totalBlockingTime": 193,
+    "-largestContentfulPaint": 32
+  },
+  "axe": {
+    "passes": 828,
+    "violations": 2
+  }
+}

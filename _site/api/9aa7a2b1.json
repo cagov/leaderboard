@@ -1,0 +1,67 @@
+{
+  "url": "https://www.treasurer.ca.gov/cefa/",
+  "requestedUrl": "https://www.treasurer.ca.gov/cefa/",
+  "timestamp": 1707434706929,
+  "ranks": {
+    "hundos": 152,
+    "performance": 34,
+    "accessibility": 77,
+    "cumulative": 153
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.76,
+    "accessibility": 1,
+    "bestPractices": 0.56,
+    "seo": 0.77,
+    "total": 309
+  },
+  "firstContentfulPaint": 1687.433,
+  "firstMeaningfulPaint": 1687.433,
+  "speedIndex": 5014.157057958791,
+  "largestContentfulPaint": 3360.6439999999993,
+  "totalBlockingTime": 285.5,
+  "cumulativeLayoutShift": 0.1443268325302166,
+  "timeToInteractive": 8442.691499999999,
+  "maxPotentialFirstInputDelay": 188,
+  "timeToFirstByte": 57.08699999999999,
+  "weight": {
+    "summary": "93 requests • 1.2 MiB",
+    "total": 1294828,
+    "image": 564830,
+    "imageCount": 55,
+    "script": 635278,
+    "scriptCount": 21,
+    "document": 12473,
+    "font": 22751,
+    "fontCount": 2,
+    "stylesheet": 58591,
+    "stylesheetCount": 8,
+    "thirdParty": 959729,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 56,
+    "+weight.total": 204,
+    "-weight.document": 39,
+    "+weight.document": 221,
+    "-weight.script": 86,
+    "+weight.script": 172,
+    "-weight.image": 97,
+    "+weight.image": 161,
+    "-weight.font": 4,
+    "+weight.font": 216,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 109,
+    "-totalBlockingTime": 131,
+    "-largestContentfulPaint": 27
+  },
+  "axe": {
+    "passes": 557,
+    "violations": 40
+  }
+}

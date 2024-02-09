@@ -1,0 +1,67 @@
+{
+  "url": "http://www.chrb.ca.gov/",
+  "requestedUrl": "http://www.chrb.ca.gov/",
+  "timestamp": 1707435269579,
+  "ranks": {
+    "hundos": 232,
+    "performance": 193,
+    "accessibility": 229,
+    "cumulative": 234
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.34,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.81,
+    "total": 270
+  },
+  "firstContentfulPaint": 4436.64,
+  "firstMeaningfulPaint": 5471.700000000001,
+  "speedIndex": 8521.666757391775,
+  "largestContentfulPaint": 18904.08,
+  "totalBlockingTime": 113.49999999999955,
+  "cumulativeLayoutShift": 0.753729408256699,
+  "timeToInteractive": 15410.748450000005,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 51.187,
+  "weight": {
+    "summary": "86 requests • 3.3 MiB",
+    "total": 3473494,
+    "image": 2033103,
+    "imageCount": 46,
+    "script": 764025,
+    "scriptCount": 7,
+    "document": 54096,
+    "font": 110033,
+    "fontCount": 3,
+    "stylesheet": 511264,
+    "stylesheetCount": 3,
+    "thirdParty": 804928,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 174,
+    "+weight.total": 86,
+    "-weight.document": 182,
+    "+weight.document": 78,
+    "-weight.script": 107,
+    "+weight.script": 151,
+    "-weight.image": 192,
+    "+weight.image": 66,
+    "-weight.font": 65,
+    "+weight.font": 155,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 101,
+    "-totalBlockingTime": 52,
+    "-largestContentfulPaint": 218
+  },
+  "axe": {
+    "passes": 899,
+    "violations": 26
+  }
+}

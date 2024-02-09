@@ -1,0 +1,67 @@
+{
+  "url": "https://cwc.ca.gov/",
+  "requestedUrl": "https://cwc.ca.gov/",
+  "timestamp": 1707436906277,
+  "ranks": {
+    "hundos": 73,
+    "performance": 63,
+    "accessibility": 196,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.89,
+    "total": 339
+  },
+  "firstContentfulPaint": 2374.666,
+  "firstMeaningfulPaint": 3430.9680000000003,
+  "speedIndex": 4381.85562056709,
+  "largestContentfulPaint": 7134.0419999999995,
+  "totalBlockingTime": 7.5,
+  "cumulativeLayoutShift": 0.15008923147023087,
+  "timeToInteractive": 5193.093,
+  "maxPotentialFirstInputDelay": 57.5,
+  "timeToFirstByte": 911.494,
+  "weight": {
+    "summary": "22 requests • 891.7 KiB",
+    "total": 913080,
+    "image": 590804,
+    "imageCount": 3,
+    "script": 131889,
+    "scriptCount": 9,
+    "document": 12272,
+    "font": 83813,
+    "fontCount": 3,
+    "stylesheet": 94302,
+    "stylesheetCount": 6,
+    "thirdParty": 65432,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 31,
+    "+weight.total": 229,
+    "-weight.document": 36,
+    "+weight.document": 224,
+    "-weight.script": 15,
+    "+weight.script": 243,
+    "-weight.image": 101,
+    "+weight.image": 157,
+    "-weight.font": 41,
+    "+weight.font": 179,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 227,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 84
+  },
+  "axe": {
+    "passes": 512,
+    "violations": 8
+  }
+}

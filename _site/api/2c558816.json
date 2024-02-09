@@ -1,0 +1,20 @@
+{
+  "url": "https://covid-19hub.govops.ca.gov/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 260,
+    "+weight.total": 260,
+    "-weight.document": 260,
+    "+weight.document": 260,
+    "-weight.script": 258,
+    "+weight.script": 258,
+    "-weight.image": 258,
+    "+weight.image": 258,
+    "-weight.font": 220,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 260,
+    "-totalBlockingTime": 237,
+    "-largestContentfulPaint": 260
+  }
+}

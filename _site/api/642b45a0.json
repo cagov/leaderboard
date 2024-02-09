@@ -1,0 +1,67 @@
+{
+  "url": "https://sierranevada.ca.gov/",
+  "requestedUrl": "https://sierranevada.ca.gov/",
+  "timestamp": 1707436435054,
+  "ranks": {
+    "hundos": 162,
+    "performance": 223,
+    "accessibility": 171,
+    "cumulative": 162
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.28,
+    "accessibility": 0.92,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 306
+  },
+  "firstContentfulPaint": 3290.5875,
+  "firstMeaningfulPaint": 7891.5875,
+  "speedIndex": 6971.546946693428,
+  "largestContentfulPaint": 11641.587499999998,
+  "totalBlockingTime": 526,
+  "cumulativeLayoutShift": 0.5086301979135516,
+  "timeToInteractive": 11162.801,
+  "maxPotentialFirstInputDelay": 190,
+  "timeToFirstByte": 1069.472,
+  "weight": {
+    "summary": "99 requests • 2.4 MiB",
+    "total": 2497074,
+    "image": 622653,
+    "imageCount": 11,
+    "script": 981785,
+    "scriptCount": 38,
+    "document": 43618,
+    "font": 630317,
+    "fontCount": 11,
+    "stylesheet": 218001,
+    "stylesheetCount": 30,
+    "thirdParty": 917008,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 133,
+    "+weight.total": 127,
+    "-weight.document": 165,
+    "+weight.document": 95,
+    "-weight.script": 165,
+    "+weight.script": 93,
+    "-weight.image": 108,
+    "+weight.image": 150,
+    "-weight.font": 196,
+    "+weight.font": 24,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 235,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 157
+  },
+  "axe": {
+    "passes": 754,
+    "violations": 5
+  }
+}

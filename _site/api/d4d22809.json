@@ -1,0 +1,67 @@
+{
+  "url": "https://www.caloes.ca.gov/",
+  "requestedUrl": "https://response.ca.gov/",
+  "timestamp": 1707433577012,
+  "ranks": {
+    "hundos": 182,
+    "performance": 224,
+    "accessibility": 25,
+    "cumulative": 180
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.28,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.92,
+    "total": 298
+  },
+  "firstContentfulPaint": 4629.1345,
+  "firstMeaningfulPaint": 4629.1345,
+  "speedIndex": 15243.553535401817,
+  "largestContentfulPaint": 13532.629500000001,
+  "totalBlockingTime": 226,
+  "cumulativeLayoutShift": 0.9329390990659634,
+  "timeToInteractive": 16163.208500000004,
+  "maxPotentialFirstInputDelay": 180,
+  "timeToFirstByte": 4260.590999999999,
+  "weight": {
+    "summary": "113 requests • 2.9 MiB",
+    "total": 3086117,
+    "image": 1428239,
+    "imageCount": 21,
+    "script": 954654,
+    "scriptCount": 55,
+    "document": 30827,
+    "font": 399519,
+    "fontCount": 6,
+    "stylesheet": 271383,
+    "stylesheetCount": 21,
+    "thirdParty": 674607,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 160,
+    "+weight.total": 100,
+    "-weight.document": 100,
+    "+weight.document": 160,
+    "-weight.script": 161,
+    "+weight.script": 97,
+    "-weight.image": 164,
+    "+weight.image": 94,
+    "-weight.font": 174,
+    "+weight.font": 46,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 257,
+    "-totalBlockingTime": 111,
+    "-largestContentfulPaint": 181
+  },
+  "axe": {
+    "passes": 811,
+    "violations": 2
+  }
+}

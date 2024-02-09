@@ -1,6 +1,5 @@
 node_modules
 .log
-_site
 _data/results/*
 _data/results-last-runs.json
 package-lock.json

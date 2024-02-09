@@ -1,0 +1,67 @@
+{
+  "url": "https://www.vmb.ca.gov/",
+  "requestedUrl": "https://www.vmb.ca.gov/",
+  "timestamp": 1707436853884,
+  "ranks": {
+    "hundos": 160,
+    "performance": 182,
+    "accessibility": 130,
+    "cumulative": 160
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 306
+  },
+  "firstContentfulPaint": 4674.279000000001,
+  "firstMeaningfulPaint": 5008.1050000000005,
+  "speedIndex": 6214.065591229411,
+  "largestContentfulPaint": 8667.191,
+  "totalBlockingTime": 145.5,
+  "cumulativeLayoutShift": 0.7681451704090568,
+  "timeToInteractive": 11213.124750000003,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 23.345,
+  "weight": {
+    "summary": "54 requests • 2.5 MiB",
+    "total": 2633551,
+    "image": 889158,
+    "imageCount": 25,
+    "script": 1012952,
+    "scriptCount": 15,
+    "document": 62044,
+    "font": 219003,
+    "fontCount": 3,
+    "stylesheet": 449533,
+    "stylesheetCount": 6,
+    "thirdParty": 616096,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 139,
+    "+weight.total": 121,
+    "-weight.document": 195,
+    "+weight.document": 65,
+    "-weight.script": 170,
+    "+weight.script": 88,
+    "-weight.image": 133,
+    "+weight.image": 125,
+    "-weight.font": 121,
+    "+weight.font": 99,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 29,
+    "-totalBlockingTime": 82,
+    "-largestContentfulPaint": 114
+  },
+  "axe": {
+    "passes": 1143,
+    "violations": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://climateassessment.ca.gov/",
+  "requestedUrl": "https://climateassessment.ca.gov/",
+  "timestamp": 1707433152771,
+  "ranks": {
+    "hundos": 17,
+    "performance": 62,
+    "accessibility": 22,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 364
+  },
+  "firstContentfulPaint": 2574.736,
+  "firstMeaningfulPaint": 3206.0485,
+  "speedIndex": 3919.4488829830552,
+  "largestContentfulPaint": 10160.6735,
+  "totalBlockingTime": 42,
+  "cumulativeLayoutShift": 0.1337105627684324,
+  "timeToInteractive": 4485.51475,
+  "maxPotentialFirstInputDelay": 80,
+  "timeToFirstByte": 86.97199999999998,
+  "weight": {
+    "summary": "47 requests • 1.4 MiB",
+    "total": 1483706,
+    "image": 858641,
+    "imageCount": 13,
+    "script": 395344,
+    "scriptCount": 15,
+    "document": 40015,
+    "font": 78615,
+    "fontCount": 3,
+    "stylesheet": 110536,
+    "stylesheetCount": 13,
+    "thirdParty": 265554,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 69,
+    "+weight.total": 191,
+    "-weight.document": 153,
+    "+weight.document": 107,
+    "-weight.script": 49,
+    "+weight.script": 209,
+    "-weight.image": 131,
+    "+weight.image": 127,
+    "-weight.font": 32,
+    "+weight.font": 188,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 132,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 141
+  },
+  "axe": {
+    "passes": 267,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cuiab.ca.gov/",
+  "requestedUrl": "https://cuiab.ca.gov/",
+  "timestamp": 1707436749834,
+  "ranks": {
+    "hundos": 128,
+    "performance": 214,
+    "accessibility": 87,
+    "cumulative": 127
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.3,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 321
+  },
+  "firstContentfulPaint": 3800.2960000000003,
+  "firstMeaningfulPaint": 6299.2919999999995,
+  "speedIndex": 5917.011388211716,
+  "largestContentfulPaint": 7157.296,
+  "totalBlockingTime": 549,
+  "cumulativeLayoutShift": 0.4401628511806914,
+  "timeToInteractive": 9187.841499999999,
+  "maxPotentialFirstInputDelay": 195,
+  "timeToFirstByte": 116.07800000000003,
+  "weight": {
+    "summary": "76 requests • 2.1 MiB",
+    "total": 2175299,
+    "image": 773598,
+    "imageCount": 17,
+    "script": 831582,
+    "scriptCount": 26,
+    "document": 33469,
+    "font": 351382,
+    "fontCount": 3,
+    "stylesheet": 184603,
+    "stylesheetCount": 23,
+    "thirdParty": 694176,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 115,
+    "+weight.total": 145,
+    "-weight.document": 115,
+    "+weight.document": 145,
+    "-weight.script": 123,
+    "+weight.script": 135,
+    "-weight.image": 123,
+    "+weight.image": 135,
+    "-weight.font": 159,
+    "+weight.font": 61,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 147,
+    "-totalBlockingTime": 180,
+    "-largestContentfulPaint": 86
+  },
+  "axe": {
+    "passes": 858,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dir.ca.gov/wcab/",
+  "requestedUrl": "https://www.dir.ca.gov/wcab/",
+  "timestamp": 1707436951946,
+  "ranks": {
+    "hundos": 39,
+    "performance": 85,
+    "accessibility": 18,
+    "cumulative": 38
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.58,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 349
+  },
+  "firstContentfulPaint": 2110.9525000000003,
+  "firstMeaningfulPaint": 2268.5795000000003,
+  "speedIndex": 4672.31191469468,
+  "largestContentfulPaint": 3075.2225,
+  "totalBlockingTime": 363.5,
+  "cumulativeLayoutShift": 0.618781468653153,
+  "timeToInteractive": 8759.676,
+  "maxPotentialFirstInputDelay": 159,
+  "timeToFirstByte": 26.793000000000006,
+  "weight": {
+    "summary": "46 requests • 1,020.0 KiB",
+    "total": 1044526,
+    "image": 38325,
+    "imageCount": 10,
+    "script": 666354,
+    "scriptCount": 15,
+    "document": 14403,
+    "font": 225408,
+    "fontCount": 7,
+    "stylesheet": 99437,
+    "stylesheetCount": 7,
+    "thirdParty": 947004,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 39,
+    "+weight.total": 221,
+    "-weight.document": 49,
+    "+weight.document": 211,
+    "-weight.script": 94,
+    "+weight.script": 164,
+    "-weight.image": 9,
+    "+weight.image": 249,
+    "-weight.font": 127,
+    "+weight.font": 93,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 45,
+    "-totalBlockingTime": 154,
+    "-largestContentfulPaint": 18
+  },
+  "axe": {
+    "passes": 578,
+    "violations": 1
+  }
+}

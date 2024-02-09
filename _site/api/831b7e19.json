@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bppe.ca.gov/",
+  "requestedUrl": "https://www.bppe.ca.gov/",
+  "timestamp": 1707436066306,
+  "ranks": {
+    "hundos": 253,
+    "performance": 253,
+    "accessibility": 210,
+    "cumulative": 253
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.12,
+    "accessibility": 0.87,
+    "bestPractices": 0.52,
+    "seo": 0.98,
+    "total": 249
+  },
+  "firstContentfulPaint": 4629.33,
+  "firstMeaningfulPaint": 6267.17,
+  "speedIndex": 9626.860746517916,
+  "largestContentfulPaint": 10320.404999999999,
+  "totalBlockingTime": 1185.2100802307132,
+  "cumulativeLayoutShift": 0.5105222180888365,
+  "timeToInteractive": 27561.318000000007,
+  "maxPotentialFirstInputDelay": 246,
+  "timeToFirstByte": 20.700999999999993,
+  "weight": {
+    "summary": "162 requests • 4.7 MiB",
+    "total": 4886610,
+    "image": 1080666,
+    "imageCount": 54,
+    "script": 2896569,
+    "scriptCount": 59,
+    "document": 279292,
+    "font": 101956,
+    "fontCount": 7,
+    "stylesheet": 461906,
+    "stylesheetCount": 15,
+    "thirdParty": 3185544,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 206,
+    "+weight.total": 54,
+    "-weight.document": 254,
+    "+weight.document": 6,
+    "-weight.script": 251,
+    "+weight.script": 7,
+    "-weight.image": 149,
+    "+weight.image": 109,
+    "-weight.font": 52,
+    "+weight.font": 168,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 143
+  },
+  "axe": {
+    "passes": 1350,
+    "violations": 27
+  }
+}

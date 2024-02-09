@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ftb.ca.gov/",
+  "requestedUrl": "https://www.ftb.ca.gov/",
+  "timestamp": 1707435025621,
+  "ranks": {
+    "hundos": 45,
+    "performance": 104,
+    "accessibility": 10,
+    "cumulative": 45
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.98,
+    "total": 346
+  },
+  "firstContentfulPaint": 2176.333,
+  "firstMeaningfulPaint": 4493.284,
+  "speedIndex": 5136.270031295939,
+  "largestContentfulPaint": 10866.130999999998,
+  "totalBlockingTime": 178.5,
+  "cumulativeLayoutShift": 0.29449736835379664,
+  "timeToInteractive": 10590.215,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 22.474999999999994,
+  "weight": {
+    "summary": "60 requests • 1.3 MiB",
+    "total": 1402836,
+    "image": 340467,
+    "imageCount": 23,
+    "script": 688856,
+    "scriptCount": 19,
+    "document": 20388,
+    "font": 249660,
+    "fontCount": 3,
+    "stylesheet": 100373,
+    "stylesheetCount": 6,
+    "thirdParty": 511688,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 62,
+    "+weight.total": 198,
+    "-weight.document": 68,
+    "+weight.document": 192,
+    "-weight.script": 101,
+    "+weight.script": 157,
+    "-weight.image": 66,
+    "+weight.image": 192,
+    "-weight.font": 140,
+    "+weight.font": 80,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 23,
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 149
+  },
+  "axe": {
+    "passes": 539,
+    "violations": 0
+  }
+}

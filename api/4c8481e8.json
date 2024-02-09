@@ -1,0 +1,67 @@
+{
+  "url": "https://www.treasurer.ca.gov/pmia-laif/pmia/program.asp",
+  "requestedUrl": "https://www.treasurer.ca.gov/pmia-laif/pmia/program.asp",
+  "timestamp": 1707436029639,
+  "ranks": {
+    "hundos": 12,
+    "performance": 2,
+    "accessibility": 56,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 370
+  },
+  "firstContentfulPaint": 891.0430000000001,
+  "firstMeaningfulPaint": 891.0430000000001,
+  "speedIndex": 891.0430000000001,
+  "largestContentfulPaint": 1121.1950000000002,
+  "totalBlockingTime": 42.999999999999886,
+  "cumulativeLayoutShift": 0.021982312943624075,
+  "timeToInteractive": 1707.423,
+  "maxPotentialFirstInputDelay": 106.99999999999977,
+  "timeToFirstByte": 28.541999999999987,
+  "weight": {
+    "summary": "27 requests • 120.9 KiB",
+    "total": 123843,
+    "image": 62554,
+    "imageCount": 15,
+    "script": 48454,
+    "scriptCount": 4,
+    "document": 3931,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8308,
+    "stylesheetCount": 4,
+    "thirdParty": 28295,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 257,
+    "-weight.document": 5,
+    "+weight.document": 255,
+    "-weight.script": 7,
+    "+weight.script": 251,
+    "-weight.image": 16,
+    "+weight.image": 242,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 54,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 158,
+    "violations": 7
+  }
+}

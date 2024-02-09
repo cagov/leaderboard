@@ -1,0 +1,67 @@
+{
+  "url": "https://www.treasurer.ca.gov/scholarshare/",
+  "requestedUrl": "https://www.treasurer.ca.gov/scholarshare/",
+  "timestamp": 1707436327839,
+  "ranks": {
+    "hundos": 32,
+    "performance": 24,
+    "accessibility": 61,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 356
+  },
+  "firstContentfulPaint": 1018.0320000000002,
+  "firstMeaningfulPaint": 1018.0320000000002,
+  "speedIndex": 1982.4620757128218,
+  "largestContentfulPaint": 3795.214,
+  "totalBlockingTime": 28,
+  "cumulativeLayoutShift": 0.14282294669449389,
+  "timeToInteractive": 4117.292,
+  "maxPotentialFirstInputDelay": 106,
+  "timeToFirstByte": 55.337999999999994,
+  "weight": {
+    "summary": "51 requests • 619.4 KiB",
+    "total": 634292,
+    "image": 570243,
+    "imageCount": 36,
+    "script": 50327,
+    "scriptCount": 6,
+    "document": 4264,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8866,
+    "stylesheetCount": 5,
+    "thirdParty": 28700,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 238,
+    "-weight.document": 7,
+    "+weight.document": 253,
+    "-weight.script": 9,
+    "+weight.script": 249,
+    "-weight.image": 98,
+    "+weight.image": 160,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 107,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 34
+  },
+  "axe": {
+    "passes": 380,
+    "violations": 8
+  }
+}

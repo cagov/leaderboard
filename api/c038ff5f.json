@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sos.ca.gov/archives/admin-programs/chrab",
+  "requestedUrl": "https://www.sos.ca.gov/archives/admin-programs/chrab",
+  "timestamp": 1707435244700,
+  "ranks": {
+    "hundos": 19,
+    "performance": 27,
+    "accessibility": 17,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.81,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.8,
+    "total": 361
+  },
+  "firstContentfulPaint": 1349.56,
+  "firstMeaningfulPaint": 1349.56,
+  "speedIndex": 4552.344664255033,
+  "largestContentfulPaint": 2906.469,
+  "totalBlockingTime": 447.922,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7677.017,
+  "maxPotentialFirstInputDelay": 174,
+  "timeToFirstByte": 973.29,
+  "weight": {
+    "summary": "33 requests • 1.1 MiB",
+    "total": 1128704,
+    "image": 124608,
+    "imageCount": 11,
+    "script": 874710,
+    "scriptCount": 11,
+    "document": 7841,
+    "font": 77370,
+    "fontCount": 1,
+    "stylesheet": 43060,
+    "stylesheetCount": 7,
+    "thirdParty": 254457,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 46,
+    "+weight.total": 214,
+    "-weight.document": 19,
+    "+weight.document": 241,
+    "-weight.script": 134,
+    "+weight.script": 124,
+    "-weight.image": 31,
+    "+weight.image": 227,
+    "-weight.font": 29,
+    "+weight.font": 191,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 230,
+    "-totalBlockingTime": 169,
+    "-largestContentfulPaint": 13
+  },
+  "axe": {
+    "passes": 835,
+    "violations": 1
+  }
+}

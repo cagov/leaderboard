@@ -1,0 +1,67 @@
+{
+  "url": "https://cdt.ca.gov/",
+  "requestedUrl": "https://cdt.ca.gov/",
+  "timestamp": 1707436641037,
+  "ranks": {
+    "hundos": 134,
+    "performance": 203,
+    "accessibility": 173,
+    "cumulative": 134
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.32,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 317
+  },
+  "firstContentfulPaint": 2523.1175000000003,
+  "firstMeaningfulPaint": 3873.1175000000003,
+  "speedIndex": 7077.74006709284,
+  "largestContentfulPaint": 5062.6175,
+  "totalBlockingTime": 633,
+  "cumulativeLayoutShift": 0.689363726363947,
+  "timeToInteractive": 12040.8415,
+  "maxPotentialFirstInputDelay": 211,
+  "timeToFirstByte": 1592.21,
+  "weight": {
+    "summary": "91 requests • 1.6 MiB",
+    "total": 1700544,
+    "image": 145908,
+    "imageCount": 23,
+    "script": 898913,
+    "scriptCount": 28,
+    "document": 35710,
+    "font": 405433,
+    "fontCount": 8,
+    "stylesheet": 213736,
+    "stylesheetCount": 24,
+    "thirdParty": 892655,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 84,
+    "+weight.total": 176,
+    "-weight.document": 128,
+    "+weight.document": 132,
+    "-weight.script": 138,
+    "+weight.script": 120,
+    "-weight.image": 37,
+    "+weight.image": 221,
+    "-weight.font": 176,
+    "+weight.font": 44,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 246,
+    "-totalBlockingTime": 192,
+    "-largestContentfulPaint": 57
+  },
+  "axe": {
+    "passes": 623,
+    "violations": 9
+  }
+}

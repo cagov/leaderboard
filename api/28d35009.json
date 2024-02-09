@@ -1,0 +1,67 @@
+{
+  "url": "https://film.ca.gov/",
+  "requestedUrl": "https://film.ca.gov/",
+  "timestamp": 1707434907034,
+  "ranks": {
+    "hundos": 258,
+    "performance": 209,
+    "accessibility": 257,
+    "cumulative": 258
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.69,
+    "bestPractices": 0.52,
+    "seo": 0.75,
+    "total": 227
+  },
+  "firstContentfulPaint": 3564.3594999999987,
+  "firstMeaningfulPaint": 4626.9805,
+  "speedIndex": 9342.578897265696,
+  "largestContentfulPaint": 17459.100499999997,
+  "totalBlockingTime": 263,
+  "cumulativeLayoutShift": 0.6962539694496046,
+  "timeToInteractive": 14940.388499999995,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 1033.1950000000002,
+  "weight": {
+    "summary": "106 requests • 5.1 MiB",
+    "total": 5385338,
+    "image": 3722663,
+    "imageCount": 43,
+    "script": 883814,
+    "scriptCount": 27,
+    "document": 146102,
+    "font": 399132,
+    "fontCount": 5,
+    "stylesheet": 230493,
+    "stylesheetCount": 22,
+    "thirdParty": 831916,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 212,
+    "+weight.total": 48,
+    "-weight.document": 231,
+    "+weight.document": 29,
+    "-weight.script": 137,
+    "+weight.script": 121,
+    "-weight.image": 223,
+    "+weight.image": 35,
+    "-weight.font": 172,
+    "+weight.font": 48,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 233,
+    "-totalBlockingTime": 122,
+    "-largestContentfulPaint": 208
+  },
+  "axe": {
+    "passes": 1127,
+    "violations": 25
+  }
+}

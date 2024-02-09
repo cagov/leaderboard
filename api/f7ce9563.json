@@ -1,0 +1,67 @@
+{
+  "url": "https://capmf.cdt.ca.gov/",
+  "requestedUrl": "https://capmf.cdt.ca.gov/",
+  "timestamp": 1707433085002,
+  "ranks": {
+    "hundos": 14,
+    "performance": 41,
+    "accessibility": 132,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.72,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 367
+  },
+  "firstContentfulPaint": 2530.395,
+  "firstMeaningfulPaint": 4173.94,
+  "speedIndex": 3949.2424266326707,
+  "largestContentfulPaint": 5119.509999999999,
+  "totalBlockingTime": 17.5,
+  "cumulativeLayoutShift": 0.12749526616325002,
+  "timeToInteractive": 5981.532499999999,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 40.85000000000002,
+  "weight": {
+    "summary": "44 requests • 974.2 KiB",
+    "total": 997565,
+    "image": 485128,
+    "imageCount": 22,
+    "script": 276336,
+    "scriptCount": 7,
+    "document": 7357,
+    "font": 110361,
+    "fontCount": 3,
+    "stylesheet": 117495,
+    "stylesheetCount": 7,
+    "thirdParty": 119354,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 35,
+    "+weight.total": 225,
+    "-weight.document": 15,
+    "+weight.document": 245,
+    "-weight.script": 31,
+    "+weight.script": 227,
+    "-weight.image": 93,
+    "+weight.image": 165,
+    "-weight.font": 69,
+    "+weight.font": 151,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 81,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 58
+  },
+  "axe": {
+    "passes": 10,
+    "violations": 4
+  }
+}

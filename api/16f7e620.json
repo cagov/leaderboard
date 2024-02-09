@@ -1,0 +1,67 @@
+{
+  "url": "https://www.fiduciary.ca.gov/",
+  "requestedUrl": "https://www.fiduciary.ca.gov/",
+  "timestamp": 1707436077085,
+  "ranks": {
+    "hundos": 70,
+    "performance": 82,
+    "accessibility": 194,
+    "cumulative": 72
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 339
+  },
+  "firstContentfulPaint": 5270.9580000000005,
+  "firstMeaningfulPaint": 7505.191999999999,
+  "speedIndex": 6740.348443540116,
+  "largestContentfulPaint": 12051.141,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.04847625747605669,
+  "timeToInteractive": 11960.650500000002,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 35.21300000000002,
+  "weight": {
+    "summary": "47 requests • 1.9 MiB",
+    "total": 1948368,
+    "image": 343268,
+    "imageCount": 21,
+    "script": 942577,
+    "scriptCount": 12,
+    "document": 33750,
+    "font": 110237,
+    "fontCount": 3,
+    "stylesheet": 517582,
+    "stylesheetCount": 6,
+    "thirdParty": 366903,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 101,
+    "+weight.total": 159,
+    "-weight.document": 116,
+    "+weight.document": 144,
+    "-weight.script": 154,
+    "+weight.script": 104,
+    "-weight.image": 67,
+    "+weight.image": 191,
+    "-weight.font": 67,
+    "+weight.font": 153,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 70,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 163
+  },
+  "axe": {
+    "passes": 610,
+    "violations": 4
+  }
+}

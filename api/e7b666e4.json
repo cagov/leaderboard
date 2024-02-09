@@ -1,0 +1,67 @@
+{
+  "url": "https://www.latc.ca.gov/",
+  "requestedUrl": "https://www.latc.ca.gov/",
+  "timestamp": 1707435494404,
+  "ranks": {
+    "hundos": 141,
+    "performance": 186,
+    "accessibility": 195,
+    "cumulative": 142
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.35,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 315
+  },
+  "firstContentfulPaint": 4854.032999999999,
+  "firstMeaningfulPaint": 6282.959000000002,
+  "speedIndex": 6272.460234209188,
+  "largestContentfulPaint": 11127.883,
+  "totalBlockingTime": 179.52824999999984,
+  "cumulativeLayoutShift": 0.62213754036681,
+  "timeToInteractive": 11707.4095,
+  "maxPotentialFirstInputDelay": 144,
+  "timeToFirstByte": 23.807999999999993,
+  "weight": {
+    "summary": "57 requests • 2.0 MiB",
+    "total": 2071609,
+    "image": 396683,
+    "imageCount": 23,
+    "script": 1100595,
+    "scriptCount": 18,
+    "document": 80936,
+    "font": 80195,
+    "fontCount": 3,
+    "stylesheet": 412349,
+    "stylesheetCount": 6,
+    "thirdParty": 722758,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 109,
+    "+weight.total": 151,
+    "-weight.document": 212,
+    "+weight.document": 48,
+    "-weight.script": 182,
+    "+weight.script": 76,
+    "-weight.image": 78,
+    "+weight.image": 180,
+    "-weight.font": 37,
+    "+weight.font": 183,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 32,
+    "-totalBlockingTime": 93,
+    "-largestContentfulPaint": 152
+  },
+  "axe": {
+    "passes": 842,
+    "violations": 5
+  }
+}

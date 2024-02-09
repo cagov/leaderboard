@@ -1,0 +1,67 @@
+{
+  "url": "https://ceqanet.opr.ca.gov/",
+  "requestedUrl": "https://ceqanet.opr.ca.gov/",
+  "timestamp": 1707433132240,
+  "ranks": {
+    "hundos": 24,
+    "performance": 28,
+    "accessibility": 50,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.8,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.79,
+    "total": 359
+  },
+  "firstContentfulPaint": 2652.9025,
+  "firstMeaningfulPaint": 3744.7474999999995,
+  "speedIndex": 3109.3999679355575,
+  "largestContentfulPaint": 3807.4355000000005,
+  "totalBlockingTime": 15,
+  "cumulativeLayoutShift": 0.12467725103642732,
+  "timeToInteractive": 4425.754999999999,
+  "maxPotentialFirstInputDelay": 65,
+  "timeToFirstByte": 37.684,
+  "weight": {
+    "summary": "19 requests • 503.3 KiB",
+    "total": 515402,
+    "image": 185059,
+    "imageCount": 5,
+    "script": 111096,
+    "scriptCount": 4,
+    "document": 18387,
+    "font": 136490,
+    "fontCount": 3,
+    "stylesheet": 63817,
+    "stylesheetCount": 4,
+    "thirdParty": 312333,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 242,
+    "-weight.document": 62,
+    "+weight.document": 198,
+    "-weight.script": 13,
+    "+weight.script": 245,
+    "-weight.image": 42,
+    "+weight.image": 216,
+    "-weight.font": 91,
+    "+weight.font": 129,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 74,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 36
+  },
+  "axe": {
+    "passes": 178,
+    "violations": 4
+  }
+}

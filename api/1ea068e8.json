@@ -1,0 +1,67 @@
+{
+  "url": "https://projecttracking.technology.ca.gov/PAL",
+  "requestedUrl": "https://projecttracking.technology.ca.gov/PAL",
+  "timestamp": 1707433556140,
+  "ranks": {
+    "hundos": 26,
+    "performance": 19,
+    "accessibility": 67,
+    "cumulative": 26
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.89,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.92,
+    "total": 359
+  },
+  "firstContentfulPaint": 2914.528,
+  "firstMeaningfulPaint": 2921.028,
+  "speedIndex": 2914.528,
+  "largestContentfulPaint": 3078.1839999999997,
+  "totalBlockingTime": 14,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2993.1059999999998,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 52.965999999999994,
+  "weight": {
+    "summary": "8 requests • 274.3 KiB",
+    "total": 280900,
+    "image": 0,
+    "imageCount": 0,
+    "script": 158375,
+    "scriptCount": 5,
+    "document": 16315,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 105990,
+    "stylesheetCount": 1,
+    "thirdParty": 56244,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 249,
+    "-weight.document": 56,
+    "+weight.document": 204,
+    "-weight.script": 18,
+    "+weight.script": 240,
+    "-weight.image": 1,
+    "+weight.image": 258,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 103,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 19
+  },
+  "axe": {
+    "passes": 1608,
+    "violations": 11
+  }
+}

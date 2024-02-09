@@ -1,0 +1,67 @@
+{
+  "url": "https://www.treasurer.ca.gov/cdiac/",
+  "requestedUrl": "https://www.treasurer.ca.gov/cdiac/",
+  "timestamp": 1707434526766,
+  "ranks": {
+    "hundos": 20,
+    "performance": 20,
+    "accessibility": 59,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.77,
+    "total": 361
+  },
+  "firstContentfulPaint": 1113.5860000000002,
+  "firstMeaningfulPaint": 1508.4620000000002,
+  "speedIndex": 1458.0995234607326,
+  "largestContentfulPaint": 3329.146,
+  "totalBlockingTime": 29,
+  "cumulativeLayoutShift": 0.11592976218506511,
+  "timeToInteractive": 2473.0220000000004,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 82.691,
+  "weight": {
+    "summary": "44 requests • 190.7 KiB",
+    "total": 195236,
+    "image": 133648,
+    "imageCount": 32,
+    "script": 47827,
+    "scriptCount": 4,
+    "document": 4858,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8305,
+    "stylesheetCount": 4,
+    "thirdParty": 28702,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 255,
+    "-weight.document": 9,
+    "+weight.document": 251,
+    "-weight.script": 6,
+    "+weight.script": 252,
+    "-weight.image": 33,
+    "+weight.image": 225,
+    "-weight.font": 1,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 129,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 26
+  },
+  "axe": {
+    "passes": 405,
+    "violations": 8
+  }
+}

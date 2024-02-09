@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dir.ca.gov/iwc/iwc.html",
+  "requestedUrl": "https://www.dir.ca.gov/iwc/iwc.html",
+  "timestamp": 1707435365913,
+  "ranks": {
+    "hundos": 116,
+    "performance": 151,
+    "accessibility": 20,
+    "cumulative": 117
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 325
+  },
+  "firstContentfulPaint": 2302.0480000000002,
+  "firstMeaningfulPaint": 2457.4620000000004,
+  "speedIndex": 4716.319840099671,
+  "largestContentfulPaint": 6080.264000000001,
+  "totalBlockingTime": 341.5,
+  "cumulativeLayoutShift": 0.6206368317777354,
+  "timeToInteractive": 9068.211500000001,
+  "maxPotentialFirstInputDelay": 148,
+  "timeToFirstByte": 32.245000000000005,
+  "weight": {
+    "summary": "47 requests • 1.0 MiB",
+    "total": 1066511,
+    "image": 38274,
+    "imageCount": 10,
+    "script": 665832,
+    "scriptCount": 15,
+    "document": 12636,
+    "font": 249447,
+    "fontCount": 8,
+    "stylesheet": 99721,
+    "stylesheetCount": 7,
+    "thirdParty": 970940,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 40,
+    "+weight.total": 220,
+    "-weight.document": 40,
+    "+weight.document": 220,
+    "-weight.script": 91,
+    "+weight.script": 167,
+    "-weight.image": 8,
+    "+weight.image": 250,
+    "-weight.font": 139,
+    "+weight.font": 81,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 63,
+    "-totalBlockingTime": 146,
+    "-largestContentfulPaint": 67
+  },
+  "axe": {
+    "passes": 476,
+    "violations": 1
+  }
+}

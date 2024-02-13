@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ccrcal.org/learn-about-ccr/",
+  "requestedUrl": "https://ccr.ca.gov/",
+  "timestamp": 1707766947115,
+  "ranks": {
+    "hundos": 401,
+    "performance": 218,
+    "accessibility": 403,
+    "cumulative": 401
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.75,
+    "bestPractices": 0.52,
+    "seo": 0.79,
+    "total": 258
+  },
+  "firstContentfulPaint": 8493.98616,
+  "firstMeaningfulPaint": 8721.229049999998,
+  "speedIndex": 20730.55718898507,
+  "largestContentfulPaint": 19990.149619999997,
+  "totalBlockingTime": 168,
+  "cumulativeLayoutShift": 0.059638392125540174,
+  "timeToInteractive": 28230.265479999995,
+  "maxPotentialFirstInputDelay": 131,
+  "timeToFirstByte": 99.82900000000001,
+  "weight": {
+    "summary": "127 requests • 9.0 MiB",
+    "total": 9392710,
+    "image": 4567235,
+    "imageCount": 40,
+    "script": 1527116,
+    "scriptCount": 25,
+    "document": 68160,
+    "font": 132729,
+    "fontCount": 4,
+    "stylesheet": 289269,
+    "stylesheetCount": 24,
+    "thirdParty": 4341906,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 382,
+    "+weight.total": 44,
+    "-weight.document": 321,
+    "+weight.document": 102,
+    "-weight.script": 330,
+    "+weight.script": 92,
+    "-weight.image": 360,
+    "+weight.image": 62,
+    "-weight.font": 134,
+    "+weight.font": 225,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 201,
+    "-totalBlockingTime": 157,
+    "-largestContentfulPaint": 299
+  },
+  "axe": {
+    "passes": 555,
+    "violations": 32
+  }
+}

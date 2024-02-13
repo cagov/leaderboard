@@ -1,0 +1,66 @@
+{
+  "url": "https://polb.com/",
+  "requestedUrl": "https://polb.ca.gov/",
+  "timestamp": 1707785726097,
+  "ranks": {
+    "hundos": 373,
+    "performance": 110,
+    "accessibility": 380,
+    "cumulative": 375
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 0.81,
+    "bestPractices": 0.56,
+    "seo": 0.69,
+    "total": 269
+  },
+  "firstContentfulPaint": 3038.1733,
+  "firstMeaningfulPaint": 3088.1733,
+  "speedIndex": 6461.928770911636,
+  "largestContentfulPaint": 9955.52965,
+  "totalBlockingTime": 72.5,
+  "cumulativeLayoutShift": 0.009531225012053699,
+  "timeToInteractive": 9223.696899999999,
+  "maxPotentialFirstInputDelay": 100,
+  "timeToFirstByte": 501.59200000000004,
+  "weight": {
+    "summary": "78 requests • 5.9 MiB",
+    "total": 6158876,
+    "image": 5072921,
+    "imageCount": 25,
+    "script": 619768,
+    "scriptCount": 16,
+    "document": 50320,
+    "font": 133043,
+    "fontCount": 5,
+    "stylesheet": 14793,
+    "stylesheetCount": 1,
+    "thirdParty": 480708,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 342,
+    "+weight.total": 84,
+    "-weight.document": 280,
+    "+weight.document": 143,
+    "-weight.script": 144,
+    "+weight.script": 278,
+    "-weight.image": 366,
+    "+weight.image": 56,
+    "-weight.font": 135,
+    "+weight.font": 224,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 331,
+    "-totalBlockingTime": 106,
+    "-largestContentfulPaint": 184
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

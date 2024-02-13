@@ -1,0 +1,67 @@
+{
+  "url": "https://ebudget.ca.gov/",
+  "requestedUrl": "https://ebudget.ca.gov/",
+  "timestamp": 1707775368705,
+  "ranks": {
+    "hundos": 44,
+    "performance": 39,
+    "accessibility": 300,
+    "cumulative": 43
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.82,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 357
+  },
+  "firstContentfulPaint": 2405.5285,
+  "firstMeaningfulPaint": 2405.5285,
+  "speedIndex": 2405.5285,
+  "largestContentfulPaint": 4359.3115,
+  "totalBlockingTime": 40,
+  "cumulativeLayoutShift": 0.03751608240976582,
+  "timeToInteractive": 3096.6925,
+  "maxPotentialFirstInputDelay": 90,
+  "timeToFirstByte": 13.591000000000001,
+  "weight": {
+    "summary": "11 requests • 600.3 KiB",
+    "total": 614696,
+    "image": 235012,
+    "imageCount": 2,
+    "script": 213100,
+    "scriptCount": 3,
+    "document": 7830,
+    "font": 28160,
+    "fontCount": 1,
+    "stylesheet": 114095,
+    "stylesheetCount": 2,
+    "thirdParty": 28160,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 31,
+    "+weight.total": 395,
+    "-weight.document": 23,
+    "+weight.document": 400,
+    "-weight.script": 35,
+    "+weight.script": 387,
+    "-weight.image": 61,
+    "+weight.image": 361,
+    "-weight.font": 8,
+    "+weight.font": 351,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 64,
+    "-largestContentfulPaint": 56
+  },
+  "axe": {
+    "passes": 120,
+    "violations": 7
+  }
+}

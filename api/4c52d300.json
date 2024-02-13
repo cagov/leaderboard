@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dmhc.ca.gov/?referral=hmohelp.ca.gov",
+  "requestedUrl": "https://healthhelp.ca.gov/",
+  "timestamp": 1707778671482,
+  "ranks": {
+    "hundos": 350,
+    "performance": 375,
+    "accessibility": 335,
+    "cumulative": 352
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.89,
+    "total": 280
+  },
+  "firstContentfulPaint": 13675.892,
+  "firstMeaningfulPaint": 14353.209999999997,
+  "speedIndex": 23751.041971386705,
+  "largestContentfulPaint": 38574.70699999998,
+  "totalBlockingTime": 266.49999999999636,
+  "cumulativeLayoutShift": 0.2689854191980559,
+  "timeToInteractive": 62370.10574999993,
+  "maxPotentialFirstInputDelay": 380.9999999999927,
+  "timeToFirstByte": 115.463,
+  "weight": {
+    "summary": "90 requests • 11.0 MiB",
+    "total": 11484568,
+    "image": 742296,
+    "imageCount": 21,
+    "script": 8906837,
+    "scriptCount": 35,
+    "document": 67408,
+    "font": 239084,
+    "fontCount": 4,
+    "stylesheet": 1623884,
+    "stylesheetCount": 19,
+    "thirdParty": 775447,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 395,
+    "+weight.total": 31,
+    "-weight.document": 319,
+    "+weight.document": 104,
+    "-weight.script": 418,
+    "+weight.script": 4,
+    "-weight.image": 181,
+    "+weight.image": 241,
+    "-weight.font": 220,
+    "+weight.font": 139,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 221,
+    "-totalBlockingTime": 196,
+    "-largestContentfulPaint": 405
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 25
+  }
+}

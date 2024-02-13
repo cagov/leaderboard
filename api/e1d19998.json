@@ -1,0 +1,67 @@
+{
+  "url": "https://calcareers.ca.gov/",
+  "requestedUrl": "https://calcareers.ca.gov/",
+  "timestamp": 1707763866076,
+  "ranks": {
+    "hundos": 339,
+    "performance": 288,
+    "accessibility": 355,
+    "cumulative": 339
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.83,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 282
+  },
+  "firstContentfulPaint": 8587.108,
+  "firstMeaningfulPaint": 8623.108,
+  "speedIndex": 9113.034265753966,
+  "largestContentfulPaint": 14223.241499999996,
+  "totalBlockingTime": 64,
+  "cumulativeLayoutShift": 0.2443082788731529,
+  "timeToInteractive": 14833.557499999997,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 137.30399999999997,
+  "weight": {
+    "summary": "45 requests • 2.5 MiB",
+    "total": 2645834,
+    "image": 52883,
+    "imageCount": 13,
+    "script": 884894,
+    "scriptCount": 7,
+    "document": 1046035,
+    "font": 177301,
+    "fontCount": 5,
+    "stylesheet": 484412,
+    "stylesheetCount": 17,
+    "thirdParty": 172753,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 211,
+    "+weight.total": 215,
+    "-weight.document": 421,
+    "+weight.document": 2,
+    "-weight.script": 205,
+    "+weight.script": 217,
+    "-weight.image": 22,
+    "+weight.image": 400,
+    "-weight.font": 186,
+    "+weight.font": 173,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 240,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 262
+  },
+  "axe": {
+    "passes": 598,
+    "violations": 9
+  }
+}

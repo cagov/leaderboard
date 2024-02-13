@@ -1,12 +1,12 @@
 {
   "url": "https://sjrc.ca.gov/",
-  "requestedUrl": "http://sjrc.ca.gov/",
-  "timestamp": 1707436283368,
+  "requestedUrl": "https://sjrc.ca.gov/",
+  "timestamp": 1707789381326,
   "ranks": {
-    "hundos": 159,
-    "performance": 128,
-    "accessibility": 213,
-    "cumulative": 159
+    "hundos": 250,
+    "performance": 266,
+    "accessibility": 309,
+    "cumulative": 250
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.97,
     "total": 307
   },
-  "firstContentfulPaint": 6874.7485,
-  "firstMeaningfulPaint": 7215.4305,
-  "speedIndex": 8305.774903233383,
-  "largestContentfulPaint": 9089.1815,
-  "totalBlockingTime": 57.5,
-  "cumulativeLayoutShift": 0.22919535614055125,
-  "timeToInteractive": 14467.847436622622,
-  "maxPotentialFirstInputDelay": 71,
-  "timeToFirstByte": 498.837,
+  "firstContentfulPaint": 6586.849,
+  "firstMeaningfulPaint": 9842.452000000001,
+  "speedIndex": 9182.496386300973,
+  "largestContentfulPaint": 13104.039,
+  "totalBlockingTime": 31.5,
+  "cumulativeLayoutShift": 0.2210410365532449,
+  "timeToInteractive": 12112.678,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 350.899,
   "weight": {
     "summary": "51 requests • 2.1 MiB",
-    "total": 2218204,
-    "image": 224868,
+    "total": 2242000,
+    "image": 230043,
     "imageCount": 18,
-    "script": 951149,
-    "scriptCount": 12,
-    "document": 38302,
+    "script": 970109,
+    "scriptCount": 13,
+    "document": 38149,
     "font": 110025,
     "fontCount": 3,
-    "stylesheet": 892846,
+    "stylesheet": 892784,
     "stylesheetCount": 11,
-    "thirdParty": 412452,
+    "thirdParty": 412719,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,23 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 119,
-    "+weight.total": 141,
-    "-weight.document": 140,
-    "+weight.document": 120,
-    "-weight.script": 156,
-    "+weight.script": 102,
-    "-weight.image": 46,
-    "+weight.image": 212,
-    "-weight.font": 63,
-    "+weight.font": 157,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 196,
-    "-totalBlockingTime": 26,
-    "-largestContentfulPaint": 131
+    "-weight.total": 167,
+    "+weight.total": 259,
+    "-weight.document": 222,
+    "+weight.document": 201,
+    "-weight.script": 239,
+    "+weight.script": 183,
+    "-weight.image": 59,
+    "+weight.image": 363,
+    "-weight.font": 103,
+    "+weight.font": 256,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 299,
+    "-totalBlockingTime": 53,
+    "-largestContentfulPaint": 247
   },
   "axe": {
-    "passes": 421,
+    "passes": 412,
     "violations": 6
   }
 }

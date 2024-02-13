@@ -1,0 +1,67 @@
+{
+  "url": "https://abortion.ca.gov/",
+  "requestedUrl": "https://abortion.ca.gov/",
+  "timestamp": 1707760575538,
+  "ranks": {
+    "hundos": 3,
+    "performance": 6,
+    "accessibility": 149,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 386
+  },
+  "firstContentfulPaint": 1041.1535,
+  "firstMeaningfulPaint": 1041.1535,
+  "speedIndex": 1041.1535,
+  "largestContentfulPaint": 1660.3325,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0029210073829833622,
+  "timeToInteractive": 1041.1535,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 16.544999999999987,
+  "weight": {
+    "summary": "13 requests • 170.2 KiB",
+    "total": 174255,
+    "image": 41362,
+    "imageCount": 7,
+    "script": 452,
+    "scriptCount": 1,
+    "document": 41127,
+    "font": 91314,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 421,
+    "-weight.document": 249,
+    "+weight.document": 174,
+    "-weight.script": 1,
+    "+weight.script": 421,
+    "-weight.image": 17,
+    "+weight.image": 405,
+    "-weight.font": 78,
+    "+weight.font": 281,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 35,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 399,
+    "violations": 0
+  }
+}

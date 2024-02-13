@@ -1,0 +1,67 @@
+{
+  "url": "https://saferatwork.covid19.ca.gov/es/",
+  "requestedUrl": "https://trabajaseguro.ca.gov/",
+  "timestamp": 1707792502687,
+  "ranks": {
+    "hundos": 199,
+    "performance": 343,
+    "accessibility": 157,
+    "cumulative": 199
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 319
+  },
+  "firstContentfulPaint": 3158.0225,
+  "firstMeaningfulPaint": 3158.0225,
+  "speedIndex": 7742.248426628421,
+  "largestContentfulPaint": 13883.0225,
+  "totalBlockingTime": 52.5,
+  "cumulativeLayoutShift": 0.8750024963309981,
+  "timeToInteractive": 12497.5225,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 104.714,
+  "weight": {
+    "summary": "78 requests • 2.1 MiB",
+    "total": 2202087,
+    "image": 542027,
+    "imageCount": 14,
+    "script": 917071,
+    "scriptCount": 24,
+    "document": 28937,
+    "font": 520295,
+    "fontCount": 11,
+    "stylesheet": 192639,
+    "stylesheetCount": 19,
+    "thirdParty": 967598,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 163,
+    "+weight.total": 263,
+    "-weight.document": 142,
+    "+weight.document": 281,
+    "-weight.script": 213,
+    "+weight.script": 209,
+    "-weight.image": 136,
+    "+weight.image": 286,
+    "-weight.font": 309,
+    "+weight.font": 50,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 204,
+    "-totalBlockingTime": 80,
+    "-largestContentfulPaint": 259
+  },
+  "axe": {
+    "passes": 723,
+    "violations": 4
+  }
+}

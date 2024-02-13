@@ -1,0 +1,67 @@
+{
+  "url": "https://medalofvalor.ca.gov/",
+  "requestedUrl": "https://medalofvalor.ca.gov/",
+  "timestamp": 1707782335615,
+  "ranks": {
+    "hundos": 56,
+    "performance": 45,
+    "accessibility": 37,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.8,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.98,
+    "total": 352
+  },
+  "firstContentfulPaint": 2563.2665,
+  "firstMeaningfulPaint": 2573.7665,
+  "speedIndex": 2563.2665,
+  "largestContentfulPaint": 4643.906,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2573.7665,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 30.373000000000005,
+  "weight": {
+    "summary": "20 requests • 758.0 KiB",
+    "total": 776205,
+    "image": 281022,
+    "imageCount": 7,
+    "script": 223934,
+    "scriptCount": 6,
+    "document": 10823,
+    "font": 63996,
+    "fontCount": 1,
+    "stylesheet": 195875,
+    "stylesheetCount": 3,
+    "thirdParty": 46649,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 41,
+    "+weight.total": 385,
+    "-weight.document": 46,
+    "+weight.document": 377,
+    "-weight.script": 40,
+    "+weight.script": 382,
+    "-weight.image": 80,
+    "+weight.image": 342,
+    "-weight.font": 37,
+    "+weight.font": 322,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 93,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 62
+  },
+  "axe": {
+    "passes": 167,
+    "violations": 1
+  }
+}

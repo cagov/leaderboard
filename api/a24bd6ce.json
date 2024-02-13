@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mdaqmd.ca.gov/",
+  "requestedUrl": "https://mdaqmd.ca.gov/",
+  "timestamp": 1707782296538,
+  "ranks": {
+    "hundos": 394,
+    "performance": 217,
+    "accessibility": 267,
+    "cumulative": 394
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.89,
+    "bestPractices": 0.48,
+    "seo": 0.72,
+    "total": 261
+  },
+  "firstContentfulPaint": 9957.168999999998,
+  "firstMeaningfulPaint": 10753.013999999997,
+  "speedIndex": 13731.132071741678,
+  "largestContentfulPaint": 37019.901098083494,
+  "totalBlockingTime": 217.5,
+  "cumulativeLayoutShift": 0.03732877709562959,
+  "timeToInteractive": 13507.3025,
+  "maxPotentialFirstInputDelay": 457,
+  "timeToFirstByte": 28.839,
+  "weight": {
+    "summary": "86 requests • 11.4 MiB",
+    "total": 11920130,
+    "image": 9991571,
+    "imageCount": 45,
+    "script": 1604649,
+    "scriptCount": 13,
+    "document": 17080,
+    "font": 171566,
+    "fontCount": 8,
+    "stylesheet": 130744,
+    "stylesheetCount": 13,
+    "thirdParty": 837338,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 400,
+    "+weight.total": 26,
+    "-weight.document": 77,
+    "+weight.document": 346,
+    "-weight.script": 340,
+    "+weight.script": 82,
+    "-weight.image": 404,
+    "+weight.image": 18,
+    "-weight.font": 180,
+    "+weight.font": 179,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 87,
+    "-totalBlockingTime": 177,
+    "-largestContentfulPaint": 401
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

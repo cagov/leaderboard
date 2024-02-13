@@ -1,0 +1,67 @@
+{
+  "url": "https://lgma.ca.gov/",
+  "requestedUrl": "https://lgma.ca.gov/",
+  "timestamp": 1707781382331,
+  "ranks": {
+    "hundos": 23,
+    "performance": 65,
+    "accessibility": 30,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.72,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 364
+  },
+  "firstContentfulPaint": 3009.8959999999997,
+  "firstMeaningfulPaint": 3012.0058632812497,
+  "speedIndex": 3182.185924168014,
+  "largestContentfulPaint": 6194.250999999999,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.028630104424880672,
+  "timeToInteractive": 3956.7819316406244,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 378.78200000000004,
+  "weight": {
+    "summary": "34 requests • 3.9 MiB",
+    "total": 4030298,
+    "image": 3589908,
+    "imageCount": 11,
+    "script": 260770,
+    "scriptCount": 10,
+    "document": 19009,
+    "font": 47964,
+    "fontCount": 6,
+    "stylesheet": 160154,
+    "stylesheetCount": 4,
+    "thirdParty": 3766148,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 287,
+    "+weight.total": 139,
+    "-weight.document": 91,
+    "+weight.document": 332,
+    "-weight.script": 47,
+    "+weight.script": 375,
+    "-weight.image": 335,
+    "+weight.image": 87,
+    "-weight.font": 25,
+    "+weight.font": 334,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 303,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 101
+  },
+  "axe": {
+    "passes": 743,
+    "violations": 1
+  }
+}

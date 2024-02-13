@@ -1,0 +1,67 @@
+{
+  "url": "https://www.oles.ca.gov/",
+  "requestedUrl": "https://oles.ca.gov/",
+  "timestamp": 1707784558216,
+  "ranks": {
+    "hundos": 249,
+    "performance": 228,
+    "accessibility": 229,
+    "cumulative": 248
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.5,
+    "accessibility": 0.91,
+    "bestPractices": 0.74,
+    "seo": 0.92,
+    "total": 307
+  },
+  "firstContentfulPaint": 5060.469750000001,
+  "firstMeaningfulPaint": 5060.469750000001,
+  "speedIndex": 6214.819098808688,
+  "largestContentfulPaint": 5429.893000000002,
+  "totalBlockingTime": 34,
+  "cumulativeLayoutShift": 0.3054269137567728,
+  "timeToInteractive": 8972.6825,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 284.846,
+  "weight": {
+    "summary": "58 requests • 1.6 MiB",
+    "total": 1657118,
+    "image": 660500,
+    "imageCount": 16,
+    "script": 771856,
+    "scriptCount": 20,
+    "document": 18260,
+    "font": 50173,
+    "fontCount": 1,
+    "stylesheet": 155270,
+    "stylesheetCount": 11,
+    "thirdParty": 496951,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 111,
+    "+weight.total": 315,
+    "-weight.document": 83,
+    "+weight.document": 340,
+    "-weight.script": 173,
+    "+weight.script": 249,
+    "-weight.image": 168,
+    "+weight.image": 254,
+    "-weight.font": 27,
+    "+weight.font": 332,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 281,
+    "-totalBlockingTime": 57,
+    "-largestContentfulPaint": 82
+  },
+  "axe": {
+    "passes": 267,
+    "violations": 5
+  }
+}

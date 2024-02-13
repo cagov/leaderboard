@@ -1,0 +1,67 @@
+{
+  "url": "https://www.visitcalifornia.com/",
+  "requestedUrl": "https://gocalif.ca.gov/",
+  "timestamp": 1707777740814,
+  "ranks": {
+    "hundos": 389,
+    "performance": 382,
+    "accessibility": 352,
+    "cumulative": 389
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.35,
+    "accessibility": 0.84,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 263
+  },
+  "firstContentfulPaint": 7596.282500000001,
+  "firstMeaningfulPaint": 7596.282500000001,
+  "speedIndex": 24347.3797694395,
+  "largestContentfulPaint": 28529.64350000001,
+  "totalBlockingTime": 864,
+  "cumulativeLayoutShift": 0.045602308149657,
+  "timeToInteractive": 47008.07999111938,
+  "maxPotentialFirstInputDelay": 529,
+  "timeToFirstByte": 7.603,
+  "weight": {
+    "summary": "582 requests • 8.9 MiB",
+    "total": 9261486,
+    "image": 3661998,
+    "imageCount": 319,
+    "script": 2306401,
+    "scriptCount": 93,
+    "document": 546957,
+    "font": 92665,
+    "fontCount": 16,
+    "stylesheet": 22187,
+    "stylesheetCount": 7,
+    "thirdParty": 2532003,
+    "thirdPartyCount": 69
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 379,
+    "+weight.total": 47,
+    "-weight.document": 417,
+    "+weight.document": 6,
+    "-weight.script": 391,
+    "+weight.script": 31,
+    "-weight.image": 338,
+    "+weight.image": 84,
+    "-weight.font": 80,
+    "+weight.font": 279,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 235,
+    "-largestContentfulPaint": 383
+  },
+  "axe": {
+    "passes": 5732,
+    "violations": 280
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://biomonitoring.ca.gov/",
+  "requestedUrl": "https://biomonitoring.ca.gov/",
+  "timestamp": 1707762416225,
+  "ranks": {
+    "hundos": 277,
+    "performance": 85,
+    "accessibility": 182,
+    "cumulative": 277
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.68,
+    "accessibility": 0.94,
+    "bestPractices": 0.78,
+    "seo": 0.62,
+    "total": 302
+  },
+  "firstContentfulPaint": 1397.0430000000001,
+  "firstMeaningfulPaint": 6286.882,
+  "speedIndex": 6001.808647797709,
+  "largestContentfulPaint": 7330.143000000001,
+  "totalBlockingTime": 172.50000000000023,
+  "cumulativeLayoutShift": 0.010687903675356096,
+  "timeToInteractive": 9299.843,
+  "maxPotentialFirstInputDelay": 156.00000000000023,
+  "timeToFirstByte": 161.388,
+  "weight": {
+    "summary": "53 requests • 1.5 MiB",
+    "total": 1604740,
+    "image": 506034,
+    "imageCount": 17,
+    "script": 705431,
+    "scriptCount": 15,
+    "document": 10297,
+    "font": 293343,
+    "fontCount": 5,
+    "stylesheet": 88618,
+    "stylesheetCount": 6,
+    "thirdParty": 633531,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 106,
+    "+weight.total": 320,
+    "-weight.document": 40,
+    "+weight.document": 383,
+    "-weight.script": 162,
+    "+weight.script": 260,
+    "-weight.image": 131,
+    "+weight.image": 291,
+    "-weight.font": 244,
+    "+weight.font": 115,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 249,
+    "-totalBlockingTime": 162,
+    "-largestContentfulPaint": 123
+  },
+  "axe": {
+    "passes": 582,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://rbra.ca.gov/",
+  "requestedUrl": "https://rbra.ca.gov/",
+  "timestamp": 1707786516981,
+  "ranks": {
+    "hundos": 97,
+    "performance": 181,
+    "accessibility": 83,
+    "cumulative": 96
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 344
+  },
+  "firstContentfulPaint": 6969.396,
+  "firstMeaningfulPaint": 8044.33,
+  "speedIndex": 6969.396,
+  "largestContentfulPaint": 15674.891,
+  "totalBlockingTime": 204.5,
+  "cumulativeLayoutShift": 0.0002623956088397305,
+  "timeToInteractive": 16071.162,
+  "maxPotentialFirstInputDelay": 195,
+  "timeToFirstByte": 71.65399999999998,
+  "weight": {
+    "summary": "36 requests • 3.3 MiB",
+    "total": 3416844,
+    "image": 1532116,
+    "imageCount": 12,
+    "script": 1691115,
+    "scriptCount": 11,
+    "document": 34876,
+    "font": 62252,
+    "fontCount": 2,
+    "stylesheet": 94893,
+    "stylesheetCount": 6,
+    "thirdParty": 2406985,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 266,
+    "+weight.total": 160,
+    "-weight.document": 201,
+    "+weight.document": 222,
+    "-weight.script": 350,
+    "+weight.script": 72,
+    "-weight.image": 258,
+    "+weight.image": 164,
+    "-weight.font": 32,
+    "+weight.font": 327,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 168,
+    "-totalBlockingTime": 175,
+    "-largestContentfulPaint": 274
+  },
+  "axe": {
+    "passes": 912,
+    "violations": 8
+  }
+}

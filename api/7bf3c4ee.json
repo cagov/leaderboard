@@ -1,0 +1,67 @@
+{
+  "url": "https://csdr-cde.ca.gov/",
+  "requestedUrl": "https://csdr-cde.ca.gov/",
+  "timestamp": 1707771889719,
+  "ranks": {
+    "hundos": 234,
+    "performance": 226,
+    "accessibility": 224,
+    "cumulative": 233
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 0.92,
+    "bestPractices": 0.7,
+    "seo": 1,
+    "total": 313
+  },
+  "firstContentfulPaint": 10170.988,
+  "firstMeaningfulPaint": 10170.988,
+  "speedIndex": 14723.139290558649,
+  "largestContentfulPaint": 28216.777000000006,
+  "totalBlockingTime": 245.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 21034.2535,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 280.168,
+  "weight": {
+    "summary": "122 requests • 8.5 MiB",
+    "total": 8935196,
+    "image": 2471888,
+    "imageCount": 26,
+    "script": 1522499,
+    "scriptCount": 32,
+    "document": 132695,
+    "font": 714854,
+    "fontCount": 16,
+    "stylesheet": 151290,
+    "stylesheetCount": 15,
+    "thirdParty": 2463569,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 375,
+    "+weight.total": 51,
+    "-weight.document": 369,
+    "+weight.document": 54,
+    "-weight.script": 329,
+    "+weight.script": 93,
+    "-weight.image": 300,
+    "+weight.image": 122,
+    "-weight.font": 342,
+    "+weight.font": 17,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 278,
+    "-totalBlockingTime": 188,
+    "-largestContentfulPaint": 382
+  },
+  "axe": {
+    "passes": 651,
+    "violations": 41
+  }
+}

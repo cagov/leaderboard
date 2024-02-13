@@ -1,0 +1,67 @@
+{
+  "url": "https://dmae.ca.gov/",
+  "requestedUrl": "https://dmae.ca.gov/",
+  "timestamp": 1707774080831,
+  "ranks": {
+    "hundos": 336,
+    "performance": 232,
+    "accessibility": 295,
+    "cumulative": 337
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.5,
+    "accessibility": 0.88,
+    "bestPractices": 0.7,
+    "seo": 0.76,
+    "total": 284
+  },
+  "firstContentfulPaint": 10875.961500000001,
+  "firstMeaningfulPaint": 10875.961500000001,
+  "speedIndex": 15165.775455640252,
+  "largestContentfulPaint": 19451.330500000004,
+  "totalBlockingTime": 65.5,
+  "cumulativeLayoutShift": 0.13384577621583477,
+  "timeToInteractive": 20389.386,
+  "maxPotentialFirstInputDelay": 104,
+  "timeToFirstByte": 1438.6080000000002,
+  "weight": {
+    "summary": "109 requests • 3.5 MiB",
+    "total": 3713319,
+    "image": 403693,
+    "imageCount": 23,
+    "script": 1613321,
+    "scriptCount": 40,
+    "document": 98400,
+    "font": 302550,
+    "fontCount": 5,
+    "stylesheet": 835188,
+    "stylesheetCount": 26,
+    "thirdParty": 1010727,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 272,
+    "+weight.total": 154,
+    "-weight.document": 347,
+    "+weight.document": 76,
+    "-weight.script": 342,
+    "+weight.script": 80,
+    "-weight.image": 106,
+    "+weight.image": 316,
+    "-weight.font": 248,
+    "+weight.font": 111,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 396,
+    "-totalBlockingTime": 97,
+    "-largestContentfulPaint": 297
+  },
+  "axe": {
+    "passes": 777,
+    "violations": 74
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://sierracounty.ca.gov/",
+  "requestedUrl": "https://sierracounty.ca.gov/",
+  "timestamp": 1707789154064,
+  "ranks": {
+    "hundos": 356,
+    "performance": 236,
+    "accessibility": 417,
+    "cumulative": 358
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.49,
+    "accessibility": 0.72,
+    "bestPractices": 0.74,
+    "seo": 0.83,
+    "total": 278
+  },
+  "firstContentfulPaint": 2684.0179999999996,
+  "firstMeaningfulPaint": 2684.0179999999996,
+  "speedIndex": 5456.774706466899,
+  "largestContentfulPaint": 9459.424000000003,
+  "totalBlockingTime": 171.9999999999991,
+  "cumulativeLayoutShift": 0.2910525229547064,
+  "timeToInteractive": 12207.845999999998,
+  "maxPotentialFirstInputDelay": 213.99999999999818,
+  "timeToFirstByte": 240.685,
+  "weight": {
+    "summary": "77 requests • 4.1 MiB",
+    "total": 4342713,
+    "image": 3313700,
+    "imageCount": 37,
+    "script": 768823,
+    "scriptCount": 23,
+    "document": 41627,
+    "font": 69727,
+    "fontCount": 3,
+    "stylesheet": 119227,
+    "stylesheetCount": 6,
+    "thirdParty": 422094,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 297,
+    "+weight.total": 129,
+    "-weight.document": 253,
+    "+weight.document": 170,
+    "-weight.script": 171,
+    "+weight.script": 251,
+    "-weight.image": 331,
+    "+weight.image": 91,
+    "-weight.font": 53,
+    "+weight.font": 306,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 268,
+    "-totalBlockingTime": 160,
+    "-largestContentfulPaint": 169
+  },
+  "axe": {
+    "passes": 1692,
+    "violations": 55
+  }
+}

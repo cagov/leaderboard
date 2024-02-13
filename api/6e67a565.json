@@ -1,0 +1,67 @@
+{
+  "url": "https://cppa.ca.gov/",
+  "requestedUrl": "https://cppa.ca.gov/",
+  "timestamp": 1707771421563,
+  "ranks": {
+    "hundos": 37,
+    "performance": 131,
+    "accessibility": 24,
+    "cumulative": 37
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.6,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 359
+  },
+  "firstContentfulPaint": 3883.8305,
+  "firstMeaningfulPaint": 3883.8305,
+  "speedIndex": 3947.6294117701295,
+  "largestContentfulPaint": 9899.9605,
+  "totalBlockingTime": 12.5,
+  "cumulativeLayoutShift": 0.14580801944106925,
+  "timeToInteractive": 5019.99,
+  "maxPotentialFirstInputDelay": 75,
+  "timeToFirstByte": 13.599000000000004,
+  "weight": {
+    "summary": "38 requests • 1.9 MiB",
+    "total": 1991655,
+    "image": 486589,
+    "imageCount": 11,
+    "script": 792211,
+    "scriptCount": 13,
+    "document": 21067,
+    "font": 219342,
+    "fontCount": 3,
+    "stylesheet": 471307,
+    "stylesheetCount": 4,
+    "thirdParty": 446585,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 146,
+    "+weight.total": 280,
+    "-weight.document": 103,
+    "+weight.document": 320,
+    "-weight.script": 177,
+    "+weight.script": 245,
+    "-weight.image": 126,
+    "+weight.image": 296,
+    "-weight.font": 206,
+    "+weight.font": 153,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 181
+  },
+  "axe": {
+    "passes": 216,
+    "violations": 0
+  }
+}

@@ -1,43 +1,43 @@
 {
   "url": "https://women.ca.gov/",
   "requestedUrl": "https://women.ca.gov/",
-  "timestamp": 1707436535775,
+  "timestamp": 1707794817604,
   "ranks": {
-    "hundos": 184,
-    "performance": 221,
-    "accessibility": 163,
-    "cumulative": 184
+    "hundos": 259,
+    "performance": 349,
+    "accessibility": 202,
+    "cumulative": 257
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.29,
+    "performance": 0.38,
     "accessibility": 0.93,
     "bestPractices": 0.89,
     "seo": 0.86,
-    "total": 297
+    "total": 306
   },
-  "firstContentfulPaint": 2588.365,
-  "firstMeaningfulPaint": 5363.365,
-  "speedIndex": 9753.278214930939,
-  "largestContentfulPaint": 28871.464979999997,
-  "totalBlockingTime": 432,
-  "cumulativeLayoutShift": 0.6590755276495681,
-  "timeToInteractive": 16003.1345,
-  "maxPotentialFirstInputDelay": 241,
-  "timeToFirstByte": 904.2139999999999,
+  "firstContentfulPaint": 2669.426,
+  "firstMeaningfulPaint": 7221.4259999999995,
+  "speedIndex": 10522.848480948614,
+  "largestContentfulPaint": 28740.59272,
+  "totalBlockingTime": 60.5,
+  "cumulativeLayoutShift": 0.7808780860993869,
+  "timeToInteractive": 14246.926,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 1118.075,
   "weight": {
     "summary": "96 requests • 6.7 MiB",
-    "total": 6995472,
-    "image": 5124297,
+    "total": 6999691,
+    "image": 5129474,
     "imageCount": 15,
-    "script": 916028,
+    "script": 914925,
     "scriptCount": 25,
-    "document": 35718,
-    "font": 650940,
+    "document": 35689,
+    "font": 651006,
     "fontCount": 11,
-    "stylesheet": 267571,
+    "stylesheet": 267679,
     "stylesheetCount": 36,
-    "thirdParty": 889079,
+    "thirdParty": 888639,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,23 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 219,
-    "+weight.total": 41,
-    "-weight.document": 129,
-    "+weight.document": 131,
-    "-weight.script": 144,
-    "+weight.script": 114,
-    "-weight.image": 229,
-    "+weight.image": 29,
-    "-weight.font": 198,
-    "+weight.font": 22,
-    "+weight.fontCount": 9,
-    "-timeToFirstByte": 226,
-    "-totalBlockingTime": 166,
-    "-largestContentfulPaint": 239
+    "-weight.total": 351,
+    "+weight.total": 75,
+    "-weight.document": 209,
+    "+weight.document": 214,
+    "-weight.script": 212,
+    "+weight.script": 210,
+    "-weight.image": 369,
+    "+weight.image": 53,
+    "-weight.font": 327,
+    "+weight.font": 32,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 389,
+    "-totalBlockingTime": 91,
+    "-largestContentfulPaint": 385
   },
   "axe": {
-    "passes": 823,
-    "violations": 7
+    "passes": 822,
+    "violations": 8
   }
 }

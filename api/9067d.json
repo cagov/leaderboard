@@ -1,0 +1,67 @@
+{
+  "url": "https://bcsh.ca.gov/",
+  "requestedUrl": "https://bcsh.ca.gov/",
+  "timestamp": 1707761988802,
+  "ranks": {
+    "hundos": 146,
+    "performance": 250,
+    "accessibility": 199,
+    "cumulative": 147
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.99,
+    "total": 332
+  },
+  "firstContentfulPaint": 4243.379999999999,
+  "firstMeaningfulPaint": 4652.92,
+  "speedIndex": 5998.581357611606,
+  "largestContentfulPaint": 14563.788000000004,
+  "totalBlockingTime": 9.5,
+  "cumulativeLayoutShift": 0.2861449175692602,
+  "timeToInteractive": 6647.579,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 17.918999999999997,
+  "weight": {
+    "summary": "60 requests • 4.1 MiB",
+    "total": 4278438,
+    "image": 2660786,
+    "imageCount": 28,
+    "script": 1091101,
+    "scriptCount": 17,
+    "document": 52592,
+    "font": 80184,
+    "fontCount": 3,
+    "stylesheet": 392919,
+    "stylesheetCount": 7,
+    "thirdParty": 706014,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 295,
+    "+weight.total": 131,
+    "-weight.document": 286,
+    "+weight.document": 137,
+    "-weight.script": 276,
+    "+weight.script": 146,
+    "-weight.image": 312,
+    "+weight.image": 110,
+    "-weight.font": 69,
+    "+weight.font": 290,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 43,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 267
+  },
+  "axe": {
+    "passes": 631,
+    "violations": 5
+  }
+}

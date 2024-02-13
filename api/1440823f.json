@@ -1,43 +1,43 @@
 {
   "url": "https://www.oig.ca.gov/",
   "requestedUrl": "https://oig.ca.gov/",
-  "timestamp": 1707435408030,
+  "timestamp": 1707784471502,
   "ranks": {
-    "hundos": 105,
-    "performance": 146,
-    "accessibility": 143,
-    "cumulative": 105
+    "hundos": 131,
+    "performance": 197,
+    "accessibility": 172,
+    "cumulative": 129
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.44,
+    "performance": 0.54,
     "accessibility": 0.95,
     "bestPractices": 0.96,
     "seo": 0.92,
-    "total": 327
+    "total": 337
   },
-  "firstContentfulPaint": 24410.938499999997,
-  "firstMeaningfulPaint": 25332.963999999993,
-  "speedIndex": 25032.865256068493,
-  "largestContentfulPaint": 38419.008,
-  "totalBlockingTime": 433.5,
-  "cumulativeLayoutShift": 0.04869274431258665,
-  "timeToInteractive": 35119.6285,
-  "maxPotentialFirstInputDelay": 629,
-  "timeToFirstByte": 786.5939999999999,
+  "firstContentfulPaint": 16549.858,
+  "firstMeaningfulPaint": 16549.858,
+  "speedIndex": 20640.735033621302,
+  "largestContentfulPaint": 39027.136,
+  "totalBlockingTime": 137,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 35013.01999999999,
+  "maxPotentialFirstInputDelay": 282,
+  "timeToFirstByte": 731.644,
   "weight": {
-    "summary": "137 requests • 6.9 MiB",
-    "total": 7213807,
-    "image": 3131087,
+    "summary": "136 requests • 6.9 MiB",
+    "total": 7209945,
+    "image": 3131065,
     "imageCount": 28,
-    "script": 1640722,
+    "script": 1661238,
     "scriptCount": 45,
     "document": 232487,
-    "font": 397150,
+    "font": 397144,
     "fontCount": 10,
-    "stylesheet": 1812221,
-    "stylesheetCount": 46,
-    "thirdParty": 777419,
+    "stylesheet": 1787601,
+    "stylesheetCount": 45,
+    "thirdParty": 754522,
     "thirdPartyCount": 9
   },
   "run": {
@@ -45,23 +45,23 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 222,
-    "+weight.total": 38,
-    "-weight.document": 250,
-    "+weight.document": 10,
-    "-weight.script": 220,
-    "+weight.script": 38,
-    "-weight.image": 218,
-    "+weight.image": 40,
-    "-weight.font": 170,
-    "+weight.font": 50,
-    "+weight.fontCount": 10,
-    "-timeToFirstByte": 219,
-    "-totalBlockingTime": 167,
-    "-largestContentfulPaint": 250
+    "-weight.total": 354,
+    "+weight.total": 72,
+    "-weight.document": 400,
+    "+weight.document": 23,
+    "-weight.script": 346,
+    "+weight.script": 76,
+    "-weight.image": 327,
+    "+weight.image": 95,
+    "-weight.font": 287,
+    "+weight.font": 72,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 366,
+    "-totalBlockingTime": 148,
+    "-largestContentfulPaint": 408
   },
   "axe": {
-    "passes": 1033,
-    "violations": 25
+    "passes": 1028,
+    "violations": 30
   }
 }

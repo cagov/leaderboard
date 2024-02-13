@@ -1,0 +1,67 @@
+{
+  "url": "https://sdcourt.ca.gov/",
+  "requestedUrl": "https://sdcourt.ca.gov/",
+  "timestamp": 1707788306026,
+  "ranks": {
+    "hundos": 92,
+    "performance": 61,
+    "accessibility": 261,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.73,
+    "accessibility": 0.9,
+    "bestPractices": 0.96,
+    "seo": 0.86,
+    "total": 345
+  },
+  "firstContentfulPaint": 1982.7894999999999,
+  "firstMeaningfulPaint": 1982.7894999999999,
+  "speedIndex": 2040.1906427114475,
+  "largestContentfulPaint": 13514.497500000005,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00007330424687708589,
+  "timeToInteractive": 1982.7894999999999,
+  "maxPotentialFirstInputDelay": 49,
+  "timeToFirstByte": 146.449,
+  "weight": {
+    "summary": "129 requests • 2.2 MiB",
+    "total": 2305823,
+    "image": 1586753,
+    "imageCount": 11,
+    "script": 269307,
+    "scriptCount": 32,
+    "document": 24178,
+    "font": 326114,
+    "fontCount": 6,
+    "stylesheet": 99218,
+    "stylesheetCount": 78,
+    "thirdParty": 109357,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 170,
+    "+weight.total": 256,
+    "-weight.document": 119,
+    "+weight.document": 304,
+    "-weight.script": 50,
+    "+weight.script": 372,
+    "-weight.image": 263,
+    "+weight.image": 159,
+    "-weight.font": 263,
+    "+weight.font": 96,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 243,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 250
+  },
+  "axe": {
+    "passes": 527,
+    "violations": 34
+  }
+}

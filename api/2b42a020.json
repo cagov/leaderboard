@@ -1,43 +1,43 @@
 {
   "url": "https://lhc.ca.gov/",
   "requestedUrl": "https://lhc.ca.gov/",
-  "timestamp": 1707435563896,
+  "timestamp": 1707781436752,
   "ranks": {
-    "hundos": 139,
-    "performance": 138,
-    "accessibility": 193,
-    "cumulative": 139
+    "hundos": 218,
+    "performance": 269,
+    "accessibility": 264,
+    "cumulative": 218
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.45,
+    "performance": 0.46,
     "accessibility": 0.9,
     "bestPractices": 0.96,
     "seo": 0.85,
-    "total": 316
+    "total": 317
   },
-  "firstContentfulPaint": 8965.547000000002,
-  "firstMeaningfulPaint": 8965.547000000002,
-  "speedIndex": 11254.423983582858,
-  "largestContentfulPaint": 17763.69,
-  "totalBlockingTime": 128,
-  "cumulativeLayoutShift": 0.1956970785362628,
-  "timeToInteractive": 9677.252,
-  "maxPotentialFirstInputDelay": 217,
-  "timeToFirstByte": 1537.113,
+  "firstContentfulPaint": 8943.126,
+  "firstMeaningfulPaint": 8943.126,
+  "speedIndex": 13600.760749040184,
+  "largestContentfulPaint": 18253.116,
+  "totalBlockingTime": 49.5,
+  "cumulativeLayoutShift": 0.19862727560212345,
+  "timeToInteractive": 9574.532500000001,
+  "maxPotentialFirstInputDelay": 118,
+  "timeToFirstByte": 1559.1239999999998,
   "weight": {
-    "summary": "57 requests • 3.7 MiB",
-    "total": 3886322,
-    "image": 2462799,
-    "imageCount": 13,
-    "script": 374447,
+    "summary": "56 requests • 3.1 MiB",
+    "total": 3217019,
+    "image": 1777175,
+    "imageCount": 12,
+    "script": 374468,
     "scriptCount": 14,
-    "document": 634299,
-    "font": 138709,
+    "document": 650511,
+    "font": 138713,
     "fontCount": 4,
-    "stylesheet": 275564,
+    "stylesheet": 275561,
     "stylesheetCount": 23,
-    "thirdParty": 188996,
+    "thirdParty": 189105,
     "thirdPartyCount": 4
   },
   "run": {
@@ -45,23 +45,22 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 189,
-    "+weight.total": 71,
-    "-weight.document": 257,
-    "+weight.document": 3,
-    "-weight.script": 45,
-    "+weight.script": 213,
-    "-weight.image": 203,
-    "+weight.image": 55,
-    "-weight.font": 92,
-    "+weight.font": 128,
-    "+weight.fontCount": 16,
-    "-timeToFirstByte": 245,
-    "-totalBlockingTime": 63,
-    "-largestContentfulPaint": 210
+    "-weight.total": 251,
+    "+weight.total": 175,
+    "-weight.document": 419,
+    "+weight.document": 4,
+    "-weight.script": 80,
+    "+weight.script": 342,
+    "-weight.image": 274,
+    "+weight.image": 148,
+    "-weight.font": 139,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 402,
+    "-totalBlockingTime": 77,
+    "-largestContentfulPaint": 294
   },
   "axe": {
-    "passes": 315,
-    "violations": 24
+    "error": "{\"name\":\"TimeoutError\"}"
   }
 }

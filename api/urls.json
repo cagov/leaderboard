@@ -1,58 +1,49 @@
 {
-  "https://www.chiro.ca.gov/": {
-    "requestedUrl": "https://www.chiro.ca.gov/",
-    "url": "https://www.chiro.ca.gov/",
-    "hash": "19011341",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.treasurer.ca.gov/ctcac/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/ctcac/",
-    "url": "https://www.treasurer.ca.gov/ctcac/",
-    "hash": "31128106",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.calottery.com/": {
-    "requestedUrl": "https://www.calottery.com/",
-    "url": "https://www.calottery.com/",
-    "hash": "35465542",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.aging.ca.gov/": {
-    "requestedUrl": "https://www.aging.ca.gov/",
-    "url": "https://www.aging.ca.gov/",
-    "hash": "54547678",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "undefined": {
-    "url": "https://www.bcc.ca.gov/",
-    "hash": "fe444f7c",
+    "url": "https://ceqanet.ca.gov/",
+    "hash": "fff0b04e",
     "categories": []
   },
-  "https://www.ibank.ca.gov/": {
-    "requestedUrl": "https://www.ibank.ca.gov/",
-    "url": "https://www.ibank.ca.gov/",
-    "hash": "95545811",
+  "https://saferatwork.ca.gov/": {
+    "requestedUrl": "https://saferatwork.ca.gov/",
+    "url": "https://saferatwork.covid19.ca.gov/",
+    "hash": "38102841",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.cccco.edu/": {
-    "requestedUrl": "https://www.cccco.edu/",
-    "url": "https://www.cccco.edu/",
-    "hash": "103e1d37",
+  "https://businessportal.ca.gov/": {
+    "requestedUrl": "https://businessportal.ca.gov/",
+    "url": "https://calosba.ca.gov/",
+    "hash": "49006436",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cfcc.ca.gov/": {
+    "requestedUrl": "https://cfcc.ca.gov/",
+    "url": "https://cfcc.ca.gov/",
+    "hash": "49684522",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://scag.ca.gov/": {
+    "requestedUrl": "https://scag.ca.gov/",
+    "url": "https://scag.ca.gov/",
+    "hash": "56042851",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://tulare.ca.gov/": {
+    "requestedUrl": "https://tulare.ca.gov/",
+    "url": "https://www.tulare.ca.gov/",
+    "hash": "74988785",
     "categories": [
       "cagov"
     ],
@@ -67,10 +58,55 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dof.ca.gov/": {
-    "requestedUrl": "https://www.dof.ca.gov/",
+  "https://bvnpt.ca.gov/": {
+    "requestedUrl": "https://bvnpt.ca.gov/",
+    "url": "https://bvnpt.ca.gov/",
+    "hash": "11b4139",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://wpwma.ca.gov/": {
+    "requestedUrl": "https://wpwma.ca.gov/",
+    "url": "https://wpwma.ca.gov/",
+    "hash": "11bede1b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sbac.ca.gov/": {
+    "requestedUrl": "https://sbac.ca.gov/",
+    "url": "https://www.sbac.ca.gov/",
+    "hash": "12f47e8d",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://fiduciary.ca.gov/": {
+    "requestedUrl": "https://fiduciary.ca.gov/",
+    "url": "https://fiduciary.ca.gov/",
+    "hash": "13862c19",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dof.ca.gov/": {
+    "requestedUrl": "https://dof.ca.gov/",
     "url": "https://dof.ca.gov/",
     "hash": "13b0a24a",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://futureofwork.ca.gov/": {
+    "requestedUrl": "https://futureofwork.ca.gov/",
+    "url": "https://www.labor.ca.gov/labor-and-workforce-development-agency/fowc/",
+    "hash": "13ddde50",
     "categories": [
       "cagov"
     ],
@@ -85,10 +121,19 @@
     ],
     "vertical": "cagov"
   },
-  "http://nahc.ca.gov/": {
-    "requestedUrl": "http://nahc.ca.gov/",
-    "url": "https://nahc.ca.gov/",
-    "hash": "14dfd43",
+  "https://dcss.ca.gov/": {
+    "requestedUrl": "https://dcss.ca.gov/",
+    "url": "https://dcss.ca.gov/",
+    "hash": "1457f300",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://townofmammothlakes.ca.gov/": {
+    "requestedUrl": "https://townofmammothlakes.ca.gov/",
+    "url": "https://townofmammothlakes.ca.gov/",
+    "hash": "14cb9ee3",
     "categories": [
       "cagov"
     ],
@@ -103,19 +148,64 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.fiduciary.ca.gov/": {
-    "requestedUrl": "https://www.fiduciary.ca.gov/",
-    "url": "https://www.fiduciary.ca.gov/",
-    "hash": "16f7e620",
+  "https://tularecounty.ca.gov/": {
+    "requestedUrl": "https://tularecounty.ca.gov/",
+    "url": "https://tularecounty.ca.gov/county/",
+    "hash": "155005f3",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.cslb.ca.gov/": {
-    "requestedUrl": "https://www.cslb.ca.gov/",
-    "url": "https://www.cslb.ca.gov/",
-    "hash": "198c8d00",
+  "https://abortion.ca.gov/": {
+    "requestedUrl": "https://abortion.ca.gov/",
+    "url": "https://abortion.ca.gov/",
+    "hash": "15aa5e5",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://aquaculturematters.ca.gov/": {
+    "requestedUrl": "https://aquaculturematters.ca.gov/",
+    "url": "https://aquaculturematters.ca.gov/",
+    "hash": "16e3b4c7",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cdss.ca.gov/": {
+    "requestedUrl": "https://cdss.ca.gov/",
+    "url": "https://cdss.ca.gov/",
+    "hash": "1721a360",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://lemonlaw.ca.gov/": {
+    "requestedUrl": "https://lemonlaw.ca.gov/",
+    "url": "https://www.dca.ca.gov/acp/",
+    "hash": "17325a85",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://naturopathic.ca.gov/": {
+    "requestedUrl": "https://naturopathic.ca.gov/",
+    "url": "https://naturopathic.ca.gov/",
+    "hash": "17b52373",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://capitolmuseum.ca.gov/": {
+    "requestedUrl": "https://capitolmuseum.ca.gov/",
+    "url": "https://capitolmuseum.ca.gov/",
+    "hash": "18cc49bd",
     "categories": [
       "cagov"
     ],
@@ -139,17 +229,26 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.chhs.ca.gov/": {
-    "requestedUrl": "https://www.chhs.ca.gov/",
-    "url": "https://www.chhs.ca.gov/",
-    "hash": "1c1f46ce",
+  "https://dre.ca.gov/": {
+    "requestedUrl": "https://dre.ca.gov/",
+    "url": "https://dre.ca.gov/",
+    "hash": "1d4be2f4",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.calrecycle.ca.gov/": {
-    "requestedUrl": "https://www.calrecycle.ca.gov/",
+  "https://medalofvalor.ca.gov/": {
+    "requestedUrl": "https://medalofvalor.ca.gov/",
+    "url": "https://medalofvalor.ca.gov/",
+    "hash": "1d4e26a9",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calrecycle.ca.gov/": {
+    "requestedUrl": "https://calrecycle.ca.gov/",
     "url": "https://calrecycle.ca.gov/",
     "hash": "1dc00e4e",
     "categories": [
@@ -157,8 +256,26 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cpuc.ca.gov/": {
-    "requestedUrl": "https://www.cpuc.ca.gov/",
+  "https://driveclean.ca.gov/": {
+    "requestedUrl": "https://driveclean.ca.gov/",
+    "url": "https://driveclean.ca.gov/",
+    "hash": "1e597fce",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://taxes.ca.gov/": {
+    "requestedUrl": "https://taxes.ca.gov/",
+    "url": "https://taxes.ca.gov/",
+    "hash": "1e8346bc",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cpuc.ca.gov/": {
+    "requestedUrl": "https://cpuc.ca.gov/",
     "url": "https://www.cpuc.ca.gov/",
     "hash": "1e8c1a5b",
     "categories": [
@@ -166,19 +283,82 @@
     ],
     "vertical": "cagov"
   },
-  "https://projecttracking.technology.ca.gov/PAL": {
-    "requestedUrl": "https://projecttracking.technology.ca.gov/PAL",
-    "url": "https://projecttracking.technology.ca.gov/PAL",
-    "hash": "1ea068e8",
+  "https://cityofsanluisobispo.ca.gov/": {
+    "requestedUrl": "https://cityofsanluisobispo.ca.gov/",
+    "url": "https://www.slocity.org/",
+    "hash": "1e920fc1",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://hbex.coveredca.com/": {
-    "requestedUrl": "https://hbex.coveredca.com/",
-    "url": "https://hbex.coveredca.com/",
-    "hash": "201c0e23",
+  "https://vision.ca.gov/": {
+    "requestedUrl": "https://vision.ca.gov/",
+    "url": "https://vision.ca.gov/",
+    "hash": "1e966d83",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://broadbandmap.ca.gov/": {
+    "requestedUrl": "https://broadbandmap.ca.gov/",
+    "url": "https://broadbandmap.ca.gov/",
+    "hash": "1e972448",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://spwb.ca.gov/": {
+    "requestedUrl": "https://spwb.ca.gov/",
+    "url": "https://spwb.ca.gov/",
+    "hash": "1ec99b51",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cityofcorcoran.ca.gov/": {
+    "requestedUrl": "https://cityofcorcoran.ca.gov/",
+    "url": "https://cityofcorcoran.ca.gov/",
+    "hash": "1f2f4286",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://scac.ca.gov/": {
+    "requestedUrl": "https://scac.ca.gov/",
+    "url": "https://scac.ca.gov/",
+    "hash": "1f94bbd5",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://tehamajuryservices.ca.gov/": {
+    "requestedUrl": "https://tehamajuryservices.ca.gov/",
+    "url": "https://tehamajuryservices.ca.gov/login",
+    "hash": "1fc1d0a",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bvwd.ca.gov/": {
+    "requestedUrl": "https://bvwd.ca.gov/",
+    "url": "https://bvwd.ca.gov/",
+    "hash": "203e5780",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cpost.ca.gov/": {
+    "requestedUrl": "https://cpost.ca.gov/",
+    "url": "https://cpost.ca.gov/",
+    "hash": "20fdad5c",
     "categories": [
       "cagov"
     ],
@@ -202,6 +382,33 @@
     ],
     "vertical": "cagov"
   },
+  "https://fairfieldsuisunsewer.ca.gov/": {
+    "requestedUrl": "https://fairfieldsuisunsewer.ca.gov/",
+    "url": "https://www.fairfieldsuisunsewer.ca.gov/",
+    "hash": "2169ad91",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://pab.ca.gov/": {
+    "requestedUrl": "https://pab.ca.gov/",
+    "url": "https://pab.ca.gov/",
+    "hash": "21a03094",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://spmud.ca.gov/": {
+    "requestedUrl": "https://spmud.ca.gov/",
+    "url": "https://spmud.ca.gov/",
+    "hash": "21bbd918",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://oehha.ca.gov/": {
     "requestedUrl": "https://oehha.ca.gov/",
     "url": "https://oehha.ca.gov/",
@@ -211,8 +418,8 @@
     ],
     "vertical": "cagov"
   },
-  "http://deltaconservancy.ca.gov/": {
-    "requestedUrl": "http://deltaconservancy.ca.gov/",
+  "https://deltaconservancy.ca.gov/": {
+    "requestedUrl": "https://deltaconservancy.ca.gov/",
     "url": "https://deltaconservancy.ca.gov/",
     "hash": "2260331a",
     "categories": [
@@ -220,8 +427,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/",
+  "https://treasurer.ca.gov/": {
+    "requestedUrl": "https://treasurer.ca.gov/",
     "url": "https://www.treasurer.ca.gov/",
     "hash": "22626cff",
     "categories": [
@@ -229,8 +436,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.energy.ca.gov/": {
-    "requestedUrl": "https://www.energy.ca.gov/",
+  "https://energy.ca.gov/": {
+    "requestedUrl": "https://energy.ca.gov/",
     "url": "https://www.energy.ca.gov/",
     "hash": "2359e19c",
     "categories": [
@@ -238,28 +445,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/cpcfa/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/cpcfa/",
-    "url": "https://www.treasurer.ca.gov/cpcfa/",
-    "hash": "23b3d507",
+  "https://ccfc.ca.gov/": {
+    "requestedUrl": "https://ccfc.ca.gov/",
+    "url": "https://ccfc.ca.gov/",
+    "hash": "237642c2",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/cdiac/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/cdiac/",
-    "url": "https://www.treasurer.ca.gov/cdiac/",
-    "hash": "2494975c",
+  "https://caljobs.ca.gov/": {
+    "requestedUrl": "https://caljobs.ca.gov/",
+    "url": "https://www.caljobs.ca.gov/vosnet/Default.aspx",
+    "hash": "23c51c01",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.cde.ca.gov/be/": {
-    "requestedUrl": "https://www.cde.ca.gov/be/",
-    "url": "https://www.cde.ca.gov/be/",
-    "hash": "249c2fb4",
+  "https://oycr.ca.gov/": {
+    "requestedUrl": "https://oycr.ca.gov/",
+    "url": "https://oycr.ca.gov/",
+    "hash": "244a9fa0",
     "categories": [
       "cagov"
     ],
@@ -292,10 +499,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.sos.ca.gov/": {
-    "requestedUrl": "https://www.sos.ca.gov/",
+  "https://rebuildingca.ca.gov/": {
+    "requestedUrl": "https://rebuildingca.ca.gov/",
+    "url": "https://rebuildingca.ca.gov/",
+    "hash": "265dbf64",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sos.ca.gov/": {
+    "requestedUrl": "https://sos.ca.gov/",
     "url": "https://www.sos.ca.gov/",
     "hash": "26761ef1",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://opzones.ca.gov/": {
+    "requestedUrl": "https://opzones.ca.gov/",
+    "url": "https://economicdevelopment.business.ca.gov/frequently-asked-questions/",
+    "hash": "267edfc6",
     "categories": [
       "cagov"
     ],
@@ -310,10 +535,46 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.sco.ca.gov/ard_cuccac.html": {
-    "requestedUrl": "https://www.sco.ca.gov/ard_cuccac.html",
-    "url": "https://www.sco.ca.gov/ard_cuccac.html",
-    "hash": "282241ce",
+  "https://savewater.ca.gov/": {
+    "requestedUrl": "https://savewater.ca.gov/",
+    "url": "https://savewater.ca.gov/",
+    "hash": "2710eb73",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://saltonsea.ca.gov/": {
+    "requestedUrl": "https://saltonsea.ca.gov/",
+    "url": "https://saltonsea.ca.gov/",
+    "hash": "279fc3b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://latc.ca.gov/": {
+    "requestedUrl": "https://latc.ca.gov/",
+    "url": "https://latc.ca.gov/",
+    "hash": "282a5e5d",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://paumavalleycsd.ca.gov/": {
+    "requestedUrl": "https://paumavalleycsd.ca.gov/",
+    "url": "https://www.paumavalleycsd.ca.gov/",
+    "hash": "282ec929",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bcdc.ca.gov/": {
+    "requestedUrl": "https://bcdc.ca.gov/",
+    "url": "https://bcdc.ca.gov/",
+    "hash": "2842e881",
     "categories": [
       "cagov"
     ],
@@ -328,10 +589,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.bpelsg.ca.gov/": {
-    "requestedUrl": "https://www.bpelsg.ca.gov/",
-    "url": "https://www.bpelsg.ca.gov/",
-    "hash": "28b6f5d1",
+  "https://mtc.ca.gov/": {
+    "requestedUrl": "https://mtc.ca.gov/",
+    "url": "https://mtc.ca.gov/",
+    "hash": "28c2f8fd",
     "categories": [
       "cagov"
     ],
@@ -346,10 +607,46 @@
     ],
     "vertical": "cagov"
   },
-  "https://dfpi.ca.gov/": {
-    "requestedUrl": "https://dfpi.ca.gov/",
+  "https://slc.ca.gov/": {
+    "requestedUrl": "https://slc.ca.gov/",
+    "url": "https://slc.ca.gov/",
+    "hash": "28e919fb",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cwds.ca.gov/": {
+    "requestedUrl": "https://cwds.ca.gov/",
+    "url": "https://cwds.ca.gov/",
+    "hash": "2982e7c4",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://ncsd.ca.gov/": {
+    "requestedUrl": "https://ncsd.ca.gov/",
+    "url": "https://ncsd.ca.gov/",
+    "hash": "2a75f1fd",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dbo.ca.gov/": {
+    "requestedUrl": "https://dbo.ca.gov/",
     "url": "https://dfpi.ca.gov/",
     "hash": "2a7db7c",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://mycalpers.ca.gov/": {
+    "requestedUrl": "https://mycalpers.ca.gov/",
+    "url": "https://my.calpers.ca.gov/web/ept/public/systemaccess/selectLoginType.html",
+    "hash": "2a8f2516",
     "categories": [
       "cagov"
     ],
@@ -364,10 +661,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.bcdc.ca.gov/": {
-    "requestedUrl": "https://www.bcdc.ca.gov/",
-    "url": "https://www.bcdc.ca.gov/",
-    "hash": "2b80d8b8",
+  "https://barbercosmo.ca.gov/": {
+    "requestedUrl": "https://barbercosmo.ca.gov/",
+    "url": "https://barbercosmo.ca.gov/",
+    "hash": "2c8a121e",
     "categories": [
       "cagov"
     ],
@@ -382,19 +679,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://business.ca.gov/": {
-    "requestedUrl": "https://business.ca.gov/",
-    "url": "https://business.ca.gov/",
-    "hash": "2d266441",
+  "https://californiadgstats.ca.gov/": {
+    "requestedUrl": "https://californiadgstats.ca.gov/",
+    "url": "https://www.californiadgstats.ca.gov/",
+    "hash": "2cecfd26",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://bof.fire.ca.gov/": {
-    "requestedUrl": "https://bof.fire.ca.gov/",
-    "url": "https://bof.fire.ca.gov/",
-    "hash": "2de213fa",
+  "https://business.ca.gov/": {
+    "requestedUrl": "https://business.ca.gov/",
+    "url": "https://business.ca.gov/",
+    "hash": "2d266441",
     "categories": [
       "cagov"
     ],
@@ -409,10 +706,28 @@
     ],
     "vertical": "cagov"
   },
+  "https://rainbowmwd.ca.gov/": {
+    "requestedUrl": "https://rainbowmwd.ca.gov/",
+    "url": "https://www.rainbowmwd.ca.gov/",
+    "hash": "2ecf538e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://ccc.ca.gov/": {
     "requestedUrl": "https://ccc.ca.gov/",
     "url": "https://ccc.ca.gov/",
     "hash": "2f303084",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://lemongrove.ca.gov/": {
+    "requestedUrl": "https://lemongrove.ca.gov/",
+    "url": "https://www.lemongrove.ca.gov/",
+    "hash": "2f3ddc92",
     "categories": [
       "cagov"
     ],
@@ -427,19 +742,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://cfda.opr.ca.gov/": {
-    "requestedUrl": "https://cfda.opr.ca.gov/",
-    "url": "https://cfda.opr.ca.gov/",
-    "hash": "2fa6cc4",
+  "https://scc.ca.gov/": {
+    "requestedUrl": "https://scc.ca.gov/",
+    "url": "https://scc.ca.gov/",
+    "hash": "2fdc2c94",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://scc.ca.gov/": {
-    "requestedUrl": "https://scc.ca.gov/",
-    "url": "https://scc.ca.gov/",
-    "hash": "2fdc2c94",
+  "https://ccr.ca.gov/": {
+    "requestedUrl": "https://ccr.ca.gov/",
+    "url": "https://www.ccrcal.org/learn-about-ccr/",
+    "hash": "30488d0e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://osi.ca.gov/": {
+    "requestedUrl": "https://osi.ca.gov/",
+    "url": "https://osi.ca.gov/",
+    "hash": "31a00312",
     "categories": [
       "cagov"
     ],
@@ -454,8 +778,8 @@
     ],
     "vertical": "cagov"
   },
-  "http://cvmc.ca.gov/": {
-    "requestedUrl": "http://cvmc.ca.gov/",
+  "https://cvmc.ca.gov/": {
+    "requestedUrl": "https://cvmc.ca.gov/",
     "url": "https://cvmc.ca.gov/",
     "hash": "322937bc",
     "categories": [
@@ -472,6 +796,42 @@
     ],
     "vertical": "cagov"
   },
+  "https://californianature.ca.gov/": {
+    "requestedUrl": "https://californianature.ca.gov/",
+    "url": "https://www.californianature.ca.gov/",
+    "hash": "33288e5d",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://highlandsrec.ca.gov/": {
+    "requestedUrl": "https://highlandsrec.ca.gov/",
+    "url": "https://highlandsrec.ca.gov/",
+    "hash": "3381d2a9",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://californiasciencecenter.ca.gov/": {
+    "requestedUrl": "https://californiasciencecenter.ca.gov/",
+    "url": "https://californiasciencecenter.ca.gov/",
+    "hash": "341786c2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sucorte.ca.gov/": {
+    "requestedUrl": "https://sucorte.ca.gov/",
+    "url": "https://selfhelp.courts.ca.gov/es",
+    "hash": "36308f9e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://ssc.ca.gov/": {
     "requestedUrl": "https://ssc.ca.gov/",
     "url": "https://ssc.ca.gov/",
@@ -481,8 +841,35 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.fire.ca.gov/": {
-    "requestedUrl": "https://www.fire.ca.gov/",
+  "https://bluelake.ca.gov/": {
+    "requestedUrl": "https://bluelake.ca.gov/",
+    "url": "https://bluelake.ca.gov/",
+    "hash": "367dacba",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cityofventura.ca.gov/": {
+    "requestedUrl": "https://cityofventura.ca.gov/",
+    "url": "https://www.cityofventura.ca.gov/",
+    "hash": "36a3ea7f",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://heritageranchcsd.ca.gov/": {
+    "requestedUrl": "https://heritageranchcsd.ca.gov/",
+    "url": "https://heritageranchcsd.ca.gov/",
+    "hash": "36a51fa4",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://fire.ca.gov/": {
+    "requestedUrl": "https://fire.ca.gov/",
     "url": "https://www.fire.ca.gov/",
     "hash": "378858a6",
     "categories": [
@@ -490,8 +877,26 @@
     ],
     "vertical": "cagov"
   },
-  "http://cvfpb.ca.gov/": {
-    "requestedUrl": "http://cvfpb.ca.gov/",
+  "https://expositionpark.ca.gov/": {
+    "requestedUrl": "https://expositionpark.ca.gov/",
+    "url": "https://expositionpark.ca.gov/",
+    "hash": "3902392b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://doj.ca.gov/": {
+    "requestedUrl": "https://doj.ca.gov/",
+    "url": "https://www.oag.ca.gov/",
+    "hash": "3ac58337",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cvfpb.ca.gov/": {
+    "requestedUrl": "https://cvfpb.ca.gov/",
     "url": "https://cvfpb.ca.gov/",
     "hash": "3acecc66",
     "categories": [
@@ -508,26 +913,35 @@
     ],
     "vertical": "cagov"
   },
-  "https://calstate.edu/": {
-    "requestedUrl": "https://calstate.edu/",
-    "url": "https://www.calstate.edu/",
-    "hash": "3d60da41",
+  "https://psychology.ca.gov/": {
+    "requestedUrl": "https://psychology.ca.gov/",
+    "url": "https://psychology.ca.gov/",
+    "hash": "3d099564",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.ca.gov/": {
-    "requestedUrl": "https://www.ca.gov/",
-    "url": "https://www.ca.gov/",
-    "hash": "3dbc7810",
+  "https://postsecondarycouncil.ca.gov/": {
+    "requestedUrl": "https://postsecondarycouncil.ca.gov/",
+    "url": "https://careereducation.gov.ca.gov/",
+    "hash": "3f100df",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dfeh.ca.gov/": {
-    "requestedUrl": "https://www.dfeh.ca.gov/",
+  "https://lassencourt.ca.gov/": {
+    "requestedUrl": "https://lassencourt.ca.gov/",
+    "url": "https://www.lassen.courts.ca.gov/",
+    "hash": "3f8ed1a",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dfeh.ca.gov/": {
+    "requestedUrl": "https://dfeh.ca.gov/",
     "url": "https://calcivilrights.ca.gov/",
     "hash": "3fbff283",
     "categories": [
@@ -535,28 +949,82 @@
     ],
     "vertical": "cagov"
   },
-  "https://projecttracking.technology.ca.gov/": {
-    "requestedUrl": "https://projecttracking.technology.ca.gov/",
-    "url": "https://projecttracking.technology.ca.gov/",
-    "hash": "40ed30b5",
+  "https://capiaa.ca.gov/": {
+    "requestedUrl": "https://capiaa.ca.gov/",
+    "url": "https://capiaa.ca.gov/",
+    "hash": "4047363c",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.slc.ca.gov/": {
-    "requestedUrl": "https://www.slc.ca.gov/",
-    "url": "https://www.slc.ca.gov/",
-    "hash": "417db002",
+  "https://caclimateinvestments.ca.gov/": {
+    "requestedUrl": "https://caclimateinvestments.ca.gov/",
+    "url": "https://www.caclimateinvestments.ca.gov/",
+    "hash": "40dbe3b5",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://waterchallenge.data.ca.gov/": {
-    "requestedUrl": "https://waterchallenge.data.ca.gov/",
-    "url": "https://waterchallenge.data.ca.gov/",
-    "hash": "4375fb0f",
+  "https://ccldpartners.ca.gov/": {
+    "requestedUrl": "https://ccldpartners.ca.gov/",
+    "url": "https://cdss.ca.gov/inforesources/community-care-licensing",
+    "hash": "413cf440",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://pioneercommunityenergy.ca.gov/": {
+    "requestedUrl": "https://pioneercommunityenergy.ca.gov/",
+    "url": "https://pioneercommunityenergy.org/",
+    "hash": "4153feb4",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cnips.ca.gov/": {
+    "requestedUrl": "https://cnips.ca.gov/",
+    "url": "https://cnips.ca.gov/Splash.aspx",
+    "hash": "41bc66e1",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://captain.ca.gov/": {
+    "requestedUrl": "https://captain.ca.gov/",
+    "url": "https://captain.ca.gov/",
+    "hash": "421d0627",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://wwd.ca.gov/": {
+    "requestedUrl": "https://wwd.ca.gov/",
+    "url": "https://wwd.ca.gov/",
+    "hash": "42aad903",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://slocounty.ca.gov/": {
+    "requestedUrl": "https://slocounty.ca.gov/",
+    "url": "https://slocounty.ca.gov/",
+    "hash": "43b3086d",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://rn.ca.gov/": {
+    "requestedUrl": "https://rn.ca.gov/",
+    "url": "https://rn.ca.gov/",
+    "hash": "43d3d6db",
     "categories": [
       "cagov"
     ],
@@ -571,17 +1039,35 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dre.ca.gov/": {
-    "requestedUrl": "https://www.dre.ca.gov/",
-    "url": "https://www.dre.ca.gov/",
-    "hash": "451cc4cd",
+  "https://qfd.ca.gov/": {
+    "requestedUrl": "https://qfd.ca.gov/",
+    "url": "https://qfd.ca.gov/",
+    "hash": "462a6974",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.alrb.ca.gov/": {
-    "requestedUrl": "https://www.alrb.ca.gov/",
+  "https://gocalif.ca.gov/": {
+    "requestedUrl": "https://gocalif.ca.gov/",
+    "url": "https://www.visitcalifornia.com/",
+    "hash": "46d0c986",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://fosteryouthhelp.ca.gov/": {
+    "requestedUrl": "https://fosteryouthhelp.ca.gov/",
+    "url": "https://fosteryouthhelp.ca.gov/",
+    "hash": "46fe2730",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://alrb.ca.gov/": {
+    "requestedUrl": "https://alrb.ca.gov/",
     "url": "https://www.alrb.ca.gov/",
     "hash": "478d84e3",
     "categories": [
@@ -589,10 +1075,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.acupuncture.ca.gov/": {
-    "requestedUrl": "https://www.acupuncture.ca.gov/",
-    "url": "https://www.acupuncture.ca.gov/",
-    "hash": "47e85877",
+  "https://chiro.ca.gov/": {
+    "requestedUrl": "https://chiro.ca.gov/",
+    "url": "https://chiro.ca.gov/",
+    "hash": "47fa0b78",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://metrofire.ca.gov/": {
+    "requestedUrl": "https://metrofire.ca.gov/",
+    "url": "https://metrofire.ca.gov/",
+    "hash": "4853d79e",
     "categories": [
       "cagov"
     ],
@@ -607,17 +1102,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.chhs.ca.gov/ohii/": {
-    "requestedUrl": "https://www.chhs.ca.gov/ohii/",
-    "url": "https://www.cdii.ca.gov/compliance-and-policy/",
-    "hash": "48e05080",
+  "https://ptbc.ca.gov/": {
+    "requestedUrl": "https://ptbc.ca.gov/",
+    "url": "https://ptbc.ca.gov/",
+    "hash": "48faa162",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.assembly.ca.gov/": {
-    "requestedUrl": "https://www.assembly.ca.gov/",
+  "https://assembly.ca.gov/": {
+    "requestedUrl": "https://assembly.ca.gov/",
     "url": "https://www.assembly.ca.gov/",
     "hash": "494c0",
     "categories": [
@@ -625,19 +1120,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.govops.ca.gov/": {
-    "requestedUrl": "https://www.govops.ca.gov/",
-    "url": "https://www.govops.ca.gov/",
-    "hash": "4a4706cc",
+  "https://letsgethealthy.ca.gov/": {
+    "requestedUrl": "https://letsgethealthy.ca.gov/",
+    "url": "https://letsgethealthy.ca.gov/",
+    "hash": "49aac7ba",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.bot.ca.gov/": {
-    "requestedUrl": "https://www.bot.ca.gov/",
-    "url": "https://www.bot.ca.gov/",
-    "hash": "4a501da7",
+  "https://govops.ca.gov/": {
+    "requestedUrl": "https://govops.ca.gov/",
+    "url": "https://www.govops.ca.gov/",
+    "hash": "4a4706cc",
     "categories": [
       "cagov"
     ],
@@ -652,8 +1147,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://resources.ca.gov/": {
-    "requestedUrl": "https://resources.ca.gov/",
+  "https://morganhill.ca.gov/": {
+    "requestedUrl": "https://morganhill.ca.gov/",
+    "url": "https://morganhill.ca.gov/",
+    "hash": "4a9c277e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cnra.ca.gov/": {
+    "requestedUrl": "https://cnra.ca.gov/",
     "url": "https://resources.ca.gov/",
     "hash": "4b0b71e",
     "categories": [
@@ -661,46 +1165,91 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.osi.ca.gov/": {
-    "requestedUrl": "https://www.osi.ca.gov/",
-    "url": "https://www.osi.ca.gov/",
-    "hash": "4b62986b",
+  "https://cfb.ca.gov/": {
+    "requestedUrl": "https://cfb.ca.gov/",
+    "url": "https://cfb.ca.gov/",
+    "hash": "4c0902e0",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.psychology.ca.gov/": {
-    "requestedUrl": "https://www.psychology.ca.gov/",
-    "url": "https://www.psychology.ca.gov/",
-    "hash": "4c4ab35d",
+  "https://medi-cal.ca.gov/": {
+    "requestedUrl": "https://medi-cal.ca.gov/",
+    "url": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
+    "hash": "4c143ff3",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/pmia-laif/pmia/program.asp": {
-    "requestedUrl": "https://www.treasurer.ca.gov/pmia-laif/pmia/program.asp",
-    "url": "https://www.treasurer.ca.gov/pmia-laif/pmia/program.asp",
-    "hash": "4c8481e8",
+  "https://rcpa.ca.gov/": {
+    "requestedUrl": "https://rcpa.ca.gov/",
+    "url": "https://rcpa.ca.gov/",
+    "hash": "4c28b247",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dir.ca.gov/chswc/": {
-    "requestedUrl": "https://www.dir.ca.gov/chswc/",
-    "url": "https://www.dir.ca.gov/chswc/",
-    "hash": "4e185582",
+  "https://healthhelp.ca.gov/": {
+    "requestedUrl": "https://healthhelp.ca.gov/",
+    "url": "https://www.dmhc.ca.gov/?referral=hmohelp.ca.gov",
+    "hash": "4c52d300",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/scholarshare/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/scholarshare/",
-    "url": "https://www.treasurer.ca.gov/scholarshare/",
-    "hash": "4f0c7b75",
+  "https://vmb.ca.gov/": {
+    "requestedUrl": "https://vmb.ca.gov/",
+    "url": "https://vmb.ca.gov/",
+    "hash": "4c782d1e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://fairfield.ca.gov/": {
+    "requestedUrl": "https://fairfield.ca.gov/",
+    "url": "https://www.fairfield.ca.gov/",
+    "hash": "4e62f580",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://fppc.ca.gov/": {
+    "requestedUrl": "https://fppc.ca.gov/",
+    "url": "https://fppc.ca.gov/",
+    "hash": "4e7ae9e2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://ojai.ca.gov/": {
+    "requestedUrl": "https://ojai.ca.gov/",
+    "url": "https://ojai.ca.gov/",
+    "hash": "4eeb46ea",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://auditor.ca.gov/": {
+    "requestedUrl": "https://auditor.ca.gov/",
+    "url": "https://auditor.ca.gov/",
+    "hash": "4ef46b17",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sunnyvale.ca.gov/": {
+    "requestedUrl": "https://sunnyvale.ca.gov/",
+    "url": "https://www.sunnyvale.ca.gov/",
+    "hash": "4f6d2d3f",
     "categories": [
       "cagov"
     ],
@@ -715,17 +1264,26 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.nmvb.ca.gov/": {
-    "requestedUrl": "https://www.nmvb.ca.gov/",
-    "url": "https://www.nmvb.ca.gov/",
-    "hash": "4fecd049",
+  "https://optometry.ca.gov/": {
+    "requestedUrl": "https://optometry.ca.gov/",
+    "url": "https://optometry.ca.gov/",
+    "hash": "501db1f4",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.ots.ca.gov/": {
-    "requestedUrl": "https://www.ots.ca.gov/",
+  "https://srta.ca.gov/": {
+    "requestedUrl": "https://srta.ca.gov/",
+    "url": "https://srta.ca.gov/",
+    "hash": "5048cd33",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://ots.ca.gov/": {
+    "requestedUrl": "https://ots.ca.gov/",
     "url": "https://www.ots.ca.gov/",
     "hash": "50aaef16",
     "categories": [
@@ -733,28 +1291,55 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.bsis.ca.gov/": {
-    "requestedUrl": "https://www.bsis.ca.gov/",
-    "url": "https://www.bsis.ca.gov/",
-    "hash": "51cc3175",
+  "https://recycledelnorte.ca.gov/": {
+    "requestedUrl": "https://recycledelnorte.ca.gov/",
+    "url": "https://recycledelnorte.ca.gov/",
+    "hash": "514b408f",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dir.ca.gov/wcab/": {
-    "requestedUrl": "https://www.dir.ca.gov/wcab/",
-    "url": "https://www.dir.ca.gov/wcab/",
-    "hash": "5535abd9",
+  "https://trabajaseguro.ca.gov/": {
+    "requestedUrl": "https://trabajaseguro.ca.gov/",
+    "url": "https://saferatwork.covid19.ca.gov/es/",
+    "hash": "517a1b58",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "http://www.cgcc.ca.gov/": {
-    "requestedUrl": "http://www.cgcc.ca.gov/",
-    "url": "http://www.cgcc.ca.gov/",
-    "hash": "55d73f69",
+  "https://beacon.ca.gov/": {
+    "requestedUrl": "https://beacon.ca.gov/",
+    "url": "https://beacon.ca.gov/",
+    "hash": "51f890c3",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://ccag.ca.gov/": {
+    "requestedUrl": "https://ccag.ca.gov/",
+    "url": "https://ccag.ca.gov/",
+    "hash": "55582c41",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bppe.ca.gov/": {
+    "requestedUrl": "https://bppe.ca.gov/",
+    "url": "https://bppe.ca.gov/",
+    "hash": "56438fa0",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://reedley.ca.gov/": {
+    "requestedUrl": "https://reedley.ca.gov/",
+    "url": "https://reedley.ca.gov/",
+    "hash": "5719bba1",
     "categories": [
       "cagov"
     ],
@@ -769,10 +1354,46 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dmhc.ca.gov/": {
-    "requestedUrl": "https://www.dmhc.ca.gov/",
-    "url": "https://www.dmhc.ca.gov/",
-    "hash": "5959a7c",
+  "https://granada.ca.gov/": {
+    "requestedUrl": "https://granada.ca.gov/",
+    "url": "https://granada.ca.gov/",
+    "hash": "585fd979",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sanramon.ca.gov/": {
+    "requestedUrl": "https://sanramon.ca.gov/",
+    "url": "https://sanramon.ca.gov/",
+    "hash": "58630a84",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cacgn.ca.gov/": {
+    "requestedUrl": "https://cacgn.ca.gov/",
+    "url": "https://cacgn.ca.gov/",
+    "hash": "5887586f",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://loomis.ca.gov/": {
+    "requestedUrl": "https://loomis.ca.gov/",
+    "url": "https://loomis.ca.gov/",
+    "hash": "59ccd8fc",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://tourism.ca.gov/": {
+    "requestedUrl": "https://tourism.ca.gov/",
+    "url": "https://tourism.ca.gov/s/login/?language=en_US&ec=302&startURL=%2Fs%2F",
+    "hash": "59fdd4d1",
     "categories": [
       "cagov"
     ],
@@ -787,10 +1408,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.bcsh.ca.gov/": {
-    "requestedUrl": "https://www.bcsh.ca.gov/",
-    "url": "https://www.bcsh.ca.gov/",
-    "hash": "5c085c04",
+  "https://oles.ca.gov/": {
+    "requestedUrl": "https://oles.ca.gov/",
+    "url": "https://www.oles.ca.gov/",
+    "hash": "5b9ad7cb",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://caleprocure.ca.gov/": {
+    "requestedUrl": "https://caleprocure.ca.gov/",
+    "url": "https://caleprocure.ca.gov/pages/index.aspx",
+    "hash": "5c087045",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://housing.ca.gov/": {
+    "requestedUrl": "https://housing.ca.gov/",
+    "url": "https://housing.ca.gov/",
+    "hash": "5c619aa6",
     "categories": [
       "cagov"
     ],
@@ -805,19 +1444,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.csac.ca.gov/": {
-    "requestedUrl": "https://www.csac.ca.gov/",
+  "https://csac.ca.gov/": {
+    "requestedUrl": "https://csac.ca.gov/",
     "url": "https://www.csac.ca.gov/",
     "hash": "5de77c6c",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.naturopathic.ca.gov/": {
-    "requestedUrl": "https://www.naturopathic.ca.gov/",
-    "url": "https://www.naturopathic.ca.gov/",
-    "hash": "5e19738a",
     "categories": [
       "cagov"
     ],
@@ -841,15 +1471,6 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dhbc.ca.gov/": {
-    "requestedUrl": "https://www.dhbc.ca.gov/",
-    "url": "https://www.dhbc.ca.gov/",
-    "hash": "5ec6e453",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://cchcs.ca.gov/": {
     "requestedUrl": "https://cchcs.ca.gov/",
     "url": "https://cchcs.ca.gov/",
@@ -868,26 +1489,44 @@
     ],
     "vertical": "cagov"
   },
-  "https://ceqanet.opr.ca.gov/": {
-    "requestedUrl": "https://ceqanet.opr.ca.gov/",
-    "url": "https://ceqanet.opr.ca.gov/",
-    "hash": "5f84a7cd",
+  "https://test-nmvb.ca.gov/": {
+    "requestedUrl": "https://test-nmvb.ca.gov/",
+    "url": "https://test-nmvb.ca.gov/",
+    "hash": "5f5882cb",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.optometry.ca.gov/index.shtml": {
-    "requestedUrl": "https://www.optometry.ca.gov/index.shtml",
-    "url": "https://www.optometry.ca.gov/index.shtml",
-    "hash": "621c2ad3",
+  "https://countyofsantaclara.ca.gov/": {
+    "requestedUrl": "https://countyofsantaclara.ca.gov/",
+    "url": "https://www.santaclaracounty.gov/home",
+    "hash": "5fbef213",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.hcd.ca.gov/": {
-    "requestedUrl": "https://www.hcd.ca.gov/",
+  "https://pmbc.ca.gov/": {
+    "requestedUrl": "https://pmbc.ca.gov/",
+    "url": "https://pmbc.ca.gov/",
+    "hash": "5fbfcbdb",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bbs.ca.gov/": {
+    "requestedUrl": "https://bbs.ca.gov/",
+    "url": "https://bbs.ca.gov/",
+    "hash": "62da1974",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://hcd.ca.gov/": {
+    "requestedUrl": "https://hcd.ca.gov/",
     "url": "https://www.hcd.ca.gov/",
     "hash": "6330fbb1",
     "categories": [
@@ -895,8 +1534,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://sierranevada.ca.gov/": {
-    "requestedUrl": "https://sierranevada.ca.gov/",
+  "https://calhr.ca.gov/": {
+    "requestedUrl": "https://calhr.ca.gov/",
+    "url": "https://www.calhr.ca.gov/",
+    "hash": "639f3cea",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://snc.ca.gov/": {
+    "requestedUrl": "https://snc.ca.gov/",
     "url": "https://sierranevada.ca.gov/",
     "hash": "642b45a0",
     "categories": [
@@ -904,8 +1552,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.labor.ca.gov/": {
-    "requestedUrl": "https://www.labor.ca.gov/",
+  "https://calnet.ca.gov/": {
+    "requestedUrl": "https://calnet.ca.gov/",
+    "url": "https://cdt.ca.gov/services/calnet/",
+    "hash": "663f510b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://labor.ca.gov/": {
+    "requestedUrl": "https://labor.ca.gov/",
     "url": "https://www.labor.ca.gov/",
     "hash": "66b54b4c",
     "categories": [
@@ -913,8 +1570,26 @@
     ],
     "vertical": "cagov"
   },
-  "http://crb.ca.gov/": {
-    "requestedUrl": "http://crb.ca.gov/",
+  "https://cbig.ca.gov/": {
+    "requestedUrl": "https://cbig.ca.gov/",
+    "url": "https://www.grants.ca.gov/",
+    "hash": "6743d3c3",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://iep.ca.gov/": {
+    "requestedUrl": "https://iep.ca.gov/",
+    "url": "https://iep.ca.gov/",
+    "hash": "6994815b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://crb.ca.gov/": {
+    "requestedUrl": "https://crb.ca.gov/",
     "url": "https://crb.ca.gov/",
     "hash": "69c05f74",
     "categories": [
@@ -922,17 +1597,44 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dir.ca.gov/iwc/iwc.html": {
-    "requestedUrl": "https://www.dir.ca.gov/iwc/iwc.html",
-    "url": "https://www.dir.ca.gov/iwc/iwc.html",
-    "hash": "6b69be1d",
+  "https://mrca.ca.gov/": {
+    "requestedUrl": "https://mrca.ca.gov/",
+    "url": "https://mrca.ca.gov/",
+    "hash": "69e467a",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dmv.ca.gov/": {
-    "requestedUrl": "https://www.dmv.ca.gov/",
+  "https://wca.ca.gov/": {
+    "requestedUrl": "https://wca.ca.gov/",
+    "url": "https://www.wca.ca.gov/",
+    "hash": "6a32786b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://workforcalifornia.ca.gov/": {
+    "requestedUrl": "https://workforcalifornia.ca.gov/",
+    "url": "https://workforcalifornia.ca.gov/",
+    "hash": "6a99b507",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://eureka.ca.gov/": {
+    "requestedUrl": "https://eureka.ca.gov/",
+    "url": "https://www.eurekaca.gov/",
+    "hash": "6ac8c07d",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dmv.ca.gov/": {
+    "requestedUrl": "https://dmv.ca.gov/",
     "url": "https://www.dmv.ca.gov/portal/",
     "hash": "6c72333a",
     "categories": [
@@ -940,26 +1642,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/csfa/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/csfa/",
-    "url": "https://www.treasurer.ca.gov/csfa/",
-    "hash": "6c94f727",
+  "https://cppa.ca.gov/": {
+    "requestedUrl": "https://cppa.ca.gov/",
+    "url": "https://cppa.ca.gov/",
+    "hash": "6e67a565",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://handbook.data.ca.gov/": {
-    "requestedUrl": "https://handbook.data.ca.gov/",
-    "url": "https://handbook.data.ca.gov/",
-    "hash": "6cd0dd93",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.courts.ca.gov/": {
-    "requestedUrl": "https://www.courts.ca.gov/",
+  "https://courts.ca.gov/": {
+    "requestedUrl": "https://courts.ca.gov/",
     "url": "https://www.courts.ca.gov/",
     "hash": "6f4250b2",
     "categories": [
@@ -967,17 +1660,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://ohp.parks.ca.gov/": {
-    "requestedUrl": "https://ohp.parks.ca.gov/",
-    "url": "https://ohp.parks.ca.gov/",
-    "hash": "6fae3725",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.conservation.ca.gov/": {
-    "requestedUrl": "https://www.conservation.ca.gov/",
+  "https://conservation.ca.gov/": {
+    "requestedUrl": "https://conservation.ca.gov/",
     "url": "https://www.conservation.ca.gov/",
     "hash": "702f39b3",
     "categories": [
@@ -985,19 +1669,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cfcc.ca.gov/": {
-    "requestedUrl": "https://www.cfcc.ca.gov/",
-    "url": "https://www.cfcc.ca.gov/",
-    "hash": "719941b",
+  "https://islavistacsd.ca.gov/": {
+    "requestedUrl": "https://islavistacsd.ca.gov/",
+    "url": "https://islavistacsd.ca.gov/",
+    "hash": "709b3f9d",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.cde.ca.gov/": {
-    "requestedUrl": "https://www.cde.ca.gov/",
+  "https://cde.ca.gov/": {
+    "requestedUrl": "https://cde.ca.gov/",
     "url": "https://www.cde.ca.gov/",
     "hash": "71e2979c",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dublin.ca.gov/": {
+    "requestedUrl": "https://dublin.ca.gov/",
+    "url": "https://dublin.ca.gov/",
+    "hash": "7374ec7f",
     "categories": [
       "cagov"
     ],
@@ -1012,19 +1705,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dir.ca.gov/OSHAB/oshab.html": {
-    "requestedUrl": "https://www.dir.ca.gov/OSHAB/oshab.html",
-    "url": "https://www.dir.ca.gov/OSHAB/oshab.html",
-    "hash": "76a2963d",
+  "https://calexico.ca.gov/": {
+    "requestedUrl": "https://calexico.ca.gov/",
+    "url": "https://www.calexico.ca.gov/",
+    "hash": "765a5da8",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://coolcalifornia.arb.ca.gov/": {
-    "requestedUrl": "https://coolcalifornia.arb.ca.gov/",
-    "url": "https://coolcalifornia.arb.ca.gov/",
-    "hash": "77b767cd",
+  "https://opr.ca.gov/": {
+    "requestedUrl": "https://opr.ca.gov/",
+    "url": "https://opr.ca.gov/",
+    "hash": "7812dd2a",
     "categories": [
       "cagov"
     ],
@@ -1039,46 +1732,82 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/cdlac/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/cdlac/",
-    "url": "https://www.treasurer.ca.gov/cdlac/",
-    "hash": "78e31bf9",
+  "https://bscc.ca.gov/": {
+    "requestedUrl": "https://bscc.ca.gov/",
+    "url": "https://www.bscc.ca.gov/",
+    "hash": "7846066f",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.rcb.ca.gov/": {
-    "requestedUrl": "https://www.rcb.ca.gov/",
-    "url": "https://www.rcb.ca.gov/",
-    "hash": "7a63342d",
+  "https://smogcheck.ca.gov/": {
+    "requestedUrl": "https://smogcheck.ca.gov/",
+    "url": "https://www.bar.ca.gov/",
+    "hash": "798261ef",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://beta.template.webstandards.ca.gov/": {
-    "requestedUrl": "https://beta.template.webstandards.ca.gov/",
-    "url": "https://template.webstandards.ca.gov/",
-    "hash": "7ad92141",
+  "https://tehamacounty.ca.gov/": {
+    "requestedUrl": "https://tehamacounty.ca.gov/",
+    "url": "https://www.co.tehama.ca.us/",
+    "hash": "7995b6b0",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.bbs.ca.gov/": {
-    "requestedUrl": "https://www.bbs.ca.gov/",
-    "url": "https://www.bbs.ca.gov/",
-    "hash": "7be23b4d",
+  "https://cca.ca.gov/": {
+    "requestedUrl": "https://cca.ca.gov/",
+    "url": "https://cca.ca.gov/",
+    "hash": "7a88c906",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.calpia.ca.gov/": {
-    "requestedUrl": "https://www.calpia.ca.gov/",
+  "https://meganslaw.ca.gov/": {
+    "requestedUrl": "https://meganslaw.ca.gov/",
+    "url": "https://meganslaw.ca.gov/Mobile/Default.aspx",
+    "hash": "7b6e591e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://csdr-cde.ca.gov/": {
+    "requestedUrl": "https://csdr-cde.ca.gov/",
+    "url": "https://csdr-cde.ca.gov/",
+    "hash": "7bf3c4ee",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://vaccinateall58.ca.gov/": {
+    "requestedUrl": "https://vaccinateall58.ca.gov/",
+    "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Covid19Vaccines.aspx",
+    "hash": "7cca9ab8",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calpia.ca.gov/": {
+    "requestedUrl": "https://calpia.ca.gov/",
     "url": "https://www.calpia.ca.gov/",
     "hash": "7d3a3a68",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calccrc.ca.gov/": {
+    "requestedUrl": "https://calccrc.ca.gov/",
+    "url": "https://www.cdss.ca.gov/inforesources/community-care/continuing-care",
+    "hash": "7d3de219",
     "categories": [
       "cagov"
     ],
@@ -1102,17 +1831,26 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cdfa.ca.gov/": {
-    "requestedUrl": "https://www.cdfa.ca.gov/",
-    "url": "https://www.cdfa.ca.gov/",
-    "hash": "7ecbea1e",
+  "https://tam.ca.gov/": {
+    "requestedUrl": "https://tam.ca.gov/",
+    "url": "https://www.tam.ca.gov/",
+    "hash": "7e186c26",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "http://delta.ca.gov/": {
-    "requestedUrl": "http://delta.ca.gov/",
+  "https://westnile.ca.gov/": {
+    "requestedUrl": "https://westnile.ca.gov/",
+    "url": "https://westnile.ca.gov/",
+    "hash": "7f06a57c",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://delta.ca.gov/": {
+    "requestedUrl": "https://delta.ca.gov/",
     "url": "https://delta.ca.gov/",
     "hash": "8030f29f",
     "categories": [
@@ -1129,10 +1867,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://techblog.cdt.ca.gov/": {
-    "requestedUrl": "https://techblog.cdt.ca.gov/",
-    "url": "https://techblog.cdt.ca.gov/",
-    "hash": "82a09866",
+  "https://colma.ca.gov/": {
+    "requestedUrl": "https://colma.ca.gov/",
+    "url": "https://www.colma.ca.gov/",
+    "hash": "816e74d2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://legislativecounsel.ca.gov/": {
+    "requestedUrl": "https://legislativecounsel.ca.gov/",
+    "url": "https://legislativecounsel.ca.gov/",
+    "hash": "829977fd",
     "categories": [
       "cagov"
     ],
@@ -1147,15 +1894,6 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.bppe.ca.gov/": {
-    "requestedUrl": "https://www.bppe.ca.gov/",
-    "url": "https://www.bppe.ca.gov/",
-    "hash": "831b7e19",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://wildlife.ca.gov/": {
     "requestedUrl": "https://wildlife.ca.gov/",
     "url": "https://wildlife.ca.gov/",
@@ -1165,8 +1903,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.ftb.ca.gov/": {
-    "requestedUrl": "https://www.ftb.ca.gov/",
+  "https://pointarena.ca.gov/": {
+    "requestedUrl": "https://pointarena.ca.gov/",
+    "url": "https://pointarena.ca.gov/",
+    "hash": "846c2712",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://ftb.ca.gov/": {
+    "requestedUrl": "https://ftb.ca.gov/",
     "url": "https://www.ftb.ca.gov/",
     "hash": "8511b10e",
     "categories": [
@@ -1174,8 +1921,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.senate.ca.gov/": {
-    "requestedUrl": "https://www.senate.ca.gov/",
+  "https://senate.ca.gov/": {
+    "requestedUrl": "https://senate.ca.gov/",
     "url": "https://www.senate.ca.gov/",
     "hash": "8563f96",
     "categories": [
@@ -1183,46 +1930,82 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.bsa.ca.gov/": {
-    "requestedUrl": "https://www.bsa.ca.gov/",
-    "url": "https://www.bsa.ca.gov/",
-    "hash": "8598486e",
+  "https://myturn.ca.gov/": {
+    "requestedUrl": "https://myturn.ca.gov/",
+    "url": "https://myturn.ca.gov/",
+    "hash": "85a1460e",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "http://www.chrb.ca.gov/": {
-    "requestedUrl": "http://www.chrb.ca.gov/",
-    "url": "http://www.chrb.ca.gov/",
-    "hash": "85a7f5d6",
+  "https://familieschange.ca.gov/": {
+    "requestedUrl": "https://familieschange.ca.gov/",
+    "url": "https://www.familieschange.ca.gov/",
+    "hash": "85d6d888",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dir.ca.gov/cac/cac.html": {
-    "requestedUrl": "https://www.dir.ca.gov/cac/cac.html",
-    "url": "https://www.dir.ca.gov/cac/cac.html",
-    "hash": "86f2889d",
+  "https://contracosta.ca.gov/": {
+    "requestedUrl": "https://contracosta.ca.gov/",
+    "url": "https://www.contracosta.ca.gov/",
+    "hash": "867d60f1",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://dashboard.cdt.ca.gov/": {
-    "requestedUrl": "https://dashboard.cdt.ca.gov/",
-    "url": "https://dashboard.cdt.ca.gov/Identity/Account/Login",
-    "hash": "8893a5ca",
+  "https://dhbc.ca.gov/": {
+    "requestedUrl": "https://dhbc.ca.gov/",
+    "url": "https://dhbc.ca.gov/",
+    "hash": "869da0ea",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.rn.ca.gov/": {
-    "requestedUrl": "https://www.rn.ca.gov/",
-    "url": "https://www.rn.ca.gov/",
-    "hash": "89ae9fe2",
+  "https://first5.ca.gov/": {
+    "requestedUrl": "https://first5.ca.gov/",
+    "url": "https://first5.ca.gov/",
+    "hash": "8722cc28",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://statebarcourt.ca.gov/": {
+    "requestedUrl": "https://statebarcourt.ca.gov/",
+    "url": "https://www.statebarcourt.ca.gov/",
+    "hash": "87a37ca7",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://rcb.ca.gov/": {
+    "requestedUrl": "https://rcb.ca.gov/",
+    "url": "https://rcb.ca.gov/",
+    "hash": "87bd11d4",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://registertovote.ca.gov/": {
+    "requestedUrl": "https://registertovote.ca.gov/",
+    "url": "https://registertovote.ca.gov/",
+    "hash": "8882db7d",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://losaltoshills.ca.gov/": {
+    "requestedUrl": "https://losaltoshills.ca.gov/",
+    "url": "https://losaltoshills.ca.gov/",
+    "hash": "89d55be0",
     "categories": [
       "cagov"
     ],
@@ -1237,19 +2020,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dgs.ca.gov/OPSC/About": {
-    "requestedUrl": "https://www.dgs.ca.gov/OPSC/About",
-    "url": "https://www.dgs.ca.gov/OPSC/About",
-    "hash": "8c373403",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.bvnpt.ca.gov/": {
-    "requestedUrl": "https://www.bvnpt.ca.gov/",
-    "url": "https://www.bvnpt.ca.gov/",
-    "hash": "8c474a40",
+  "https://csb-cde.ca.gov/": {
+    "requestedUrl": "https://csb-cde.ca.gov/",
+    "url": "https://csb-cde.ca.gov/",
+    "hash": "8c54ce3a",
     "categories": [
       "cagov"
     ],
@@ -1273,15 +2047,6 @@
     ],
     "vertical": "cagov"
   },
-  "http://www.opr.ca.gov/": {
-    "requestedUrl": "http://www.opr.ca.gov/",
-    "url": "http://www.opr.ca.gov/",
-    "hash": "8d80eb60",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://abcab.ca.gov/": {
     "requestedUrl": "https://abcab.ca.gov/",
     "url": "https://abcab.ca.gov/",
@@ -1291,8 +2056,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cdpr.ca.gov/": {
-    "requestedUrl": "https://www.cdpr.ca.gov/",
+  "https://cdpr.ca.gov/": {
+    "requestedUrl": "https://cdpr.ca.gov/",
     "url": "https://www.cdpr.ca.gov/",
     "hash": "8f7d4bfb",
     "categories": [
@@ -1300,8 +2065,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cirm.ca.gov/": {
-    "requestedUrl": "https://www.cirm.ca.gov/",
+  "https://cirm.ca.gov/": {
+    "requestedUrl": "https://cirm.ca.gov/",
     "url": "https://www.cirm.ca.gov/",
     "hash": "8fcb87ab",
     "categories": [
@@ -1309,19 +2074,91 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cdss.ca.gov/": {
-    "requestedUrl": "https://www.cdss.ca.gov/",
-    "url": "https://www.cdss.ca.gov/",
-    "hash": "90f6a159",
+  "https://bcsh.ca.gov/": {
+    "requestedUrl": "https://bcsh.ca.gov/",
+    "url": "https://bcsh.ca.gov/",
+    "hash": "9067d",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://dca.ca.gov/acp/": {
-    "requestedUrl": "https://dca.ca.gov/acp/",
-    "url": "https://dca.ca.gov/acp/",
-    "hash": "9264023c",
+  "https://mywaterquality.ca.gov/": {
+    "requestedUrl": "https://mywaterquality.ca.gov/",
+    "url": "https://mywaterquality.ca.gov/",
+    "hash": "908d292b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://saltoncsd.ca.gov/": {
+    "requestedUrl": "https://saltoncsd.ca.gov/",
+    "url": "https://saltoncsd.ca.gov/",
+    "hash": "920411b8",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://wheatland.ca.gov/": {
+    "requestedUrl": "https://wheatland.ca.gov/",
+    "url": "https://www.wheatland.ca.gov/",
+    "hash": "932c6076",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://claimit.ca.gov/": {
+    "requestedUrl": "https://claimit.ca.gov/",
+    "url": "https://sco.ca.gov/search_upd.html",
+    "hash": "93b880bb",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://vote.ca.gov/": {
+    "requestedUrl": "https://vote.ca.gov/",
+    "url": "https://www.sos.ca.gov/elections/",
+    "hash": "94c210fe",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://trinidad.ca.gov/": {
+    "requestedUrl": "https://trinidad.ca.gov/",
+    "url": "https://www.trinidad.ca.gov/",
+    "hash": "95810db7",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://waterresilience.ca.gov/": {
+    "requestedUrl": "https://waterresilience.ca.gov/",
+    "url": "https://waterresilience.ca.gov/",
+    "hash": "95dff0d7",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sdcounty.ca.gov/": {
+    "requestedUrl": "https://sdcounty.ca.gov/",
+    "url": "https://www.sandiegocounty.gov/",
+    "hash": "9620cbd4",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://tcwd.ca.gov/": {
+    "requestedUrl": "https://tcwd.ca.gov/",
+    "url": "https://www.tcwd.ca.gov/",
+    "hash": "978cb51a",
     "categories": [
       "cagov"
     ],
@@ -1336,46 +2173,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.calbar.ca.gov/": {
-    "requestedUrl": "https://www.calbar.ca.gov/",
+  "https://mlfd.ca.gov/": {
+    "requestedUrl": "https://mlfd.ca.gov/",
+    "url": "https://mlfd.ca.gov/",
+    "hash": "989dc044",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calbar.ca.gov/": {
+    "requestedUrl": "https://calbar.ca.gov/",
     "url": "https://www.calbar.ca.gov/",
     "hash": "9a9e6c1",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.treasurer.ca.gov/cefa/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/cefa/",
-    "url": "https://www.treasurer.ca.gov/cefa/",
-    "hash": "9aa7a2b1",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.treasurer.ca.gov/able/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/able/",
-    "url": "https://www.treasurer.ca.gov/able/",
-    "hash": "9ba015ba",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.counties.org/": {
-    "requestedUrl": "https://www.counties.org/",
-    "url": "https://www.counties.org/m",
-    "hash": "9bd36787",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.courtreportersboard.ca.gov/": {
-    "requestedUrl": "https://www.courtreportersboard.ca.gov/",
-    "url": "https://www.courtreportersboard.ca.gov/",
-    "hash": "9bdd8e91",
     "categories": [
       "cagov"
     ],
@@ -1390,19 +2200,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.universityofcalifornia.edu/": {
-    "requestedUrl": "https://www.universityofcalifornia.edu/",
-    "url": "https://www.universityofcalifornia.edu/",
-    "hash": "9d704d4f",
+  "https://bsis.ca.gov/": {
+    "requestedUrl": "https://bsis.ca.gov/",
+    "url": "https://bsis.ca.gov/",
+    "hash": "9c4b98c",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.barbercosmo.ca.gov/": {
-    "requestedUrl": "https://www.barbercosmo.ca.gov/",
-    "url": "https://www.barbercosmo.ca.gov/",
-    "hash": "9d984d67",
+  "https://sierracounty.ca.gov/": {
+    "requestedUrl": "https://sierracounty.ca.gov/",
+    "url": "https://sierracounty.ca.gov/",
+    "hash": "9d5012c3",
     "categories": [
       "cagov"
     ],
@@ -1417,10 +2227,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.calhr.ca.gov/Pages/home.aspx": {
-    "requestedUrl": "https://www.calhr.ca.gov/Pages/home.aspx",
-    "url": "https://www.calhr.ca.gov/Pages/home.aspx",
-    "hash": "9decd8de",
+  "https://ych.ca.gov/": {
+    "requestedUrl": "https://ych.ca.gov/",
+    "url": "https://www.ych.ca.gov/",
+    "hash": "9ddfffac",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://pharmacy.ca.gov/": {
+    "requestedUrl": "https://pharmacy.ca.gov/",
+    "url": "https://pharmacy.ca.gov/",
+    "hash": "9e0829da",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://epanet.ca.gov/": {
+    "requestedUrl": "https://epanet.ca.gov/",
+    "url": "https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F",
+    "hash": "9e1b6f2e",
     "categories": [
       "cagov"
     ],
@@ -1430,48 +2258,60 @@
     "requestedUrl": "https://alpha.ca.gov/",
     "url": "https://alpha.ca.gov/",
     "hash": "9e52c9f3",
-    "categories": []
-  },
-  "https://www.dgs.ca.gov/OAH": {
-    "requestedUrl": "https://www.dgs.ca.gov/OAH",
-    "url": "https://www.dgs.ca.gov/OAH",
-    "hash": "9e94c928",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.ctc.ca.gov/": {
-    "requestedUrl": "https://www.ctc.ca.gov/",
-    "url": "https://www.ctc.ca.gov/",
-    "hash": "9ed2ab0a",
+  "https://hcrc.ca.gov/": {
+    "requestedUrl": "https://hcrc.ca.gov/",
+    "url": "https://hcrc.ca.gov/",
+    "hash": "9e77871d",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.cfb.ca.gov/": {
-    "requestedUrl": "https://www.cfb.ca.gov/",
-    "url": "https://www.cfb.ca.gov/",
-    "hash": "a181c0d9",
+  "https://wcchd.ca.gov/": {
+    "requestedUrl": "https://wcchd.ca.gov/",
+    "url": "https://wcchd.ca.gov/",
+    "hash": "a09ca39c",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dor.ca.gov/": {
-    "requestedUrl": "https://www.dor.ca.gov/",
-    "url": "https://www.dor.ca.gov/",
-    "hash": "a27f5527",
+  "https://lgma.ca.gov/": {
+    "requestedUrl": "https://lgma.ca.gov/",
+    "url": "https://lgma.ca.gov/",
+    "hash": "a14d28c0",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://vision2023.cdt.ca.gov/": {
-    "requestedUrl": "https://vision2023.cdt.ca.gov/",
-    "url": "https://vision2023.cdt.ca.gov/",
-    "hash": "a2b2f35d",
+  "https://mdaqmd.ca.gov/": {
+    "requestedUrl": "https://mdaqmd.ca.gov/",
+    "url": "https://www.mdaqmd.ca.gov/",
+    "hash": "a24bd6ce",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bpelsg.ca.gov/": {
+    "requestedUrl": "https://bpelsg.ca.gov/",
+    "url": "https://bpelsg.ca.gov/",
+    "hash": "a265b1e8",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://boomerang.ca.gov/": {
+    "requestedUrl": "https://boomerang.ca.gov/",
+    "url": "https://boomerang.ca.gov/",
+    "hash": "a28d5477",
     "categories": [
       "cagov"
     ],
@@ -1486,10 +2326,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dca.ca.gov/cba/index.shtml": {
-    "requestedUrl": "https://www.dca.ca.gov/cba/index.shtml",
-    "url": "https://www.dca.ca.gov/cba/index.shtml",
-    "hash": "a362eba9",
+  "https://ecos.ca.gov/": {
+    "requestedUrl": "https://ecos.ca.gov/",
+    "url": "https://ecos.ca.gov/Login.aspx?ReturnUrl=%2f",
+    "hash": "a2e67118",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dcn-cde.ca.gov/": {
+    "requestedUrl": "https://dcn-cde.ca.gov/",
+    "url": "https://dcn-cde.ca.gov/",
+    "hash": "a2fdc961",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cslb.ca.gov/": {
+    "requestedUrl": "https://cslb.ca.gov/",
+    "url": "https://cslb.ca.gov/",
+    "hash": "a34fd779",
     "categories": [
       "cagov"
     ],
@@ -1499,6 +2357,15 @@
     "requestedUrl": "https://covid19.ca.gov/",
     "url": "https://covid19.ca.gov/",
     "hash": "a5060a98",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dor.ca.gov/": {
+    "requestedUrl": "https://dor.ca.gov/",
+    "url": "https://dor.ca.gov/",
+    "hash": "a51d4c5e",
     "categories": [
       "cagov"
     ],
@@ -1522,6 +2389,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://srvfire.ca.gov/": {
+    "requestedUrl": "https://srvfire.ca.gov/",
+    "url": "https://www.firedepartment.org/",
+    "hash": "a72a246a",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://cwdb.ca.gov/": {
     "requestedUrl": "https://cwdb.ca.gov/",
     "url": "https://cwdb.ca.gov/",
@@ -1531,8 +2407,26 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.calsilc.ca.gov/": {
-    "requestedUrl": "https://www.calsilc.ca.gov/",
+  "https://wdopestboard.ca.gov/": {
+    "requestedUrl": "https://wdopestboard.ca.gov/",
+    "url": "https://wdopestboard.ca.gov/",
+    "hash": "a96173d3",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://theacademy.ca.gov/": {
+    "requestedUrl": "https://theacademy.ca.gov/",
+    "url": "https://theacademy.ca.gov/",
+    "hash": "ab6e81c8",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calsilc.ca.gov/": {
+    "requestedUrl": "https://calsilc.ca.gov/",
     "url": "https://calsilc.ca.gov/",
     "hash": "abc7dbfc",
     "categories": [
@@ -1540,19 +2434,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.cab.ca.gov/": {
-    "requestedUrl": "https://www.cab.ca.gov/",
-    "url": "https://www.cab.ca.gov/",
-    "hash": "abf975fe",
+  "https://speechandhearing.ca.gov/": {
+    "requestedUrl": "https://speechandhearing.ca.gov/",
+    "url": "https://speechandhearing.ca.gov/",
+    "hash": "ac83321a",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.csd.ca.gov/": {
-    "requestedUrl": "https://www.csd.ca.gov/",
-    "url": "https://www.csd.ca.gov/",
-    "hash": "ad40c82a",
+  "https://escog.ca.gov/": {
+    "requestedUrl": "https://escog.ca.gov/",
+    "url": "https://escog.ca.gov/",
+    "hash": "acef46fa",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dmae.ca.gov/": {
+    "requestedUrl": "https://dmae.ca.gov/",
+    "url": "https://dmae.ca.gov/",
+    "hash": "ad1c828a",
     "categories": [
       "cagov"
     ],
@@ -1567,26 +2470,80 @@
     ],
     "vertical": "cagov"
   },
-  "https://legacy.template.webstandards.ca.gov/": {
-    "requestedUrl": "https://legacy.template.webstandards.ca.gov/",
-    "url": "https://legacy.template.webstandards.ca.gov/",
-    "hash": "af9e8a1a",
+  "https://cdii.ca.gov/": {
+    "requestedUrl": "https://cdii.ca.gov/",
+    "url": "https://www.cdii.ca.gov/",
+    "hash": "af63619",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://gis.data.ca.gov/": {
-    "requestedUrl": "https://gis.data.ca.gov/",
-    "url": "https://gis.data.ca.gov/",
-    "hash": "b2c9a3e4",
+  "https://heber.ca.gov/": {
+    "requestedUrl": "https://heber.ca.gov/",
+    "url": "https://heber.ca.gov/",
+    "hash": "afe9fc7f",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "http://sjrc.ca.gov/": {
-    "requestedUrl": "http://sjrc.ca.gov/",
+  "https://dsh.ca.gov/": {
+    "requestedUrl": "https://dsh.ca.gov/",
+    "url": "https://dsh.ca.gov/",
+    "hash": "b1106458",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://nmvb.ca.gov/": {
+    "requestedUrl": "https://nmvb.ca.gov/",
+    "url": "https://nmvb.ca.gov/",
+    "hash": "b1154e70",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://babysafe.ca.gov/": {
+    "requestedUrl": "https://babysafe.ca.gov/",
+    "url": "https://www.cdss.ca.gov/inforesources/community-care-licensing",
+    "hash": "b22832b9",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://climateactioncorps.ca.gov/": {
+    "requestedUrl": "https://climateactioncorps.ca.gov/",
+    "url": "https://www.californiavolunteers.ca.gov/climateactioncorps/",
+    "hash": "b2fb4188",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sdcourt.ca.gov/": {
+    "requestedUrl": "https://sdcourt.ca.gov/",
+    "url": "https://sdcourt.ca.gov/",
+    "hash": "b3a71b8f",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://danville.ca.gov/": {
+    "requestedUrl": "https://danville.ca.gov/",
+    "url": "https://danville.ca.gov/",
+    "hash": "b3ecc0d6",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sjrc.ca.gov/": {
+    "requestedUrl": "https://sjrc.ca.gov/",
     "url": "https://sjrc.ca.gov/",
     "hash": "b4a95eef",
     "categories": [
@@ -1594,35 +2551,26 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.waterboards.ca.gov/": {
-    "requestedUrl": "https://www.waterboards.ca.gov/",
-    "url": "https://www.waterboards.ca.gov/",
-    "hash": "b534fe2",
+  "https://privacy.ca.gov/": {
+    "requestedUrl": "https://privacy.ca.gov/",
+    "url": "https://privacy.ca.gov/",
+    "hash": "b4fdc8c1",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://calexpostatefair.com/": {
-    "requestedUrl": "https://calexpostatefair.com/",
-    "url": "https://calexpostatefair.com/",
-    "hash": "b5513473",
+  "https://ttsa.ca.gov/": {
+    "requestedUrl": "https://ttsa.ca.gov/",
+    "url": "https://www.ttsa.ca.gov/",
+    "hash": "b5831b8c",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.earthquakeauthority.com/": {
-    "requestedUrl": "https://www.earthquakeauthority.com/",
-    "url": "https://www.earthquakeauthority.com/",
-    "hash": "b5d8ecbd",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.abc.ca.gov/": {
-    "requestedUrl": "https://www.abc.ca.gov/",
+  "https://abc.ca.gov/": {
+    "requestedUrl": "https://abc.ca.gov/",
     "url": "https://www.abc.ca.gov/",
     "hash": "b73c015e",
     "categories": [
@@ -1630,10 +2578,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dca.ca.gov/csac/": {
-    "requestedUrl": "https://www.dca.ca.gov/csac/",
-    "url": "https://www.dca.ca.gov/csac/",
-    "hash": "bab54605",
+  "https://dmac.ca.gov/": {
+    "requestedUrl": "https://dmac.ca.gov/",
+    "url": "https://dmac.ca.gov/",
+    "hash": "b76c3ccc",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://abag.ca.gov/": {
+    "requestedUrl": "https://abag.ca.gov/",
+    "url": "https://abag.ca.gov/",
+    "hash": "b7859ca2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://polb.ca.gov/": {
+    "requestedUrl": "https://polb.ca.gov/",
+    "url": "https://polb.com/",
+    "hash": "b886ef85",
     "categories": [
       "cagov"
     ],
@@ -1648,17 +2614,35 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dgs.ca.gov/BSC": {
-    "requestedUrl": "https://www.dgs.ca.gov/BSC",
-    "url": "https://www.dgs.ca.gov/BSC",
-    "hash": "bc06717c",
+  "https://dmhc.ca.gov/": {
+    "requestedUrl": "https://dmhc.ca.gov/",
+    "url": "https://dmhc.ca.gov/",
+    "hash": "bb44dbc5",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.calstrs.com/": {
-    "requestedUrl": "https://www.calstrs.com/",
+  "https://earthquake.ca.gov/": {
+    "requestedUrl": "https://earthquake.ca.gov/",
+    "url": "https://earthquake.ca.gov/",
+    "hash": "bbbccf86",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://judicialethicsopinions.ca.gov/": {
+    "requestedUrl": "https://judicialethicsopinions.ca.gov/",
+    "url": "https://www.judicialethicsopinions.ca.gov/",
+    "hash": "bc602dc8",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calstrs.ca.gov/": {
+    "requestedUrl": "https://calstrs.ca.gov/",
     "url": "https://www.calstrs.com/",
     "hash": "bcedd745",
     "categories": [
@@ -1666,8 +2650,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dgs.ca.gov/": {
-    "requestedUrl": "https://www.dgs.ca.gov/",
+  "https://dgs.ca.gov/": {
+    "requestedUrl": "https://dgs.ca.gov/",
     "url": "https://www.dgs.ca.gov/",
     "hash": "bd376d6e",
     "categories": [
@@ -1675,10 +2659,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://saveourwater.com/": {
-    "requestedUrl": "https://saveourwater.com/",
-    "url": "https://saveourwater.com/",
-    "hash": "bd8330a8",
+  "https://pent.ca.gov/": {
+    "requestedUrl": "https://pent.ca.gov/",
+    "url": "https://pent.ca.gov/",
+    "hash": "bd94a528",
     "categories": [
       "cagov"
     ],
@@ -1693,6 +2677,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://stateentityprofile.ca.gov/": {
+    "requestedUrl": "https://stateentityprofile.ca.gov/",
+    "url": "https://stateentityprofile.ca.gov/Account/Login",
+    "hash": "bf303ed",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://oag.ca.gov/": {
     "requestedUrl": "https://oag.ca.gov/",
     "url": "https://oag.ca.gov/",
@@ -1702,28 +2695,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.sos.ca.gov/archives/admin-programs/chrab": {
-    "requestedUrl": "https://www.sos.ca.gov/archives/admin-programs/chrab",
-    "url": "https://www.sos.ca.gov/archives/admin-programs/chrab",
-    "hash": "c038ff5f",
+  "https://hellosavings.ca.gov/": {
+    "requestedUrl": "https://hellosavings.ca.gov/",
+    "url": "https://hellosavings.ca.gov/",
+    "hash": "c03c5af2",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.calhfa.ca.gov/": {
-    "requestedUrl": "https://www.calhfa.ca.gov/",
+  "https://calhfa.ca.gov/": {
+    "requestedUrl": "https://calhfa.ca.gov/",
     "url": "https://www.calhfa.ca.gov/",
     "hash": "c089aa3f",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.dbc.ca.gov/index.shtml": {
-    "requestedUrl": "https://www.dbc.ca.gov/index.shtml",
-    "url": "https://www.dbc.ca.gov/index.shtml",
-    "hash": "c0b13a45",
     "categories": [
       "cagov"
     ],
@@ -1738,100 +2722,91 @@
     ],
     "vertical": "cagov"
   },
-  "https://osfm.fire.ca.gov/": {
-    "requestedUrl": "https://osfm.fire.ca.gov/",
-    "url": "https://osfm.fire.ca.gov/",
-    "hash": "c2f06826",
+  "https://mbc.ca.gov/": {
+    "requestedUrl": "https://mbc.ca.gov/",
+    "url": "https://mbc.ca.gov/",
+    "hash": "c2203cab",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://bhgs.dca.ca.gov/": {
-    "requestedUrl": "https://bhgs.dca.ca.gov/",
-    "url": "https://bhgs.dca.ca.gov/",
-    "hash": "c4e99751",
+  "https://drinc.ca.gov/": {
+    "requestedUrl": "https://drinc.ca.gov/",
+    "url": "https://drinc.ca.gov/drinc/",
+    "hash": "c2927a8",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.calhr.ca.gov/cccc/pages/home.aspx": {
-    "requestedUrl": "https://www.calhr.ca.gov/cccc/pages/home.aspx",
-    "url": "https://www.calhr.ca.gov/cccc/pages/home.aspx",
-    "hash": "c5acf4d1",
+  "https://seeleywaterdistrict.ca.gov/": {
+    "requestedUrl": "https://seeleywaterdistrict.ca.gov/",
+    "url": "https://seeleywaterdistrict.ca.gov/",
+    "hash": "c2ee9677",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.pestboard.ca.gov/": {
-    "requestedUrl": "https://www.pestboard.ca.gov/",
-    "url": "https://www.pestboard.ca.gov/",
-    "hash": "c709a56",
+  "https://tuolumnecounty.ca.gov/": {
+    "requestedUrl": "https://tuolumnecounty.ca.gov/",
+    "url": "https://tuolumnecounty.ca.gov/",
+    "hash": "c401c56c",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.ombc.ca.gov/": {
-    "requestedUrl": "https://www.ombc.ca.gov/",
-    "url": "https://www.ombc.ca.gov/",
-    "hash": "c7d7457d",
+  "https://calable.ca.gov/": {
+    "requestedUrl": "https://calable.ca.gov/",
+    "url": "https://calable.ca.gov/",
+    "hash": "c4dff9e3",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/inside/directory.asp": {
-    "requestedUrl": "https://www.treasurer.ca.gov/inside/directory.asp",
-    "url": "https://www.treasurer.ca.gov/inside/directory.asp",
-    "hash": "c8b51ca9",
+  "https://crob.ca.gov/": {
+    "requestedUrl": "https://crob.ca.gov/",
+    "url": "https://crob.ca.gov/",
+    "hash": "c4ff991b",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.conservation.ca.gov/smgb": {
-    "requestedUrl": "https://www.conservation.ca.gov/smgb",
-    "url": "https://www.conservation.ca.gov/smgb",
-    "hash": "c8f42108",
+  "https://ccusl.ca.gov/": {
+    "requestedUrl": "https://ccusl.ca.gov/",
+    "url": "https://ccusl.ca.gov/",
+    "hash": "c5220bad",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.ccfc.ca.gov/": {
-    "requestedUrl": "https://www.ccfc.ca.gov/",
-    "url": "https://www.ccfc.ca.gov/",
-    "hash": "c96e61bb",
+  "https://ibank.ca.gov/": {
+    "requestedUrl": "https://ibank.ca.gov/",
+    "url": "https://ibank.ca.gov/",
+    "hash": "c59963a8",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.ptbc.ca.gov/": {
-    "requestedUrl": "https://www.ptbc.ca.gov/",
-    "url": "https://www.ptbc.ca.gov/",
-    "hash": "c971edb",
+  "https://bot.ca.gov/": {
+    "requestedUrl": "https://bot.ca.gov/",
+    "url": "https://bot.ca.gov/",
+    "hash": "c6ddd4de",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.pharmacy.ca.gov/": {
-    "requestedUrl": "https://www.pharmacy.ca.gov/",
-    "url": "https://www.pharmacy.ca.gov/",
-    "hash": "c9d9d2a3",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://caweb.cdt.ca.gov/": {
-    "requestedUrl": "https://caweb.cdt.ca.gov/",
-    "url": "https://caweb.cdt.ca.gov/",
-    "hash": "c9e656e8",
+  "https://dcs-cde.ca.gov/": {
+    "requestedUrl": "https://dcs-cde.ca.gov/",
+    "url": "https://dcs-cde.ca.gov/",
+    "hash": "c7cf527c",
     "categories": [
       "cagov"
     ],
@@ -1855,28 +2830,64 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.boe.ca.gov/": {
-    "requestedUrl": "https://www.boe.ca.gov/",
-    "url": "https://www.boe.ca.gov/",
-    "hash": "cb77cf6",
+  "https://calrx.ca.gov/": {
+    "requestedUrl": "https://calrx.ca.gov/",
+    "url": "https://calrx.ca.gov/",
+    "hash": "ccfbfb83",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.dir.ca.gov/": {
-    "requestedUrl": "https://www.dir.ca.gov/",
-    "url": "https://www.dir.ca.gov/",
-    "hash": "cd8fe361",
+  "https://ebudget.ca.gov/": {
+    "requestedUrl": "https://ebudget.ca.gov/",
+    "url": "https://ebudget.ca.gov/",
+    "hash": "cd07b207",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.cdph.ca.gov/": {
-    "requestedUrl": "https://www.cdph.ca.gov/",
+  "https://holtville.ca.gov/": {
+    "requestedUrl": "https://holtville.ca.gov/",
+    "url": "https://www.holtville.ca.gov/",
+    "hash": "cd5fd05b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://auburn.ca.gov/": {
+    "requestedUrl": "https://auburn.ca.gov/",
+    "url": "https://auburn.ca.gov/",
+    "hash": "cd923998",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://waterboards.ca.gov/": {
+    "requestedUrl": "https://waterboards.ca.gov/",
+    "url": "https://waterboards.ca.gov/",
+    "hash": "cea086db",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cdph.ca.gov/": {
+    "requestedUrl": "https://cdph.ca.gov/",
     "url": "https://www.cdph.ca.gov/",
     "hash": "cf7c3621",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://camade.ca.gov/": {
+    "requestedUrl": "https://camade.ca.gov/",
+    "url": "https://camade.ca.gov/",
+    "hash": "cfcee568",
     "categories": [
       "cagov"
     ],
@@ -1891,10 +2902,28 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.mbc.ca.gov/": {
-    "requestedUrl": "https://www.mbc.ca.gov/",
-    "url": "https://www.mbc.ca.gov/",
-    "hash": "d2b18152",
+  "https://saccourt.ca.gov/": {
+    "requestedUrl": "https://saccourt.ca.gov/",
+    "url": "https://saccourt.ca.gov/",
+    "hash": "d1ee8569",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://ncric.ca.gov/": {
+    "requestedUrl": "https://ncric.ca.gov/",
+    "url": "https://ncric.ca.gov/",
+    "hash": "d2f9d5f2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://healthcarevolunteers.ca.gov/": {
+    "requestedUrl": "https://healthcarevolunteers.ca.gov/",
+    "url": "https://healthcarevolunteers.ca.gov/",
+    "hash": "d30f0db5",
     "categories": [
       "cagov"
     ],
@@ -1909,19 +2938,10 @@
     ],
     "vertical": "cagov"
   },
-  "http://sdrc.ca.gov/": {
-    "requestedUrl": "http://sdrc.ca.gov/",
+  "https://sdrc.ca.gov/": {
+    "requestedUrl": "https://sdrc.ca.gov/",
     "url": "https://sdrc.ca.gov/",
     "hash": "d3a9ca1",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.opc.ca.gov/": {
-    "requestedUrl": "https://www.opc.ca.gov/",
-    "url": "https://www.opc.ca.gov/",
-    "hash": "d3e5ed82",
     "categories": [
       "cagov"
     ],
@@ -1931,6 +2951,15 @@
     "requestedUrl": "https://oshpd.ca.gov/",
     "url": "https://oshpd.ca.gov/",
     "hash": "d3f14387",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://boe.ca.gov/": {
+    "requestedUrl": "https://boe.ca.gov/",
+    "url": "https://boe.ca.gov/",
+    "hash": "d40617cf",
     "categories": [
       "cagov"
     ],
@@ -1954,19 +2983,37 @@
     ],
     "vertical": "cagov"
   },
-  "https://cdcr.ca.gov/": {
-    "requestedUrl": "https://cdcr.ca.gov/",
-    "url": "https://www.cdcr.ca.gov/",
-    "hash": "d5fe4a68",
+  "https://dcc-cde.ca.gov/": {
+    "requestedUrl": "https://dcc-cde.ca.gov/",
+    "url": "https://dcc-cde.ca.gov/",
+    "hash": "d5279a6c",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.speechandhearing.ca.gov/": {
-    "requestedUrl": "https://www.speechandhearing.ca.gov/",
-    "url": "https://www.speechandhearing.ca.gov/",
-    "hash": "d65e4d63",
+  "https://cityofblythe.ca.gov/": {
+    "requestedUrl": "https://cityofblythe.ca.gov/",
+    "url": "https://cityofblythe.ca.gov/",
+    "hash": "d5468fa7",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://tomalescsd.ca.gov/": {
+    "requestedUrl": "https://tomalescsd.ca.gov/",
+    "url": "https://www.tomalescsd.ca.gov/",
+    "hash": "d5848b27",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cdcr.ca.gov/": {
+    "requestedUrl": "https://cdcr.ca.gov/",
+    "url": "https://www.cdcr.ca.gov/",
+    "hash": "d5fe4a68",
     "categories": [
       "cagov"
     ],
@@ -1981,6 +3028,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://ociac.ca.gov/": {
+    "requestedUrl": "https://ociac.ca.gov/",
+    "url": "https://ociac.ca.gov/?AspxAutoDetectCookieSupport=1",
+    "hash": "d6e656a",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://childsupport.ca.gov/": {
     "requestedUrl": "https://childsupport.ca.gov/",
     "url": "https://childsupport.ca.gov/",
@@ -1990,8 +3046,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.calvet.ca.gov/": {
-    "requestedUrl": "https://www.calvet.ca.gov/",
+  "https://calvet.ca.gov/": {
+    "requestedUrl": "https://calvet.ca.gov/",
     "url": "https://www.calvet.ca.gov/",
     "hash": "d7090f97",
     "categories": [
@@ -1999,8 +3055,80 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dhcs.ca.gov/": {
-    "requestedUrl": "https://www.dhcs.ca.gov/",
+  "https://piedmont.ca.gov/": {
+    "requestedUrl": "https://piedmont.ca.gov/",
+    "url": "https://piedmont.ca.gov/",
+    "hash": "d70fa447",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://findanewway.ca.gov/": {
+    "requestedUrl": "https://findanewway.ca.gov/",
+    "url": "https://findanewway.ca.gov/wp-login.php?redirect_to=%2F",
+    "hash": "d7fbdef2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://sacramento.ca.gov/": {
+    "requestedUrl": "https://sacramento.ca.gov/",
+    "url": "https://www.sacramento.ca.gov/",
+    "hash": "d8270c41",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://scta.ca.gov/": {
+    "requestedUrl": "https://scta.ca.gov/",
+    "url": "https://scta.ca.gov/",
+    "hash": "d8b55d02",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://healthexchange.ca.gov/": {
+    "requestedUrl": "https://healthexchange.ca.gov/",
+    "url": "https://healthexchange.ca.gov/",
+    "hash": "d8cc3cc0",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://mono.ca.gov/": {
+    "requestedUrl": "https://mono.ca.gov/",
+    "url": "https://monocounty.ca.gov/",
+    "hash": "d94e611e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://biomonitoring.ca.gov/": {
+    "requestedUrl": "https://biomonitoring.ca.gov/",
+    "url": "https://biomonitoring.ca.gov/",
+    "hash": "d98e99ef",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bellcanyoncsd.ca.gov/": {
+    "requestedUrl": "https://bellcanyoncsd.ca.gov/",
+    "url": "https://bellcanyoncsd.ca.gov/",
+    "hash": "d99e8660",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dhcs.ca.gov/": {
+    "requestedUrl": "https://dhcs.ca.gov/",
     "url": "https://www.dhcs.ca.gov/",
     "hash": "da3ea2c2",
     "categories": [
@@ -2008,8 +3136,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.chp.ca.gov/": {
-    "requestedUrl": "https://www.chp.ca.gov/",
+  "https://bsa.ca.gov/": {
+    "requestedUrl": "https://bsa.ca.gov/",
+    "url": "https://bsa.ca.gov/",
+    "hash": "da902557",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://chp.ca.gov/": {
+    "requestedUrl": "https://chp.ca.gov/",
     "url": "https://www.chp.ca.gov/",
     "hash": "dad2ab85",
     "categories": [
@@ -2017,26 +3154,44 @@
     ],
     "vertical": "cagov"
   },
-  "https://mywaterquality.ca.gov/index.html": {
-    "requestedUrl": "https://mywaterquality.ca.gov/index.html",
-    "url": "https://mywaterquality.ca.gov/index.html",
-    "hash": "db6f3386",
+  "https://hcai.ca.gov/": {
+    "requestedUrl": "https://hcai.ca.gov/",
+    "url": "https://hcai.ca.gov/",
+    "hash": "daffdc44",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://projectresources.cdt.ca.gov/": {
-    "requestedUrl": "https://projectresources.cdt.ca.gov/",
-    "url": "https://projectresources.cdt.ca.gov/",
-    "hash": "dc80b956",
+  "https://nvta.ca.gov/": {
+    "requestedUrl": "https://nvta.ca.gov/",
+    "url": "https://nvta.ca.gov/",
+    "hash": "db760e6a",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.calpers.ca.gov/": {
-    "requestedUrl": "https://www.calpers.ca.gov/",
+  "https://cab.ca.gov/": {
+    "requestedUrl": "https://cab.ca.gov/",
+    "url": "https://cab.ca.gov/",
+    "hash": "dbb996c7",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://eaap.ca.gov/": {
+    "requestedUrl": "https://eaap.ca.gov/",
+    "url": "https://eaap.ca.gov/",
+    "hash": "dd871af2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calpers.ca.gov/": {
+    "requestedUrl": "https://calpers.ca.gov/",
     "url": "https://www.calpers.ca.gov/",
     "hash": "ddc03e24",
     "categories": [
@@ -2044,10 +3199,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/caeatfa/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/caeatfa/",
-    "url": "https://www.treasurer.ca.gov/caeatfa/",
-    "hash": "dffd6085",
+  "https://aging.ca.gov/": {
+    "requestedUrl": "https://aging.ca.gov/",
+    "url": "https://aging.ca.gov/",
+    "hash": "df28d7c1",
     "categories": [
       "cagov"
     ],
@@ -2062,6 +3217,33 @@
     ],
     "vertical": "cagov"
   },
+  "https://ocpsc.ca.gov/": {
+    "requestedUrl": "https://ocpsc.ca.gov/",
+    "url": "https://opr.ca.gov/ocpsc/",
+    "hash": "e13faf29",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://climateresilience.ca.gov/": {
+    "requestedUrl": "https://climateresilience.ca.gov/",
+    "url": "https://climateresilience.ca.gov/",
+    "hash": "e1c62e79",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calcareers.ca.gov/": {
+    "requestedUrl": "https://calcareers.ca.gov/",
+    "url": "https://calcareers.ca.gov/",
+    "hash": "e1d19998",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://spb.ca.gov/": {
     "requestedUrl": "https://spb.ca.gov/",
     "url": "https://spb.ca.gov/",
@@ -2071,10 +3253,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dgs.ca.gov/ccda": {
-    "requestedUrl": "https://www.dgs.ca.gov/ccda",
-    "url": "https://www.dgs.ca.gov/ccda",
-    "hash": "e23d330b",
+  "https://bawa.ca.gov/": {
+    "requestedUrl": "https://bawa.ca.gov/",
+    "url": "https://bawa.ca.gov/",
+    "hash": "e254c492",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dc-cde.ca.gov/": {
+    "requestedUrl": "https://dc-cde.ca.gov/",
+    "url": "https://dc-cde.ca.gov/",
+    "hash": "e259516f",
     "categories": [
       "cagov"
     ],
@@ -2089,28 +3280,55 @@
     ],
     "vertical": "cagov"
   },
-  "https://leginfo.legislature.ca.gov/": {
-    "requestedUrl": "https://leginfo.legislature.ca.gov/",
-    "url": "https://leginfo.legislature.ca.gov/",
-    "hash": "e71aef26",
+  "https://access2.ca.gov/": {
+    "requestedUrl": "https://access2.ca.gov/",
+    "url": "https://login.microsoftonline.com/52b26be4-7f5d-4e1c-baed-8cf75b7570d5/saml2",
+    "hash": "e3386cb6",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.latc.ca.gov/": {
-    "requestedUrl": "https://www.latc.ca.gov/",
-    "url": "https://www.latc.ca.gov/",
-    "hash": "e7b666e4",
+  "https://todb.ca.gov/": {
+    "requestedUrl": "https://todb.ca.gov/",
+    "url": "https://todb.ca.gov/",
+    "hash": "e3cdb6ba",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.opa.ca.gov/": {
-    "requestedUrl": "https://www.opa.ca.gov/",
-    "url": "https://www.opa.ca.gov/",
-    "hash": "ead0e600",
+  "https://access.ca.gov/": {
+    "requestedUrl": "https://access.ca.gov/",
+    "url": "https://idp.us.safenetid.com/auth/realms/3TT0W3H24V-STA/login-actions/authenticate?client_id=https%3A%2F%2Faccess.ca.gov&tab_id=NIBv0zCEsO4",
+    "hash": "e3f6001e",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://energysafety.ca.gov/": {
+    "requestedUrl": "https://energysafety.ca.gov/",
+    "url": "https://energysafety.ca.gov/",
+    "hash": "e475f6d9",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://santabarbaracounty.ca.gov/": {
+    "requestedUrl": "https://santabarbaracounty.ca.gov/",
+    "url": "https://www.countyofsb.org/",
+    "hash": "e47b29d4",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://rbra.ca.gov/": {
+    "requestedUrl": "https://rbra.ca.gov/",
+    "url": "https://rbra.ca.gov/",
+    "hash": "e994e864",
     "categories": [
       "cagov"
     ],
@@ -2125,10 +3343,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.vmb.ca.gov/": {
-    "requestedUrl": "https://www.vmb.ca.gov/",
-    "url": "https://www.vmb.ca.gov/",
-    "hash": "ed1be867",
+  "https://eitc.ca.gov/": {
+    "requestedUrl": "https://eitc.ca.gov/",
+    "url": "https://www.cdss.ca.gov/earned-income-tax-credit",
+    "hash": "ecdf6bee",
     "categories": [
       "cagov"
     ],
@@ -2143,26 +3361,53 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.parks.ca.gov/": {
-    "requestedUrl": "https://www.parks.ca.gov/",
-    "url": "https://www.parks.ca.gov/",
-    "hash": "ed604145",
+  "https://sta.ca.gov/": {
+    "requestedUrl": "https://sta.ca.gov/",
+    "url": "https://sta.ca.gov/",
+    "hash": "ed53b7e1",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://www.parks.ca.gov/commission": {
-    "requestedUrl": "https://www.parks.ca.gov/commission",
-    "url": "https://www.parks.ca.gov/commission",
-    "hash": "ef3a1628",
+  "https://acupuncture.ca.gov/": {
+    "requestedUrl": "https://acupuncture.ca.gov/",
+    "url": "https://acupuncture.ca.gov/",
+    "hash": "edcfa10e",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "http://bhc.ca.gov/": {
-    "requestedUrl": "http://bhc.ca.gov/",
+  "https://sanbruno.ca.gov/": {
+    "requestedUrl": "https://sanbruno.ca.gov/",
+    "url": "https://sanbruno.ca.gov/",
+    "hash": "ede3ef7f",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://simivalley.ca.gov/": {
+    "requestedUrl": "https://simivalley.ca.gov/",
+    "url": "https://www.simivalley.org/",
+    "hash": "edfc2a83",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://placer.ca.gov/": {
+    "requestedUrl": "https://placer.ca.gov/",
+    "url": "https://www.placer.ca.gov//",
+    "hash": "ef210358",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://bhc.ca.gov/": {
+    "requestedUrl": "https://bhc.ca.gov/",
     "url": "https://bhc.ca.gov/",
     "hash": "ef96fe2e",
     "categories": [
@@ -2170,17 +3415,17 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.treasurer.ca.gov/chffa/": {
-    "requestedUrl": "https://www.treasurer.ca.gov/chffa/",
-    "url": "https://www.treasurer.ca.gov/chffa/",
-    "hash": "effd2bfa",
+  "https://courtreportersboard.ca.gov/": {
+    "requestedUrl": "https://courtreportersboard.ca.gov/",
+    "url": "https://courtreportersboard.ca.gov/",
+    "hash": "f0b5a28",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "http://rmc.ca.gov/": {
-    "requestedUrl": "http://rmc.ca.gov/",
+  "https://rmc.ca.gov/": {
+    "requestedUrl": "https://rmc.ca.gov/",
     "url": "https://rmc.ca.gov/",
     "hash": "f104471b",
     "categories": [
@@ -2188,17 +3433,35 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.calvet.ca.gov/VetServices/Pages/DVBE-Council.aspx": {
-    "requestedUrl": "https://www.calvet.ca.gov/VetServices/Pages/DVBE-Council.aspx",
-    "url": "https://www.calvet.ca.gov/VetServices/Pages/DVBE-Council.aspx",
-    "hash": "f1117b63",
+  "https://accessuat.ca.gov/": {
+    "requestedUrl": "https://accessuat.ca.gov/",
+    "url": "https://idp.us.safenetid.com/auth/realms/3TT0W3H24V-STA/login-actions/authenticate?client_id=https%3A%2F%2Faccess.ca.gov&tab_id=VqMTwOp-05Y",
+    "hash": "f15aef4e",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://wedrawthelines.ca.gov/": {
-    "requestedUrl": "https://wedrawthelines.ca.gov/",
+  "https://hollister.ca.gov/": {
+    "requestedUrl": "https://hollister.ca.gov/",
+    "url": "https://hollister.ca.gov/",
+    "hash": "f1c38419",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://opc.ca.gov/": {
+    "requestedUrl": "https://opc.ca.gov/",
+    "url": "https://opc.ca.gov/",
+    "hash": "f1ce977b",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://crc.ca.gov/": {
+    "requestedUrl": "https://crc.ca.gov/",
     "url": "https://wedrawthelines.ca.gov/",
     "hash": "f1ebccb1",
     "categories": [
@@ -2206,17 +3469,71 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.fppc.ca.gov/": {
-    "requestedUrl": "https://www.fppc.ca.gov/",
-    "url": "https://www.fppc.ca.gov/",
-    "hash": "f207a75b",
+  "https://ombc.ca.gov/": {
+    "requestedUrl": "https://ombc.ca.gov/",
+    "url": "https://ombc.ca.gov/",
+    "hash": "f1ebd384",
     "categories": [
       "cagov"
     ],
     "vertical": "cagov"
   },
-  "https://ww2.arb.ca.gov/": {
-    "requestedUrl": "https://ww2.arb.ca.gov/",
+  "https://avaqmd.ca.gov/": {
+    "requestedUrl": "https://avaqmd.ca.gov/",
+    "url": "https://avaqmd.ca.gov/",
+    "hash": "f1f0b4e9",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://tehamacountypublicworks.ca.gov/": {
+    "requestedUrl": "https://tehamacountypublicworks.ca.gov/",
+    "url": "https://tehamacountypublicworks.ca.gov/",
+    "hash": "f23c7f1a",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://unionsanitary.ca.gov/": {
+    "requestedUrl": "https://unionsanitary.ca.gov/",
+    "url": "https://unionsanitary.ca.gov/",
+    "hash": "f2901b3f",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://cityofriodell.ca.gov/": {
+    "requestedUrl": "https://cityofriodell.ca.gov/",
+    "url": "https://www.cityofriodell.ca.gov/",
+    "hash": "f2e87225",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://californiansforall.ca.gov/": {
+    "requestedUrl": "https://californiansforall.ca.gov/",
+    "url": "https://www.californiavolunteers.ca.gov/join-californiansforall/",
+    "hash": "f30149e2",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://pestboard.ca.gov/": {
+    "requestedUrl": "https://pestboard.ca.gov/",
+    "url": "https://pestboard.ca.gov/",
+    "hash": "f407b5af",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://arb.ca.gov/": {
+    "requestedUrl": "https://arb.ca.gov/",
     "url": "https://ww2.arb.ca.gov/",
     "hash": "f40ccb0a",
     "categories": [
@@ -2224,10 +3541,10 @@
     ],
     "vertical": "cagov"
   },
-  "https://dbw.parks.ca.gov/?page_id=28835": {
-    "requestedUrl": "https://dbw.parks.ca.gov/?page_id=28835",
-    "url": "https://dbw.parks.ca.gov/?page_id=28835",
-    "hash": "f4bd4094",
+  "https://calgold.ca.gov/": {
+    "requestedUrl": "https://calgold.ca.gov/",
+    "url": "https://www.calgold.ca.gov/",
+    "hash": "f53623d0",
     "categories": [
       "cagov"
     ],
@@ -2242,42 +3559,6 @@
     ],
     "vertical": "cagov"
   },
-  "https://www.dsh.ca.gov/": {
-    "requestedUrl": "https://www.dsh.ca.gov/",
-    "url": "https://www.dsh.ca.gov/",
-    "hash": "f71aca1",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://capmf.cdt.ca.gov/": {
-    "requestedUrl": "https://capmf.cdt.ca.gov/",
-    "url": "https://capmf.cdt.ca.gov/",
-    "hash": "f7ce9563",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://www.statefundca.com/?WT.svl=5": {
-    "requestedUrl": "https://www.statefundca.com/?WT.svl=5",
-    "url": "https://www.statefundca.com/?WT.svl=5",
-    "hash": "f7dbf572",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "http://www.clrc.ca.gov/": {
-    "requestedUrl": "http://www.clrc.ca.gov/",
-    "url": "http://www.clrc.ca.gov/",
-    "hash": "f8eeef53",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://fiscal.ca.gov/": {
     "requestedUrl": "https://fiscal.ca.gov/",
     "url": "https://fiscal.ca.gov/",
@@ -2287,10 +3568,37 @@
     ],
     "vertical": "cagov"
   },
-  "https://unemployment.edd.ca.gov/": {
-    "requestedUrl": "https://unemployment.edd.ca.gov/",
-    "url": "https://unemployment.edd.ca.gov/",
-    "hash": "fa3b1d47",
+  "https://tcpw.ca.gov/": {
+    "requestedUrl": "https://tcpw.ca.gov/",
+    "url": "https://tcpw.ca.gov/",
+    "hash": "fb66a417",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://dbc.ca.gov/": {
+    "requestedUrl": "https://dbc.ca.gov/",
+    "url": "https://dbc.ca.gov/",
+    "hash": "fb920162",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://solanosr2s.ca.gov/": {
+    "requestedUrl": "https://solanosr2s.ca.gov/",
+    "url": "https://solanosr2s.ca.gov/",
+    "hash": "fbaf8597",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://clsd.ca.gov/": {
+    "requestedUrl": "https://clsd.ca.gov/",
+    "url": "https://clsd.ca.gov/",
+    "hash": "fc2a09f",
     "categories": [
       "cagov"
     ],
@@ -2305,10 +3613,46 @@
     ],
     "vertical": "cagov"
   },
-  "http://www.insurance.ca.gov/": {
-    "requestedUrl": "http://www.insurance.ca.gov/",
+  "https://insurance.ca.gov/": {
+    "requestedUrl": "https://insurance.ca.gov/",
     "url": "https://www.insurance.ca.gov/",
     "hash": "fd560424",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://barc.ca.gov/": {
+    "requestedUrl": "https://barc.ca.gov/",
+    "url": "https://barc.ca.gov/",
+    "hash": "fe0beb55",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://c2c.ca.gov/": {
+    "requestedUrl": "https://c2c.ca.gov/",
+    "url": "https://c2c.ca.gov/",
+    "hash": "fea485f5",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calcompetes.ca.gov/": {
+    "requestedUrl": "https://calcompetes.ca.gov/",
+    "url": "https://www.calcompetes.ca.gov/Login.aspx?ReturnUrl=%2f",
+    "hash": "ff081883",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://agencyreports.ca.gov/": {
+    "requestedUrl": "https://agencyreports.ca.gov/",
+    "url": "https://agencyreports.ca.gov/",
+    "hash": "ff277aad",
     "categories": [
       "cagov"
     ],

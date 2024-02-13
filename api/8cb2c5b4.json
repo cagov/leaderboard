@@ -1,43 +1,43 @@
 {
   "url": "https://cdt.ca.gov/",
   "requestedUrl": "https://cdt.ca.gov/",
-  "timestamp": 1707436641037,
+  "timestamp": 1707767435387,
   "ranks": {
-    "hundos": 134,
-    "performance": 203,
-    "accessibility": 173,
-    "cumulative": 134
+    "hundos": 89,
+    "performance": 133,
+    "accessibility": 212,
+    "cumulative": 87
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.32,
+    "performance": 0.6,
     "accessibility": 0.92,
     "bestPractices": 0.93,
     "seo": 1,
-    "total": 317
+    "total": 345
   },
-  "firstContentfulPaint": 2523.1175000000003,
-  "firstMeaningfulPaint": 3873.1175000000003,
-  "speedIndex": 7077.74006709284,
-  "largestContentfulPaint": 5062.6175,
-  "totalBlockingTime": 633,
-  "cumulativeLayoutShift": 0.689363726363947,
-  "timeToInteractive": 12040.8415,
-  "maxPotentialFirstInputDelay": 211,
-  "timeToFirstByte": 1592.21,
+  "firstContentfulPaint": 2433.6445,
+  "firstMeaningfulPaint": 2433.6445,
+  "speedIndex": 6177.772684355206,
+  "largestContentfulPaint": 3198.6445,
+  "totalBlockingTime": 118.5,
+  "cumulativeLayoutShift": 0.717145137446614,
+  "timeToInteractive": 10710.1445,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 978.725,
   "weight": {
     "summary": "91 requests • 1.6 MiB",
-    "total": 1700544,
-    "image": 145908,
+    "total": 1666715,
+    "image": 135828,
     "imageCount": 23,
-    "script": 898913,
+    "script": 897636,
     "scriptCount": 28,
-    "document": 35710,
-    "font": 405433,
-    "fontCount": 8,
-    "stylesheet": 213736,
-    "stylesheetCount": 24,
-    "thirdParty": 892655,
+    "document": 35665,
+    "font": 382833,
+    "fontCount": 7,
+    "stylesheet": 213909,
+    "stylesheetCount": 25,
+    "thirdParty": 800532,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,23 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 84,
-    "+weight.total": 176,
-    "-weight.document": 128,
-    "+weight.document": 132,
-    "-weight.script": 138,
-    "+weight.script": 120,
-    "-weight.image": 37,
-    "+weight.image": 221,
-    "-weight.font": 176,
-    "+weight.font": 44,
-    "+weight.fontCount": 12,
-    "-timeToFirstByte": 246,
-    "-totalBlockingTime": 192,
-    "-largestContentfulPaint": 57
+    "-weight.total": 113,
+    "+weight.total": 313,
+    "-weight.document": 208,
+    "+weight.document": 215,
+    "-weight.script": 209,
+    "+weight.script": 213,
+    "-weight.image": 47,
+    "+weight.image": 375,
+    "-weight.font": 284,
+    "+weight.font": 75,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 382,
+    "-totalBlockingTime": 139,
+    "-largestContentfulPaint": 34
   },
   "axe": {
     "passes": 623,
-    "violations": 9
+    "violations": 6
   }
 }

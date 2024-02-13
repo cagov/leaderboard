@@ -1,0 +1,67 @@
+{
+  "url": "https://wcchd.ca.gov/",
+  "requestedUrl": "https://wcchd.ca.gov/",
+  "timestamp": 1707794122764,
+  "ranks": {
+    "hundos": 20,
+    "performance": 19,
+    "accessibility": 190,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.94,
+    "accessibility": 0.94,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 366
+  },
+  "firstContentfulPaint": 1863.7070000000003,
+  "firstMeaningfulPaint": 2842.1050000000005,
+  "speedIndex": 2225.920405492592,
+  "largestContentfulPaint": 2842.105,
+  "totalBlockingTime": 26,
+  "cumulativeLayoutShift": 0.00011009791716569396,
+  "timeToInteractive": 5412.618545501709,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 531.199,
+  "weight": {
+    "summary": "45 requests • 511.3 KiB",
+    "total": 506305,
+    "image": 13342,
+    "imageCount": 4,
+    "script": 276192,
+    "scriptCount": 15,
+    "document": 36778,
+    "font": 97757,
+    "fontCount": 7,
+    "stylesheet": 89804,
+    "stylesheetCount": 13,
+    "thirdParty": 359686,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 408,
+    "-weight.document": 215,
+    "+weight.document": 208,
+    "-weight.script": 54,
+    "+weight.script": 368,
+    "-weight.image": 6,
+    "+weight.image": 416,
+    "-weight.font": 84,
+    "+weight.font": 275,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 333,
+    "-totalBlockingTime": 45,
+    "-largestContentfulPaint": 27
+  },
+  "axe": {
+    "passes": 181,
+    "violations": 14
+  }
+}

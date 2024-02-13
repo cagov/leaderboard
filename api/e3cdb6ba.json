@@ -1,0 +1,67 @@
+{
+  "url": "https://todb.ca.gov/",
+  "requestedUrl": "https://todb.ca.gov/",
+  "timestamp": 1707792331155,
+  "ranks": {
+    "hundos": 180,
+    "performance": 183,
+    "accessibility": 48,
+    "cumulative": 178
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.91,
+    "total": 324
+  },
+  "firstContentfulPaint": 7162.451,
+  "firstMeaningfulPaint": 8147.850000000001,
+  "speedIndex": 7162.451,
+  "largestContentfulPaint": 11519.4085,
+  "totalBlockingTime": 201,
+  "cumulativeLayoutShift": 0.0002623956088397305,
+  "timeToInteractive": 17565.7985,
+  "maxPotentialFirstInputDelay": 195,
+  "timeToFirstByte": 116.42299999999999,
+  "weight": {
+    "summary": "59 requests • 3.0 MiB",
+    "total": 3111078,
+    "image": 976358,
+    "imageCount": 26,
+    "script": 1935317,
+    "scriptCount": 17,
+    "document": 38073,
+    "font": 62252,
+    "fontCount": 2,
+    "stylesheet": 95033,
+    "stylesheetCount": 6,
+    "thirdParty": 2097934,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 245,
+    "+weight.total": 181,
+    "-weight.document": 220,
+    "+weight.document": 203,
+    "-weight.script": 373,
+    "+weight.script": 49,
+    "-weight.image": 214,
+    "+weight.image": 208,
+    "-weight.font": 32,
+    "+weight.font": 327,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 223,
+    "-totalBlockingTime": 173,
+    "-largestContentfulPaint": 218
+  },
+  "axe": {
+    "passes": 1301,
+    "violations": 3
+  }
+}

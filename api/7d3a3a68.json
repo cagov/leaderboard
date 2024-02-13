@@ -1,43 +1,43 @@
 {
   "url": "https://www.calpia.ca.gov/",
-  "requestedUrl": "https://www.calpia.ca.gov/",
-  "timestamp": 1707436049147,
+  "requestedUrl": "https://calpia.ca.gov/",
+  "timestamp": 1707765589549,
   "ranks": {
-    "hundos": 244,
-    "performance": 140,
-    "accessibility": 110,
-    "cumulative": 244
+    "hundos": 379,
+    "performance": 199,
+    "accessibility": 130,
+    "cumulative": 380
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.45,
+    "performance": 0.54,
     "accessibility": 0.97,
     "bestPractices": 0.63,
     "seo": 0.54,
-    "total": 259
+    "total": 268
   },
-  "firstContentfulPaint": 9282.970000000001,
-  "firstMeaningfulPaint": 9282.970000000001,
-  "speedIndex": 26403.991818488226,
-  "largestContentfulPaint": 33414.35567369843,
-  "totalBlockingTime": 423.5,
+  "firstContentfulPaint": 12378.679980000004,
+  "firstMeaningfulPaint": 12378.679980000004,
+  "speedIndex": 31399.86946385281,
+  "largestContentfulPaint": 37396.041,
+  "totalBlockingTime": 133.5,
   "cumulativeLayoutShift": 0.009720534629404616,
-  "timeToInteractive": 35495.727673698435,
-  "maxPotentialFirstInputDelay": 277,
-  "timeToFirstByte": 4136.313,
+  "timeToInteractive": 38225.76331,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 3365.7039999999997,
   "weight": {
-    "summary": "131 requests • 6.8 MiB",
-    "total": 7179586,
-    "image": 2498220,
+    "summary": "133 requests • 6.9 MiB",
+    "total": 7199458,
+    "image": 2497935,
     "imageCount": 34,
-    "script": 2356379,
-    "scriptCount": 39,
-    "document": 144597,
-    "font": 1310195,
+    "script": 2375953,
+    "scriptCount": 40,
+    "document": 144156,
+    "font": 1310170,
     "fontCount": 13,
-    "stylesheet": 805840,
+    "stylesheet": 805900,
     "stylesheetCount": 25,
-    "thirdParty": 2012090,
+    "thirdParty": 2012865,
     "thirdPartyCount": 13
   },
   "run": {
@@ -45,23 +45,22 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 220,
-    "+weight.total": 40,
-    "-weight.document": 230,
-    "+weight.document": 30,
-    "-weight.script": 247,
-    "+weight.script": 11,
-    "-weight.image": 205,
-    "+weight.image": 53,
-    "-weight.font": 218,
-    "+weight.font": 2,
-    "+weight.fontCount": 8,
-    "-timeToFirstByte": 256,
-    "-totalBlockingTime": 163,
-    "-largestContentfulPaint": 243
+    "-weight.total": 353,
+    "+weight.total": 73,
+    "-weight.document": 373,
+    "+weight.document": 50,
+    "-weight.script": 395,
+    "+weight.script": 27,
+    "-weight.image": 302,
+    "+weight.image": 120,
+    "-weight.font": 358,
+    "+weight.font": 1,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 418,
+    "-totalBlockingTime": 146,
+    "-largestContentfulPaint": 402
   },
   "axe": {
-    "passes": 1077,
-    "violations": 13
+    "error": "{\"name\":\"TimeoutError\"}"
   }
 }

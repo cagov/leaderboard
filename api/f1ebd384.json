@@ -1,0 +1,67 @@
+{
+  "url": "https://ombc.ca.gov/",
+  "requestedUrl": "https://ombc.ca.gov/",
+  "timestamp": 1707784568713,
+  "ranks": {
+    "hundos": 308,
+    "performance": 358,
+    "accessibility": 204,
+    "cumulative": 308
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 0.93,
+    "bestPractices": 0.74,
+    "seo": 0.89,
+    "total": 293
+  },
+  "firstContentfulPaint": 5414.888000000001,
+  "firstMeaningfulPaint": 6068.116,
+  "speedIndex": 8641.389624676422,
+  "largestContentfulPaint": 10437.405000000002,
+  "totalBlockingTime": 41.5,
+  "cumulativeLayoutShift": 0.4753680307016408,
+  "timeToInteractive": 16509.69125,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 20.620000000000005,
+  "weight": {
+    "summary": "104 requests • 3.8 MiB",
+    "total": 4013735,
+    "image": 1333528,
+    "imageCount": 43,
+    "script": 1635525,
+    "scriptCount": 32,
+    "document": 51107,
+    "font": 242463,
+    "fontCount": 5,
+    "stylesheet": 728798,
+    "stylesheetCount": 10,
+    "thirdParty": 1267601,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 286,
+    "+weight.total": 140,
+    "-weight.document": 282,
+    "+weight.document": 141,
+    "-weight.script": 344,
+    "+weight.script": 78,
+    "-weight.image": 245,
+    "+weight.image": 177,
+    "-weight.font": 222,
+    "+weight.font": 137,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 60,
+    "-totalBlockingTime": 66,
+    "-largestContentfulPaint": 199
+  },
+  "axe": {
+    "passes": 1236,
+    "violations": 17
+  }
+}

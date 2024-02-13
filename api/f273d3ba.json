@@ -1,0 +1,20 @@
+{
+  "url": "https://climatechange.ca.gov/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 426,
+    "+weight.total": 426,
+    "-weight.document": 423,
+    "+weight.document": 423,
+    "-weight.script": 422,
+    "+weight.script": 422,
+    "-weight.image": 422,
+    "+weight.image": 422,
+    "-weight.font": 359,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 426,
+    "-totalBlockingTime": 254,
+    "-largestContentfulPaint": 425
+  }
+}

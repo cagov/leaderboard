@@ -1,0 +1,67 @@
+{
+  "url": "https://cca.ca.gov/",
+  "requestedUrl": "https://cca.ca.gov/",
+  "timestamp": 1707766651836,
+  "ranks": {
+    "hundos": 358,
+    "performance": 346,
+    "accessibility": 299,
+    "cumulative": 356
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.87,
+    "bestPractices": 0.74,
+    "seo": 0.79,
+    "total": 278
+  },
+  "firstContentfulPaint": 2670.6704999999997,
+  "firstMeaningfulPaint": 2670.6704999999997,
+  "speedIndex": 8513.204376179367,
+  "largestContentfulPaint": 10481.502499999999,
+  "totalBlockingTime": 47,
+  "cumulativeLayoutShift": 0.9960045720689694,
+  "timeToInteractive": 5815.669045501709,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 852.936,
+  "weight": {
+    "summary": "61 requests • 5.0 MiB",
+    "total": 5221009,
+    "image": 4673315,
+    "imageCount": 14,
+    "script": 318242,
+    "scriptCount": 22,
+    "document": 41373,
+    "font": 98611,
+    "fontCount": 6,
+    "stylesheet": 79492,
+    "stylesheetCount": 13,
+    "thirdParty": 373899,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 319,
+    "+weight.total": 107,
+    "-weight.document": 252,
+    "+weight.document": 171,
+    "-weight.script": 66,
+    "+weight.script": 356,
+    "-weight.image": 363,
+    "+weight.image": 59,
+    "-weight.font": 86,
+    "+weight.font": 273,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 376,
+    "-totalBlockingTime": 74,
+    "-largestContentfulPaint": 202
+  },
+  "axe": {
+    "passes": 336,
+    "violations": 6
+  }
+}

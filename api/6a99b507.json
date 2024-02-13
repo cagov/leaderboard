@@ -1,0 +1,67 @@
+{
+  "url": "https://workforcalifornia.ca.gov/",
+  "requestedUrl": "https://workforcalifornia.ca.gov/",
+  "timestamp": 1707794833800,
+  "ranks": {
+    "hundos": 369,
+    "performance": 395,
+    "accessibility": 146,
+    "cumulative": 369
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.32,
+    "accessibility": 0.96,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 272
+  },
+  "firstContentfulPaint": 4510.758000000002,
+  "firstMeaningfulPaint": 4510.758000000002,
+  "speedIndex": 17668.316788154927,
+  "largestContentfulPaint": 22120.9455,
+  "totalBlockingTime": 1288,
+  "cumulativeLayoutShift": 0.0020348918503945972,
+  "timeToInteractive": 31503.071573913563,
+  "maxPotentialFirstInputDelay": 237,
+  "timeToFirstByte": 89.98100000000001,
+  "weight": {
+    "summary": "296 requests • 4.8 MiB",
+    "total": 4989075,
+    "image": 1001317,
+    "imageCount": 67,
+    "script": 2553754,
+    "scriptCount": 87,
+    "document": 522639,
+    "font": 233595,
+    "fontCount": 30,
+    "stylesheet": 322208,
+    "stylesheetCount": 26,
+    "thirdParty": 4017516,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 314,
+    "+weight.total": 112,
+    "-weight.document": 415,
+    "+weight.document": 8,
+    "-weight.script": 399,
+    "+weight.script": 23,
+    "-weight.image": 216,
+    "+weight.image": 206,
+    "-weight.font": 218,
+    "+weight.font": 141,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 190,
+    "-totalBlockingTime": 240,
+    "-largestContentfulPaint": 362
+  },
+  "axe": {
+    "passes": 1469,
+    "violations": 32
+  }
+}

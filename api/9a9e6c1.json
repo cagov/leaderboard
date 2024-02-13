@@ -1,43 +1,43 @@
 {
   "url": "https://www.calbar.ca.gov/",
-  "requestedUrl": "https://www.calbar.ca.gov/",
-  "timestamp": 1707434030457,
+  "requestedUrl": "https://calbar.ca.gov/",
+  "timestamp": 1707763825573,
   "ranks": {
-    "hundos": 220,
-    "performance": 156,
-    "accessibility": 242,
-    "cumulative": 220
+    "hundos": 322,
+    "performance": 221,
+    "accessibility": 369,
+    "cumulative": 323
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.41,
+    "performance": 0.51,
     "accessibility": 0.82,
     "bestPractices": 0.56,
     "seo": 0.98,
-    "total": 277
+    "total": 287
   },
-  "firstContentfulPaint": 3393.70885,
-  "firstMeaningfulPaint": 4147.25642,
-  "speedIndex": 5035.7713091014975,
-  "largestContentfulPaint": 8410.70736,
-  "totalBlockingTime": 294.49999999999955,
-  "cumulativeLayoutShift": 0.3793355377718074,
-  "timeToInteractive": 7257.154459999999,
-  "maxPotentialFirstInputDelay": 553.9999999999991,
-  "timeToFirstByte": 49.664999999999964,
+  "firstContentfulPaint": 4145.891065,
+  "firstMeaningfulPaint": 5156.89026,
+  "speedIndex": 5933.356318910421,
+  "largestContentfulPaint": 9871.092990000003,
+  "totalBlockingTime": 101.5,
+  "cumulativeLayoutShift": 0.21386919181851466,
+  "timeToInteractive": 7533.130120000002,
+  "maxPotentialFirstInputDelay": 246,
+  "timeToFirstByte": 57.53799999999998,
   "weight": {
-    "summary": "51 requests • 1.1 MiB",
-    "total": 1140444,
-    "image": 681187,
+    "summary": "52 requests • 1.1 MiB",
+    "total": 1140766,
+    "image": 681182,
     "imageCount": 14,
-    "script": 330393,
+    "script": 330399,
     "scriptCount": 18,
-    "document": 28211,
-    "font": 64127,
+    "document": 27905,
+    "font": 64130,
     "fontCount": 6,
     "stylesheet": 30218,
     "stylesheetCount": 7,
-    "thirdParty": 286424,
+    "thirdParty": 286429,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,23 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 48,
-    "+weight.total": 212,
-    "-weight.document": 85,
-    "+weight.document": 175,
-    "-weight.script": 40,
-    "+weight.script": 218,
-    "-weight.image": 116,
-    "+weight.image": 142,
-    "-weight.font": 21,
-    "+weight.font": 199,
-    "+weight.fontCount": 14,
-    "-timeToFirstByte": 98,
-    "-totalBlockingTime": 133,
-    "-largestContentfulPaint": 109
+    "-weight.total": 62,
+    "+weight.total": 364,
+    "-weight.document": 136,
+    "+weight.document": 287,
+    "-weight.script": 69,
+    "+weight.script": 353,
+    "-weight.image": 169,
+    "+weight.image": 253,
+    "-weight.font": 41,
+    "+weight.font": 318,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 144,
+    "-totalBlockingTime": 127,
+    "-largestContentfulPaint": 180
   },
   "axe": {
-    "passes": 510,
-    "violations": 22
+    "passes": 514,
+    "violations": 23
   }
 }

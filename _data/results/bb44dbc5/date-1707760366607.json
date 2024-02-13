@@ -1,0 +1,67 @@
+{
+  "url": "https://dmhc.ca.gov/",
+  "requestedUrl": "https://dmhc.ca.gov/",
+  "timestamp": 1707774157971,
+  "ranks": {
+    "hundos": 367,
+    "performance": 399,
+    "accessibility": 333,
+    "cumulative": 367
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.89,
+    "total": 275
+  },
+  "firstContentfulPaint": 12719.082999999995,
+  "firstMeaningfulPaint": 14275.176999999994,
+  "speedIndex": 12719.082999999995,
+  "largestContentfulPaint": 17144.506999999994,
+  "totalBlockingTime": 439.5,
+  "cumulativeLayoutShift": 0.26952537955716177,
+  "timeToInteractive": 18497.064999999995,
+  "maxPotentialFirstInputDelay": 662,
+  "timeToFirstByte": 66.55499999999999,
+  "weight": {
+    "summary": "87 requests • 3.3 MiB",
+    "total": 3311679,
+    "image": 747009,
+    "imageCount": 21,
+    "script": 2088841,
+    "scriptCount": 34,
+    "document": 21285,
+    "font": 315115,
+    "fontCount": 4,
+    "stylesheet": 234591,
+    "stylesheetCount": 18,
+    "thirdParty": 775365,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 261,
+    "+weight.total": 165,
+    "-weight.document": 105,
+    "+weight.document": 318,
+    "-weight.script": 380,
+    "+weight.script": 42,
+    "-weight.image": 182,
+    "+weight.image": 240,
+    "-weight.font": 258,
+    "+weight.font": 101,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 156,
+    "-totalBlockingTime": 212,
+    "-largestContentfulPaint": 346
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 25
+  }
+}

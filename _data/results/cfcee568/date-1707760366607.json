@@ -1,0 +1,67 @@
+{
+  "url": "https://camade.ca.gov/",
+  "requestedUrl": "https://camade.ca.gov/",
+  "timestamp": 1707766088689,
+  "ranks": {
+    "hundos": 253,
+    "performance": 51,
+    "accessibility": 405,
+    "cumulative": 253
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.78,
+    "accessibility": 0.75,
+    "bestPractices": 0.96,
+    "seo": 0.58,
+    "total": 307
+  },
+  "firstContentfulPaint": 2965.651,
+  "firstMeaningfulPaint": 3012.151,
+  "speedIndex": 2965.651,
+  "largestContentfulPaint": 4603.459000000001,
+  "totalBlockingTime": 25,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4279.98175,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 48.35900000000001,
+  "weight": {
+    "summary": "30 requests • 741.8 KiB",
+    "total": 759639,
+    "image": 380433,
+    "imageCount": 16,
+    "script": 196036,
+    "scriptCount": 6,
+    "document": 20166,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 162830,
+    "stylesheetCount": 5,
+    "thirdParty": 203744,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 40,
+    "+weight.total": 386,
+    "-weight.document": 96,
+    "+weight.document": 327,
+    "-weight.script": 32,
+    "+weight.script": 390,
+    "-weight.image": 103,
+    "+weight.image": 319,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 131,
+    "-totalBlockingTime": 43,
+    "-largestContentfulPaint": 61
+  },
+  "axe": {
+    "passes": 461,
+    "violations": 41
+  }
+}

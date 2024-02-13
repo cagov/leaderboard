@@ -1,0 +1,67 @@
+{
+  "url": "https://cslb.ca.gov/",
+  "requestedUrl": "https://cslb.ca.gov/",
+  "timestamp": 1707772104442,
+  "ranks": {
+    "hundos": 171,
+    "performance": 247,
+    "accessibility": 275,
+    "cumulative": 172
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.97,
+    "total": 326
+  },
+  "firstContentfulPaint": 2448.3404,
+  "firstMeaningfulPaint": 4104.9414,
+  "speedIndex": 3634.3728584073556,
+  "largestContentfulPaint": 8063.6824,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 1.0592514884247035,
+  "timeToInteractive": 4104.9414,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 22.698999999999998,
+  "weight": {
+    "summary": "51 requests • 8.1 MiB",
+    "total": 8542680,
+    "image": 7807392,
+    "imageCount": 26,
+    "script": 391430,
+    "scriptCount": 10,
+    "document": 56199,
+    "font": 214397,
+    "fontCount": 3,
+    "stylesheet": 72278,
+    "stylesheetCount": 7,
+    "thirdParty": 300761,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 371,
+    "+weight.total": 55,
+    "-weight.document": 295,
+    "+weight.document": 128,
+    "-weight.script": 84,
+    "+weight.script": 338,
+    "-weight.image": 392,
+    "+weight.image": 30,
+    "-weight.font": 201,
+    "+weight.font": 158,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 68,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 138
+  },
+  "axe": {
+    "passes": 923,
+    "violations": 14
+  }
+}

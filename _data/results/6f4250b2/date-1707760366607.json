@@ -1,0 +1,67 @@
+{
+  "url": "https://www.courts.ca.gov/",
+  "requestedUrl": "https://courts.ca.gov/",
+  "timestamp": 1707771074806,
+  "ranks": {
+    "hundos": 116,
+    "performance": 127,
+    "accessibility": 165,
+    "cumulative": 118
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.61,
+    "accessibility": 0.95,
+    "bestPractices": 0.85,
+    "seo": 0.99,
+    "total": 340
+  },
+  "firstContentfulPaint": 5729.431999999997,
+  "firstMeaningfulPaint": 5729.431999999997,
+  "speedIndex": 6154.8237857089225,
+  "largestContentfulPaint": 7882.527999999996,
+  "totalBlockingTime": 8,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7876.289999999999,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 32.16799999999999,
+  "weight": {
+    "summary": "65 requests • 2.1 MiB",
+    "total": 2188259,
+    "image": 1556426,
+    "imageCount": 12,
+    "script": 435362,
+    "scriptCount": 20,
+    "document": 28847,
+    "font": 77621,
+    "fontCount": 1,
+    "stylesheet": 88651,
+    "stylesheetCount": 25,
+    "thirdParty": 502400,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 161,
+    "+weight.total": 265,
+    "-weight.document": 141,
+    "+weight.document": 282,
+    "-weight.script": 96,
+    "+weight.script": 326,
+    "-weight.image": 261,
+    "+weight.image": 161,
+    "-weight.font": 60,
+    "+weight.font": 299,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 101,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 134
+  },
+  "axe": {
+    "passes": 506,
+    "violations": 11
+  }
+}

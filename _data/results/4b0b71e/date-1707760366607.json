@@ -1,0 +1,67 @@
+{
+  "url": "https://resources.ca.gov/",
+  "requestedUrl": "https://cnra.ca.gov/",
+  "timestamp": 1707770004255,
+  "ranks": {
+    "hundos": 222,
+    "performance": 391,
+    "accessibility": 103,
+    "cumulative": 222
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.32,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 316
+  },
+  "firstContentfulPaint": 3660.3734999999997,
+  "firstMeaningfulPaint": 4764.436000000001,
+  "speedIndex": 9705.05208328194,
+  "largestContentfulPaint": 9242.8475,
+  "totalBlockingTime": 1998.5,
+  "cumulativeLayoutShift": 0.022331404424836235,
+  "timeToInteractive": 22970.2085,
+  "maxPotentialFirstInputDelay": 1577,
+  "timeToFirstByte": 295.185,
+  "weight": {
+    "summary": "263 requests • 9.1 MiB",
+    "total": 9540903,
+    "image": 8132254,
+    "imageCount": 208,
+    "script": 1023433,
+    "scriptCount": 34,
+    "document": 194004,
+    "font": 108022,
+    "fontCount": 8,
+    "stylesheet": 79320,
+    "stylesheetCount": 5,
+    "thirdParty": 5075330,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 385,
+    "+weight.total": 41,
+    "-weight.document": 391,
+    "+weight.document": 32,
+    "-weight.script": 262,
+    "+weight.script": 160,
+    "-weight.image": 394,
+    "+weight.image": 28,
+    "-weight.font": 98,
+    "+weight.font": 261,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 287,
+    "-totalBlockingTime": 245,
+    "-largestContentfulPaint": 314
+  },
+  "axe": {
+    "passes": 21673,
+    "violations": 219
+  }
+}

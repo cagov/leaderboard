@@ -1,0 +1,67 @@
+{
+  "url": "https://www.abc.ca.gov/",
+  "requestedUrl": "https://abc.ca.gov/",
+  "timestamp": 1707760490101,
+  "ranks": {
+    "hundos": 311,
+    "performance": 398,
+    "accessibility": 141,
+    "cumulative": 311
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "seo": 0.98,
+    "total": 292
+  },
+  "firstContentfulPaint": 5923.8752600000025,
+  "firstMeaningfulPaint": 8431.778300000002,
+  "speedIndex": 9607.105288924864,
+  "largestContentfulPaint": 13630.450290000004,
+  "totalBlockingTime": 125,
+  "cumulativeLayoutShift": 0.8282227512580039,
+  "timeToInteractive": 11708.901040000004,
+  "maxPotentialFirstInputDelay": 143,
+  "timeToFirstByte": 656.3000000000001,
+  "weight": {
+    "summary": "115 requests • 2.3 MiB",
+    "total": 2457637,
+    "image": 963145,
+    "imageCount": 20,
+    "script": 835143,
+    "scriptCount": 42,
+    "document": 23864,
+    "font": 364459,
+    "fontCount": 7,
+    "stylesheet": 269070,
+    "stylesheetCount": 38,
+    "thirdParty": 657188,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 186,
+    "+weight.total": 240,
+    "-weight.document": 117,
+    "+weight.document": 306,
+    "-weight.script": 185,
+    "+weight.script": 237,
+    "-weight.image": 210,
+    "+weight.image": 212,
+    "-weight.font": 272,
+    "+weight.font": 87,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 352,
+    "-totalBlockingTime": 142,
+    "-largestContentfulPaint": 253
+  },
+  "axe": {
+    "passes": 1052,
+    "violations": 10
+  }
+}

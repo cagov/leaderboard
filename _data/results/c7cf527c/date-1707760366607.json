@@ -1,0 +1,67 @@
+{
+  "url": "https://dcs-cde.ca.gov/",
+  "requestedUrl": "https://dcs-cde.ca.gov/",
+  "timestamp": 1707773019188,
+  "ranks": {
+    "hundos": 12,
+    "performance": 55,
+    "accessibility": 89,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.76,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 372
+  },
+  "firstContentfulPaint": 2597.6110000000003,
+  "firstMeaningfulPaint": 2597.6110000000003,
+  "speedIndex": 3492.7792082522155,
+  "largestContentfulPaint": 3303.439,
+  "totalBlockingTime": 5,
+  "cumulativeLayoutShift": 0.23640291282920017,
+  "timeToInteractive": 3444.9965,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 122.97699999999998,
+  "weight": {
+    "summary": "33 requests • 913.5 KiB",
+    "total": 935456,
+    "image": 553731,
+    "imageCount": 18,
+    "script": 330537,
+    "scriptCount": 7,
+    "document": 6082,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 44853,
+    "stylesheetCount": 6,
+    "thirdParty": 266987,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 49,
+    "+weight.total": 377,
+    "-weight.document": 15,
+    "+weight.document": 408,
+    "-weight.script": 70,
+    "+weight.script": 352,
+    "-weight.image": 137,
+    "+weight.image": 285,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 231,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 37
+  },
+  "axe": {
+    "passes": 389,
+    "violations": 9
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.chp.ca.gov/",
+  "requestedUrl": "https://chp.ca.gov/",
+  "timestamp": 1707768377587,
+  "ranks": {
+    "hundos": 415,
+    "performance": 423,
+    "accessibility": 282,
+    "cumulative": 415
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.12,
+    "accessibility": 0.89,
+    "bestPractices": 0.48,
+    "seo": 0.92,
+    "total": 241
+  },
+  "firstContentfulPaint": 5756.932599999998,
+  "firstMeaningfulPaint": 6435.730149999998,
+  "speedIndex": 19708.930597046558,
+  "largestContentfulPaint": 19157.61774999999,
+  "totalBlockingTime": 822.314900000003,
+  "cumulativeLayoutShift": 0.7979496138311669,
+  "timeToInteractive": 37402.00013999998,
+  "maxPotentialFirstInputDelay": 1198,
+  "timeToFirstByte": 19.587,
+  "weight": {
+    "summary": "233 requests • 11.2 MiB",
+    "total": 11793691,
+    "image": 7035428,
+    "imageCount": 79,
+    "script": 3452602,
+    "scriptCount": 87,
+    "document": 302544,
+    "font": 107216,
+    "fontCount": 5,
+    "stylesheet": 242837,
+    "stylesheetCount": 17,
+    "thirdParty": 4702178,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 398,
+    "+weight.total": 28,
+    "-weight.document": 412,
+    "+weight.document": 11,
+    "-weight.script": 414,
+    "+weight.script": 8,
+    "-weight.image": 385,
+    "+weight.image": 37,
+    "-weight.font": 94,
+    "+weight.font": 265,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 56,
+    "-totalBlockingTime": 232,
+    "-largestContentfulPaint": 349
+  },
+  "axe": {
+    "passes": 1679,
+    "violations": 75
+  }
+}

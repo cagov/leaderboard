@@ -1,0 +1,67 @@
+{
+  "url": "https://optometry.ca.gov/",
+  "requestedUrl": "https://optometry.ca.gov/",
+  "timestamp": 1707784647181,
+  "ranks": {
+    "hundos": 229,
+    "performance": 92,
+    "accessibility": 101,
+    "cumulative": 229
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 0.7,
+    "seo": 0.77,
+    "total": 314
+  },
+  "firstContentfulPaint": 1768.5227999999997,
+  "firstMeaningfulPaint": 2710.9074,
+  "speedIndex": 6932.49458936176,
+  "largestContentfulPaint": 12464.716299999998,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.0020324784763630878,
+  "timeToInteractive": 15388.707999999999,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 17.00800000000001,
+  "weight": {
+    "summary": "132 requests • 3.0 MiB",
+    "total": 3109350,
+    "image": 1483646,
+    "imageCount": 58,
+    "script": 1407163,
+    "scriptCount": 48,
+    "document": 152873,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 43575,
+    "stylesheetCount": 14,
+    "thirdParty": 1639364,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 243,
+    "+weight.total": 183,
+    "-weight.document": 377,
+    "+weight.document": 46,
+    "-weight.script": 317,
+    "+weight.script": 105,
+    "-weight.image": 255,
+    "+weight.image": 167,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 38,
+    "-totalBlockingTime": 61,
+    "-largestContentfulPaint": 231
+  },
+  "axe": {
+    "passes": 912,
+    "violations": 68
+  }
+}

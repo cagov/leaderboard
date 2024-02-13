@@ -1,0 +1,67 @@
+{
+  "url": "https://mrca.ca.gov/",
+  "requestedUrl": "https://mrca.ca.gov/",
+  "timestamp": 1707783153650,
+  "ranks": {
+    "hundos": 313,
+    "performance": 196,
+    "accessibility": 347,
+    "cumulative": 313
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": 0.84,
+    "bestPractices": 0.74,
+    "seo": 0.79,
+    "total": 291
+  },
+  "firstContentfulPaint": 4581.808000000001,
+  "firstMeaningfulPaint": 4666.974,
+  "speedIndex": 11330.410626124161,
+  "largestContentfulPaint": 14373.735999999997,
+  "totalBlockingTime": 198,
+  "cumulativeLayoutShift": 0.0011416335770743813,
+  "timeToInteractive": 31898.51587999999,
+  "maxPotentialFirstInputDelay": 185,
+  "timeToFirstByte": 1812.716,
+  "weight": {
+    "summary": "138 requests • 8.8 MiB",
+    "total": 9258511,
+    "image": 7740527,
+    "imageCount": 52,
+    "script": 934124,
+    "scriptCount": 36,
+    "document": 48273,
+    "font": 160067,
+    "fontCount": 6,
+    "stylesheet": 184241,
+    "stylesheetCount": 29,
+    "thirdParty": 4435828,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 378,
+    "+weight.total": 48,
+    "-weight.document": 274,
+    "+weight.document": 149,
+    "-weight.script": 225,
+    "+weight.script": 197,
+    "-weight.image": 391,
+    "+weight.image": 31,
+    "-weight.font": 168,
+    "+weight.font": 191,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 407,
+    "-totalBlockingTime": 171,
+    "-largestContentfulPaint": 265
+  },
+  "axe": {
+    "passes": 346,
+    "violations": 24
+  }
+}

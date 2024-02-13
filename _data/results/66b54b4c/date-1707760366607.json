@@ -1,0 +1,67 @@
+{
+  "url": "https://www.labor.ca.gov/",
+  "requestedUrl": "https://labor.ca.gov/",
+  "timestamp": 1707780505556,
+  "ranks": {
+    "hundos": 395,
+    "performance": 414,
+    "accessibility": 348,
+    "cumulative": 395
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.25,
+    "accessibility": 0.84,
+    "bestPractices": 0.59,
+    "seo": 0.93,
+    "total": 261
+  },
+  "firstContentfulPaint": 4870.4515,
+  "firstMeaningfulPaint": 6032.0913,
+  "speedIndex": 16253.756430768166,
+  "largestContentfulPaint": 38445.01565,
+  "totalBlockingTime": 350,
+  "cumulativeLayoutShift": 0.6584887170748229,
+  "timeToInteractive": 23932.19782087097,
+  "maxPotentialFirstInputDelay": 336,
+  "timeToFirstByte": 490.43,
+  "weight": {
+    "summary": "155 requests • 8.0 MiB",
+    "total": 8353307,
+    "image": 5525308,
+    "imageCount": 40,
+    "script": 1964068,
+    "scriptCount": 49,
+    "document": 276191,
+    "font": 325016,
+    "fontCount": 17,
+    "stylesheet": 259601,
+    "stylesheetCount": 21,
+    "thirdParty": 2612489,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 368,
+    "+weight.total": 58,
+    "-weight.document": 408,
+    "+weight.document": 15,
+    "-weight.script": 375,
+    "+weight.script": 47,
+    "-weight.image": 373,
+    "+weight.image": 49,
+    "-weight.font": 262,
+    "+weight.font": 97,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 329,
+    "-totalBlockingTime": 203,
+    "-largestContentfulPaint": 403
+  },
+  "axe": {
+    "passes": 904,
+    "violations": 36
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdph.ca.gov/",
+  "requestedUrl": "https://cdph.ca.gov/",
+  "timestamp": 1707767366912,
+  "ranks": {
+    "hundos": 380,
+    "performance": 405,
+    "accessibility": 330,
+    "cumulative": 379
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.3,
+    "accessibility": 0.85,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 268
+  },
+  "firstContentfulPaint": 9606.954,
+  "firstMeaningfulPaint": 11021.776999999998,
+  "speedIndex": 16770.61195008825,
+  "largestContentfulPaint": 18234.742499999997,
+  "totalBlockingTime": 108,
+  "cumulativeLayoutShift": 1.1785761653996514,
+  "timeToInteractive": 17513.231,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 3742.815,
+  "weight": {
+    "summary": "132 requests • 2.6 MiB",
+    "total": 2703697,
+    "image": 833592,
+    "imageCount": 40,
+    "script": 1365438,
+    "scriptCount": 57,
+    "document": 207883,
+    "font": 117050,
+    "fontCount": 4,
+    "stylesheet": 156380,
+    "stylesheetCount": 15,
+    "thirdParty": 679236,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 218,
+    "+weight.total": 208,
+    "-weight.document": 395,
+    "+weight.document": 28,
+    "-weight.script": 313,
+    "+weight.script": 109,
+    "-weight.image": 190,
+    "+weight.image": 232,
+    "-weight.font": 116,
+    "+weight.font": 243,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 420,
+    "-totalBlockingTime": 133,
+    "-largestContentfulPaint": 293
+  },
+  "axe": {
+    "passes": 674,
+    "violations": 15
+  }
+}

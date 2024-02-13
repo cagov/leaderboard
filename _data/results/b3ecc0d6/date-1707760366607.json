@@ -1,0 +1,67 @@
+{
+  "url": "https://danville.ca.gov/",
+  "requestedUrl": "https://danville.ca.gov/",
+  "timestamp": 1707772675258,
+  "ranks": {
+    "hundos": 388,
+    "performance": 202,
+    "accessibility": 414,
+    "cumulative": 388
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.53,
+    "accessibility": 0.73,
+    "bestPractices": 0.52,
+    "seo": 0.85,
+    "total": 263
+  },
+  "firstContentfulPaint": 2421.2450000000003,
+  "firstMeaningfulPaint": 2421.2450000000003,
+  "speedIndex": 5675.445359076315,
+  "largestContentfulPaint": 8000.152500000001,
+  "totalBlockingTime": 260.5,
+  "cumulativeLayoutShift": 0.19815479350441362,
+  "timeToInteractive": 8759.095,
+  "maxPotentialFirstInputDelay": 193,
+  "timeToFirstByte": 404.82599999999996,
+  "weight": {
+    "summary": "98 requests • 4.2 MiB",
+    "total": 4426119,
+    "image": 3280922,
+    "imageCount": 48,
+    "script": 864030,
+    "scriptCount": 27,
+    "document": 42374,
+    "font": 75916,
+    "fontCount": 5,
+    "stylesheet": 124889,
+    "stylesheetCount": 8,
+    "thirdParty": 556912,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 298,
+    "+weight.total": 128,
+    "-weight.document": 255,
+    "+weight.document": 168,
+    "-weight.script": 190,
+    "+weight.script": 232,
+    "-weight.image": 330,
+    "+weight.image": 92,
+    "-weight.font": 57,
+    "+weight.font": 302,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 308,
+    "-totalBlockingTime": 193,
+    "-largestContentfulPaint": 308
+  },
+  "axe": {
+    "passes": 1824,
+    "violations": 39
+  }
+}

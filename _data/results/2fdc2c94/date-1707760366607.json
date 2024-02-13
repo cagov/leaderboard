@@ -1,0 +1,67 @@
+{
+  "url": "https://scc.ca.gov/",
+  "requestedUrl": "https://scc.ca.gov/",
+  "timestamp": 1707788018779,
+  "ranks": {
+    "hundos": 264,
+    "performance": 304,
+    "accessibility": 397,
+    "cumulative": 265
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.43,
+    "accessibility": 0.76,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 305
+  },
+  "firstContentfulPaint": 2838.6130000000003,
+  "firstMeaningfulPaint": 4500.806250000001,
+  "speedIndex": 16317.714202357163,
+  "largestContentfulPaint": 38606.91225000001,
+  "totalBlockingTime": 52.5,
+  "cumulativeLayoutShift": 0.3585940383233187,
+  "timeToInteractive": 20234.002000000004,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 131.495,
+  "weight": {
+    "summary": "64 requests • 6.9 MiB",
+    "total": 7226367,
+    "image": 6653472,
+    "imageCount": 28,
+    "script": 367879,
+    "scriptCount": 10,
+    "document": 13375,
+    "font": 100008,
+    "fontCount": 5,
+    "stylesheet": 88982,
+    "stylesheetCount": 8,
+    "thirdParty": 316760,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 358,
+    "+weight.total": 68,
+    "-weight.document": 60,
+    "+weight.document": 363,
+    "-weight.script": 78,
+    "+weight.script": 344,
+    "-weight.image": 382,
+    "+weight.image": 40,
+    "-weight.font": 88,
+    "+weight.font": 271,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 237,
+    "-totalBlockingTime": 80,
+    "-largestContentfulPaint": 406
+  },
+  "axe": {
+    "passes": 659,
+    "violations": 25
+  }
+}

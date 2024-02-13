@@ -1,0 +1,67 @@
+{
+  "url": "https://saltonsea.ca.gov/",
+  "requestedUrl": "https://saltonsea.ca.gov/",
+  "timestamp": 1707787494720,
+  "ranks": {
+    "hundos": 324,
+    "performance": 264,
+    "accessibility": 356,
+    "cumulative": 325
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.83,
+    "bestPractices": 0.78,
+    "seo": 0.79,
+    "total": 286
+  },
+  "firstContentfulPaint": 6953.477499999999,
+  "firstMeaningfulPaint": 9614.021999999999,
+  "speedIndex": 8917.658418413408,
+  "largestContentfulPaint": 13671.0035,
+  "totalBlockingTime": 63,
+  "cumulativeLayoutShift": 0.21908876371791441,
+  "timeToInteractive": 16792.294,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 187.139,
+  "weight": {
+    "summary": "68 requests • 2.4 MiB",
+    "total": 2557914,
+    "image": 57712,
+    "imageCount": 16,
+    "script": 1334288,
+    "scriptCount": 23,
+    "document": 82159,
+    "font": 152538,
+    "fontCount": 6,
+    "stylesheet": 920691,
+    "stylesheetCount": 13,
+    "thirdParty": 698873,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 196,
+    "+weight.total": 230,
+    "-weight.document": 339,
+    "+weight.document": 84,
+    "-weight.script": 306,
+    "+weight.script": 116,
+    "-weight.image": 24,
+    "+weight.image": 398,
+    "-weight.font": 161,
+    "+weight.font": 198,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 259,
+    "-totalBlockingTime": 93,
+    "-largestContentfulPaint": 254
+  },
+  "axe": {
+    "passes": 868,
+    "violations": 17
+  }
+}

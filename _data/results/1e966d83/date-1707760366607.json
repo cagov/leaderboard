@@ -1,0 +1,67 @@
+{
+  "url": "https://vision.ca.gov/",
+  "requestedUrl": "https://vision.ca.gov/",
+  "timestamp": 1707793626555,
+  "ranks": {
+    "hundos": 284,
+    "performance": 9,
+    "accessibility": 407,
+    "cumulative": 286
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.99,
+    "accessibility": 0.74,
+    "bestPractices": 0.7,
+    "seo": 0.58,
+    "total": 301
+  },
+  "firstContentfulPaint": 1491.1014999999998,
+  "firstMeaningfulPaint": 1491.1014999999998,
+  "speedIndex": 1491.1014999999998,
+  "largestContentfulPaint": 1812.7409999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1491.1014999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 81.59400000000001,
+  "weight": {
+    "summary": "28 requests • 251.9 KiB",
+    "total": 257992,
+    "image": 204978,
+    "imageCount": 18,
+    "script": 27217,
+    "scriptCount": 3,
+    "document": 13442,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11779,
+    "stylesheetCount": 4,
+    "thirdParty": 18650,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 414,
+    "-weight.document": 62,
+    "+weight.document": 361,
+    "-weight.script": 5,
+    "+weight.script": 417,
+    "-weight.image": 56,
+    "+weight.image": 366,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 181,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 13
+  },
+  "axe": {
+    "passes": 174,
+    "violations": 18
+  }
+}

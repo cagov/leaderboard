@@ -1,0 +1,67 @@
+{
+  "url": "https://www.trinidad.ca.gov/",
+  "requestedUrl": "https://trinidad.ca.gov/",
+  "timestamp": 1707792855561,
+  "ranks": {
+    "hundos": 209,
+    "performance": 318,
+    "accessibility": 248,
+    "cumulative": 206
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.41,
+    "accessibility": 0.9,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 319
+  },
+  "firstContentfulPaint": 31297.68696,
+  "firstMeaningfulPaint": 31297.68696,
+  "speedIndex": 31297.68696,
+  "largestContentfulPaint": 40245.68696,
+  "totalBlockingTime": 546.5,
+  "cumulativeLayoutShift": 0.009634201801258561,
+  "timeToInteractive": 35659.658899999995,
+  "maxPotentialFirstInputDelay": 587,
+  "timeToFirstByte": 359.93399999999997,
+  "weight": {
+    "summary": "24 requests • 7.9 MiB",
+    "total": 8291551,
+    "image": 1795218,
+    "imageCount": 4,
+    "script": 5872073,
+    "scriptCount": 7,
+    "document": 21984,
+    "font": 466815,
+    "fontCount": 2,
+    "stylesheet": 133850,
+    "stylesheetCount": 4,
+    "thirdParty": 324147,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 367,
+    "+weight.total": 59,
+    "-weight.document": 109,
+    "+weight.document": 314,
+    "-weight.script": 416,
+    "+weight.script": 6,
+    "-weight.image": 275,
+    "+weight.image": 147,
+    "-weight.font": 304,
+    "+weight.font": 55,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 301,
+    "-totalBlockingTime": 221,
+    "-largestContentfulPaint": 410
+  },
+  "axe": {
+    "passes": 518,
+    "violations": 5
+  }
+}

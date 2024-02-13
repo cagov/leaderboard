@@ -1,0 +1,67 @@
+{
+  "url": "https://dmac.ca.gov/",
+  "requestedUrl": "https://dmac.ca.gov/",
+  "timestamp": 1707774034953,
+  "ranks": {
+    "hundos": 50,
+    "performance": 24,
+    "accessibility": 418,
+    "cumulative": 50
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.92,
+    "accessibility": 0.71,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 355
+  },
+  "firstContentfulPaint": 2392.687,
+  "firstMeaningfulPaint": 2392.687,
+  "speedIndex": 2436.9108417145903,
+  "largestContentfulPaint": 2599.5055,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.09395089798181712,
+  "timeToInteractive": 2392.687,
+  "maxPotentialFirstInputDelay": 20.5,
+  "timeToFirstByte": 96.68099999999998,
+  "weight": {
+    "summary": "10 requests • 884.5 KiB",
+    "total": 905767,
+    "image": 703942,
+    "imageCount": 2,
+    "script": 81601,
+    "scriptCount": 4,
+    "document": 6959,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 113265,
+    "stylesheetCount": 3,
+    "thirdParty": 33625,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 48,
+    "+weight.total": 378,
+    "-weight.document": 18,
+    "+weight.document": 405,
+    "-weight.script": 11,
+    "+weight.script": 411,
+    "-weight.image": 174,
+    "+weight.image": 248,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 196,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 24
+  },
+  "axe": {
+    "passes": 197,
+    "violations": 31
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://barbercosmo.ca.gov/",
+  "requestedUrl": "https://barbercosmo.ca.gov/",
+  "timestamp": 1707761775961,
+  "ranks": {
+    "hundos": 124,
+    "performance": 160,
+    "accessibility": 185,
+    "cumulative": 127
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.57,
+    "accessibility": 0.94,
+    "bestPractices": 0.89,
+    "seo": 0.98,
+    "total": 338
+  },
+  "firstContentfulPaint": 6604.197750000001,
+  "firstMeaningfulPaint": 8664.455000000002,
+  "speedIndex": 8224.617120659505,
+  "largestContentfulPaint": 22857.109999999993,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8857.998,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 27.471000000000004,
+  "weight": {
+    "summary": "54 requests • 3.9 MiB",
+    "total": 4037956,
+    "image": 2142592,
+    "imageCount": 22,
+    "script": 1099100,
+    "scriptCount": 14,
+    "document": 38307,
+    "font": 166961,
+    "fontCount": 5,
+    "stylesheet": 589795,
+    "stylesheetCount": 6,
+    "thirdParty": 548444,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 289,
+    "+weight.total": 137,
+    "-weight.document": 223,
+    "+weight.document": 200,
+    "-weight.script": 278,
+    "+weight.script": 144,
+    "-weight.image": 291,
+    "+weight.image": 131,
+    "-weight.font": 179,
+    "+weight.font": 180,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 82,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 366
+  },
+  "axe": {
+    "passes": 811,
+    "violations": 8
+  }
+}

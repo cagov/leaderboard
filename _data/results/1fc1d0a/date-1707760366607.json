@@ -1,0 +1,62 @@
+{
+  "url": "https://tehamajuryservices.ca.gov/login",
+  "requestedUrl": "https://tehamajuryservices.ca.gov/",
+  "timestamp": 1707791725077,
+  "ranks": {
+    "hundos": 371,
+    "performance": 425,
+    "accessibility": 65,
+    "cumulative": 371
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": null,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.75,
+    "total": 271
+  },
+  "firstContentfulPaint": 2029.76,
+  "firstMeaningfulPaint": 3194.688,
+  "speedIndex": 3706.8077770036066,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3194.688,
+  "maxPotentialFirstInputDelay": 32,
+  "timeToFirstByte": 50.042,
+  "weight": {
+    "summary": "13 requests • 615.7 KiB",
+    "total": 630457,
+    "image": 3770,
+    "imageCount": 2,
+    "script": 459029,
+    "scriptCount": 6,
+    "document": 8224,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 158457,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 33,
+    "+weight.total": 393,
+    "-weight.document": 26,
+    "+weight.document": 397,
+    "-weight.script": 102,
+    "+weight.script": 320,
+    "-weight.image": 2,
+    "+weight.image": 420,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 136,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 304
+  },
+  "axe": {
+    "passes": 61,
+    "violations": 3
+  }
+}

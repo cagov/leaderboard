@@ -1,0 +1,67 @@
+{
+  "url": "https://www.holtville.ca.gov/",
+  "requestedUrl": "https://holtville.ca.gov/",
+  "timestamp": 1707779070662,
+  "ranks": {
+    "hundos": 197,
+    "performance": 172,
+    "accessibility": 95,
+    "cumulative": 196
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.86,
+    "total": 320
+  },
+  "firstContentfulPaint": 4164.292,
+  "firstMeaningfulPaint": 4164.292,
+  "speedIndex": 9038.518275235823,
+  "largestContentfulPaint": 61217.814999999915,
+  "totalBlockingTime": 187.1869999999999,
+  "cumulativeLayoutShift": 0.0013765771597967326,
+  "timeToInteractive": 5547.552,
+  "maxPotentialFirstInputDelay": 243,
+  "timeToFirstByte": 1284.705,
+  "weight": {
+    "summary": "21 requests • 11.6 MiB",
+    "total": 12115737,
+    "image": 11699230,
+    "imageCount": 3,
+    "script": 299916,
+    "scriptCount": 6,
+    "document": 19150,
+    "font": 20365,
+    "fontCount": 1,
+    "stylesheet": 76221,
+    "stylesheetCount": 7,
+    "thirdParty": 289765,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 403,
+    "+weight.total": 23,
+    "-weight.document": 92,
+    "+weight.document": 331,
+    "-weight.script": 59,
+    "+weight.script": 363,
+    "-weight.image": 408,
+    "+weight.image": 14,
+    "-weight.font": 4,
+    "+weight.font": 355,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 392,
+    "-totalBlockingTime": 167,
+    "-largestContentfulPaint": 419
+  },
+  "axe": {
+    "passes": 334,
+    "violations": 20
+  }
+}

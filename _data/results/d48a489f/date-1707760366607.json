@@ -1,0 +1,67 @@
+{
+  "url": "https://cww.water.ca.gov/",
+  "requestedUrl": "https://drought.ca.gov/",
+  "timestamp": 1707774730403,
+  "ranks": {
+    "hundos": 405,
+    "performance": 418,
+    "accessibility": 375,
+    "cumulative": 405
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.21,
+    "accessibility": 0.81,
+    "bestPractices": 0.7,
+    "seo": 0.83,
+    "total": 255
+  },
+  "firstContentfulPaint": 39063.300974999984,
+  "firstMeaningfulPaint": 47200.105224999985,
+  "speedIndex": 39063.300974999984,
+  "largestContentfulPaint": 50779.74213749998,
+  "totalBlockingTime": 5867.5,
+  "cumulativeLayoutShift": 0.12158831183855424,
+  "timeToInteractive": 77961.76137500003,
+  "maxPotentialFirstInputDelay": 4647,
+  "timeToFirstByte": 68.849,
+  "weight": {
+    "summary": "267 requests • 13.9 MiB",
+    "total": 14561242,
+    "image": 2451455,
+    "imageCount": 44,
+    "script": 7299672,
+    "scriptCount": 79,
+    "document": 118592,
+    "font": 332162,
+    "fontCount": 8,
+    "stylesheet": 1059904,
+    "stylesheetCount": 23,
+    "thirdParty": 5194695,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 408,
+    "+weight.total": 18,
+    "-weight.document": 359,
+    "+weight.document": 64,
+    "-weight.script": 417,
+    "+weight.script": 5,
+    "-weight.image": 299,
+    "+weight.image": 123,
+    "-weight.font": 265,
+    "+weight.font": 94,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 161,
+    "-totalBlockingTime": 252,
+    "-largestContentfulPaint": 418
+  },
+  "axe": {
+    "passes": 1180,
+    "violations": 32
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://fppc.ca.gov/",
+  "requestedUrl": "https://fppc.ca.gov/",
+  "timestamp": 1707777370791,
+  "ranks": {
+    "hundos": 374,
+    "performance": 294,
+    "accessibility": 343,
+    "cumulative": 373
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.84,
+    "bestPractices": 0.52,
+    "seo": 0.89,
+    "total": 269
+  },
+  "firstContentfulPaint": 1855.2788799999998,
+  "firstMeaningfulPaint": 1855.2788799999998,
+  "speedIndex": 18723.62560172435,
+  "largestContentfulPaint": 8295.122672271726,
+  "totalBlockingTime": 224.5,
+  "cumulativeLayoutShift": 0.3172608879879645,
+  "timeToInteractive": 20372.572,
+  "maxPotentialFirstInputDelay": 147,
+  "timeToFirstByte": 462.376,
+  "weight": {
+    "summary": "85 requests • 3.6 MiB",
+    "total": 3822237,
+    "image": 1798667,
+    "imageCount": 26,
+    "script": 1714682,
+    "scriptCount": 23,
+    "document": 84595,
+    "font": 113745,
+    "fontCount": 6,
+    "stylesheet": 68028,
+    "stylesheetCount": 6,
+    "thirdParty": 1702597,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 280,
+    "+weight.total": 146,
+    "-weight.document": 340,
+    "+weight.document": 83,
+    "-weight.script": 354,
+    "+weight.script": 68,
+    "-weight.image": 276,
+    "+weight.image": 146,
+    "-weight.font": 112,
+    "+weight.font": 247,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 327,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 311
+  },
+  "axe": {
+    "passes": 1604,
+    "violations": 9
+  }
+}

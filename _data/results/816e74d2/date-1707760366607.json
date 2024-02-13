@@ -1,0 +1,67 @@
+{
+  "url": "https://www.colma.ca.gov/",
+  "requestedUrl": "https://colma.ca.gov/",
+  "timestamp": 1707770273323,
+  "ranks": {
+    "hundos": 226,
+    "performance": 368,
+    "accessibility": 294,
+    "cumulative": 226
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 315
+  },
+  "firstContentfulPaint": 4696.9228,
+  "firstMeaningfulPaint": 6607.348480000001,
+  "speedIndex": 9747.73089294444,
+  "largestContentfulPaint": 10167.997699999998,
+  "totalBlockingTime": 198.5,
+  "cumulativeLayoutShift": 0.39155189849479727,
+  "timeToInteractive": 13372.70492,
+  "maxPotentialFirstInputDelay": 106,
+  "timeToFirstByte": 1391.836,
+  "weight": {
+    "summary": "172 requests • 2.3 MiB",
+    "total": 2419600,
+    "image": 593610,
+    "imageCount": 46,
+    "script": 1196939,
+    "scriptCount": 77,
+    "document": 54690,
+    "font": 373625,
+    "fontCount": 10,
+    "stylesheet": 168381,
+    "stylesheetCount": 27,
+    "thirdParty": 1627314,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 185,
+    "+weight.total": 241,
+    "-weight.document": 290,
+    "+weight.document": 133,
+    "-weight.script": 290,
+    "+weight.script": 132,
+    "-weight.image": 147,
+    "+weight.image": 275,
+    "-weight.font": 278,
+    "+weight.font": 81,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 394,
+    "-totalBlockingTime": 172,
+    "-largestContentfulPaint": 193
+  },
+  "axe": {
+    "passes": 1489,
+    "violations": 69
+  }
+}

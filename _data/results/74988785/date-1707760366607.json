@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tulare.ca.gov/",
+  "requestedUrl": "https://tulare.ca.gov/",
+  "timestamp": 1707793006170,
+  "ranks": {
+    "hundos": 372,
+    "performance": 265,
+    "accessibility": 227,
+    "cumulative": 372
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.91,
+    "bestPractices": 0.59,
+    "seo": 0.75,
+    "total": 271
+  },
+  "firstContentfulPaint": 9106.288,
+  "firstMeaningfulPaint": 9106.288,
+  "speedIndex": 9106.288,
+  "largestContentfulPaint": 22271.288,
+  "totalBlockingTime": 439.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10965.288,
+  "maxPotentialFirstInputDelay": 472,
+  "timeToFirstByte": 26.044999999999998,
+  "weight": {
+    "summary": "64 requests • 6.5 MiB",
+    "total": 6793053,
+    "image": 5116531,
+    "imageCount": 37,
+    "script": 1521308,
+    "scriptCount": 12,
+    "document": 25416,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 128288,
+    "stylesheetCount": 10,
+    "thirdParty": 174468,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 345,
+    "+weight.total": 81,
+    "-weight.document": 125,
+    "+weight.document": 298,
+    "-weight.script": 328,
+    "+weight.script": 94,
+    "-weight.image": 368,
+    "+weight.image": 54,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 73,
+    "-totalBlockingTime": 212,
+    "-largestContentfulPaint": 363
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

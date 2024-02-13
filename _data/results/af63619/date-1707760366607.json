@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdii.ca.gov/",
+  "requestedUrl": "https://cdii.ca.gov/",
+  "timestamp": 1707767352511,
+  "ranks": {
+    "hundos": 285,
+    "performance": 323,
+    "accessibility": 143,
+    "cumulative": 284
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 0.96,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 301
+  },
+  "firstContentfulPaint": 6904.405999999998,
+  "firstMeaningfulPaint": 6904.405999999998,
+  "speedIndex": 9804.932542439783,
+  "largestContentfulPaint": 8212.881000000001,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 0.33228136104439976,
+  "timeToInteractive": 10278.362999999998,
+  "maxPotentialFirstInputDelay": 91,
+  "timeToFirstByte": 193.65699999999998,
+  "weight": {
+    "summary": "90 requests • 2.4 MiB",
+    "total": 2563879,
+    "image": 1104566,
+    "imageCount": 16,
+    "script": 967837,
+    "scriptCount": 42,
+    "document": 67626,
+    "font": 304928,
+    "fontCount": 7,
+    "stylesheet": 107423,
+    "stylesheetCount": 15,
+    "thirdParty": 737902,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 198,
+    "+weight.total": 228,
+    "-weight.document": 320,
+    "+weight.document": 103,
+    "-weight.script": 238,
+    "+weight.script": 184,
+    "-weight.image": 227,
+    "+weight.image": 195,
+    "-weight.font": 254,
+    "+weight.font": 105,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 260,
+    "-totalBlockingTime": 65,
+    "-largestContentfulPaint": 141
+  },
+  "axe": {
+    "passes": 612,
+    "violations": 14
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.calpia.ca.gov/",
+  "requestedUrl": "https://calpia.ca.gov/",
+  "timestamp": 1707765589549,
+  "ranks": {
+    "hundos": 379,
+    "performance": 199,
+    "accessibility": 130,
+    "cumulative": 380
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": 0.97,
+    "bestPractices": 0.63,
+    "seo": 0.54,
+    "total": 268
+  },
+  "firstContentfulPaint": 12378.679980000004,
+  "firstMeaningfulPaint": 12378.679980000004,
+  "speedIndex": 31399.86946385281,
+  "largestContentfulPaint": 37396.041,
+  "totalBlockingTime": 133.5,
+  "cumulativeLayoutShift": 0.009720534629404616,
+  "timeToInteractive": 38225.76331,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 3365.7039999999997,
+  "weight": {
+    "summary": "133 requests • 6.9 MiB",
+    "total": 7199458,
+    "image": 2497935,
+    "imageCount": 34,
+    "script": 2375953,
+    "scriptCount": 40,
+    "document": 144156,
+    "font": 1310170,
+    "fontCount": 13,
+    "stylesheet": 805900,
+    "stylesheetCount": 25,
+    "thirdParty": 2012865,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 353,
+    "+weight.total": 73,
+    "-weight.document": 373,
+    "+weight.document": 50,
+    "-weight.script": 395,
+    "+weight.script": 27,
+    "-weight.image": 302,
+    "+weight.image": 120,
+    "-weight.font": 358,
+    "+weight.font": 1,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 418,
+    "-totalBlockingTime": 146,
+    "-largestContentfulPaint": 402
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

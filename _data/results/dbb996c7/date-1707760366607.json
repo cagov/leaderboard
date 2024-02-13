@@ -1,0 +1,67 @@
+{
+  "url": "https://cab.ca.gov/",
+  "requestedUrl": "https://cab.ca.gov/",
+  "timestamp": 1707763349357,
+  "ranks": {
+    "hundos": 156,
+    "performance": 301,
+    "accessibility": 200,
+    "cumulative": 156
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.43,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 0.98,
+    "total": 330
+  },
+  "firstContentfulPaint": 4940.402,
+  "firstMeaningfulPaint": 5851.426,
+  "speedIndex": 7565.765877078653,
+  "largestContentfulPaint": 8425.492000000002,
+  "totalBlockingTime": 12,
+  "cumulativeLayoutShift": 0.31680695496665107,
+  "timeToInteractive": 12974.106,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 20.879999999999995,
+  "weight": {
+    "summary": "61 requests • 2.2 MiB",
+    "total": 2310131,
+    "image": 472756,
+    "imageCount": 31,
+    "script": 1126402,
+    "scriptCount": 14,
+    "document": 79035,
+    "font": 129358,
+    "fontCount": 3,
+    "stylesheet": 501392,
+    "stylesheetCount": 6,
+    "thirdParty": 543526,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 171,
+    "+weight.total": 255,
+    "-weight.document": 336,
+    "+weight.document": 87,
+    "-weight.script": 282,
+    "+weight.script": 140,
+    "-weight.image": 123,
+    "+weight.image": 299,
+    "-weight.font": 126,
+    "+weight.font": 233,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 61,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 147
+  },
+  "axe": {
+    "passes": 996,
+    "violations": 7
+  }
+}

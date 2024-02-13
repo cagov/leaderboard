@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tcwd.ca.gov/",
+  "requestedUrl": "https://tcwd.ca.gov/",
+  "timestamp": 1707791440435,
+  "ranks": {
+    "hundos": 351,
+    "performance": 256,
+    "accessibility": 159,
+    "cumulative": 350
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.95,
+    "bestPractices": 0.59,
+    "seo": 0.79,
+    "total": 280
+  },
+  "firstContentfulPaint": 9046.6035,
+  "firstMeaningfulPaint": 10252.803500000002,
+  "speedIndex": 9046.6035,
+  "largestContentfulPaint": 10965.6785,
+  "totalBlockingTime": 404,
+  "cumulativeLayoutShift": 0.0008151113100419699,
+  "timeToInteractive": 10252.803500000002,
+  "maxPotentialFirstInputDelay": 448,
+  "timeToFirstByte": 27.214000000000002,
+  "weight": {
+    "summary": "43 requests • 2.8 MiB",
+    "total": 2958407,
+    "image": 1231163,
+    "imageCount": 15,
+    "script": 1419948,
+    "scriptCount": 10,
+    "document": 15654,
+    "font": 172280,
+    "fontCount": 4,
+    "stylesheet": 118111,
+    "stylesheetCount": 10,
+    "thirdParty": 251031,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 236,
+    "+weight.total": 190,
+    "-weight.document": 73,
+    "+weight.document": 350,
+    "-weight.script": 318,
+    "+weight.script": 104,
+    "-weight.image": 236,
+    "+weight.image": 186,
+    "-weight.font": 181,
+    "+weight.font": 178,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 80,
+    "-totalBlockingTime": 209,
+    "-largestContentfulPaint": 325
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

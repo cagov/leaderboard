@@ -1,0 +1,67 @@
+{
+  "url": "https://wpwma.ca.gov/",
+  "requestedUrl": "https://wpwma.ca.gov/",
+  "timestamp": 1707794911828,
+  "ranks": {
+    "hundos": 129,
+    "performance": 139,
+    "accessibility": 339,
+    "cumulative": 131
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 337
+  },
+  "firstContentfulPaint": 3840.2065000000002,
+  "firstMeaningfulPaint": 3840.2065000000002,
+  "speedIndex": 4815.055978662503,
+  "largestContentfulPaint": 13549.2065,
+  "totalBlockingTime": 151.5,
+  "cumulativeLayoutShift": 0.1156568493178739,
+  "timeToInteractive": 13800.5815,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 131.87600000000003,
+  "weight": {
+    "summary": "82 requests • 3.1 MiB",
+    "total": 3256105,
+    "image": 2136708,
+    "imageCount": 10,
+    "script": 559286,
+    "scriptCount": 39,
+    "document": 107051,
+    "font": 336323,
+    "fontCount": 10,
+    "stylesheet": 115398,
+    "stylesheetCount": 14,
+    "thirdParty": 429439,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 256,
+    "+weight.total": 170,
+    "-weight.document": 354,
+    "+weight.document": 69,
+    "-weight.script": 125,
+    "+weight.script": 297,
+    "-weight.image": 290,
+    "+weight.image": 132,
+    "-weight.font": 267,
+    "+weight.font": 92,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 238,
+    "-totalBlockingTime": 153,
+    "-largestContentfulPaint": 251
+  },
+  "axe": {
+    "passes": 2074,
+    "violations": 101
+  }
+}

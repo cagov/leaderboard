@@ -1,0 +1,67 @@
+{
+  "url": "https://housing.ca.gov/",
+  "requestedUrl": "https://housing.ca.gov/",
+  "timestamp": 1707779146125,
+  "ranks": {
+    "hundos": 96,
+    "performance": 204,
+    "accessibility": 88,
+    "cumulative": 97
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.53,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 344
+  },
+  "firstContentfulPaint": 4977.282,
+  "firstMeaningfulPaint": 6071.6515,
+  "speedIndex": 7274.571589928753,
+  "largestContentfulPaint": 16972.637499999997,
+  "totalBlockingTime": 15,
+  "cumulativeLayoutShift": 0.15364113567259127,
+  "timeToInteractive": 8583.2935,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 62.613,
+  "weight": {
+    "summary": "70 requests • 3.0 MiB",
+    "total": 3131828,
+    "image": 1321728,
+    "imageCount": 29,
+    "script": 970629,
+    "scriptCount": 19,
+    "document": 65796,
+    "font": 262981,
+    "fontCount": 6,
+    "stylesheet": 509132,
+    "stylesheetCount": 6,
+    "thirdParty": 802969,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 248,
+    "+weight.total": 178,
+    "-weight.document": 315,
+    "+weight.document": 108,
+    "-weight.script": 243,
+    "+weight.script": 179,
+    "-weight.image": 244,
+    "+weight.image": 178,
+    "-weight.font": 230,
+    "+weight.font": 129,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 150,
+    "-totalBlockingTime": 27,
+    "-largestContentfulPaint": 283
+  },
+  "axe": {
+    "passes": 626,
+    "violations": 9
+  }
+}

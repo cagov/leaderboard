@@ -1,0 +1,67 @@
+{
+  "url": "https://scta.ca.gov/",
+  "requestedUrl": "https://scta.ca.gov/",
+  "timestamp": 1707788253787,
+  "ranks": {
+    "hundos": 55,
+    "performance": 79,
+    "accessibility": 281,
+    "cumulative": 55
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.69,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.99,
+    "total": 353
+  },
+  "firstContentfulPaint": 2261.4530000000004,
+  "firstMeaningfulPaint": 2261.4530000000004,
+  "speedIndex": 4814.180211445982,
+  "largestContentfulPaint": 9451.3965,
+  "totalBlockingTime": 63,
+  "cumulativeLayoutShift": 0.00006367010241126026,
+  "timeToInteractive": 7855.1235,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 30.411,
+  "weight": {
+    "summary": "115 requests • 2.4 MiB",
+    "total": 2523362,
+    "image": 1817676,
+    "imageCount": 18,
+    "script": 450707,
+    "scriptCount": 40,
+    "document": 23338,
+    "font": 97917,
+    "fontCount": 3,
+    "stylesheet": 132763,
+    "stylesheetCount": 51,
+    "thirdParty": 362667,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 193,
+    "+weight.total": 233,
+    "-weight.document": 115,
+    "+weight.document": 308,
+    "-weight.script": 100,
+    "+weight.script": 322,
+    "-weight.image": 277,
+    "+weight.image": 145,
+    "-weight.font": 85,
+    "+weight.font": 274,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 94,
+    "-totalBlockingTime": 93,
+    "-largestContentfulPaint": 168
+  },
+  "axe": {
+    "passes": 730,
+    "violations": 35
+  }
+}

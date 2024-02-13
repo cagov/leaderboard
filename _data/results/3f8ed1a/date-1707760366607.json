@@ -1,0 +1,67 @@
+{
+  "url": "https://www.lassen.courts.ca.gov/",
+  "requestedUrl": "https://lassencourt.ca.gov/",
+  "timestamp": 1707780844385,
+  "ranks": {
+    "hundos": 91,
+    "performance": 100,
+    "accessibility": 124,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.98,
+    "bestPractices": 0.96,
+    "seo": 0.86,
+    "total": 345
+  },
+  "firstContentfulPaint": 4164.5725,
+  "firstMeaningfulPaint": 7580.567500000001,
+  "speedIndex": 4399.095181981929,
+  "largestContentfulPaint": 9285.520500000002,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9672.575499999999,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 16.038,
+  "weight": {
+    "summary": "50 requests • 1.4 MiB",
+    "total": 1430162,
+    "image": 122130,
+    "imageCount": 18,
+    "script": 627954,
+    "scriptCount": 14,
+    "document": 210546,
+    "font": 385321,
+    "fontCount": 5,
+    "stylesheet": 82886,
+    "stylesheetCount": 8,
+    "thirdParty": 298519,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 93,
+    "+weight.total": 333,
+    "-weight.document": 396,
+    "+weight.document": 27,
+    "-weight.script": 148,
+    "+weight.script": 274,
+    "-weight.image": 44,
+    "+weight.image": 378,
+    "-weight.font": 286,
+    "+weight.font": 73,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 31,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 164
+  },
+  "axe": {
+    "passes": 1893,
+    "violations": 14
+  }
+}

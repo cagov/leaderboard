@@ -1,0 +1,67 @@
+{
+  "url": "https://boomerang.ca.gov/",
+  "requestedUrl": "https://boomerang.ca.gov/",
+  "timestamp": 1707762569995,
+  "ranks": {
+    "hundos": 14,
+    "performance": 8,
+    "accessibility": 45,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.97,
+    "total": 370
+  },
+  "firstContentfulPaint": 1082.221,
+  "firstMeaningfulPaint": 1776.0955,
+  "speedIndex": 1261.7901815952532,
+  "largestContentfulPaint": 1982.3869999999993,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0030738385629435617,
+  "timeToInteractive": 1776.0955,
+  "maxPotentialFirstInputDelay": 29,
+  "timeToFirstByte": 16.605000000000004,
+  "weight": {
+    "summary": "24 requests • 348.9 KiB",
+    "total": 357249,
+    "image": 110829,
+    "imageCount": 9,
+    "script": 136466,
+    "scriptCount": 8,
+    "document": 6872,
+    "font": 64006,
+    "fontCount": 1,
+    "stylesheet": 38434,
+    "stylesheetCount": 3,
+    "thirdParty": 80720,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 13,
+    "+weight.total": 413,
+    "-weight.document": 17,
+    "+weight.document": 406,
+    "-weight.script": 23,
+    "+weight.script": 399,
+    "-weight.image": 41,
+    "+weight.image": 381,
+    "-weight.font": 39,
+    "+weight.font": 320,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 36,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 16
+  },
+  "axe": {
+    "passes": 235,
+    "violations": 2
+  }
+}

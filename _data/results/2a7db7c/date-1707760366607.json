@@ -1,0 +1,67 @@
+{
+  "url": "https://dfpi.ca.gov/",
+  "requestedUrl": "https://dbo.ca.gov/",
+  "timestamp": 1707772773298,
+  "ranks": {
+    "hundos": 422,
+    "performance": 194,
+    "accessibility": 425,
+    "cumulative": 422
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": null,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 228
+  },
+  "firstContentfulPaint": 3310.8959999999997,
+  "firstMeaningfulPaint": 3310.8959999999997,
+  "speedIndex": 9259.884551363994,
+  "largestContentfulPaint": 7276.864,
+  "totalBlockingTime": 263.0000000000009,
+  "cumulativeLayoutShift": 0.09568996811390233,
+  "timeToInteractive": 18028.6305,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 132.688,
+  "weight": {
+    "summary": "148 requests • 2.5 MiB",
+    "total": 2576317,
+    "image": 563826,
+    "imageCount": 47,
+    "script": 1467762,
+    "scriptCount": 43,
+    "document": 40406,
+    "font": 294151,
+    "fontCount": 4,
+    "stylesheet": 202407,
+    "stylesheetCount": 23,
+    "thirdParty": 1372239,
+    "thirdPartyCount": 21
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 202,
+    "+weight.total": 224,
+    "-weight.document": 242,
+    "+weight.document": 181,
+    "-weight.script": 323,
+    "+weight.script": 99,
+    "-weight.image": 138,
+    "+weight.image": 284,
+    "-weight.font": 245,
+    "+weight.font": 114,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 239,
+    "-totalBlockingTime": 194,
+    "-largestContentfulPaint": 306
+  },
+  "axe": {
+    "passes": 643,
+    "violations": 4
+  }
+}

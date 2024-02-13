@@ -1,0 +1,67 @@
+{
+  "url": "https://ccusl.ca.gov/",
+  "requestedUrl": "https://ccusl.ca.gov/",
+  "timestamp": 1707767085611,
+  "ranks": {
+    "hundos": 6,
+    "performance": 12,
+    "accessibility": 158,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 383
+  },
+  "firstContentfulPaint": 1527.342,
+  "firstMeaningfulPaint": 1527.342,
+  "speedIndex": 2431.6929878158567,
+  "largestContentfulPaint": 1606.248,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1527.342,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 24.25399999999999,
+  "weight": {
+    "summary": "12 requests • 106.4 KiB",
+    "total": 108945,
+    "image": 1898,
+    "imageCount": 1,
+    "script": 35588,
+    "scriptCount": 2,
+    "document": 6783,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 25953,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 422,
+    "-weight.document": 16,
+    "+weight.document": 407,
+    "-weight.script": 6,
+    "+weight.script": 416,
+    "-weight.image": 1,
+    "+weight.image": 421,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 72,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 261,
+    "violations": 4
+  }
+}

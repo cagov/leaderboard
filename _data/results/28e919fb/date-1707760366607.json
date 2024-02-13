@@ -1,0 +1,67 @@
+{
+  "url": "https://slc.ca.gov/",
+  "requestedUrl": "https://slc.ca.gov/",
+  "timestamp": 1707789493680,
+  "ranks": {
+    "hundos": 185,
+    "performance": 136,
+    "accessibility": 247,
+    "cumulative": 184
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.6,
+    "accessibility": 0.9,
+    "bestPractices": 0.89,
+    "seo": 0.83,
+    "total": 322
+  },
+  "firstContentfulPaint": 3636.13,
+  "firstMeaningfulPaint": 3636.13,
+  "speedIndex": 11279.210777126058,
+  "largestContentfulPaint": 5655.124000000002,
+  "totalBlockingTime": 77.5,
+  "cumulativeLayoutShift": 0.09379172664520333,
+  "timeToInteractive": 9694.379,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 2460.937,
+  "weight": {
+    "summary": "66 requests • 1.8 MiB",
+    "total": 1839118,
+    "image": 237454,
+    "imageCount": 17,
+    "script": 932584,
+    "scriptCount": 25,
+    "document": 44180,
+    "font": 406298,
+    "fontCount": 4,
+    "stylesheet": 217689,
+    "stylesheetCount": 14,
+    "thirdParty": 754341,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 132,
+    "+weight.total": 294,
+    "-weight.document": 263,
+    "+weight.document": 160,
+    "-weight.script": 224,
+    "+weight.script": 198,
+    "-weight.image": 63,
+    "+weight.image": 359,
+    "-weight.font": 294,
+    "+weight.font": 65,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 412,
+    "-totalBlockingTime": 114,
+    "-largestContentfulPaint": 86
+  },
+  "axe": {
+    "passes": 1131,
+    "violations": 5
+  }
+}

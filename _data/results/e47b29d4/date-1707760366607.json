@@ -1,0 +1,67 @@
+{
+  "url": "https://www.countyofsb.org/",
+  "requestedUrl": "https://santabarbaracounty.ca.gov/",
+  "timestamp": 1707787679050,
+  "ranks": {
+    "hundos": 423,
+    "performance": 424,
+    "accessibility": 379,
+    "cumulative": 423
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.08,
+    "accessibility": 0.81,
+    "bestPractices": 0.44,
+    "seo": 0.83,
+    "total": 216
+  },
+  "firstContentfulPaint": 5434.798,
+  "firstMeaningfulPaint": 5434.798,
+  "speedIndex": 14071.511465361033,
+  "largestContentfulPaint": 27603.52100000002,
+  "totalBlockingTime": 1076.1566572265638,
+  "cumulativeLayoutShift": 2.0669034136577906,
+  "timeToInteractive": 26125.145500000006,
+  "maxPotentialFirstInputDelay": 848,
+  "timeToFirstByte": 181.181,
+  "weight": {
+    "summary": "313 requests • 6.9 MiB",
+    "total": 7222344,
+    "image": 4028109,
+    "imageCount": 50,
+    "script": 2841948,
+    "scriptCount": 218,
+    "document": 43681,
+    "font": 55591,
+    "fontCount": 3,
+    "stylesheet": 65562,
+    "stylesheetCount": 7,
+    "thirdParty": 5222265,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 356,
+    "+weight.total": 70,
+    "-weight.document": 260,
+    "+weight.document": 163,
+    "-weight.script": 407,
+    "+weight.script": 15,
+    "-weight.image": 344,
+    "+weight.image": 78,
+    "-weight.font": 28,
+    "+weight.font": 331,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 256,
+    "-totalBlockingTime": 238,
+    "-largestContentfulPaint": 380
+  },
+  "axe": {
+    "passes": 4047,
+    "violations": 236
+  }
+}

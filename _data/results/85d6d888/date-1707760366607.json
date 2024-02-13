@@ -1,0 +1,67 @@
+{
+  "url": "https://www.familieschange.ca.gov/",
+  "requestedUrl": "https://familieschange.ca.gov/",
+  "timestamp": 1707776730314,
+  "ranks": {
+    "hundos": 402,
+    "performance": 314,
+    "accessibility": 422,
+    "cumulative": 402
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.41,
+    "accessibility": 0.59,
+    "bestPractices": 0.78,
+    "seo": 0.79,
+    "total": 257
+  },
+  "firstContentfulPaint": 8138.601249999994,
+  "firstMeaningfulPaint": 8656.167999999994,
+  "speedIndex": 8466.073437392992,
+  "largestContentfulPaint": 10729.429249999994,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.3230184310876901,
+  "timeToInteractive": 8656.167999999994,
+  "maxPotentialFirstInputDelay": 35.5,
+  "timeToFirstByte": 87.38199999999999,
+  "weight": {
+    "summary": "81 requests • 981.5 KiB",
+    "total": 1005013,
+    "image": 530318,
+    "imageCount": 12,
+    "script": 213492,
+    "scriptCount": 26,
+    "document": 7522,
+    "font": 151691,
+    "fontCount": 3,
+    "stylesheet": 100765,
+    "stylesheetCount": 35,
+    "thirdParty": 188403,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 54,
+    "+weight.total": 372,
+    "-weight.document": 22,
+    "+weight.document": 401,
+    "-weight.script": 37,
+    "+weight.script": 385,
+    "-weight.image": 134,
+    "+weight.image": 288,
+    "-weight.font": 158,
+    "+weight.font": 201,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 187,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 208
+  },
+  "axe": {
+    "passes": 209,
+    "violations": 48
+  }
+}

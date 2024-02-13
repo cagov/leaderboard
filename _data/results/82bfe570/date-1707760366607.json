@@ -1,0 +1,67 @@
+{
+  "url": "https://tahoe.ca.gov/",
+  "requestedUrl": "https://tahoe.ca.gov/",
+  "timestamp": 1707791206177,
+  "ranks": {
+    "hundos": 317,
+    "performance": 422,
+    "accessibility": 218,
+    "cumulative": 317
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.15,
+    "accessibility": 0.92,
+    "bestPractices": 0.85,
+    "seo": 0.97,
+    "total": 289
+  },
+  "firstContentfulPaint": 2533.7380000000003,
+  "firstMeaningfulPaint": 9738.997000000001,
+  "speedIndex": 16026.669380850377,
+  "largestContentfulPaint": 16408.738,
+  "totalBlockingTime": 1406.5,
+  "cumulativeLayoutShift": 0.5295190197071308,
+  "timeToInteractive": 28374.67950000001,
+  "maxPotentialFirstInputDelay": 268,
+  "timeToFirstByte": 721.337,
+  "weight": {
+    "summary": "359 requests • 7.9 MiB",
+    "total": 8241792,
+    "image": 4090402,
+    "imageCount": 24,
+    "script": 2627097,
+    "scriptCount": 168,
+    "document": 39172,
+    "font": 678555,
+    "fontCount": 11,
+    "stylesheet": 251781,
+    "stylesheetCount": 34,
+    "thirdParty": 3194279,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 366,
+    "+weight.total": 60,
+    "-weight.document": 230,
+    "+weight.document": 193,
+    "-weight.script": 401,
+    "+weight.script": 21,
+    "-weight.image": 346,
+    "+weight.image": 76,
+    "-weight.font": 334,
+    "+weight.font": 25,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 362,
+    "-totalBlockingTime": 241,
+    "-largestContentfulPaint": 343
+  },
+  "axe": {
+    "passes": 1118,
+    "violations": 10
+  }
+}

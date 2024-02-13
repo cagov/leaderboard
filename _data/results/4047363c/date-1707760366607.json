@@ -1,0 +1,67 @@
+{
+  "url": "https://capiaa.ca.gov/",
+  "requestedUrl": "https://capiaa.ca.gov/",
+  "timestamp": 1707766237008,
+  "ranks": {
+    "hundos": 221,
+    "performance": 366,
+    "accessibility": 187,
+    "cumulative": 221
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 316
+  },
+  "firstContentfulPaint": 3299.6245000000004,
+  "firstMeaningfulPaint": 3299.6245000000004,
+  "speedIndex": 8719.423716744686,
+  "largestContentfulPaint": 13835.793000000001,
+  "totalBlockingTime": 66.5,
+  "cumulativeLayoutShift": 0.8483488581664655,
+  "timeToInteractive": 12809.293000000001,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 729.7,
+  "weight": {
+    "summary": "83 requests • 3.6 MiB",
+    "total": 3804845,
+    "image": 2286984,
+    "imageCount": 22,
+    "script": 869216,
+    "scriptCount": 22,
+    "document": 29226,
+    "font": 422867,
+    "fontCount": 7,
+    "stylesheet": 195704,
+    "stylesheetCount": 24,
+    "thirdParty": 824018,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 279,
+    "+weight.total": 147,
+    "-weight.document": 146,
+    "+weight.document": 277,
+    "-weight.script": 197,
+    "+weight.script": 225,
+    "-weight.image": 295,
+    "+weight.image": 127,
+    "-weight.font": 295,
+    "+weight.font": 64,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 365,
+    "-totalBlockingTime": 99,
+    "-largestContentfulPaint": 258
+  },
+  "axe": {
+    "passes": 754,
+    "violations": 12
+  }
+}

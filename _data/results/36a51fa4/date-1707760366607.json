@@ -1,0 +1,67 @@
+{
+  "url": "https://heritageranchcsd.ca.gov/",
+  "requestedUrl": "https://heritageranchcsd.ca.gov/",
+  "timestamp": 1707778834969,
+  "ranks": {
+    "hundos": 71,
+    "performance": 224,
+    "accessibility": 54,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 349
+  },
+  "firstContentfulPaint": 8148.681500000001,
+  "firstMeaningfulPaint": 8436.219500000001,
+  "speedIndex": 10465.247102791276,
+  "largestContentfulPaint": 15555.072,
+  "totalBlockingTime": 244.5000000000009,
+  "cumulativeLayoutShift": 0.0002623956088397305,
+  "timeToInteractive": 18742.549500000005,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 986.566,
+  "weight": {
+    "summary": "45 requests • 3.2 MiB",
+    "total": 3337773,
+    "image": 1277742,
+    "imageCount": 16,
+    "script": 1866816,
+    "scriptCount": 14,
+    "document": 34088,
+    "font": 62251,
+    "fontCount": 2,
+    "stylesheet": 95017,
+    "stylesheetCount": 6,
+    "thirdParty": 2328548,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 262,
+    "+weight.total": 164,
+    "-weight.document": 191,
+    "+weight.document": 232,
+    "-weight.script": 368,
+    "+weight.script": 54,
+    "-weight.image": 242,
+    "+weight.image": 180,
+    "-weight.font": 31,
+    "+weight.font": 328,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 384,
+    "-totalBlockingTime": 187,
+    "-largestContentfulPaint": 341
+  },
+  "axe": {
+    "passes": 771,
+    "violations": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://dhbc.ca.gov/",
+  "requestedUrl": "https://dhbc.ca.gov/",
+  "timestamp": 1707773637109,
+  "ranks": {
+    "hundos": 173,
+    "performance": 353,
+    "accessibility": 251,
+    "cumulative": 174
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 326
+  },
+  "firstContentfulPaint": 4462.637999999999,
+  "firstMeaningfulPaint": 6804.447499999999,
+  "speedIndex": 6160.773669740814,
+  "largestContentfulPaint": 29451.148499999985,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.724582817356244,
+  "timeToInteractive": 7661.774000000001,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 21.509,
+  "weight": {
+    "summary": "43 requests • 5.2 MiB",
+    "total": 5405117,
+    "image": 3730309,
+    "imageCount": 19,
+    "script": 1019155,
+    "scriptCount": 10,
+    "document": 41015,
+    "font": 110325,
+    "fontCount": 3,
+    "stylesheet": 503124,
+    "stylesheetCount": 4,
+    "thirdParty": 421449,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 324,
+    "+weight.total": 102,
+    "-weight.document": 248,
+    "+weight.document": 175,
+    "-weight.script": 261,
+    "+weight.script": 161,
+    "-weight.image": 340,
+    "+weight.image": 82,
+    "-weight.font": 108,
+    "+weight.font": 251,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 62,
+    "-totalBlockingTime": 29,
+    "-largestContentfulPaint": 388
+  },
+  "axe": {
+    "passes": 787,
+    "violations": 9
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://hcai.ca.gov/",
+  "requestedUrl": "https://hcai.ca.gov/",
+  "timestamp": 1707778541174,
+  "ranks": {
+    "hundos": 42,
+    "performance": 97,
+    "accessibility": 113,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.66,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 357
+  },
+  "firstContentfulPaint": 3932.9100000000003,
+  "firstMeaningfulPaint": 3932.9100000000003,
+  "speedIndex": 5817.91403852977,
+  "largestContentfulPaint": 5892.065999999998,
+  "totalBlockingTime": 78.49999999999955,
+  "cumulativeLayoutShift": 0.0015163779667556833,
+  "timeToInteractive": 8979.543499999998,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 539.679,
+  "weight": {
+    "summary": "58 requests • 1.4 MiB",
+    "total": 1517423,
+    "image": 82301,
+    "imageCount": 8,
+    "script": 948444,
+    "scriptCount": 30,
+    "document": 24641,
+    "font": 73570,
+    "fontCount": 3,
+    "stylesheet": 330636,
+    "stylesheetCount": 8,
+    "thirdParty": 627256,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 103,
+    "+weight.total": 323,
+    "-weight.document": 121,
+    "+weight.document": 302,
+    "-weight.script": 233,
+    "+weight.script": 189,
+    "-weight.image": 30,
+    "+weight.image": 392,
+    "-weight.font": 55,
+    "+weight.font": 304,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 335,
+    "-totalBlockingTime": 116,
+    "-largestContentfulPaint": 93
+  },
+  "axe": {
+    "passes": 506,
+    "violations": 2
+  }
+}

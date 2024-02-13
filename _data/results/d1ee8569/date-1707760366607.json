@@ -1,0 +1,67 @@
+{
+  "url": "https://saccourt.ca.gov/",
+  "requestedUrl": "https://saccourt.ca.gov/",
+  "timestamp": 1707787327756,
+  "ranks": {
+    "hundos": 186,
+    "performance": 118,
+    "accessibility": 243,
+    "cumulative": 187
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 0.73,
+    "total": 322
+  },
+  "firstContentfulPaint": 3530.365500000001,
+  "firstMeaningfulPaint": 6701.8315,
+  "speedIndex": 4673.600176404456,
+  "largestContentfulPaint": 12017.959000000003,
+  "totalBlockingTime": 9,
+  "cumulativeLayoutShift": 0.11842173153308484,
+  "timeToInteractive": 11373.708500000004,
+  "maxPotentialFirstInputDelay": 68,
+  "timeToFirstByte": 7.334000000000003,
+  "weight": {
+    "summary": "60 requests • 2.2 MiB",
+    "total": 2320499,
+    "image": 851168,
+    "imageCount": 15,
+    "script": 992430,
+    "scriptCount": 23,
+    "document": 29600,
+    "font": 136743,
+    "fontCount": 4,
+    "stylesheet": 309975,
+    "stylesheetCount": 14,
+    "thirdParty": 584636,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 172,
+    "+weight.total": 254,
+    "-weight.document": 148,
+    "+weight.document": 275,
+    "-weight.script": 254,
+    "+weight.script": 168,
+    "-weight.image": 194,
+    "+weight.image": 228,
+    "-weight.font": 138,
+    "+weight.font": 221,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 224
+  },
+  "axe": {
+    "passes": 562,
+    "violations": 40
+  }
+}

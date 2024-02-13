@@ -1,0 +1,67 @@
+{
+  "url": "https://findanewway.ca.gov/wp-login.php?redirect_to=%2F",
+  "requestedUrl": "https://findanewway.ca.gov/",
+  "timestamp": 1707776868252,
+  "ranks": {
+    "hundos": 32,
+    "performance": 15,
+    "accessibility": 87,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.67,
+    "total": 361
+  },
+  "firstContentfulPaint": 1906.836,
+  "firstMeaningfulPaint": 1906.836,
+  "speedIndex": 1906.836,
+  "largestContentfulPaint": 1906.836,
+  "totalBlockingTime": 72,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4128.836,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 115.11999999999999,
+  "weight": {
+    "summary": "27 requests • 609.3 KiB",
+    "total": 592161,
+    "image": 5982,
+    "imageCount": 1,
+    "script": 493748,
+    "scriptCount": 16,
+    "document": 2913,
+    "font": 31728,
+    "fontCount": 1,
+    "stylesheet": 89021,
+    "stylesheetCount": 7,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 28,
+    "+weight.total": 398,
+    "-weight.document": 6,
+    "+weight.document": 417,
+    "-weight.script": 112,
+    "+weight.script": 310,
+    "-weight.image": 4,
+    "+weight.image": 418,
+    "-weight.font": 9,
+    "+weight.font": 350,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 218,
+    "-totalBlockingTime": 105,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 60,
+    "violations": 8
+  }
+}

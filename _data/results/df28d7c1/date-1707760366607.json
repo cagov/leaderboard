@@ -1,0 +1,67 @@
+{
+  "url": "https://aging.ca.gov/",
+  "requestedUrl": "https://aging.ca.gov/",
+  "timestamp": 1707760960241,
+  "ranks": {
+    "hundos": 306,
+    "performance": 321,
+    "accessibility": 195,
+    "cumulative": 306
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 0.94,
+    "bestPractices": 0.63,
+    "seo": 0.97,
+    "total": 294
+  },
+  "firstContentfulPaint": 4806.215,
+  "firstMeaningfulPaint": 6130.3110000000015,
+  "speedIndex": 8384.658775375441,
+  "largestContentfulPaint": 10355.941000000003,
+  "totalBlockingTime": 228.5,
+  "cumulativeLayoutShift": 0.2764778921845025,
+  "timeToInteractive": 17602.383,
+  "maxPotentialFirstInputDelay": 204,
+  "timeToFirstByte": 39.90199999999999,
+  "weight": {
+    "summary": "130 requests • 3.6 MiB",
+    "total": 3783589,
+    "image": 1538733,
+    "imageCount": 42,
+    "script": 1786329,
+    "scriptCount": 53,
+    "document": 30032,
+    "font": 214177,
+    "fontCount": 5,
+    "stylesheet": 199235,
+    "stylesheetCount": 21,
+    "thirdParty": 1757754,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 276,
+    "+weight.total": 150,
+    "-weight.document": 152,
+    "+weight.document": 271,
+    "-weight.script": 360,
+    "+weight.script": 62,
+    "-weight.image": 259,
+    "+weight.image": 163,
+    "-weight.font": 200,
+    "+weight.font": 159,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 123,
+    "-totalBlockingTime": 181,
+    "-largestContentfulPaint": 318
+  },
+  "axe": {
+    "passes": 1769,
+    "violations": 85
+  }
+}

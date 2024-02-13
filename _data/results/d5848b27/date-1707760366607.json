@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tomalescsd.ca.gov/",
+  "requestedUrl": "https://tomalescsd.ca.gov/",
+  "timestamp": 1707792339215,
+  "ranks": {
+    "hundos": 102,
+    "performance": 103,
+    "accessibility": 332,
+    "cumulative": 101
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 343
+  },
+  "firstContentfulPaint": 3065.451,
+  "firstMeaningfulPaint": 5379.7495,
+  "speedIndex": 5523.350271835471,
+  "largestContentfulPaint": 9569.1655,
+  "totalBlockingTime": 101,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9267.099499999998,
+  "maxPotentialFirstInputDelay": 238,
+  "timeToFirstByte": 97.95600000000002,
+  "weight": {
+    "summary": "28 requests • 1.3 MiB",
+    "total": 1330484,
+    "image": 279458,
+    "imageCount": 4,
+    "script": 834475,
+    "scriptCount": 10,
+    "document": 11536,
+    "font": 142334,
+    "fontCount": 9,
+    "stylesheet": 62365,
+    "stylesheetCount": 2,
+    "thirdParty": 1318632,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 81,
+    "+weight.total": 345,
+    "-weight.document": 50,
+    "+weight.document": 373,
+    "-weight.script": 184,
+    "+weight.script": 238,
+    "-weight.image": 78,
+    "+weight.image": 344,
+    "-weight.font": 141,
+    "+weight.font": 218,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 199,
+    "-totalBlockingTime": 126,
+    "-largestContentfulPaint": 172
+  },
+  "axe": {
+    "passes": 331,
+    "violations": 18
+  }
+}

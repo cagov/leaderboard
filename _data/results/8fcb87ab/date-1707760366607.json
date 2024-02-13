@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cirm.ca.gov/",
+  "requestedUrl": "https://cirm.ca.gov/",
+  "timestamp": 1707768584527,
+  "ranks": {
+    "hundos": 279,
+    "performance": 271,
+    "accessibility": 349,
+    "cumulative": 280
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 0.73,
+    "total": 302
+  },
+  "firstContentfulPaint": 4286.93382,
+  "firstMeaningfulPaint": 4286.93382,
+  "speedIndex": 4286.93382,
+  "largestContentfulPaint": 8892.43382,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0.4311389743686534,
+  "timeToInteractive": 6536.93382,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 59.666,
+  "weight": {
+    "summary": "65 requests • 1.5 MiB",
+    "total": 1497544,
+    "image": 775244,
+    "imageCount": 10,
+    "script": 385900,
+    "scriptCount": 25,
+    "document": 60419,
+    "font": 154207,
+    "fontCount": 3,
+    "stylesheet": 151284,
+    "stylesheetCount": 17,
+    "thirdParty": 180897,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 99,
+    "+weight.total": 327,
+    "-weight.document": 304,
+    "+weight.document": 119,
+    "-weight.script": 83,
+    "+weight.script": 339,
+    "-weight.image": 185,
+    "+weight.image": 237,
+    "-weight.font": 163,
+    "+weight.font": 196,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 145,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 156
+  },
+  "axe": {
+    "passes": 916,
+    "violations": 41
+  }
+}

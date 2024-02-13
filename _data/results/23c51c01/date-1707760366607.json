@@ -1,0 +1,67 @@
+{
+  "url": "https://www.caljobs.ca.gov/vosnet/Default.aspx",
+  "requestedUrl": "https://caljobs.ca.gov/",
+  "timestamp": 1707765124680,
+  "ranks": {
+    "hundos": 319,
+    "performance": 263,
+    "accessibility": 288,
+    "cumulative": 318
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.88,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 289
+  },
+  "firstContentfulPaint": 3732.38324,
+  "firstMeaningfulPaint": 5572.38324,
+  "speedIndex": 7909.120764825654,
+  "largestContentfulPaint": 10274.38324,
+  "totalBlockingTime": 89.5,
+  "cumulativeLayoutShift": 0.2676679279936338,
+  "timeToInteractive": 9989.88324,
+  "maxPotentialFirstInputDelay": 110,
+  "timeToFirstByte": 423.72799999999995,
+  "weight": {
+    "summary": "64 requests • 1.6 MiB",
+    "total": 1691391,
+    "image": 575401,
+    "imageCount": 17,
+    "script": 796118,
+    "scriptCount": 25,
+    "document": 27140,
+    "font": 185807,
+    "fontCount": 1,
+    "stylesheet": 94515,
+    "stylesheetCount": 14,
+    "thirdParty": 339080,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 116,
+    "+weight.total": 310,
+    "-weight.document": 132,
+    "+weight.document": 291,
+    "-weight.script": 179,
+    "+weight.script": 243,
+    "-weight.image": 140,
+    "+weight.image": 282,
+    "-weight.font": 191,
+    "+weight.font": 168,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 315,
+    "-totalBlockingTime": 120,
+    "-largestContentfulPaint": 197
+  },
+  "axe": {
+    "passes": 765,
+    "violations": 17
+  }
+}

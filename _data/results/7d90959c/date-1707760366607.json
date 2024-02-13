@@ -1,0 +1,67 @@
+{
+  "url": "https://osg.ca.gov/",
+  "requestedUrl": "https://osg.ca.gov/",
+  "timestamp": 1707784815615,
+  "ranks": {
+    "hundos": 300,
+    "performance": 407,
+    "accessibility": 78,
+    "cumulative": 298
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.29,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.93,
+    "total": 296
+  },
+  "firstContentfulPaint": 3052.87,
+  "firstMeaningfulPaint": 5486.798000000001,
+  "speedIndex": 29549.73480709061,
+  "largestContentfulPaint": 50632.04088661195,
+  "totalBlockingTime": 1463,
+  "cumulativeLayoutShift": 0.13186346241322658,
+  "timeToInteractive": 44118.13900000001,
+  "maxPotentialFirstInputDelay": 347,
+  "timeToFirstByte": 596.6899999999999,
+  "weight": {
+    "summary": "317 requests • 11.3 MiB",
+    "total": 11840820,
+    "image": 6675351,
+    "imageCount": 48,
+    "script": 3145901,
+    "scriptCount": 109,
+    "document": 665343,
+    "font": 678650,
+    "fontCount": 35,
+    "stylesheet": 303661,
+    "stylesheetCount": 39,
+    "thirdParty": 4930841,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 399,
+    "+weight.total": 27,
+    "-weight.document": 420,
+    "+weight.document": 3,
+    "-weight.script": 409,
+    "+weight.script": 13,
+    "-weight.image": 383,
+    "+weight.image": 39,
+    "-weight.font": 335,
+    "+weight.font": 24,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 344,
+    "-totalBlockingTime": 242,
+    "-largestContentfulPaint": 417
+  },
+  "axe": {
+    "passes": 1159,
+    "violations": 5
+  }
+}

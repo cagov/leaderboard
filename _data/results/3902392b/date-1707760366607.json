@@ -1,0 +1,67 @@
+{
+  "url": "https://expositionpark.ca.gov/",
+  "requestedUrl": "https://expositionpark.ca.gov/",
+  "timestamp": 1707776621754,
+  "ranks": {
+    "hundos": 195,
+    "performance": 300,
+    "accessibility": 362,
+    "cumulative": 195
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.43,
+    "accessibility": 0.82,
+    "bestPractices": 0.96,
+    "seo": 0.99,
+    "total": 320
+  },
+  "firstContentfulPaint": 5575.403,
+  "firstMeaningfulPaint": 6400.3705,
+  "speedIndex": 6977.272757535404,
+  "largestContentfulPaint": 7801.119500000001,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.32227765001522185,
+  "timeToInteractive": 6400.3705,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 339.873,
+  "weight": {
+    "summary": "49 requests • 1.8 MiB",
+    "total": 1850990,
+    "image": 86641,
+    "imageCount": 15,
+    "script": 970682,
+    "scriptCount": 13,
+    "document": 42717,
+    "font": 110025,
+    "fontCount": 3,
+    "stylesheet": 640034,
+    "stylesheetCount": 12,
+    "thirdParty": 412914,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 135,
+    "+weight.total": 291,
+    "-weight.document": 257,
+    "+weight.document": 166,
+    "-weight.script": 244,
+    "+weight.script": 178,
+    "-weight.image": 33,
+    "+weight.image": 389,
+    "-weight.font": 103,
+    "+weight.font": 256,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 295,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 130
+  },
+  "axe": {
+    "passes": 492,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://courtreportersboard.ca.gov/",
+  "requestedUrl": "https://courtreportersboard.ca.gov/",
+  "timestamp": 1707771066054,
+  "ranks": {
+    "hundos": 63,
+    "performance": 145,
+    "accessibility": 196,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 351
+  },
+  "firstContentfulPaint": 5407.831,
+  "firstMeaningfulPaint": 7892.556,
+  "speedIndex": 7295.117692699141,
+  "largestContentfulPaint": 12833.006,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7892.556,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 21.961,
+  "weight": {
+    "summary": "42 requests • 1.9 MiB",
+    "total": 1987379,
+    "image": 286963,
+    "imageCount": 18,
+    "script": 1039817,
+    "scriptCount": 10,
+    "document": 31168,
+    "font": 110236,
+    "fontCount": 3,
+    "stylesheet": 517990,
+    "stylesheetCount": 4,
+    "thirdParty": 461181,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 144,
+    "+weight.total": 282,
+    "-weight.document": 164,
+    "+weight.document": 259,
+    "-weight.script": 264,
+    "+weight.script": 158,
+    "-weight.image": 84,
+    "+weight.image": 338,
+    "-weight.font": 106,
+    "+weight.font": 253,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 66,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 241
+  },
+  "axe": {
+    "passes": 639,
+    "violations": 4
+  }
+}

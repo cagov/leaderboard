@@ -1,0 +1,67 @@
+{
+  "url": "https://pointarena.ca.gov/",
+  "requestedUrl": "https://pointarena.ca.gov/",
+  "timestamp": 1707785712564,
+  "ranks": {
+    "hundos": 368,
+    "performance": 207,
+    "accessibility": 404,
+    "cumulative": 368
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.53,
+    "accessibility": 0.75,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 273
+  },
+  "firstContentfulPaint": 4176.787999999999,
+  "firstMeaningfulPaint": 4176.787999999999,
+  "speedIndex": 17400.76072607923,
+  "largestContentfulPaint": 8949.762999999997,
+  "totalBlockingTime": 224.5,
+  "cumulativeLayoutShift": 0.0017745173155659234,
+  "timeToInteractive": 32323.71732622527,
+  "maxPotentialFirstInputDelay": 130,
+  "timeToFirstByte": 683.0999999999999,
+  "weight": {
+    "summary": "131 requests • 8.3 MiB",
+    "total": 8532863,
+    "image": 4672627,
+    "imageCount": 34,
+    "script": 2731959,
+    "scriptCount": 49,
+    "document": 64566,
+    "font": 911108,
+    "fontCount": 9,
+    "stylesheet": 294142,
+    "stylesheetCount": 21,
+    "thirdParty": 2828899,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 370,
+    "+weight.total": 56,
+    "-weight.document": 313,
+    "+weight.document": 110,
+    "-weight.script": 404,
+    "+weight.script": 18,
+    "-weight.image": 362,
+    "+weight.image": 60,
+    "-weight.font": 351,
+    "+weight.font": 8,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 359,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 312
+  },
+  "axe": {
+    "passes": 692,
+    "violations": 36
+  }
+}

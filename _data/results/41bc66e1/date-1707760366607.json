@@ -1,0 +1,67 @@
+{
+  "url": "https://cnips.ca.gov/Splash.aspx",
+  "requestedUrl": "https://cnips.ca.gov/",
+  "timestamp": 1707769946251,
+  "ranks": {
+    "hundos": 152,
+    "performance": 10,
+    "accessibility": 168,
+    "cumulative": 152
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 0.7,
+    "seo": 0.67,
+    "total": 331
+  },
+  "firstContentfulPaint": 1511.22,
+  "firstMeaningfulPaint": 1511.22,
+  "speedIndex": 1511.22,
+  "largestContentfulPaint": 1811.22,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.01529623572716397,
+  "timeToInteractive": 1511.22,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 51.978,
+  "weight": {
+    "summary": "33 requests • 232.2 KiB",
+    "total": 237796,
+    "image": 89574,
+    "imageCount": 18,
+    "script": 116405,
+    "scriptCount": 7,
+    "document": 24527,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6915,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 416,
+    "-weight.document": 120,
+    "+weight.document": 303,
+    "-weight.script": 14,
+    "+weight.script": 408,
+    "-weight.image": 34,
+    "+weight.image": 388,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 137,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 629,
+    "violations": 18
+  }
+}

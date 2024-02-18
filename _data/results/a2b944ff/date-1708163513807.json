@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiavolunteers.ca.gov/",
+  "requestedUrl": "https://californiavolunteers.ca.gov/",
+  "timestamp": 1708168145984,
+  "ranks": {
+    "hundos": 385,
+    "performance": 410,
+    "accessibility": 315,
+    "cumulative": 384
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.25,
+    "accessibility": 0.86,
+    "bestPractices": 0.74,
+    "seo": 0.82,
+    "total": 267
+  },
+  "firstContentfulPaint": 4111.802000000001,
+  "firstMeaningfulPaint": 6435.9446499999995,
+  "speedIndex": 13353.59042906549,
+  "largestContentfulPaint": 12606.9441,
+  "totalBlockingTime": 527.2682999999997,
+  "cumulativeLayoutShift": 0.4175542109564371,
+  "timeToInteractive": 24074.22983824464,
+  "maxPotentialFirstInputDelay": 333,
+  "timeToFirstByte": 101.801,
+  "weight": {
+    "summary": "184 requests • 7.9 MiB",
+    "total": 8264338,
+    "image": 5198261,
+    "imageCount": 55,
+    "script": 1910305,
+    "scriptCount": 54,
+    "document": 199419,
+    "font": 681766,
+    "fontCount": 16,
+    "stylesheet": 272572,
+    "stylesheetCount": 31,
+    "thirdParty": 2153798,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 370,
+    "+weight.total": 53,
+    "-weight.document": 390,
+    "+weight.document": 29,
+    "-weight.script": 374,
+    "+weight.script": 46,
+    "-weight.image": 369,
+    "+weight.image": 48,
+    "-weight.font": 331,
+    "+weight.font": 20,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 191,
+    "-totalBlockingTime": 228,
+    "-largestContentfulPaint": 333
+  },
+  "axe": {
+    "passes": 759,
+    "violations": 8
+  }
+}

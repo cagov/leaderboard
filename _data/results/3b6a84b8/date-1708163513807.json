@@ -1,0 +1,67 @@
+{
+  "url": "https://ltg.ca.gov/",
+  "requestedUrl": "https://ltg.ca.gov/",
+  "timestamp": 1708184839697,
+  "ranks": {
+    "hundos": 138,
+    "performance": 313,
+    "accessibility": 64,
+    "cumulative": 138
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.97,
+    "total": 335
+  },
+  "firstContentfulPaint": 2355.311,
+  "firstMeaningfulPaint": 6045.811,
+  "speedIndex": 8564.23871172647,
+  "largestContentfulPaint": 18064.122160000003,
+  "totalBlockingTime": 71.5,
+  "cumulativeLayoutShift": 0.5537304021935848,
+  "timeToInteractive": 13384.811000000002,
+  "maxPotentialFirstInputDelay": 112,
+  "timeToFirstByte": 106.701,
+  "weight": {
+    "summary": "79 requests • 2.8 MiB",
+    "total": 2946584,
+    "image": 1138956,
+    "imageCount": 12,
+    "script": 918155,
+    "scriptCount": 30,
+    "document": 39604,
+    "font": 656989,
+    "fontCount": 7,
+    "stylesheet": 192036,
+    "stylesheetCount": 22,
+    "thirdParty": 812670,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 234,
+    "+weight.total": 189,
+    "-weight.document": 238,
+    "+weight.document": 181,
+    "-weight.script": 212,
+    "+weight.script": 208,
+    "-weight.image": 233,
+    "+weight.image": 184,
+    "-weight.font": 323,
+    "+weight.font": 28,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 206,
+    "-totalBlockingTime": 110,
+    "-largestContentfulPaint": 298
+  },
+  "axe": {
+    "passes": 261,
+    "violations": 3
+  }
+}

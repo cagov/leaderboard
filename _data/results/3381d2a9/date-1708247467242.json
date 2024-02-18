@@ -1,0 +1,67 @@
+{
+  "url": "https://highlandsrec.ca.gov/",
+  "requestedUrl": "https://highlandsrec.ca.gov/",
+  "timestamp": 1708266092614,
+  "ranks": {
+    "hundos": 75,
+    "performance": 175,
+    "accessibility": 54,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 347
+  },
+  "firstContentfulPaint": 6947.551999999998,
+  "firstMeaningfulPaint": 8018.9924999999985,
+  "speedIndex": 6947.551999999998,
+  "largestContentfulPaint": 12694.9265,
+  "totalBlockingTime": 199.5,
+  "cumulativeLayoutShift": 0.0002623956088397305,
+  "timeToInteractive": 15373.054499999997,
+  "maxPotentialFirstInputDelay": 196,
+  "timeToFirstByte": 78.103,
+  "weight": {
+    "summary": "38 requests • 2.8 MiB",
+    "total": 2960633,
+    "image": 1077963,
+    "imageCount": 14,
+    "script": 1690709,
+    "scriptCount": 11,
+    "document": 33688,
+    "font": 62252,
+    "fontCount": 2,
+    "stylesheet": 94399,
+    "stylesheetCount": 6,
+    "thirdParty": 1952444,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 237,
+    "+weight.total": 188,
+    "-weight.document": 182,
+    "+weight.document": 237,
+    "-weight.script": 352,
+    "+weight.script": 69,
+    "-weight.image": 225,
+    "+weight.image": 193,
+    "-weight.font": 32,
+    "+weight.font": 325,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 163,
+    "-totalBlockingTime": 167,
+    "-largestContentfulPaint": 274
+  },
+  "axe": {
+    "passes": 752,
+    "violations": 3
+  }
+}

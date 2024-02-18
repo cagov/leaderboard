@@ -1,0 +1,67 @@
+{
+  "url": "https://calrx.ca.gov/",
+  "requestedUrl": "https://calrx.ca.gov/",
+  "timestamp": 1708168792684,
+  "ranks": {
+    "hundos": 42,
+    "performance": 105,
+    "accessibility": 17,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 356
+  },
+  "firstContentfulPaint": 1249.629,
+  "firstMeaningfulPaint": 1249.629,
+  "speedIndex": 1249.629,
+  "largestContentfulPaint": 5749.629,
+  "totalBlockingTime": 12,
+  "cumulativeLayoutShift": 0.31382870610469127,
+  "timeToInteractive": 3516.8484999999996,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 77.589,
+  "weight": {
+    "summary": "26 requests • 1.0 MiB",
+    "total": 1071750,
+    "image": 696358,
+    "imageCount": 9,
+    "script": 207792,
+    "scriptCount": 7,
+    "document": 18920,
+    "font": 101896,
+    "fontCount": 3,
+    "stylesheet": 46478,
+    "stylesheetCount": 3,
+    "thirdParty": 177038,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 57,
+    "+weight.total": 366,
+    "-weight.document": 89,
+    "+weight.document": 330,
+    "-weight.script": 34,
+    "+weight.script": 386,
+    "-weight.image": 171,
+    "+weight.image": 246,
+    "-weight.font": 84,
+    "+weight.font": 267,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 166,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 91
+  },
+  "axe": {
+    "passes": 372,
+    "violations": 0
+  }
+}

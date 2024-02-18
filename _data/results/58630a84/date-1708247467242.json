@@ -1,0 +1,67 @@
+{
+  "url": "https://sanramon.ca.gov/",
+  "requestedUrl": "https://sanramon.ca.gov/",
+  "timestamp": 1708274798270,
+  "ranks": {
+    "hundos": 405,
+    "performance": 412,
+    "accessibility": 323,
+    "cumulative": 405
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.26,
+    "accessibility": 0.86,
+    "bestPractices": 0.7,
+    "seo": 0.71,
+    "total": 253
+  },
+  "firstContentfulPaint": 5844.9524999999985,
+  "firstMeaningfulPaint": 5844.9524999999985,
+  "speedIndex": 14155.494889845464,
+  "largestContentfulPaint": 10175.406500000001,
+  "totalBlockingTime": 571.5,
+  "cumulativeLayoutShift": 0.3046148610457149,
+  "timeToInteractive": 23031.334500000004,
+  "maxPotentialFirstInputDelay": 354,
+  "timeToFirstByte": 2002.828,
+  "weight": {
+    "summary": "216 requests • 6.7 MiB",
+    "total": 7002282,
+    "image": 590082,
+    "imageCount": 45,
+    "script": 2395761,
+    "scriptCount": 90,
+    "document": 205867,
+    "font": 135352,
+    "fontCount": 5,
+    "stylesheet": 151305,
+    "stylesheetCount": 30,
+    "thirdParty": 6701920,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 352,
+    "+weight.total": 73,
+    "-weight.document": 390,
+    "+weight.document": 29,
+    "-weight.script": 398,
+    "+weight.script": 23,
+    "-weight.image": 146,
+    "+weight.image": 272,
+    "-weight.font": 133,
+    "+weight.font": 224,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 409,
+    "-totalBlockingTime": 219,
+    "-largestContentfulPaint": 241
+  },
+  "axe": {
+    "passes": 1639,
+    "violations": 32
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calstrs.com/",
+  "requestedUrl": "https://calstrs.ca.gov/",
+  "timestamp": 1708252907865,
+  "ranks": {
+    "hundos": 242,
+    "performance": 177,
+    "accessibility": 171,
+    "cumulative": 244
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.95,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 309
+  },
+  "firstContentfulPaint": 9400.76025,
+  "firstMeaningfulPaint": 9936.94725,
+  "speedIndex": 9400.76025,
+  "largestContentfulPaint": 16639.28475,
+  "totalBlockingTime": 140.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 16818.013750000002,
+  "maxPotentialFirstInputDelay": 225,
+  "timeToFirstByte": 130.20000000000002,
+  "weight": {
+    "summary": "64 requests • 2.5 MiB",
+    "total": 2654634,
+    "image": 687847,
+    "imageCount": 22,
+    "script": 1698212,
+    "scriptCount": 19,
+    "document": 34087,
+    "font": 106952,
+    "fontCount": 5,
+    "stylesheet": 123769,
+    "stylesheetCount": 9,
+    "thirdParty": 1636433,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 209,
+    "+weight.total": 216,
+    "-weight.document": 186,
+    "+weight.document": 233,
+    "-weight.script": 354,
+    "+weight.script": 67,
+    "-weight.image": 171,
+    "+weight.image": 247,
+    "-weight.font": 88,
+    "+weight.font": 269,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 228,
+    "-totalBlockingTime": 147,
+    "-largestContentfulPaint": 327
+  },
+  "axe": {
+    "passes": 1310,
+    "violations": 23
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tam.ca.gov/",
+  "requestedUrl": "https://tam.ca.gov/",
+  "timestamp": 1708194416370,
+  "ranks": {
+    "hundos": 327,
+    "performance": 176,
+    "accessibility": 387,
+    "cumulative": 328
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.79,
+    "bestPractices": 0.74,
+    "seo": 0.78,
+    "total": 286
+  },
+  "firstContentfulPaint": 4369.805,
+  "firstMeaningfulPaint": 5347.805,
+  "speedIndex": 7356.037405735838,
+  "largestContentfulPaint": 8304.805,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.1347965937766444,
+  "timeToInteractive": 10654.305,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 108.36099999999999,
+  "weight": {
+    "summary": "91 requests • 2.1 MiB",
+    "total": 2199107,
+    "image": 1049880,
+    "imageCount": 20,
+    "script": 522851,
+    "scriptCount": 28,
+    "document": 31006,
+    "font": 373122,
+    "fontCount": 8,
+    "stylesheet": 252648,
+    "stylesheetCount": 30,
+    "thirdParty": 219585,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 163,
+    "+weight.total": 260,
+    "-weight.document": 162,
+    "+weight.document": 257,
+    "-weight.script": 116,
+    "+weight.script": 304,
+    "-weight.image": 221,
+    "+weight.image": 196,
+    "-weight.font": 271,
+    "+weight.font": 80,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 211,
+    "-totalBlockingTime": 55,
+    "-largestContentfulPaint": 150
+  },
+  "axe": {
+    "passes": 1069,
+    "violations": 15
+  }
+}

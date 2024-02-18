@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dca.ca.gov/acp/",
+  "requestedUrl": "https://lemonlaw.ca.gov/",
+  "timestamp": 1708268396554,
+  "ranks": {
+    "hundos": 145,
+    "performance": 86,
+    "accessibility": 98,
+    "cumulative": 149
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.77,
+    "total": 333
+  },
+  "firstContentfulPaint": 2745.6620000000003,
+  "firstMeaningfulPaint": 2745.6620000000003,
+  "speedIndex": 5236.7657390050645,
+  "largestContentfulPaint": 8609.488,
+  "totalBlockingTime": 13.5,
+  "cumulativeLayoutShift": 0.006262782628518542,
+  "timeToInteractive": 5577.874000000001,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 14.811,
+  "weight": {
+    "summary": "70 requests • 1.2 MiB",
+    "total": 1234650,
+    "image": 567833,
+    "imageCount": 37,
+    "script": 627435,
+    "scriptCount": 16,
+    "document": 18466,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 18888,
+    "stylesheetCount": 8,
+    "thirdParty": 609450,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 70,
+    "+weight.total": 355,
+    "-weight.document": 84,
+    "+weight.document": 335,
+    "-weight.script": 143,
+    "+weight.script": 278,
+    "-weight.image": 138,
+    "+weight.image": 280,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 21,
+    "-totalBlockingTime": 27,
+    "-largestContentfulPaint": 222
+  },
+  "axe": {
+    "passes": 340,
+    "violations": 30
+  }
+}

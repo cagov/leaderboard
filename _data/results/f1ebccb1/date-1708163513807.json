@@ -1,0 +1,67 @@
+{
+  "url": "https://wedrawthelines.ca.gov/",
+  "requestedUrl": "https://crc.ca.gov/",
+  "timestamp": 1708174812159,
+  "ranks": {
+    "hundos": 158,
+    "performance": 354,
+    "accessibility": 56,
+    "cumulative": 157
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 330
+  },
+  "firstContentfulPaint": 3593.3740000000003,
+  "firstMeaningfulPaint": 6622.874,
+  "speedIndex": 7642.4693437791775,
+  "largestContentfulPaint": 10043.374000000002,
+  "totalBlockingTime": 55.5,
+  "cumulativeLayoutShift": 0.6865100670198176,
+  "timeToInteractive": 12792.589,
+  "maxPotentialFirstInputDelay": 86,
+  "timeToFirstByte": 446.597,
+  "weight": {
+    "summary": "73 requests • 2.4 MiB",
+    "total": 2478383,
+    "image": 1088177,
+    "imageCount": 16,
+    "script": 866153,
+    "scriptCount": 23,
+    "document": 30695,
+    "font": 302815,
+    "fontCount": 6,
+    "stylesheet": 189472,
+    "stylesheetCount": 19,
+    "thirdParty": 791366,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 192,
+    "+weight.total": 231,
+    "-weight.document": 157,
+    "+weight.document": 262,
+    "-weight.script": 194,
+    "+weight.script": 226,
+    "-weight.image": 225,
+    "+weight.image": 192,
+    "-weight.font": 242,
+    "+weight.font": 109,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 327,
+    "-totalBlockingTime": 87,
+    "-largestContentfulPaint": 192
+  },
+  "axe": {
+    "passes": 742,
+    "violations": 3
+  }
+}

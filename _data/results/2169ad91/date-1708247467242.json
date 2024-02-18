@@ -1,0 +1,67 @@
+{
+  "url": "https://www.fairfieldsuisunsewer.ca.gov/",
+  "requestedUrl": "https://fairfieldsuisunsewer.ca.gov/",
+  "timestamp": 1708263819992,
+  "ranks": {
+    "hundos": 330,
+    "performance": 283,
+    "accessibility": 325,
+    "cumulative": 330
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.86,
+    "bestPractices": 0.78,
+    "seo": 0.77,
+    "total": 286
+  },
+  "firstContentfulPaint": 15272.887169999998,
+  "firstMeaningfulPaint": 15719.594219999999,
+  "speedIndex": 29565.82703826871,
+  "largestContentfulPaint": 44526.426984465026,
+  "totalBlockingTime": 216.5,
+  "cumulativeLayoutShift": 0.1593231532253466,
+  "timeToInteractive": 38101.05801446503,
+  "maxPotentialFirstInputDelay": 131,
+  "timeToFirstByte": 1406.693,
+  "weight": {
+    "summary": "107 requests • 7.0 MiB",
+    "total": 7301546,
+    "image": 3560414,
+    "imageCount": 29,
+    "script": 1847292,
+    "scriptCount": 31,
+    "document": 308104,
+    "font": 448949,
+    "fontCount": 8,
+    "stylesheet": 1084791,
+    "stylesheetCount": 20,
+    "thirdParty": 1372354,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 362,
+    "+weight.total": 63,
+    "-weight.document": 407,
+    "+weight.document": 12,
+    "-weight.script": 369,
+    "+weight.script": 52,
+    "-weight.image": 334,
+    "+weight.image": 84,
+    "-weight.font": 297,
+    "+weight.font": 60,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 393,
+    "-totalBlockingTime": 172,
+    "-largestContentfulPaint": 413
+  },
+  "axe": {
+    "passes": 958,
+    "violations": 33
+  }
+}

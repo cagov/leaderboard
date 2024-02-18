@@ -1,0 +1,67 @@
+{
+  "url": "https://www.eurekaca.gov/",
+  "requestedUrl": "https://eureka.ca.gov/",
+  "timestamp": 1708263672034,
+  "ranks": {
+    "hundos": 409,
+    "performance": 410,
+    "accessibility": 387,
+    "cumulative": 410
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.27,
+    "accessibility": 0.8,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 251
+  },
+  "firstContentfulPaint": 3749.3244999999997,
+  "firstMeaningfulPaint": 3749.3244999999997,
+  "speedIndex": 22572.79793470086,
+  "largestContentfulPaint": 12649.144499999997,
+  "totalBlockingTime": 719.5,
+  "cumulativeLayoutShift": 0.25260141200893443,
+  "timeToInteractive": 27326.1475,
+  "maxPotentialFirstInputDelay": 400,
+  "timeToFirstByte": 328.909,
+  "weight": {
+    "summary": "144 requests • 11.4 MiB",
+    "total": 11958653,
+    "image": 9547099,
+    "imageCount": 35,
+    "script": 1903554,
+    "scriptCount": 65,
+    "document": 141671,
+    "font": 149034,
+    "fontCount": 7,
+    "stylesheet": 187629,
+    "stylesheetCount": 14,
+    "thirdParty": 1981508,
+    "thirdPartyCount": 16
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 402,
+    "+weight.total": 23,
+    "-weight.document": 365,
+    "+weight.document": 54,
+    "-weight.script": 374,
+    "+weight.script": 47,
+    "-weight.image": 398,
+    "+weight.image": 20,
+    "-weight.font": 149,
+    "+weight.font": 208,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 296,
+    "-totalBlockingTime": 227,
+    "-largestContentfulPaint": 273
+  },
+  "axe": {
+    "passes": 2149,
+    "violations": 66
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.fire.ca.gov/",
+  "requestedUrl": "https://calfire.ca.gov/",
+  "timestamp": 1708251524324,
+  "ranks": {
+    "hundos": 337,
+    "performance": 401,
+    "accessibility": 80,
+    "cumulative": 335
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.3,
+    "accessibility": 1,
+    "bestPractices": 0.59,
+    "seo": 0.96,
+    "total": 285
+  },
+  "firstContentfulPaint": 3437.532,
+  "firstMeaningfulPaint": 4885.7035000000005,
+  "speedIndex": 8682.506814272421,
+  "largestContentfulPaint": 11325.070999999998,
+  "totalBlockingTime": 4198,
+  "cumulativeLayoutShift": 0.05523311103478173,
+  "timeToInteractive": 27065.76299999999,
+  "maxPotentialFirstInputDelay": 253,
+  "timeToFirstByte": 88.918,
+  "weight": {
+    "summary": "195 requests • 6.8 MiB",
+    "total": 7108806,
+    "image": 2700586,
+    "imageCount": 41,
+    "script": 2340384,
+    "scriptCount": 52,
+    "document": 55727,
+    "font": 162608,
+    "fontCount": 9,
+    "stylesheet": 163212,
+    "stylesheetCount": 5,
+    "thirdParty": 6807099,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 356,
+    "+weight.total": 69,
+    "-weight.document": 289,
+    "+weight.document": 130,
+    "-weight.script": 395,
+    "+weight.script": 26,
+    "-weight.image": 317,
+    "+weight.image": 101,
+    "-weight.font": 167,
+    "+weight.font": 190,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 171,
+    "-totalBlockingTime": 249,
+    "-largestContentfulPaint": 253
+  },
+  "axe": {
+    "passes": 1159,
+    "violations": 6
+  }
+}

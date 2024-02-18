@@ -1,0 +1,67 @@
+{
+  "url": "https://pab.ca.gov/",
+  "requestedUrl": "https://pab.ca.gov/",
+  "timestamp": 1708272133025,
+  "ranks": {
+    "hundos": 85,
+    "performance": 252,
+    "accessibility": 93,
+    "cumulative": 89
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 345
+  },
+  "firstContentfulPaint": 5105.301,
+  "firstMeaningfulPaint": 5613.543,
+  "speedIndex": 5320.402489953303,
+  "largestContentfulPaint": 10147.721000000001,
+  "totalBlockingTime": 12,
+  "cumulativeLayoutShift": 0.29290410995451766,
+  "timeToInteractive": 7118.993499999999,
+  "maxPotentialFirstInputDelay": 74,
+  "timeToFirstByte": 34.873999999999995,
+  "weight": {
+    "summary": "63 requests • 3.6 MiB",
+    "total": 3823621,
+    "image": 1668365,
+    "imageCount": 30,
+    "script": 1242420,
+    "scriptCount": 14,
+    "document": 36892,
+    "font": 242462,
+    "fontCount": 5,
+    "stylesheet": 632011,
+    "stylesheetCount": 4,
+    "thirdParty": 670092,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 282,
+    "+weight.total": 143,
+    "-weight.document": 209,
+    "+weight.document": 210,
+    "-weight.script": 299,
+    "+weight.script": 122,
+    "-weight.image": 266,
+    "+weight.image": 152,
+    "-weight.font": 223,
+    "+weight.font": 134,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 100,
+    "-totalBlockingTime": 25,
+    "-largestContentfulPaint": 240
+  },
+  "axe": {
+    "passes": 700,
+    "violations": 12
+  }
+}

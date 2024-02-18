@@ -1,0 +1,67 @@
+{
+  "url": "https://healthcarevolunteers.ca.gov/",
+  "requestedUrl": "https://healthcarevolunteers.ca.gov/",
+  "timestamp": 1708181849143,
+  "ranks": {
+    "hundos": 382,
+    "performance": 139,
+    "accessibility": 420,
+    "cumulative": 382
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.58,
+    "bestPractices": 0.93,
+    "seo": 0.58,
+    "total": 268
+  },
+  "firstContentfulPaint": 6289.907,
+  "firstMeaningfulPaint": 6364.907,
+  "speedIndex": 6289.907,
+  "largestContentfulPaint": 8680.907,
+  "totalBlockingTime": 35.5,
+  "cumulativeLayoutShift": 0.058488750548786904,
+  "timeToInteractive": 6919.077,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 225.493,
+  "weight": {
+    "summary": "142 requests • 2.5 MiB",
+    "total": 2643054,
+    "image": 361182,
+    "imageCount": 15,
+    "script": 1968035,
+    "scriptCount": 100,
+    "document": 12416,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 285078,
+    "stylesheetCount": 15,
+    "thirdParty": 134006,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 207,
+    "+weight.total": 216,
+    "-weight.document": 56,
+    "+weight.document": 363,
+    "-weight.script": 377,
+    "+weight.script": 43,
+    "-weight.image": 96,
+    "+weight.image": 321,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 258,
+    "-totalBlockingTime": 61,
+    "-largestContentfulPaint": 164
+  },
+  "axe": {
+    "passes": 167,
+    "violations": 32
+  }
+}

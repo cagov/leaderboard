@@ -1,0 +1,67 @@
+{
+  "url": "https://privacy.ca.gov/",
+  "requestedUrl": "https://privacy.ca.gov/",
+  "timestamp": 1708189056733,
+  "ranks": {
+    "hundos": 12,
+    "performance": 52,
+    "accessibility": 21,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.77,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 2509.916,
+  "firstMeaningfulPaint": 2509.916,
+  "speedIndex": 6563.755122209313,
+  "largestContentfulPaint": 4084.916,
+  "totalBlockingTime": 58.5,
+  "cumulativeLayoutShift": 0.01278967331060466,
+  "timeToInteractive": 9283.416,
+  "maxPotentialFirstInputDelay": 106,
+  "timeToFirstByte": 736.182,
+  "weight": {
+    "summary": "66 requests • 1.6 MiB",
+    "total": 1676262,
+    "image": 276329,
+    "imageCount": 11,
+    "script": 766969,
+    "scriptCount": 22,
+    "document": 27199,
+    "font": 404317,
+    "fontCount": 5,
+    "stylesheet": 200598,
+    "stylesheetCount": 20,
+    "thirdParty": 623690,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 110,
+    "+weight.total": 313,
+    "-weight.document": 135,
+    "+weight.document": 284,
+    "-weight.script": 165,
+    "+weight.script": 255,
+    "-weight.image": 76,
+    "+weight.image": 341,
+    "-weight.font": 284,
+    "+weight.font": 67,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 372,
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 46
+  },
+  "axe": {
+    "passes": 284,
+    "violations": 0
+  }
+}

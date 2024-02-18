@@ -1,0 +1,67 @@
+{
+  "url": "https://oag.ca.gov/",
+  "requestedUrl": "https://oag.ca.gov/",
+  "timestamp": 1708271078390,
+  "ranks": {
+    "hundos": 96,
+    "performance": 90,
+    "accessibility": 3,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.66,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.82,
+    "total": 344
+  },
+  "firstContentfulPaint": 4246.437999999999,
+  "firstMeaningfulPaint": 5945.259,
+  "speedIndex": 4308.70727770489,
+  "largestContentfulPaint": 6831.704,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.0007712759079291564,
+  "timeToInteractive": 6571.629499999999,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 164.44,
+  "weight": {
+    "summary": "62 requests • 11.4 MiB",
+    "total": 11930457,
+    "image": 11261176,
+    "imageCount": 24,
+    "script": 303120,
+    "scriptCount": 13,
+    "document": 39497,
+    "font": 224448,
+    "fontCount": 5,
+    "stylesheet": 101966,
+    "stylesheetCount": 18,
+    "thirdParty": 493631,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 400,
+    "+weight.total": 25,
+    "-weight.document": 229,
+    "+weight.document": 190,
+    "-weight.script": 62,
+    "+weight.script": 359,
+    "-weight.image": 403,
+    "+weight.image": 15,
+    "-weight.font": 211,
+    "+weight.font": 146,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 239,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 206
+  },
+  "axe": {
+    "passes": 1015,
+    "violations": 0
+  }
+}

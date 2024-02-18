@@ -1,0 +1,67 @@
+{
+  "url": "https://sonomacounty.ca.gov/",
+  "requestedUrl": "https://sonomacounty.ca.gov/",
+  "timestamp": 1708193218259,
+  "ranks": {
+    "hundos": 71,
+    "performance": 108,
+    "accessibility": 28,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.97,
+    "total": 349
+  },
+  "firstContentfulPaint": 2538.825,
+  "firstMeaningfulPaint": 2538.825,
+  "speedIndex": 4478.441799213082,
+  "largestContentfulPaint": 5773.238,
+  "totalBlockingTime": 37.5,
+  "cumulativeLayoutShift": 0.20498019935605283,
+  "timeToInteractive": 7490.6405,
+  "maxPotentialFirstInputDelay": 79,
+  "timeToFirstByte": 1210.1080000000002,
+  "weight": {
+    "summary": "54 requests • 1.7 MiB",
+    "total": 1772547,
+    "image": 788534,
+    "imageCount": 15,
+    "script": 577212,
+    "scriptCount": 16,
+    "document": 17461,
+    "font": 195926,
+    "fontCount": 8,
+    "stylesheet": 59089,
+    "stylesheetCount": 5,
+    "thirdParty": 875637,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 120,
+    "+weight.total": 303,
+    "-weight.document": 77,
+    "+weight.document": 342,
+    "-weight.script": 126,
+    "+weight.script": 294,
+    "-weight.image": 187,
+    "+weight.image": 230,
+    "-weight.font": 189,
+    "+weight.font": 162,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 398,
+    "-totalBlockingTime": 63,
+    "-largestContentfulPaint": 92
+  },
+  "axe": {
+    "passes": 753,
+    "violations": 1
+  }
+}

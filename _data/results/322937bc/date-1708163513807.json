@@ -1,0 +1,67 @@
+{
+  "url": "https://cvmc.ca.gov/",
+  "requestedUrl": "https://cvmc.ca.gov/",
+  "timestamp": 1708175677771,
+  "ranks": {
+    "hundos": 255,
+    "performance": 299,
+    "accessibility": 358,
+    "cumulative": 256
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.43,
+    "accessibility": 0.82,
+    "bestPractices": 0.89,
+    "seo": 0.92,
+    "total": 306
+  },
+  "firstContentfulPaint": 5467.854500000001,
+  "firstMeaningfulPaint": 8522.405,
+  "speedIndex": 6671.483012742434,
+  "largestContentfulPaint": 11111.912,
+  "totalBlockingTime": 5,
+  "cumulativeLayoutShift": 0.3307959650963098,
+  "timeToInteractive": 9428.324,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 226.07799999999997,
+  "weight": {
+    "summary": "48 requests • 2.0 MiB",
+    "total": 2066770,
+    "image": 324636,
+    "imageCount": 16,
+    "script": 970813,
+    "scriptCount": 13,
+    "document": 35094,
+    "font": 110025,
+    "fontCount": 3,
+    "stylesheet": 625318,
+    "stylesheetCount": 10,
+    "thirdParty": 385133,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 152,
+    "+weight.total": 271,
+    "-weight.document": 205,
+    "+weight.document": 214,
+    "-weight.script": 247,
+    "+weight.script": 173,
+    "-weight.image": 89,
+    "+weight.image": 328,
+    "-weight.font": 99,
+    "+weight.font": 252,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 259,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 208
+  },
+  "axe": {
+    "passes": 359,
+    "violations": 6
+  }
+}

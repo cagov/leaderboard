@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calhfa.ca.gov/",
+  "requestedUrl": "https://calhfa.ca.gov/",
+  "timestamp": 1708251661551,
+  "ranks": {
+    "hundos": 287,
+    "performance": 64,
+    "accessibility": 288,
+    "cumulative": 289
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.73,
+    "accessibility": 0.88,
+    "bestPractices": 0.7,
+    "seo": 0.69,
+    "total": 300
+  },
+  "firstContentfulPaint": 1570.7955000000002,
+  "firstMeaningfulPaint": 3285.076,
+  "speedIndex": 3774.361158102052,
+  "largestContentfulPaint": 7989.733,
+  "totalBlockingTime": 31.5,
+  "cumulativeLayoutShift": 0.00806735745519089,
+  "timeToInteractive": 3706.7955,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 6.624000000000002,
+  "weight": {
+    "summary": "60 requests • 8.8 MiB",
+    "total": 9199619,
+    "image": 8675008,
+    "imageCount": 31,
+    "script": 322844,
+    "scriptCount": 15,
+    "document": 119330,
+    "font": 18133,
+    "fontCount": 1,
+    "stylesheet": 63358,
+    "stylesheetCount": 9,
+    "thirdParty": 333563,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 380,
+    "+weight.total": 45,
+    "-weight.document": 355,
+    "+weight.document": 64,
+    "-weight.script": 67,
+    "+weight.script": 354,
+    "-weight.image": 394,
+    "+weight.image": 24,
+    "-weight.font": 3,
+    "+weight.font": 354,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 53,
+    "-largestContentfulPaint": 100
+  },
+  "axe": {
+    "passes": 998,
+    "violations": 13
+  }
+}

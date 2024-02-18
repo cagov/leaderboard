@@ -1,0 +1,67 @@
+{
+  "url": "https://calguard.ca.gov/",
+  "requestedUrl": "https://calguard.ca.gov/",
+  "timestamp": 1708251607631,
+  "ranks": {
+    "hundos": 149,
+    "performance": 325,
+    "accessibility": 53,
+    "cumulative": 146
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 333
+  },
+  "firstContentfulPaint": 2276.45,
+  "firstMeaningfulPaint": 4226.45,
+  "speedIndex": 8789.880584564045,
+  "largestContentfulPaint": 16843.547999999995,
+  "totalBlockingTime": 66.49999999999909,
+  "cumulativeLayoutShift": 0.7670133093107783,
+  "timeToInteractive": 13370.949999999997,
+  "maxPotentialFirstInputDelay": 99.99999999999909,
+  "timeToFirstByte": 587.3910000000001,
+  "weight": {
+    "summary": "80 requests • 3.1 MiB",
+    "total": 3270678,
+    "image": 1769184,
+    "imageCount": 19,
+    "script": 869431,
+    "scriptCount": 24,
+    "document": 34761,
+    "font": 406232,
+    "fontCount": 7,
+    "stylesheet": 190218,
+    "stylesheetCount": 22,
+    "thirdParty": 796017,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 257,
+    "+weight.total": 168,
+    "-weight.document": 195,
+    "+weight.document": 224,
+    "-weight.script": 196,
+    "+weight.script": 225,
+    "-weight.image": 272,
+    "+weight.image": 146,
+    "-weight.font": 289,
+    "+weight.font": 68,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 339,
+    "-totalBlockingTime": 97,
+    "-largestContentfulPaint": 330
+  },
+  "axe": {
+    "passes": 806,
+    "violations": 3
+  }
+}

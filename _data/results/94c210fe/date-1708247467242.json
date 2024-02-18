@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sos.ca.gov/elections/",
+  "requestedUrl": "https://vote.ca.gov/",
+  "timestamp": 1708280811858,
+  "ranks": {
+    "hundos": 54,
+    "performance": 31,
+    "accessibility": 25,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 353
+  },
+  "firstContentfulPaint": 2094.866,
+  "firstMeaningfulPaint": 2094.866,
+  "speedIndex": 4171.919941111073,
+  "largestContentfulPaint": 3400.653000000001,
+  "totalBlockingTime": 39,
+  "cumulativeLayoutShift": 0.0005067018885875927,
+  "timeToInteractive": 7969.447000000001,
+  "maxPotentialFirstInputDelay": 66,
+  "timeToFirstByte": 52.410999999999994,
+  "weight": {
+    "summary": "45 requests • 1.2 MiB",
+    "total": 1301376,
+    "image": 188982,
+    "imageCount": 19,
+    "script": 950202,
+    "scriptCount": 13,
+    "document": 15581,
+    "font": 77371,
+    "fontCount": 1,
+    "stylesheet": 67937,
+    "stylesheetCount": 8,
+    "thirdParty": 322595,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 73,
+    "+weight.total": 352,
+    "-weight.document": 70,
+    "+weight.document": 349,
+    "-weight.script": 231,
+    "+weight.script": 190,
+    "-weight.image": 54,
+    "+weight.image": 364,
+    "-weight.font": 57,
+    "+weight.font": 300,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 129,
+    "-totalBlockingTime": 62,
+    "-largestContentfulPaint": 30
+  },
+  "axe": {
+    "passes": 1128,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://bawa.ca.gov/",
+  "requestedUrl": "https://bawa.ca.gov/",
+  "timestamp": 1708164958041,
+  "ranks": {
+    "hundos": 98,
+    "performance": 45,
+    "accessibility": 342,
+    "cumulative": 95
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.78,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 0.82,
+    "total": 344
+  },
+  "firstContentfulPaint": 2700.87,
+  "firstMeaningfulPaint": 3000.87,
+  "speedIndex": 2700.87,
+  "largestContentfulPaint": 4808.87,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.009381911562474114,
+  "timeToInteractive": 3000.87,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 416.967,
+  "weight": {
+    "summary": "19 requests • 791.7 KiB",
+    "total": 810687,
+    "image": 352097,
+    "imageCount": 4,
+    "script": 127434,
+    "scriptCount": 4,
+    "document": 27342,
+    "font": 65515,
+    "fontCount": 4,
+    "stylesheet": 238299,
+    "stylesheetCount": 5,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 42,
+    "+weight.total": 381,
+    "-weight.document": 136,
+    "+weight.document": 283,
+    "-weight.script": 21,
+    "+weight.script": 399,
+    "-weight.image": 94,
+    "+weight.image": 323,
+    "-weight.font": 45,
+    "+weight.font": 306,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 318,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 65
+  },
+  "axe": {
+    "passes": 148,
+    "violations": 5
+  }
+}

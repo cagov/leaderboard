@@ -1,0 +1,67 @@
+{
+  "url": "https://meganslaw.ca.gov/Mobile/Default.aspx",
+  "requestedUrl": "https://meganslaw.ca.gov/",
+  "timestamp": 1708269547296,
+  "ranks": {
+    "hundos": 142,
+    "performance": 54,
+    "accessibility": 375,
+    "cumulative": 142
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.75,
+    "accessibility": 0.81,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 335
+  },
+  "firstContentfulPaint": 3937.157,
+  "firstMeaningfulPaint": 3978.157,
+  "speedIndex": 3937.157,
+  "largestContentfulPaint": 4434.168,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4072.657,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 49.788000000000004,
+  "weight": {
+    "summary": "15 requests • 570.5 KiB",
+    "total": 584237,
+    "image": 67083,
+    "imageCount": 9,
+    "script": 296831,
+    "scriptCount": 2,
+    "document": 10757,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 209127,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 25,
+    "+weight.total": 400,
+    "-weight.document": 44,
+    "+weight.document": 375,
+    "-weight.script": 59,
+    "+weight.script": 362,
+    "-weight.image": 24,
+    "+weight.image": 394,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 126,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 188
+  },
+  "axe": {
+    "passes": 514,
+    "violations": 37
+  }
+}

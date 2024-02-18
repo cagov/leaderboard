@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cde.ca.gov/",
+  "requestedUrl": "https://cde.ca.gov/",
+  "timestamp": 1708170367535,
+  "ranks": {
+    "hundos": 258,
+    "performance": 141,
+    "accessibility": 7,
+    "cumulative": 255
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 1,
+    "bestPractices": 0.52,
+    "seo": 0.95,
+    "total": 306
+  },
+  "firstContentfulPaint": 6432.616,
+  "firstMeaningfulPaint": 6432.616,
+  "speedIndex": 6432.616,
+  "largestContentfulPaint": 6709.566999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.08613432571029607,
+  "timeToInteractive": 6432.616,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 207.61399999999998,
+  "weight": {
+    "summary": "49 requests • 1.7 MiB",
+    "total": 1741472,
+    "image": 1234326,
+    "imageCount": 17,
+    "script": 242408,
+    "scriptCount": 18,
+    "document": 66334,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 197339,
+    "stylesheetCount": 10,
+    "thirdParty": 19564,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 117,
+    "+weight.total": 306,
+    "-weight.document": 318,
+    "+weight.document": 101,
+    "-weight.script": 43,
+    "+weight.script": 377,
+    "-weight.image": 238,
+    "+weight.image": 179,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 257,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 115
+  },
+  "axe": {
+    "passes": 803,
+    "violations": 0
+  }
+}

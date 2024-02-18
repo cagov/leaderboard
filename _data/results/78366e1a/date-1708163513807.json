@@ -1,0 +1,67 @@
+{
+  "url": "https://csm.ca.gov/",
+  "requestedUrl": "https://csm.ca.gov/",
+  "timestamp": 1708175350808,
+  "ranks": {
+    "hundos": 161,
+    "performance": 167,
+    "accessibility": 359,
+    "cumulative": 162
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.82,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 329
+  },
+  "firstContentfulPaint": 9361.107999999998,
+  "firstMeaningfulPaint": 9365.107999999998,
+  "speedIndex": 9361.107999999998,
+  "largestContentfulPaint": 12646.561999999998,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11039.759999999998,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 28.216000000000008,
+  "weight": {
+    "summary": "25 requests • 1.9 MiB",
+    "total": 1988461,
+    "image": 504642,
+    "imageCount": 6,
+    "script": 669173,
+    "scriptCount": 5,
+    "document": 31938,
+    "font": 187285,
+    "fontCount": 5,
+    "stylesheet": 594473,
+    "stylesheetCount": 4,
+    "thirdParty": 114688,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 143,
+    "+weight.total": 280,
+    "-weight.document": 172,
+    "+weight.document": 247,
+    "-weight.script": 150,
+    "+weight.script": 270,
+    "-weight.image": 128,
+    "+weight.image": 289,
+    "-weight.font": 185,
+    "+weight.font": 166,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 73,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 239
+  },
+  "axe": {
+    "passes": 407,
+    "violations": 10
+  }
+}

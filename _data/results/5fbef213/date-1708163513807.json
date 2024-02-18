@@ -1,0 +1,67 @@
+{
+  "url": "https://www.santaclaracounty.gov/home",
+  "requestedUrl": "https://countyofsantaclara.ca.gov/",
+  "timestamp": 1708174170333,
+  "ranks": {
+    "hundos": 137,
+    "performance": 159,
+    "accessibility": 46,
+    "cumulative": 137
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.57,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 335
+  },
+  "firstContentfulPaint": 4005.493,
+  "firstMeaningfulPaint": 4005.493,
+  "speedIndex": 9412.873616254808,
+  "largestContentfulPaint": 4905.493,
+  "totalBlockingTime": 61,
+  "cumulativeLayoutShift": 0.18703710148631073,
+  "timeToInteractive": 17282.493000000002,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 28.311,
+  "weight": {
+    "summary": "41 requests • 2.6 MiB",
+    "total": 2702115,
+    "image": 263054,
+    "imageCount": 11,
+    "script": 1008380,
+    "scriptCount": 10,
+    "document": 22223,
+    "font": 1237986,
+    "fontCount": 4,
+    "stylesheet": 149433,
+    "stylesheetCount": 5,
+    "thirdParty": 60890,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 215,
+    "+weight.total": 208,
+    "-weight.document": 110,
+    "+weight.document": 309,
+    "-weight.script": 261,
+    "+weight.script": 159,
+    "-weight.image": 73,
+    "+weight.image": 344,
+    "-weight.font": 349,
+    "+weight.font": 2,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 74,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 68
+  },
+  "axe": {
+    "passes": 132,
+    "violations": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cfcc.ca.gov/",
+  "requestedUrl": "https://cfcc.ca.gov/",
+  "timestamp": 1708255033900,
+  "ranks": {
+    "hundos": 174,
+    "performance": 135,
+    "accessibility": 353,
+    "cumulative": 174
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.6,
+    "accessibility": 0.83,
+    "bestPractices": 0.89,
+    "seo": 0.93,
+    "total": 325
+  },
+  "firstContentfulPaint": 2778.746,
+  "firstMeaningfulPaint": 4123.693,
+  "speedIndex": 4404.1328034216185,
+  "largestContentfulPaint": 5225.767,
+  "totalBlockingTime": 8.5,
+  "cumulativeLayoutShift": 0.27755478689086105,
+  "timeToInteractive": 5252.267000000001,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 56.868,
+  "weight": {
+    "summary": "64 requests • 1.3 MiB",
+    "total": 1360332,
+    "image": 144761,
+    "imageCount": 15,
+    "script": 796714,
+    "scriptCount": 23,
+    "document": 26537,
+    "font": 220548,
+    "fontCount": 3,
+    "stylesheet": 167602,
+    "stylesheetCount": 17,
+    "thirdParty": 636994,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 84,
+    "+weight.total": 341,
+    "-weight.document": 129,
+    "+weight.document": 290,
+    "-weight.script": 176,
+    "+weight.script": 245,
+    "-weight.image": 47,
+    "+weight.image": 371,
+    "-weight.font": 207,
+    "+weight.font": 150,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 136,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 194
+  },
+  "axe": {
+    "passes": 646,
+    "violations": 7
+  }
+}

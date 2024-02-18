@@ -1,0 +1,67 @@
+{
+  "url": "https://auditor.ca.gov/",
+  "requestedUrl": "https://auditor.ca.gov/",
+  "timestamp": 1708248771151,
+  "ranks": {
+    "hundos": 169,
+    "performance": 35,
+    "accessibility": 15,
+    "cumulative": 169
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.85,
+    "accessibility": 1,
+    "bestPractices": 0.52,
+    "seo": 0.89,
+    "total": 326
+  },
+  "firstContentfulPaint": 1130.6000000000001,
+  "firstMeaningfulPaint": 5780.08,
+  "speedIndex": 1130.6000000000001,
+  "largestContentfulPaint": 4270.9400000000005,
+  "totalBlockingTime": 64,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6959.334000000001,
+  "maxPotentialFirstInputDelay": 148,
+  "timeToFirstByte": 11.39,
+  "weight": {
+    "summary": "39 requests • 1.7 MiB",
+    "total": 1779711,
+    "image": 597598,
+    "imageCount": 21,
+    "script": 262931,
+    "scriptCount": 6,
+    "document": 23082,
+    "font": 831329,
+    "fontCount": 6,
+    "stylesheet": 63712,
+    "stylesheetCount": 2,
+    "thirdParty": 382116,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 124,
+    "+weight.total": 301,
+    "-weight.document": 111,
+    "+weight.document": 308,
+    "-weight.script": 49,
+    "+weight.script": 372,
+    "-weight.image": 152,
+    "+weight.image": 266,
+    "-weight.font": 345,
+    "+weight.font": 12,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 39
+  },
+  "axe": {
+    "passes": 398,
+    "violations": 0
+  }
+}

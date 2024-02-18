@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bscc.ca.gov/",
+  "requestedUrl": "https://bscc.ca.gov/",
+  "timestamp": 1708166055777,
+  "ranks": {
+    "hundos": 331,
+    "performance": 344,
+    "accessibility": 134,
+    "cumulative": 332
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.96,
+    "bestPractices": 0.52,
+    "seo": 0.99,
+    "total": 285
+  },
+  "firstContentfulPaint": 5525.451399999998,
+  "firstMeaningfulPaint": 5525.451399999998,
+  "speedIndex": 8132.2557445758575,
+  "largestContentfulPaint": 5525.4514,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 1.021424675012374,
+  "timeToInteractive": 5525.451399999998,
+  "maxPotentialFirstInputDelay": 41,
+  "timeToFirstByte": 77.862,
+  "weight": {
+    "summary": "78 requests • 1.4 MiB",
+    "total": 1499974,
+    "image": 491894,
+    "imageCount": 11,
+    "script": 488502,
+    "scriptCount": 28,
+    "document": 17959,
+    "font": 270883,
+    "fontCount": 3,
+    "stylesheet": 229833,
+    "stylesheetCount": 30,
+    "thirdParty": 291670,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 98,
+    "+weight.total": 325,
+    "-weight.document": 79,
+    "+weight.document": 340,
+    "-weight.script": 106,
+    "+weight.script": 314,
+    "-weight.image": 124,
+    "+weight.image": 293,
+    "-weight.font": 228,
+    "+weight.font": 123,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 168,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 84
+  },
+  "axe": {
+    "passes": 1004,
+    "violations": 3
+  }
+}

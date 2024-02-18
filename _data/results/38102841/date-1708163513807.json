@@ -1,0 +1,67 @@
+{
+  "url": "https://saferatwork.covid19.ca.gov/",
+  "requestedUrl": "https://saferatwork.ca.gov/",
+  "timestamp": 1708190615585,
+  "ranks": {
+    "hundos": 240,
+    "performance": 355,
+    "accessibility": 179,
+    "cumulative": 237
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 310
+  },
+  "firstContentfulPaint": 3146.173,
+  "firstMeaningfulPaint": 3146.173,
+  "speedIndex": 8764.94432523982,
+  "largestContentfulPaint": 13871.173,
+  "totalBlockingTime": 88.5,
+  "cumulativeLayoutShift": 0.8640690475272683,
+  "timeToInteractive": 12731.173,
+  "maxPotentialFirstInputDelay": 110,
+  "timeToFirstByte": 704.187,
+  "weight": {
+    "summary": "81 requests • 2.1 MiB",
+    "total": 2173833,
+    "image": 503538,
+    "imageCount": 16,
+    "script": 920266,
+    "scriptCount": 24,
+    "document": 28505,
+    "font": 520288,
+    "fontCount": 11,
+    "stylesheet": 200119,
+    "stylesheetCount": 20,
+    "thirdParty": 971054,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 160,
+    "+weight.total": 263,
+    "-weight.document": 140,
+    "+weight.document": 279,
+    "-weight.script": 215,
+    "+weight.script": 205,
+    "-weight.image": 127,
+    "+weight.image": 290,
+    "-weight.font": 299,
+    "+weight.font": 52,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 364,
+    "-totalBlockingTime": 128,
+    "-largestContentfulPaint": 255
+  },
+  "axe": {
+    "passes": 692,
+    "violations": 5
+  }
+}

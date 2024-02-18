@@ -1,0 +1,67 @@
+{
+  "url": "https://calcivilrights.ca.gov/",
+  "requestedUrl": "https://dfeh.ca.gov/",
+  "timestamp": 1708176675894,
+  "ranks": {
+    "hundos": 407,
+    "performance": 382,
+    "accessibility": 221,
+    "cumulative": 408
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.34,
+    "accessibility": 0.92,
+    "bestPractices": 0.33,
+    "seo": 0.93,
+    "total": 252
+  },
+  "firstContentfulPaint": 3746.4129999999996,
+  "firstMeaningfulPaint": 3746.4129999999996,
+  "speedIndex": 37047.40221016102,
+  "largestContentfulPaint": 10946.413,
+  "totalBlockingTime": 159,
+  "cumulativeLayoutShift": 0.5967550123029656,
+  "timeToInteractive": 69998.17199999999,
+  "maxPotentialFirstInputDelay": 263,
+  "timeToFirstByte": 65.60099999999998,
+  "weight": {
+    "summary": "259 requests • 24.4 MiB",
+    "total": 25550576,
+    "image": 21508696,
+    "imageCount": 61,
+    "script": 2165080,
+    "scriptCount": 94,
+    "document": 92115,
+    "font": 488613,
+    "fontCount": 2,
+    "stylesheet": 443084,
+    "stylesheetCount": 57,
+    "thirdParty": 5252786,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 413,
+    "+weight.total": 10,
+    "-weight.document": 344,
+    "+weight.document": 75,
+    "-weight.script": 387,
+    "+weight.script": 33,
+    "-weight.image": 409,
+    "+weight.image": 8,
+    "-weight.font": 296,
+    "+weight.font": 55,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 148,
+    "-totalBlockingTime": 165,
+    "-largestContentfulPaint": 206
+  },
+  "axe": {
+    "passes": 1826,
+    "violations": 34
+  }
+}

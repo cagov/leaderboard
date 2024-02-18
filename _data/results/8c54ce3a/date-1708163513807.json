@@ -1,0 +1,67 @@
+{
+  "url": "https://csb-cde.ca.gov/",
+  "requestedUrl": "https://csb-cde.ca.gov/",
+  "timestamp": 1708174910067,
+  "ranks": {
+    "hundos": 61,
+    "performance": 83,
+    "accessibility": 8,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 351
+  },
+  "firstContentfulPaint": 3075.0119999999997,
+  "firstMeaningfulPaint": 3075.0119999999997,
+  "speedIndex": 5277.328998042683,
+  "largestContentfulPaint": 6358.982999999998,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0.06918122722681398,
+  "timeToInteractive": 5937.539,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 409.95099999999996,
+  "weight": {
+    "summary": "52 requests • 1.1 MiB",
+    "total": 1169623,
+    "image": 500501,
+    "imageCount": 22,
+    "script": 607618,
+    "scriptCount": 17,
+    "document": 13728,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 47477,
+    "stylesheetCount": 9,
+    "thirdParty": 622460,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 63,
+    "+weight.total": 360,
+    "-weight.document": 62,
+    "+weight.document": 357,
+    "-weight.script": 133,
+    "+weight.script": 287,
+    "-weight.image": 125,
+    "+weight.image": 292,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 314,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 106
+  },
+  "axe": {
+    "passes": 740,
+    "violations": 0
+  }
+}

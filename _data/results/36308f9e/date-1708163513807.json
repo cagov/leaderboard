@@ -1,0 +1,67 @@
+{
+  "url": "https://selfhelp.courts.ca.gov/es",
+  "requestedUrl": "https://sucorte.ca.gov/",
+  "timestamp": 1708194069292,
+  "ranks": {
+    "hundos": 89,
+    "performance": 125,
+    "accessibility": 137,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.61,
+    "accessibility": 0.96,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 345
+  },
+  "firstContentfulPaint": 3203.3504999999996,
+  "firstMeaningfulPaint": 3203.3504999999996,
+  "speedIndex": 4227.621186959651,
+  "largestContentfulPaint": 10014.132500000005,
+  "totalBlockingTime": 275.5,
+  "cumulativeLayoutShift": 0.00017974658225992682,
+  "timeToInteractive": 12589.707000000006,
+  "maxPotentialFirstInputDelay": 304,
+  "timeToFirstByte": 73.56,
+  "weight": {
+    "summary": "28 requests • 1.8 MiB",
+    "total": 1838282,
+    "image": 254518,
+    "imageCount": 5,
+    "script": 1302439,
+    "scriptCount": 10,
+    "document": 45184,
+    "font": 81589,
+    "fontCount": 4,
+    "stylesheet": 153703,
+    "stylesheetCount": 3,
+    "thirdParty": 316700,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 130,
+    "+weight.total": 293,
+    "-weight.document": 267,
+    "+weight.document": 152,
+    "-weight.script": 308,
+    "+weight.script": 112,
+    "-weight.image": 69,
+    "+weight.image": 348,
+    "-weight.font": 66,
+    "+weight.font": 285,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 160,
+    "-totalBlockingTime": 205,
+    "-largestContentfulPaint": 321
+  },
+  "axe": {
+    "passes": 776,
+    "violations": 5
+  }
+}

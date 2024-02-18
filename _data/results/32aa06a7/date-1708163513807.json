@@ -1,0 +1,67 @@
+{
+  "url": "https://dtsc.ca.gov/",
+  "requestedUrl": "https://dtsc.ca.gov/",
+  "timestamp": 1708178078562,
+  "ranks": {
+    "hundos": 332,
+    "performance": 385,
+    "accessibility": 38,
+    "cumulative": 331
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.33,
+    "accessibility": 1,
+    "bestPractices": 0.56,
+    "seo": 0.96,
+    "total": 285
+  },
+  "firstContentfulPaint": 3140.8235000000004,
+  "firstMeaningfulPaint": 4493.713,
+  "speedIndex": 11447.26563238983,
+  "largestContentfulPaint": 19026.0055,
+  "totalBlockingTime": 181,
+  "cumulativeLayoutShift": 0.9253462182356251,
+  "timeToInteractive": 26578.0985,
+  "maxPotentialFirstInputDelay": 175,
+  "timeToFirstByte": 113.857,
+  "weight": {
+    "summary": "203 requests • 4.6 MiB",
+    "total": 4853170,
+    "image": 1570630,
+    "imageCount": 33,
+    "script": 2086662,
+    "scriptCount": 94,
+    "document": 81248,
+    "font": 701070,
+    "fontCount": 9,
+    "stylesheet": 414429,
+    "stylesheetCount": 48,
+    "thirdParty": 2923101,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 309,
+    "+weight.total": 114,
+    "-weight.document": 339,
+    "+weight.document": 80,
+    "-weight.script": 383,
+    "+weight.script": 37,
+    "-weight.image": 259,
+    "+weight.image": 158,
+    "-weight.font": 334,
+    "+weight.font": 17,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 223,
+    "-totalBlockingTime": 172,
+    "-largestContentfulPaint": 303
+  },
+  "axe": {
+    "passes": 1478,
+    "violations": 2
+  }
+}

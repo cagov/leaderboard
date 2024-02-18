@@ -1,0 +1,67 @@
+{
+  "url": "https://victims.ca.gov/",
+  "requestedUrl": "https://victims.ca.gov/",
+  "timestamp": 1708196694599,
+  "ranks": {
+    "hundos": 22,
+    "performance": 67,
+    "accessibility": 44,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.71,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 2584.8115000000003,
+  "firstMeaningfulPaint": 2584.8115000000003,
+  "speedIndex": 2999.3770415901413,
+  "largestContentfulPaint": 12150.698500000002,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3031.428,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 429.157,
+  "weight": {
+    "summary": "35 requests • 2.4 MiB",
+    "total": 2553642,
+    "image": 1769011,
+    "imageCount": 19,
+    "script": 463967,
+    "scriptCount": 10,
+    "document": 67075,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 253336,
+    "stylesheetCount": 4,
+    "thirdParty": 355461,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 199,
+    "+weight.total": 224,
+    "-weight.document": 319,
+    "+weight.document": 100,
+    "-weight.script": 100,
+    "+weight.script": 320,
+    "-weight.image": 273,
+    "+weight.image": 144,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 321,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 232
+  },
+  "axe": {
+    "passes": 331,
+    "violations": 2
+  }
+}

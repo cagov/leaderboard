@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Covid19Vaccines.aspx",
+  "requestedUrl": "https://vaccinateall58.ca.gov/",
+  "timestamp": 1708196525683,
+  "ranks": {
+    "hundos": 348,
+    "performance": 375,
+    "accessibility": 187,
+    "cumulative": 347
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.35,
+    "accessibility": 0.94,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 282
+  },
+  "firstContentfulPaint": 9843.4415,
+  "firstMeaningfulPaint": 11115.2435,
+  "speedIndex": 18121.269259161476,
+  "largestContentfulPaint": 20168.147999999994,
+  "totalBlockingTime": 125.49999999999909,
+  "cumulativeLayoutShift": 0.4157972862121887,
+  "timeToInteractive": 22369.0455,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 3924.107,
+  "weight": {
+    "summary": "146 requests • 4.0 MiB",
+    "total": 4212580,
+    "image": 2175795,
+    "imageCount": 31,
+    "script": 1541119,
+    "scriptCount": 64,
+    "document": 162606,
+    "font": 117049,
+    "fontCount": 4,
+    "stylesheet": 158088,
+    "stylesheetCount": 16,
+    "thirdParty": 678598,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 295,
+    "+weight.total": 128,
+    "-weight.document": 380,
+    "+weight.document": 39,
+    "-weight.script": 331,
+    "+weight.script": 89,
+    "-weight.image": 295,
+    "+weight.image": 122,
+    "-weight.font": 112,
+    "+weight.font": 239,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 419,
+    "-totalBlockingTime": 153,
+    "-largestContentfulPaint": 306
+  },
+  "axe": {
+    "passes": 790,
+    "violations": 19
+  }
+}

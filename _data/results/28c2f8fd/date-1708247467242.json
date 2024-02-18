@@ -1,0 +1,67 @@
+{
+  "url": "https://mtc.ca.gov/",
+  "requestedUrl": "https://mtc.ca.gov/",
+  "timestamp": 1708270378953,
+  "ranks": {
+    "hundos": 175,
+    "performance": 110,
+    "accessibility": 165,
+    "cumulative": 176
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 0.95,
+    "bestPractices": 0.78,
+    "seo": 0.89,
+    "total": 325
+  },
+  "firstContentfulPaint": 1968.8584999999998,
+  "firstMeaningfulPaint": 1968.8584999999998,
+  "speedIndex": 4299.913564061729,
+  "largestContentfulPaint": 3966.3030000000012,
+  "totalBlockingTime": 48.5,
+  "cumulativeLayoutShift": 0.4896719319562576,
+  "timeToInteractive": 8924.333000000002,
+  "maxPotentialFirstInputDelay": 90,
+  "timeToFirstByte": 43.120000000000005,
+  "weight": {
+    "summary": "53 requests • 1.7 MiB",
+    "total": 1834930,
+    "image": 617466,
+    "imageCount": 23,
+    "script": 315032,
+    "scriptCount": 6,
+    "document": 21379,
+    "font": 747038,
+    "fontCount": 13,
+    "stylesheet": 101645,
+    "stylesheetCount": 3,
+    "thirdParty": 247857,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 129,
+    "+weight.total": 296,
+    "-weight.document": 104,
+    "+weight.document": 315,
+    "-weight.script": 65,
+    "+weight.script": 356,
+    "-weight.image": 162,
+    "+weight.image": 256,
+    "-weight.font": 341,
+    "+weight.font": 16,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 122,
+    "-totalBlockingTime": 74,
+    "-largestContentfulPaint": 36
+  },
+  "axe": {
+    "passes": 1311,
+    "violations": 11
+  }
+}

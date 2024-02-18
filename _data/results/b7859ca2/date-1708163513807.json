@@ -1,0 +1,67 @@
+{
+  "url": "https://abag.ca.gov/",
+  "requestedUrl": "https://abag.ca.gov/",
+  "timestamp": 1708163618878,
+  "ranks": {
+    "hundos": 225,
+    "performance": 199,
+    "accessibility": 236,
+    "cumulative": 225
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.53,
+    "accessibility": 0.91,
+    "bestPractices": 0.78,
+    "seo": 0.91,
+    "total": 313
+  },
+  "firstContentfulPaint": 2758.157,
+  "firstMeaningfulPaint": 4918.6495,
+  "speedIndex": 3875.27894474936,
+  "largestContentfulPaint": 7622.3910000000005,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0.3313693086193023,
+  "timeToInteractive": 4918.6495,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 12.649000000000001,
+  "weight": {
+    "summary": "29 requests • 1.3 MiB",
+    "total": 1346106,
+    "image": 645658,
+    "imageCount": 11,
+    "script": 276026,
+    "scriptCount": 4,
+    "document": 15872,
+    "font": 323156,
+    "fontCount": 4,
+    "stylesheet": 85174,
+    "stylesheetCount": 7,
+    "thirdParty": 247547,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 80,
+    "+weight.total": 343,
+    "-weight.document": 72,
+    "+weight.document": 347,
+    "-weight.script": 54,
+    "+weight.script": 366,
+    "-weight.image": 165,
+    "+weight.image": 252,
+    "-weight.font": 254,
+    "+weight.font": 97,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 137
+  },
+  "axe": {
+    "passes": 1147,
+    "violations": 11
+  }
+}

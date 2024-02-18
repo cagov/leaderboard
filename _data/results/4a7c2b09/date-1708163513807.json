@@ -1,0 +1,67 @@
+{
+  "url": "https://ccoa.ca.gov/",
+  "requestedUrl": "https://ccoa.ca.gov/",
+  "timestamp": 1708170115720,
+  "ranks": {
+    "hundos": 130,
+    "performance": 130,
+    "accessibility": 162,
+    "cumulative": 132
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.6,
+    "accessibility": 0.95,
+    "bestPractices": 0.89,
+    "seo": 0.92,
+    "total": 336
+  },
+  "firstContentfulPaint": 1805.9465,
+  "firstMeaningfulPaint": 1805.9465,
+  "speedIndex": 2597.6678155422733,
+  "largestContentfulPaint": 5500.6125,
+  "totalBlockingTime": 37.500000000000455,
+  "cumulativeLayoutShift": 0.3723354064716503,
+  "timeToInteractive": 6289.9475,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 42.18300000000001,
+  "weight": {
+    "summary": "39 requests • 1,003.4 KiB",
+    "total": 1027499,
+    "image": 418290,
+    "imageCount": 14,
+    "script": 474464,
+    "scriptCount": 12,
+    "document": 10657,
+    "font": 63976,
+    "fontCount": 1,
+    "stylesheet": 59790,
+    "stylesheetCount": 8,
+    "thirdParty": 462236,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 53,
+    "+weight.total": 370,
+    "-weight.document": 41,
+    "+weight.document": 378,
+    "-weight.script": 104,
+    "+weight.script": 316,
+    "-weight.image": 112,
+    "+weight.image": 305,
+    "-weight.font": 37,
+    "+weight.font": 314,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 115,
+    "-totalBlockingTime": 64,
+    "-largestContentfulPaint": 83
+  },
+  "axe": {
+    "passes": 426,
+    "violations": 10
+  }
+}

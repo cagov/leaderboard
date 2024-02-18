@@ -1,0 +1,67 @@
+{
+  "url": "https://nmvb.ca.gov/",
+  "requestedUrl": "https://nmvb.ca.gov/",
+  "timestamp": 1708271053951,
+  "ranks": {
+    "hundos": 188,
+    "performance": 251,
+    "accessibility": 237,
+    "cumulative": 190
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 321
+  },
+  "firstContentfulPaint": 2172.213,
+  "firstMeaningfulPaint": 3414.83025,
+  "speedIndex": 4571.518332114328,
+  "largestContentfulPaint": 11163.9705,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.714163052709811,
+  "timeToInteractive": 3414.83025,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 16.917,
+  "weight": {
+    "summary": "36 requests • 1.7 MiB",
+    "total": 1804074,
+    "image": 969353,
+    "imageCount": 8,
+    "script": 644825,
+    "scriptCount": 14,
+    "document": 8693,
+    "font": 79909,
+    "fontCount": 3,
+    "stylesheet": 100081,
+    "stylesheetCount": 4,
+    "thirdParty": 515598,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 127,
+    "+weight.total": 298,
+    "-weight.document": 28,
+    "+weight.document": 391,
+    "-weight.script": 146,
+    "+weight.script": 275,
+    "-weight.image": 213,
+    "+weight.image": 205,
+    "-weight.font": 63,
+    "+weight.font": 294,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 33,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 164
+  },
+  "axe": {
+    "passes": 481,
+    "violations": 13
+  }
+}

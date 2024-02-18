@@ -1,0 +1,67 @@
+{
+  "url": "https://www.paumavalleycsd.ca.gov/",
+  "requestedUrl": "https://paumavalleycsd.ca.gov/",
+  "timestamp": 1708188259559,
+  "ranks": {
+    "hundos": 39,
+    "performance": 99,
+    "accessibility": 204,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 2520.3380000000006,
+  "firstMeaningfulPaint": 2563.8380000000006,
+  "speedIndex": 6690.303095596781,
+  "largestContentfulPaint": 9097.827,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9163.327000000001,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 949.1510000000001,
+  "weight": {
+    "summary": "133 requests • 2.2 MiB",
+    "total": 2260692,
+    "image": 720132,
+    "imageCount": 8,
+    "script": 516341,
+    "scriptCount": 53,
+    "document": 148679,
+    "font": 324094,
+    "fontCount": 9,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1906073,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 169,
+    "+weight.total": 254,
+    "-weight.document": 371,
+    "+weight.document": 48,
+    "-weight.script": 115,
+    "+weight.script": 305,
+    "-weight.image": 176,
+    "+weight.image": 241,
+    "-weight.font": 255,
+    "+weight.font": 96,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 390,
+    "-totalBlockingTime": 67,
+    "-largestContentfulPaint": 172
+  },
+  "axe": {
+    "passes": 929,
+    "violations": 0
+  }
+}

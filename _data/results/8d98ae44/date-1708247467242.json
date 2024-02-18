@@ -1,0 +1,67 @@
+{
+  "url": "https://abcab.ca.gov/",
+  "requestedUrl": "https://abcab.ca.gov/",
+  "timestamp": 1708247619709,
+  "ranks": {
+    "hundos": 292,
+    "performance": 389,
+    "accessibility": 214,
+    "cumulative": 291
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.32,
+    "accessibility": 0.92,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 298
+  },
+  "firstContentfulPaint": 2809.1059999999998,
+  "firstMeaningfulPaint": 3248.6475,
+  "speedIndex": 10556.805563009126,
+  "largestContentfulPaint": 15552.981,
+  "totalBlockingTime": 284.4999999999991,
+  "cumulativeLayoutShift": 0.6843479288065786,
+  "timeToInteractive": 16730.904240087886,
+  "maxPotentialFirstInputDelay": 121.99999999999909,
+  "timeToFirstByte": 756.771,
+  "weight": {
+    "summary": "133 requests • 2.7 MiB",
+    "total": 2808193,
+    "image": 957369,
+    "imageCount": 24,
+    "script": 904931,
+    "scriptCount": 42,
+    "document": 196524,
+    "font": 380895,
+    "fontCount": 13,
+    "stylesheet": 238245,
+    "stylesheetCount": 23,
+    "thirdParty": 1288665,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 224,
+    "+weight.total": 201,
+    "-weight.document": 388,
+    "+weight.document": 31,
+    "-weight.script": 208,
+    "+weight.script": 213,
+    "-weight.image": 212,
+    "+weight.image": 206,
+    "-weight.font": 275,
+    "+weight.font": 82,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 365,
+    "-totalBlockingTime": 196,
+    "-largestContentfulPaint": 318
+  },
+  "axe": {
+    "passes": 856,
+    "violations": 9
+  }
+}

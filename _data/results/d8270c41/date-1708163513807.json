@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sacramento.ca.gov/",
+  "requestedUrl": "https://sacramento.ca.gov/",
+  "timestamp": 1708190541039,
+  "ranks": {
+    "hundos": 62,
+    "performance": 30,
+    "accessibility": 310,
+    "cumulative": 62
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.86,
+    "accessibility": 0.86,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 351
+  },
+  "firstContentfulPaint": 3075.654,
+  "firstMeaningfulPaint": 3343.473,
+  "speedIndex": 3075.654,
+  "largestContentfulPaint": 3343.473,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3343.473,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 17.113,
+  "weight": {
+    "summary": "10 requests • 681.0 KiB",
+    "total": 697313,
+    "image": 601546,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1174,
+    "font": 91198,
+    "fontCount": 3,
+    "stylesheet": 3219,
+    "stylesheetCount": 3,
+    "thirdParty": 92586,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 34,
+    "+weight.total": 389,
+    "-weight.document": 1,
+    "+weight.document": 418,
+    "-weight.script": 1,
+    "+weight.script": 420,
+    "-weight.image": 153,
+    "+weight.image": 264,
+    "-weight.font": 74,
+    "+weight.font": 277,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 36,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 33
+  },
+  "axe": {
+    "passes": 25,
+    "violations": 2
+  }
+}

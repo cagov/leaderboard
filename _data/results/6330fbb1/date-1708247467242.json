@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hcd.ca.gov/",
+  "requestedUrl": "https://hcd.ca.gov/",
+  "timestamp": 1708265688407,
+  "ranks": {
+    "hundos": 279,
+    "performance": 295,
+    "accessibility": 292,
+    "cumulative": 279
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 302
+  },
+  "firstContentfulPaint": 4973.26278,
+  "firstMeaningfulPaint": 4973.26278,
+  "speedIndex": 13791.363508647899,
+  "largestContentfulPaint": 11079.324299999993,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0.23111344041433765,
+  "timeToInteractive": 5886.88954,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 4002.372,
+  "weight": {
+    "summary": "204 requests • 3.1 MiB",
+    "total": 3213065,
+    "image": 1853541,
+    "imageCount": 29,
+    "script": 661236,
+    "scriptCount": 48,
+    "document": 25686,
+    "font": 221879,
+    "fontCount": 5,
+    "stylesheet": 422089,
+    "stylesheetCount": 110,
+    "thirdParty": 455387,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 251,
+    "+weight.total": 174,
+    "-weight.document": 124,
+    "+weight.document": 295,
+    "-weight.script": 147,
+    "+weight.script": 274,
+    "-weight.image": 281,
+    "+weight.image": 137,
+    "-weight.font": 209,
+    "+weight.font": 148,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 419,
+    "-totalBlockingTime": 96,
+    "-largestContentfulPaint": 160
+  },
+  "axe": {
+    "passes": 1100,
+    "violations": 28
+  }
+}

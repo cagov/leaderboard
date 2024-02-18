@@ -1,0 +1,67 @@
+{
+  "url": "https://beacon.ca.gov/",
+  "requestedUrl": "https://beacon.ca.gov/",
+  "timestamp": 1708165165274,
+  "ranks": {
+    "hundos": 153,
+    "performance": 65,
+    "accessibility": 410,
+    "cumulative": 155
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.72,
+    "accessibility": 0.73,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 331
+  },
+  "firstContentfulPaint": 1847.305,
+  "firstMeaningfulPaint": 1847.305,
+  "speedIndex": 4010.025451977204,
+  "largestContentfulPaint": 8442.673,
+  "totalBlockingTime": 12,
+  "cumulativeLayoutShift": 0.014140169623402388,
+  "timeToInteractive": 3975.9890000000005,
+  "maxPotentialFirstInputDelay": 74,
+  "timeToFirstByte": 85.18900000000002,
+  "weight": {
+    "summary": "35 requests • 1.7 MiB",
+    "total": 1788079,
+    "image": 1260135,
+    "imageCount": 7,
+    "script": 172398,
+    "scriptCount": 13,
+    "document": 44313,
+    "font": 273771,
+    "fontCount": 7,
+    "stylesheet": 37462,
+    "stylesheetCount": 7,
+    "thirdParty": 188212,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 123,
+    "+weight.total": 300,
+    "-weight.document": 265,
+    "+weight.document": 154,
+    "-weight.script": 30,
+    "+weight.script": 390,
+    "-weight.image": 240,
+    "+weight.image": 177,
+    "-weight.font": 229,
+    "+weight.font": 122,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 173,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 157
+  },
+  "axe": {
+    "passes": 426,
+    "violations": 32
+  }
+}

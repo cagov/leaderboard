@@ -6,6 +6,7 @@ module.exports = {
     frequency: 1,
   },
   urls: [
+    "https://template.webstandards.ca.gov",
     "https://21stcentury.ca.gov",
     "https://2bearespiratorytherapist.ca.gov",
     "https://33by2020.ca.gov",

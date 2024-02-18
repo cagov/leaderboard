@@ -1,0 +1,67 @@
+{
+  "url": "https://mywaterquality.ca.gov/",
+  "requestedUrl": "https://mywaterquality.ca.gov/",
+  "timestamp": 1708186683226,
+  "ranks": {
+    "hundos": 69,
+    "performance": 14,
+    "accessibility": 132,
+    "cumulative": 69
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.94,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 349
+  },
+  "firstContentfulPaint": 1437.078,
+  "firstMeaningfulPaint": 1910.9295,
+  "speedIndex": 1648.908067841182,
+  "largestContentfulPaint": 3002.892,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1910.9295,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 109.749,
+  "weight": {
+    "summary": "32 requests • 549.6 KiB",
+    "total": 562828,
+    "image": 378167,
+    "imageCount": 15,
+    "script": 127052,
+    "scriptCount": 8,
+    "document": 8311,
+    "font": 24116,
+    "fontCount": 1,
+    "stylesheet": 23907,
+    "stylesheetCount": 3,
+    "thirdParty": 72367,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 21,
+    "+weight.total": 402,
+    "-weight.document": 25,
+    "+weight.document": 394,
+    "-weight.script": 20,
+    "+weight.script": 400,
+    "-weight.image": 101,
+    "+weight.image": 316,
+    "-weight.font": 7,
+    "+weight.font": 344,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 218,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 24
+  },
+  "axe": {
+    "passes": 377,
+    "violations": 1
+  }
+}

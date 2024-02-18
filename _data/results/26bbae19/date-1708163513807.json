@@ -1,0 +1,67 @@
+{
+  "url": "https://bopc.ca.gov/",
+  "requestedUrl": "https://bopc.ca.gov/",
+  "timestamp": 1708165744840,
+  "ranks": {
+    "hundos": 78,
+    "performance": 236,
+    "accessibility": 117,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.5,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 347
+  },
+  "firstContentfulPaint": 3055.0505,
+  "firstMeaningfulPaint": 6539.976499999999,
+  "speedIndex": 5178.443748505591,
+  "largestContentfulPaint": 6539.9765,
+  "totalBlockingTime": 127,
+  "cumulativeLayoutShift": 0.33775446507702006,
+  "timeToInteractive": 8000.050499999999,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 675.835,
+  "weight": {
+    "summary": "55 requests • 1.2 MiB",
+    "total": 1303395,
+    "image": 25446,
+    "imageCount": 6,
+    "script": 765909,
+    "scriptCount": 20,
+    "document": 30386,
+    "font": 288938,
+    "fontCount": 4,
+    "stylesheet": 191870,
+    "stylesheetCount": 17,
+    "thirdParty": 663673,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 73,
+    "+weight.total": 350,
+    "-weight.document": 154,
+    "+weight.document": 265,
+    "-weight.script": 163,
+    "+weight.script": 257,
+    "-weight.image": 8,
+    "+weight.image": 409,
+    "-weight.font": 235,
+    "+weight.font": 116,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 359,
+    "-totalBlockingTime": 155,
+    "-largestContentfulPaint": 109
+  },
+  "axe": {
+    "passes": 377,
+    "violations": 4
+  }
+}

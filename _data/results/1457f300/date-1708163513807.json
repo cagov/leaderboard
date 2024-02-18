@@ -1,0 +1,67 @@
+{
+  "url": "https://dcss.ca.gov/",
+  "requestedUrl": "https://dcss.ca.gov/",
+  "timestamp": 1708176268880,
+  "ranks": {
+    "hundos": 275,
+    "performance": 341,
+    "accessibility": 125,
+    "cumulative": 271
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.39,
+    "accessibility": 0.98,
+    "bestPractices": 0.74,
+    "seo": 0.93,
+    "total": 304
+  },
+  "firstContentfulPaint": 2724.303,
+  "firstMeaningfulPaint": 4824.303,
+  "speedIndex": 9663.674794199582,
+  "largestContentfulPaint": 8124.303,
+  "totalBlockingTime": 189.00000000000045,
+  "cumulativeLayoutShift": 0.47924833177093085,
+  "timeToInteractive": 15458.696445043946,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 733.246,
+  "weight": {
+    "summary": "95 requests • 2.8 MiB",
+    "total": 2985388,
+    "image": 977801,
+    "imageCount": 18,
+    "script": 946149,
+    "scriptCount": 31,
+    "document": 115755,
+    "font": 668533,
+    "fontCount": 11,
+    "stylesheet": 234426,
+    "stylesheetCount": 18,
+    "thirdParty": 1038764,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 239,
+    "+weight.total": 184,
+    "-weight.document": 356,
+    "+weight.document": 63,
+    "-weight.script": 230,
+    "+weight.script": 190,
+    "-weight.image": 213,
+    "+weight.image": 204,
+    "-weight.font": 326,
+    "+weight.font": 25,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 371,
+    "-totalBlockingTime": 176,
+    "-largestContentfulPaint": 146
+  },
+  "axe": {
+    "passes": 563,
+    "violations": 9
+  }
+}

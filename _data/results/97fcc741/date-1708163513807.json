@@ -1,0 +1,67 @@
+{
+  "url": "https://dca.ca.gov/",
+  "requestedUrl": "https://dca.ca.gov/",
+  "timestamp": 1708176091468,
+  "ranks": {
+    "hundos": 287,
+    "performance": 330,
+    "accessibility": 188,
+    "cumulative": 289
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 0.94,
+    "bestPractices": 0.7,
+    "seo": 0.97,
+    "total": 301
+  },
+  "firstContentfulPaint": 4292.470399999999,
+  "firstMeaningfulPaint": 5142.6696999999995,
+  "speedIndex": 12260.52529659629,
+  "largestContentfulPaint": 22667.463549999993,
+  "totalBlockingTime": 87.5,
+  "cumulativeLayoutShift": 0.34942915940382013,
+  "timeToInteractive": 21945.936899999997,
+  "maxPotentialFirstInputDelay": 95,
+  "timeToFirstByte": 137.91899999999998,
+  "weight": {
+    "summary": "160 requests • 9.8 MiB",
+    "total": 10226085,
+    "image": 7701482,
+    "imageCount": 81,
+    "script": 1835001,
+    "scriptCount": 49,
+    "document": 191525,
+    "font": 94201,
+    "fontCount": 5,
+    "stylesheet": 379496,
+    "stylesheetCount": 12,
+    "thirdParty": 1688154,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 390,
+    "+weight.total": 33,
+    "-weight.document": 386,
+    "+weight.document": 33,
+    "-weight.script": 367,
+    "+weight.script": 53,
+    "-weight.image": 386,
+    "+weight.image": 31,
+    "-weight.font": 77,
+    "+weight.font": 274,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 238,
+    "-totalBlockingTime": 127,
+    "-largestContentfulPaint": 375
+  },
+  "axe": {
+    "passes": 2178,
+    "violations": 24
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://letsgethealthy.ca.gov/",
+  "requestedUrl": "https://letsgethealthy.ca.gov/",
+  "timestamp": 1708184498426,
+  "ranks": {
+    "hundos": 241,
+    "performance": 314,
+    "accessibility": 94,
+    "cumulative": 241
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.9,
+    "total": 310
+  },
+  "firstContentfulPaint": 3334.121,
+  "firstMeaningfulPaint": 3334.121,
+  "speedIndex": 8761.32296709554,
+  "largestContentfulPaint": 18911.041000000005,
+  "totalBlockingTime": 170.5,
+  "cumulativeLayoutShift": 0.31725030288159145,
+  "timeToInteractive": 18343.541000000005,
+  "maxPotentialFirstInputDelay": 120,
+  "timeToFirstByte": 196.26999999999998,
+  "weight": {
+    "summary": "165 requests • 2.7 MiB",
+    "total": 2829048,
+    "image": 218755,
+    "imageCount": 10,
+    "script": 1545851,
+    "scriptCount": 16,
+    "document": 71467,
+    "font": 526472,
+    "fontCount": 22,
+    "stylesheet": 422868,
+    "stylesheetCount": 101,
+    "thirdParty": 1770328,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 227,
+    "+weight.total": 196,
+    "-weight.document": 327,
+    "+weight.document": 92,
+    "-weight.script": 333,
+    "+weight.script": 87,
+    "-weight.image": 60,
+    "+weight.image": 357,
+    "-weight.font": 300,
+    "+weight.font": 51,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 253,
+    "-totalBlockingTime": 166,
+    "-largestContentfulPaint": 301
+  },
+  "axe": {
+    "passes": 971,
+    "violations": 14
+  }
+}

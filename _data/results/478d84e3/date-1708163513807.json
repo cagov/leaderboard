@@ -1,0 +1,67 @@
+{
+  "url": "https://www.alrb.ca.gov/",
+  "requestedUrl": "https://alrb.ca.gov/",
+  "timestamp": 1708164251928,
+  "ranks": {
+    "hundos": 329,
+    "performance": 356,
+    "accessibility": 257,
+    "cumulative": 330
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 0.9,
+    "bestPractices": 0.59,
+    "seo": 1,
+    "total": 286
+  },
+  "firstContentfulPaint": 5006.557999999999,
+  "firstMeaningfulPaint": 5006.557999999999,
+  "speedIndex": 9602.083857166022,
+  "largestContentfulPaint": 36597.558,
+  "totalBlockingTime": 258,
+  "cumulativeLayoutShift": 0.30034180442197234,
+  "timeToInteractive": 13920.417999999998,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 943.198,
+  "weight": {
+    "summary": "92 requests • 8.7 MiB",
+    "total": 9149941,
+    "image": 7271575,
+    "imageCount": 12,
+    "script": 990282,
+    "scriptCount": 29,
+    "document": 50426,
+    "font": 628742,
+    "fontCount": 13,
+    "stylesheet": 206004,
+    "stylesheetCount": 23,
+    "thirdParty": 966028,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 378,
+    "+weight.total": 45,
+    "-weight.document": 283,
+    "+weight.document": 136,
+    "-weight.script": 255,
+    "+weight.script": 165,
+    "-weight.image": 382,
+    "+weight.image": 35,
+    "-weight.font": 317,
+    "+weight.font": 34,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 389,
+    "-totalBlockingTime": 200,
+    "-largestContentfulPaint": 402
+  },
+  "axe": {
+    "passes": 789,
+    "violations": 14
+  }
+}

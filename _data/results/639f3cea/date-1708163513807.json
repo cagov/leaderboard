@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calhr.ca.gov/",
+  "requestedUrl": "https://calhr.ca.gov/",
+  "timestamp": 1708167745936,
+  "ranks": {
+    "hundos": 301,
+    "performance": 395,
+    "accessibility": 84,
+    "cumulative": 301
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.92,
+    "total": 297
+  },
+  "firstContentfulPaint": 8316.327500000001,
+  "firstMeaningfulPaint": 9602.6325,
+  "speedIndex": 10545.944047235516,
+  "largestContentfulPaint": 11667.806499999993,
+  "totalBlockingTime": 99.5,
+  "cumulativeLayoutShift": 0.9822752441935799,
+  "timeToInteractive": 16444.2345,
+  "maxPotentialFirstInputDelay": 128,
+  "timeToFirstByte": 108.96600000000001,
+  "weight": {
+    "summary": "89 requests • 9.3 MiB",
+    "total": 9745581,
+    "image": 8350513,
+    "imageCount": 37,
+    "script": 1068510,
+    "scriptCount": 33,
+    "document": 43628,
+    "font": 113820,
+    "fontCount": 4,
+    "stylesheet": 161246,
+    "stylesheetCount": 7,
+    "thirdParty": 173086,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 387,
+    "+weight.total": 36,
+    "-weight.document": 262,
+    "+weight.document": 157,
+    "-weight.script": 272,
+    "+weight.script": 148,
+    "-weight.image": 391,
+    "+weight.image": 26,
+    "-weight.font": 108,
+    "+weight.font": 243,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 215,
+    "-totalBlockingTime": 139,
+    "-largestContentfulPaint": 224
+  },
+  "axe": {
+    "passes": 735,
+    "violations": 8
+  }
+}

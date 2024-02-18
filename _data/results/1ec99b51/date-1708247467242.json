@@ -1,0 +1,67 @@
+{
+  "url": "https://spwb.ca.gov/",
+  "requestedUrl": "https://spwb.ca.gov/",
+  "timestamp": 1708277459506,
+  "ranks": {
+    "hundos": 124,
+    "performance": 235,
+    "accessibility": 138,
+    "cumulative": 123
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.49,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 338
+  },
+  "firstContentfulPaint": 2207.6795,
+  "firstMeaningfulPaint": 4395.6795,
+  "speedIndex": 5465.943722251077,
+  "largestContentfulPaint": 8057.679499999999,
+  "totalBlockingTime": 135.5000000000009,
+  "cumulativeLayoutShift": 0.39872069258135545,
+  "timeToInteractive": 9289.855500000001,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 405.523,
+  "weight": {
+    "summary": "58 requests • 1.4 MiB",
+    "total": 1489633,
+    "image": 30886,
+    "imageCount": 8,
+    "script": 959365,
+    "scriptCount": 23,
+    "document": 30361,
+    "font": 303453,
+    "fontCount": 5,
+    "stylesheet": 164705,
+    "stylesheetCount": 13,
+    "thirdParty": 886677,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 96,
+    "+weight.total": 329,
+    "-weight.document": 151,
+    "+weight.document": 268,
+    "-weight.script": 237,
+    "+weight.script": 184,
+    "-weight.image": 12,
+    "+weight.image": 406,
+    "-weight.font": 248,
+    "+weight.font": 109,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 315,
+    "-totalBlockingTime": 143,
+    "-largestContentfulPaint": 103
+  },
+  "axe": {
+    "passes": 552,
+    "violations": 4
+  }
+}

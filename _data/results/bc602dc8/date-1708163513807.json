@@ -1,0 +1,67 @@
+{
+  "url": "https://www.judicialethicsopinions.ca.gov/",
+  "requestedUrl": "https://judicialethicsopinions.ca.gov/",
+  "timestamp": 1708183607337,
+  "ranks": {
+    "hundos": 224,
+    "performance": 73,
+    "accessibility": 374,
+    "cumulative": 227
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.7,
+    "accessibility": 0.81,
+    "bestPractices": 0.78,
+    "seo": 0.84,
+    "total": 313
+  },
+  "firstContentfulPaint": 3062.6324000000004,
+  "firstMeaningfulPaint": 3062.6324000000004,
+  "speedIndex": 3751.880707883579,
+  "largestContentfulPaint": 5643.0488000000005,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.09310212886892513,
+  "timeToInteractive": 3518.9584821716303,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 65.737,
+  "weight": {
+    "summary": "72 requests • 1.3 MiB",
+    "total": 1379666,
+    "image": 459607,
+    "imageCount": 11,
+    "script": 561899,
+    "scriptCount": 29,
+    "document": 70889,
+    "font": 135335,
+    "fontCount": 5,
+    "stylesheet": 140312,
+    "stylesheetCount": 16,
+    "thirdParty": 513405,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 84,
+    "+weight.total": 339,
+    "-weight.document": 326,
+    "+weight.document": 93,
+    "-weight.script": 125,
+    "+weight.script": 295,
+    "-weight.image": 119,
+    "+weight.image": 298,
+    "-weight.font": 131,
+    "+weight.font": 220,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 149,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 88
+  },
+  "axe": {
+    "passes": 567,
+    "violations": 46
+  }
+}

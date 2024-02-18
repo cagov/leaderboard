@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calgold.ca.gov/",
+  "requestedUrl": "https://calgold.ca.gov/",
+  "timestamp": 1708251596577,
+  "ranks": {
+    "hundos": 375,
+    "performance": 75,
+    "accessibility": 262,
+    "cumulative": 375
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.69,
+    "accessibility": 0.89,
+    "bestPractices": 0.48,
+    "seo": 0.67,
+    "total": 273
+  },
+  "firstContentfulPaint": 3284.0670000000005,
+  "firstMeaningfulPaint": 3284.0670000000005,
+  "speedIndex": 3433.352854131663,
+  "largestContentfulPaint": 4699.8605,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.16314486363992287,
+  "timeToInteractive": 3284.0670000000005,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 134.118,
+  "weight": {
+    "summary": "43 requests • 562.0 KiB",
+    "total": 575461,
+    "image": 105675,
+    "imageCount": 13,
+    "script": 342408,
+    "scriptCount": 15,
+    "document": 72578,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 54314,
+    "stylesheetCount": 12,
+    "thirdParty": 83763,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 21,
+    "+weight.total": 404,
+    "-weight.document": 322,
+    "+weight.document": 97,
+    "-weight.script": 75,
+    "+weight.script": 346,
+    "-weight.image": 39,
+    "+weight.image": 379,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 231,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 44
+  },
+  "axe": {
+    "passes": 7,
+    "violations": 3
+  }
+}

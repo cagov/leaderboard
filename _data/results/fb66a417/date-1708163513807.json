@@ -1,0 +1,67 @@
+{
+  "url": "https://tcpw.ca.gov/",
+  "requestedUrl": "https://tehamacountypublicworks.ca.gov/",
+  "timestamp": 1708194790699,
+  "ranks": {
+    "hundos": 278,
+    "performance": 128,
+    "accessibility": 370,
+    "cumulative": 278
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.61,
+    "accessibility": 0.81,
+    "bestPractices": 0.78,
+    "seo": 0.83,
+    "total": 303
+  },
+  "firstContentfulPaint": 4466.307,
+  "firstMeaningfulPaint": 5545.844499999999,
+  "speedIndex": 6154.444268878313,
+  "largestContentfulPaint": 9916.306,
+  "totalBlockingTime": 49.5,
+  "cumulativeLayoutShift": 0.0202379681701484,
+  "timeToInteractive": 10451.96038217163,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 253.00199999999998,
+  "weight": {
+    "summary": "52 requests • 1.8 MiB",
+    "total": 1907916,
+    "image": 844606,
+    "imageCount": 9,
+    "script": 610483,
+    "scriptCount": 20,
+    "document": 53538,
+    "font": 232986,
+    "fontCount": 8,
+    "stylesheet": 155693,
+    "stylesheetCount": 6,
+    "thirdParty": 536212,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 140,
+    "+weight.total": 283,
+    "-weight.document": 291,
+    "+weight.document": 128,
+    "-weight.script": 136,
+    "+weight.script": 284,
+    "-weight.image": 191,
+    "+weight.image": 226,
+    "-weight.font": 211,
+    "+weight.font": 140,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 265,
+    "-totalBlockingTime": 79,
+    "-largestContentfulPaint": 189
+  },
+  "axe": {
+    "passes": 796,
+    "violations": 25
+  }
+}

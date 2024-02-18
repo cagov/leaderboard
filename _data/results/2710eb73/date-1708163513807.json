@@ -1,0 +1,67 @@
+{
+  "url": "https://savewater.ca.gov/",
+  "requestedUrl": "https://savewater.ca.gov/",
+  "timestamp": 1708190964225,
+  "ranks": {
+    "hundos": 182,
+    "performance": 296,
+    "accessibility": 171,
+    "cumulative": 182
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 324
+  },
+  "firstContentfulPaint": 10668.079500000003,
+  "firstMeaningfulPaint": 11703.839500000006,
+  "speedIndex": 10668.079500000003,
+  "largestContentfulPaint": 14638.098382171636,
+  "totalBlockingTime": 462,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14840.612382171636,
+  "maxPotentialFirstInputDelay": 500,
+  "timeToFirstByte": 51.269000000000005,
+  "weight": {
+    "summary": "49 requests • 2.2 MiB",
+    "total": 2326763,
+    "image": 74106,
+    "imageCount": 9,
+    "script": 1692537,
+    "scriptCount": 16,
+    "document": 42477,
+    "font": 204580,
+    "fontCount": 8,
+    "stylesheet": 312928,
+    "stylesheetCount": 12,
+    "thirdParty": 2170954,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 173,
+    "+weight.total": 250,
+    "-weight.document": 259,
+    "+weight.document": 160,
+    "-weight.script": 353,
+    "+weight.script": 67,
+    "-weight.image": 27,
+    "+weight.image": 390,
+    "-weight.font": 190,
+    "+weight.font": 161,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 124,
+    "-totalBlockingTime": 223,
+    "-largestContentfulPaint": 338
+  },
+  "axe": {
+    "passes": 429,
+    "violations": 26
+  }
+}

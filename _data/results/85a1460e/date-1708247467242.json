@@ -1,0 +1,67 @@
+{
+  "url": "https://myturn.ca.gov/",
+  "requestedUrl": "https://myturn.ca.gov/",
+  "timestamp": 1708270559134,
+  "ranks": {
+    "hundos": 234,
+    "performance": 127,
+    "accessibility": 339,
+    "cumulative": 235
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.65,
+    "total": 312
+  },
+  "firstContentfulPaint": 3078.712,
+  "firstMeaningfulPaint": 3842.2119999999995,
+  "speedIndex": 8293.289429488017,
+  "largestContentfulPaint": 11465.034500000002,
+  "totalBlockingTime": 41.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17140.712,
+  "maxPotentialFirstInputDelay": 83,
+  "timeToFirstByte": 178.312,
+  "weight": {
+    "summary": "55 requests • 30.6 MiB",
+    "total": 32108268,
+    "image": 30744591,
+    "imageCount": 21,
+    "script": 1226298,
+    "scriptCount": 24,
+    "document": 93206,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 43387,
+    "stylesheetCount": 2,
+    "thirdParty": 745750,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 420,
+    "+weight.total": 5,
+    "-weight.document": 340,
+    "+weight.document": 79,
+    "-weight.script": 298,
+    "+weight.script": 123,
+    "-weight.image": 413,
+    "+weight.image": 5,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 248,
+    "-totalBlockingTime": 66,
+    "-largestContentfulPaint": 167
+  },
+  "axe": {
+    "passes": 334,
+    "violations": 27
+  }
+}

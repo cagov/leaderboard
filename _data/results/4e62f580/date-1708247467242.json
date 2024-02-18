@@ -1,0 +1,67 @@
+{
+  "url": "https://www.fairfield.ca.gov/",
+  "requestedUrl": "https://fairfield.ca.gov/",
+  "timestamp": 1708263798860,
+  "ranks": {
+    "hundos": 424,
+    "performance": 399,
+    "accessibility": 398,
+    "cumulative": 424
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.76,
+    "bestPractices": 0.33,
+    "seo": 0.57,
+    "total": 197
+  },
+  "firstContentfulPaint": 10505.020999999999,
+  "firstMeaningfulPaint": 11878.430000000002,
+  "speedIndex": 15455.552090608773,
+  "largestContentfulPaint": 55416.678000000014,
+  "totalBlockingTime": 397.10099999999966,
+  "cumulativeLayoutShift": 0.29248077188170607,
+  "timeToInteractive": 13277.839,
+  "maxPotentialFirstInputDelay": 445,
+  "timeToFirstByte": 21.938000000000002,
+  "weight": {
+    "summary": "119 requests • 18.8 MiB",
+    "total": 19661642,
+    "image": 17541658,
+    "imageCount": 72,
+    "script": 1730775,
+    "scriptCount": 19,
+    "document": 31289,
+    "font": 216537,
+    "fontCount": 5,
+    "stylesheet": 138882,
+    "stylesheetCount": 14,
+    "thirdParty": 620356,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 414,
+    "+weight.total": 11,
+    "-weight.document": 160,
+    "+weight.document": 259,
+    "-weight.script": 358,
+    "+weight.script": 63,
+    "-weight.image": 408,
+    "+weight.image": 10,
+    "-weight.font": 204,
+    "+weight.font": 153,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 59,
+    "-totalBlockingTime": 204,
+    "-largestContentfulPaint": 417
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

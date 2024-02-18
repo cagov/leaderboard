@@ -1,0 +1,67 @@
+{
+  "url": "https://www.conservation.ca.gov/",
+  "requestedUrl": "https://conservation.ca.gov/",
+  "timestamp": 1708173657984,
+  "ranks": {
+    "hundos": 398,
+    "performance": 346,
+    "accessibility": 368,
+    "cumulative": 399
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.81,
+    "bestPractices": 0.67,
+    "seo": 0.71,
+    "total": 257
+  },
+  "firstContentfulPaint": 7786.329499999998,
+  "firstMeaningfulPaint": 8454.547499999997,
+  "speedIndex": 9842.470935309495,
+  "largestContentfulPaint": 14499.162749999996,
+  "totalBlockingTime": 25.5,
+  "cumulativeLayoutShift": 0.3846866711132923,
+  "timeToInteractive": 15313.902750000001,
+  "maxPotentialFirstInputDelay": 80.99999999999818,
+  "timeToFirstByte": 132.86599999999999,
+  "weight": {
+    "summary": "112 requests • 16.1 MiB",
+    "total": 16844053,
+    "image": 15349215,
+    "imageCount": 37,
+    "script": 1099111,
+    "scriptCount": 38,
+    "document": 25902,
+    "font": 178994,
+    "fontCount": 5,
+    "stylesheet": 157683,
+    "stylesheetCount": 11,
+    "thirdParty": 460138,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 408,
+    "+weight.total": 15,
+    "-weight.document": 127,
+    "+weight.document": 292,
+    "-weight.script": 279,
+    "+weight.script": 141,
+    "-weight.image": 406,
+    "+weight.image": 11,
+    "-weight.font": 180,
+    "+weight.font": 171,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 236,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 261
+  },
+  "axe": {
+    "passes": 1012,
+    "violations": 22
+  }
+}

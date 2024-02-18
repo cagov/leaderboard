@@ -1,0 +1,67 @@
+{
+  "url": "https://pmbc.ca.gov/",
+  "requestedUrl": "https://pmbc.ca.gov/",
+  "timestamp": 1708188838178,
+  "ranks": {
+    "hundos": 55,
+    "performance": 82,
+    "accessibility": 127,
+    "cumulative": 57
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 0.98,
+    "bestPractices": 0.89,
+    "seo": 0.99,
+    "total": 353
+  },
+  "firstContentfulPaint": 3085.7375,
+  "firstMeaningfulPaint": 3654.1304999999998,
+  "speedIndex": 4564.25455666118,
+  "largestContentfulPaint": 9839.0865,
+  "totalBlockingTime": 14,
+  "cumulativeLayoutShift": 0.0002582063148041794,
+  "timeToInteractive": 9698.572500000002,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 13.887,
+  "weight": {
+    "summary": "62 requests • 1.3 MiB",
+    "total": 1359286,
+    "image": 288899,
+    "imageCount": 29,
+    "script": 740253,
+    "scriptCount": 20,
+    "document": 49861,
+    "font": 64280,
+    "fontCount": 1,
+    "stylesheet": 214566,
+    "stylesheetCount": 6,
+    "thirdParty": 670057,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 82,
+    "+weight.total": 341,
+    "-weight.document": 280,
+    "+weight.document": 139,
+    "-weight.script": 160,
+    "+weight.script": 260,
+    "-weight.image": 83,
+    "+weight.image": 334,
+    "-weight.font": 42,
+    "+weight.font": 309,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 28,
+    "-largestContentfulPaint": 186
+  },
+  "axe": {
+    "passes": 1121,
+    "violations": 18
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://aquaculturematters.ca.gov/",
+  "requestedUrl": "https://aquaculturematters.ca.gov/",
+  "timestamp": 1708248461856,
+  "ranks": {
+    "hundos": 44,
+    "performance": 38,
+    "accessibility": 242,
+    "cumulative": 45
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.83,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 357
+  },
+  "firstContentfulPaint": 2208.4595,
+  "firstMeaningfulPaint": 2208.4595,
+  "speedIndex": 2539.3117891117854,
+  "largestContentfulPaint": 4248.8575,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2208.4595,
+  "maxPotentialFirstInputDelay": 40,
+  "timeToFirstByte": 233.80599999999998,
+  "weight": {
+    "summary": "40 requests • 1.2 MiB",
+    "total": 1220007,
+    "image": 881953,
+    "imageCount": 13,
+    "script": 123151,
+    "scriptCount": 11,
+    "document": 150612,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 63632,
+    "stylesheetCount": 10,
+    "thirdParty": 1124022,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 69,
+    "+weight.total": 356,
+    "-weight.document": 370,
+    "+weight.document": 49,
+    "-weight.script": 18,
+    "+weight.script": 403,
+    "-weight.image": 197,
+    "+weight.image": 221,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 265,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 38
+  },
+  "axe": {
+    "passes": 932,
+    "violations": 118
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://granada.ca.gov/",
+  "requestedUrl": "https://granada.ca.gov/",
+  "timestamp": 1708265255265,
+  "ranks": {
+    "hundos": 139,
+    "performance": 74,
+    "accessibility": 364,
+    "cumulative": 140
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.69,
+    "accessibility": 0.82,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 336
+  },
+  "firstContentfulPaint": 2858.124,
+  "firstMeaningfulPaint": 2858.124,
+  "speedIndex": 2929.918602907479,
+  "largestContentfulPaint": 14858.124,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.05739195369244273,
+  "timeToInteractive": 4093.748,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 458.034,
+  "weight": {
+    "summary": "35 requests • 2.7 MiB",
+    "total": 2854708,
+    "image": 2480609,
+    "imageCount": 7,
+    "script": 131081,
+    "scriptCount": 13,
+    "document": 18774,
+    "font": 66805,
+    "fontCount": 2,
+    "stylesheet": 157439,
+    "stylesheetCount": 11,
+    "thirdParty": 48267,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 228,
+    "+weight.total": 197,
+    "-weight.document": 86,
+    "+weight.document": 333,
+    "-weight.script": 23,
+    "+weight.script": 398,
+    "-weight.image": 304,
+    "+weight.image": 114,
+    "-weight.font": 49,
+    "+weight.font": 308,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 325,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 304
+  },
+  "axe": {
+    "passes": 860,
+    "violations": 15
+  }
+}

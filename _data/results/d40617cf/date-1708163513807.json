@@ -1,0 +1,67 @@
+{
+  "url": "https://boe.ca.gov/",
+  "requestedUrl": "https://boe.ca.gov/",
+  "timestamp": 1708165663516,
+  "ranks": {
+    "hundos": 59,
+    "performance": 172,
+    "accessibility": 42,
+    "cumulative": 59
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 352
+  },
+  "firstContentfulPaint": 3093.175,
+  "firstMeaningfulPaint": 4892.609,
+  "speedIndex": 3853.413715860035,
+  "largestContentfulPaint": 14577.900999999996,
+  "totalBlockingTime": 14,
+  "cumulativeLayoutShift": 0.24712185740415876,
+  "timeToInteractive": 5711.986499999999,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 39.03999999999999,
+  "weight": {
+    "summary": "51 requests • 3.1 MiB",
+    "total": 3257344,
+    "image": 2178390,
+    "imageCount": 14,
+    "script": 635200,
+    "scriptCount": 15,
+    "document": 14607,
+    "font": 279791,
+    "fontCount": 7,
+    "stylesheet": 148679,
+    "stylesheetCount": 9,
+    "thirdParty": 499934,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 257,
+    "+weight.total": 166,
+    "-weight.document": 65,
+    "+weight.document": 354,
+    "-weight.script": 145,
+    "+weight.script": 275,
+    "-weight.image": 296,
+    "+weight.image": 121,
+    "-weight.font": 230,
+    "+weight.font": 121,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 109,
+    "-totalBlockingTime": 28,
+    "-largestContentfulPaint": 262
+  },
+  "axe": {
+    "passes": 794,
+    "violations": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://sta.ca.gov/",
+  "requestedUrl": "https://sta.ca.gov/",
+  "timestamp": 1708277604758,
+  "ranks": {
+    "hundos": 247,
+    "performance": 304,
+    "accessibility": 290,
+    "cumulative": 247
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 308
+  },
+  "firstContentfulPaint": 3354.0625,
+  "firstMeaningfulPaint": 3354.0625,
+  "speedIndex": 4965.421545014619,
+  "largestContentfulPaint": 14731.967249999994,
+  "totalBlockingTime": 15,
+  "cumulativeLayoutShift": 0.6816885266545333,
+  "timeToInteractive": 4022.9069999999997,
+  "maxPotentialFirstInputDelay": 65,
+  "timeToFirstByte": 1468.143,
+  "weight": {
+    "summary": "90 requests • 14.6 MiB",
+    "total": 15291482,
+    "image": 14437604,
+    "imageCount": 24,
+    "script": 470336,
+    "scriptCount": 28,
+    "document": 34273,
+    "font": 221258,
+    "fontCount": 7,
+    "stylesheet": 125023,
+    "stylesheetCount": 22,
+    "thirdParty": 553206,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 410,
+    "+weight.total": 15,
+    "-weight.document": 188,
+    "+weight.document": 231,
+    "-weight.script": 103,
+    "+weight.script": 318,
+    "-weight.image": 406,
+    "+weight.image": 12,
+    "-weight.font": 208,
+    "+weight.font": 149,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 398,
+    "-totalBlockingTime": 30,
+    "-largestContentfulPaint": 301
+  },
+  "axe": {
+    "passes": 532,
+    "violations": 17
+  }
+}

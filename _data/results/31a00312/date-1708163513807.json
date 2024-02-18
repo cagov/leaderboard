@@ -1,0 +1,67 @@
+{
+  "url": "https://osi.ca.gov/",
+  "requestedUrl": "https://osi.ca.gov/",
+  "timestamp": 1708187973024,
+  "ranks": {
+    "hundos": 114,
+    "performance": 98,
+    "accessibility": 345,
+    "cumulative": 114
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 340
+  },
+  "firstContentfulPaint": 2610.622,
+  "firstMeaningfulPaint": 4093.7315,
+  "speedIndex": 5902.924706972117,
+  "largestContentfulPaint": 5225.134,
+  "totalBlockingTime": 12.5,
+  "cumulativeLayoutShift": 0.16182932262543476,
+  "timeToInteractive": 11029.118999999997,
+  "maxPotentialFirstInputDelay": 75,
+  "timeToFirstByte": 52.03300000000001,
+  "weight": {
+    "summary": "35 requests • 2.6 MiB",
+    "total": 2722129,
+    "image": 2121750,
+    "imageCount": 12,
+    "script": 413137,
+    "scriptCount": 10,
+    "document": 7452,
+    "font": 65562,
+    "fontCount": 2,
+    "stylesheet": 113272,
+    "stylesheetCount": 6,
+    "thirdParty": 280615,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 219,
+    "+weight.total": 204,
+    "-weight.document": 19,
+    "+weight.document": 400,
+    "-weight.script": 86,
+    "+weight.script": 334,
+    "-weight.image": 291,
+    "+weight.image": 126,
+    "-weight.font": 46,
+    "+weight.font": 305,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 127,
+    "-totalBlockingTime": 25,
+    "-largestContentfulPaint": 76
+  },
+  "axe": {
+    "passes": 363,
+    "violations": 17
+  }
+}

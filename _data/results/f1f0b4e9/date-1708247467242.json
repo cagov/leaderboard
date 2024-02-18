@@ -1,0 +1,67 @@
+{
+  "url": "https://avaqmd.ca.gov/",
+  "requestedUrl": "https://avaqmd.ca.gov/",
+  "timestamp": 1708248791986,
+  "ranks": {
+    "hundos": 64,
+    "performance": 146,
+    "accessibility": 39,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.58,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 350
+  },
+  "firstContentfulPaint": 6950.295999999999,
+  "firstMeaningfulPaint": 7629.839999999999,
+  "speedIndex": 6950.295999999999,
+  "largestContentfulPaint": 10857.673999999999,
+  "totalBlockingTime": 108.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11961.933000000003,
+  "maxPotentialFirstInputDelay": 211,
+  "timeToFirstByte": 63.337999999999994,
+  "weight": {
+    "summary": "31 requests • 2.1 MiB",
+    "total": 2192334,
+    "image": 601776,
+    "imageCount": 10,
+    "script": 1354221,
+    "scriptCount": 9,
+    "document": 32624,
+    "font": 107819,
+    "fontCount": 3,
+    "stylesheet": 95172,
+    "stylesheetCount": 6,
+    "thirdParty": 1183313,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 163,
+    "+weight.total": 262,
+    "-weight.document": 173,
+    "+weight.document": 246,
+    "-weight.script": 313,
+    "+weight.script": 108,
+    "-weight.image": 156,
+    "+weight.image": 262,
+    "-weight.font": 91,
+    "+weight.font": 266,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 145,
+    "-totalBlockingTime": 131,
+    "-largestContentfulPaint": 156
+  },
+  "axe": {
+    "passes": 1006,
+    "violations": 2
+  }
+}

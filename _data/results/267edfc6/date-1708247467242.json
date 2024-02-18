@@ -1,0 +1,67 @@
+{
+  "url": "https://economicdevelopment.business.ca.gov/frequently-asked-questions/",
+  "requestedUrl": "https://opzones.ca.gov/",
+  "timestamp": 1708271775334,
+  "ranks": {
+    "hundos": 422,
+    "performance": 184,
+    "accessibility": 330,
+    "cumulative": 422
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "bestPractices": null,
+    "seo": 0.84,
+    "total": 224
+  },
+  "firstContentfulPaint": 7201.624999999998,
+  "firstMeaningfulPaint": 7201.624999999998,
+  "speedIndex": 14136.456665433758,
+  "largestContentfulPaint": 11474.761,
+  "totalBlockingTime": 37.00000000000091,
+  "cumulativeLayoutShift": 0.05406010758499473,
+  "timeToInteractive": 16191.1545,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 2658.363,
+  "weight": {
+    "summary": "99 requests • 3.3 MiB",
+    "total": 3428195,
+    "image": 699082,
+    "imageCount": 22,
+    "script": 812940,
+    "scriptCount": 33,
+    "document": 552750,
+    "font": 1089321,
+    "fontCount": 12,
+    "stylesheet": 272044,
+    "stylesheetCount": 24,
+    "thirdParty": 753919,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 265,
+    "+weight.total": 160,
+    "-weight.document": 414,
+    "+weight.document": 5,
+    "-weight.script": 179,
+    "+weight.script": 242,
+    "-weight.image": 174,
+    "+weight.image": 244,
+    "-weight.font": 352,
+    "+weight.font": 5,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 415,
+    "-totalBlockingTime": 58,
+    "-largestContentfulPaint": 168
+  },
+  "axe": {
+    "passes": 1205,
+    "violations": 9
+  }
+}

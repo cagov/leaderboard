@@ -1,0 +1,67 @@
+{
+  "url": "https://driveclean.ca.gov/",
+  "requestedUrl": "https://driveclean.ca.gov/",
+  "timestamp": 1708177932055,
+  "ranks": {
+    "hundos": 103,
+    "performance": 113,
+    "accessibility": 223,
+    "cumulative": 103
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 343
+  },
+  "firstContentfulPaint": 2147.4878,
+  "firstMeaningfulPaint": 2973.3887399999994,
+  "speedIndex": 5875.809571025853,
+  "largestContentfulPaint": 28593.26438999999,
+  "totalBlockingTime": 258,
+  "cumulativeLayoutShift": 0.0026195557059025985,
+  "timeToInteractive": 8757.04751,
+  "maxPotentialFirstInputDelay": 241,
+  "timeToFirstByte": 61.879,
+  "weight": {
+    "summary": "52 requests • 5.1 MiB",
+    "total": 5378746,
+    "image": 4372376,
+    "imageCount": 18,
+    "script": 805096,
+    "scriptCount": 15,
+    "document": 24494,
+    "font": 62957,
+    "fontCount": 3,
+    "stylesheet": 75909,
+    "stylesheetCount": 8,
+    "thirdParty": 4606505,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 325,
+    "+weight.total": 98,
+    "-weight.document": 120,
+    "+weight.document": 299,
+    "-weight.script": 176,
+    "+weight.script": 244,
+    "-weight.image": 352,
+    "+weight.image": 65,
+    "-weight.font": 33,
+    "+weight.font": 318,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 140,
+    "-totalBlockingTime": 200,
+    "-largestContentfulPaint": 387
+  },
+  "axe": {
+    "passes": 388,
+    "violations": 4
+  }
+}

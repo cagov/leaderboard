@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdpr.ca.gov/",
+  "requestedUrl": "https://cdpr.ca.gov/",
+  "timestamp": 1708170587507,
+  "ranks": {
+    "hundos": 321,
+    "performance": 401,
+    "accessibility": 197,
+    "cumulative": 320
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.3,
+    "accessibility": 0.93,
+    "bestPractices": 0.67,
+    "seo": 0.98,
+    "total": 288
+  },
+  "firstContentfulPaint": 5882.565100000001,
+  "firstMeaningfulPaint": 9064.1967,
+  "speedIndex": 16812.66152537238,
+  "largestContentfulPaint": 13457.7831,
+  "totalBlockingTime": 122.5,
+  "cumulativeLayoutShift": 0.9127876112619159,
+  "timeToInteractive": 18354.591500000002,
+  "maxPotentialFirstInputDelay": 135,
+  "timeToFirstByte": 336.40200000000004,
+  "weight": {
+    "summary": "86 requests • 3.0 MiB",
+    "total": 3103821,
+    "image": 323153,
+    "imageCount": 18,
+    "script": 1928415,
+    "scriptCount": 47,
+    "document": 210802,
+    "font": 126467,
+    "fontCount": 5,
+    "stylesheet": 515696,
+    "stylesheetCount": 5,
+    "thirdParty": 1472520,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 246,
+    "+weight.total": 177,
+    "-weight.document": 393,
+    "+weight.document": 26,
+    "-weight.script": 375,
+    "+weight.script": 45,
+    "-weight.image": 87,
+    "+weight.image": 330,
+    "-weight.font": 119,
+    "+weight.font": 232,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 303,
+    "-totalBlockingTime": 150,
+    "-largestContentfulPaint": 249
+  },
+  "axe": {
+    "passes": 1291,
+    "violations": 8
+  }
+}

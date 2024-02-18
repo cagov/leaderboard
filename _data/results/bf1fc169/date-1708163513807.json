@@ -1,0 +1,67 @@
+{
+  "url": "https://militarycouncil.ca.gov/",
+  "requestedUrl": "https://militarycouncil.ca.gov/",
+  "timestamp": 1708185724743,
+  "ranks": {
+    "hundos": 85,
+    "performance": 258,
+    "accessibility": 119,
+    "cumulative": 83
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 345
+  },
+  "firstContentfulPaint": 2127.5345,
+  "firstMeaningfulPaint": 3927.5345000000007,
+  "speedIndex": 7215.216008338523,
+  "largestContentfulPaint": 8877.5345,
+  "totalBlockingTime": 72,
+  "cumulativeLayoutShift": 0.4098909488173112,
+  "timeToInteractive": 11885.534500000002,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 698.221,
+  "weight": {
+    "summary": "56 requests • 2.5 MiB",
+    "total": 2611601,
+    "image": 1230067,
+    "imageCount": 9,
+    "script": 766899,
+    "scriptCount": 22,
+    "document": 33404,
+    "font": 424270,
+    "fontCount": 6,
+    "stylesheet": 156108,
+    "stylesheetCount": 11,
+    "thirdParty": 663786,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 205,
+    "+weight.total": 218,
+    "-weight.document": 184,
+    "+weight.document": 235,
+    "-weight.script": 164,
+    "+weight.script": 256,
+    "-weight.image": 236,
+    "+weight.image": 181,
+    "-weight.font": 288,
+    "+weight.font": 63,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 362,
+    "-totalBlockingTime": 111,
+    "-largestContentfulPaint": 169
+  },
+  "axe": {
+    "passes": 316,
+    "violations": 4
+  }
+}

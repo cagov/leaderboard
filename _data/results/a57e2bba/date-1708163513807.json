@@ -1,0 +1,67 @@
+{
+  "url": "https://census.ca.gov/",
+  "requestedUrl": "https://census.ca.gov/",
+  "timestamp": 1708170891713,
+  "ranks": {
+    "hundos": 246,
+    "performance": 322,
+    "accessibility": 289,
+    "cumulative": 248
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.41,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 308
+  },
+  "firstContentfulPaint": 2354.946,
+  "firstMeaningfulPaint": 4304.946,
+  "speedIndex": 9491.015496876456,
+  "largestContentfulPaint": 15854.946,
+  "totalBlockingTime": 54.5,
+  "cumulativeLayoutShift": 0.5842077852860279,
+  "timeToInteractive": 17448.945999999996,
+  "maxPotentialFirstInputDelay": 104,
+  "timeToFirstByte": 808.799,
+  "weight": {
+    "summary": "80 requests • 4.8 MiB",
+    "total": 5020644,
+    "image": 3180788,
+    "imageCount": 14,
+    "script": 917429,
+    "scriptCount": 29,
+    "document": 36165,
+    "font": 683056,
+    "fontCount": 8,
+    "stylesheet": 202358,
+    "stylesheetCount": 21,
+    "thirdParty": 794998,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 315,
+    "+weight.total": 108,
+    "-weight.document": 213,
+    "+weight.document": 206,
+    "-weight.script": 211,
+    "+weight.script": 209,
+    "-weight.image": 327,
+    "+weight.image": 90,
+    "-weight.font": 332,
+    "+weight.font": 19,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 380,
+    "-totalBlockingTime": 86,
+    "-largestContentfulPaint": 279
+  },
+  "axe": {
+    "passes": 650,
+    "violations": 12
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ccag.ca.gov/",
+  "requestedUrl": "https://ccag.ca.gov/",
+  "timestamp": 1708253794347,
+  "ranks": {
+    "hundos": 285,
+    "performance": 221,
+    "accessibility": 256,
+    "cumulative": 285
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 0.9,
+    "bestPractices": 0.7,
+    "seo": 0.9,
+    "total": 301
+  },
+  "firstContentfulPaint": 2107.397,
+  "firstMeaningfulPaint": 2107.397,
+  "speedIndex": 7902.922204607725,
+  "largestContentfulPaint": 20269.013000000006,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.27825513270916646,
+  "timeToInteractive": 2639.3995,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 1732.701,
+  "weight": {
+    "summary": "48 requests • 4.4 MiB",
+    "total": 4596359,
+    "image": 4172761,
+    "imageCount": 11,
+    "script": 303081,
+    "scriptCount": 21,
+    "document": 15186,
+    "font": 13961,
+    "fontCount": 1,
+    "stylesheet": 91119,
+    "stylesheetCount": 12,
+    "thirdParty": 213996,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 305,
+    "+weight.total": 120,
+    "-weight.document": 68,
+    "+weight.document": 351,
+    "-weight.script": 61,
+    "+weight.script": 360,
+    "-weight.image": 346,
+    "+weight.image": 72,
+    "-weight.font": 2,
+    "+weight.font": 355,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 406,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 357
+  },
+  "axe": {
+    "passes": 349,
+    "violations": 17
+  }
+}

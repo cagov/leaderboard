@@ -1,0 +1,67 @@
+{
+  "url": "https://www.labor.ca.gov/labor-and-workforce-development-agency/fowc/",
+  "requestedUrl": "https://futureofwork.ca.gov/",
+  "timestamp": 1708180702421,
+  "ranks": {
+    "hundos": 186,
+    "performance": 337,
+    "accessibility": 181,
+    "cumulative": 186
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 322
+  },
+  "firstContentfulPaint": 3417.1525,
+  "firstMeaningfulPaint": 3417.1525,
+  "speedIndex": 6268.506646833083,
+  "largestContentfulPaint": 12224.704,
+  "totalBlockingTime": 74.5,
+  "cumulativeLayoutShift": 0.7389162576691337,
+  "timeToInteractive": 10989.514,
+  "maxPotentialFirstInputDelay": 100,
+  "timeToFirstByte": 585.669,
+  "weight": {
+    "summary": "61 requests • 1.7 MiB",
+    "total": 1817069,
+    "image": 368292,
+    "imageCount": 10,
+    "script": 870019,
+    "scriptCount": 24,
+    "document": 35462,
+    "font": 381166,
+    "fontCount": 5,
+    "stylesheet": 161094,
+    "stylesheetCount": 13,
+    "thirdParty": 781080,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 128,
+    "+weight.total": 295,
+    "-weight.document": 207,
+    "+weight.document": 212,
+    "-weight.script": 200,
+    "+weight.script": 220,
+    "-weight.image": 99,
+    "+weight.image": 318,
+    "-weight.font": 273,
+    "+weight.font": 78,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 349,
+    "-totalBlockingTime": 115,
+    "-largestContentfulPaint": 234
+  },
+  "axe": {
+    "passes": 423,
+    "violations": 7
+  }
+}

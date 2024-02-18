@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sandiegocounty.gov/",
+  "requestedUrl": "https://sdcounty.ca.gov/",
+  "timestamp": 1708191440938,
+  "ranks": {
+    "hundos": 384,
+    "performance": 248,
+    "accessibility": 397,
+    "cumulative": 385
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.48,
+    "accessibility": 0.76,
+    "bestPractices": 0.67,
+    "seo": 0.76,
+    "total": 267
+  },
+  "firstContentfulPaint": 3403.47328,
+  "firstMeaningfulPaint": 3773.4594,
+  "speedIndex": 3527.233009396952,
+  "largestContentfulPaint": 5592.124860000002,
+  "totalBlockingTime": 17.500000000000455,
+  "cumulativeLayoutShift": 1.0093861124033447,
+  "timeToInteractive": 6873.02688,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 24.991,
+  "weight": {
+    "summary": "79 requests • 1.1 MiB",
+    "total": 1153759,
+    "image": 556014,
+    "imageCount": 38,
+    "script": 488870,
+    "scriptCount": 18,
+    "document": 12890,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 88970,
+    "stylesheetCount": 15,
+    "thirdParty": 539625,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 60,
+    "+weight.total": 363,
+    "-weight.document": 57,
+    "+weight.document": 362,
+    "-weight.script": 107,
+    "+weight.script": 313,
+    "-weight.image": 133,
+    "+weight.image": 284,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 64,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 86
+  },
+  "axe": {
+    "passes": 831,
+    "violations": 29
+  }
+}

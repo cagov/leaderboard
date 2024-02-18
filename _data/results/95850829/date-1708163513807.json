@@ -1,0 +1,20 @@
+{
+  "url": "https://corp.ca.gov/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 423,
+    "+weight.total": 423,
+    "-weight.document": 419,
+    "+weight.document": 419,
+    "-weight.script": 420,
+    "+weight.script": 420,
+    "-weight.image": 417,
+    "+weight.image": 417,
+    "-weight.font": 351,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 423,
+    "-totalBlockingTime": 262,
+    "-largestContentfulPaint": 422
+  }
+}

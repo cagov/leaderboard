@@ -1,0 +1,67 @@
+{
+  "url": "https://psychology.ca.gov/",
+  "requestedUrl": "https://psychology.ca.gov/",
+  "timestamp": 1708273341664,
+  "ranks": {
+    "hundos": 129,
+    "performance": 70,
+    "accessibility": 101,
+    "cumulative": 134
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.71,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.77,
+    "total": 337
+  },
+  "firstContentfulPaint": 2076.7235000000005,
+  "firstMeaningfulPaint": 3400.96475,
+  "speedIndex": 4510.340576220519,
+  "largestContentfulPaint": 7780.5825,
+  "totalBlockingTime": 11.5,
+  "cumulativeLayoutShift": 0.028709748677845922,
+  "timeToInteractive": 5880.62925,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 31.786,
+  "weight": {
+    "summary": "82 requests • 1.3 MiB",
+    "total": 1414840,
+    "image": 685164,
+    "imageCount": 46,
+    "script": 666723,
+    "scriptCount": 18,
+    "document": 31646,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 30204,
+    "stylesheetCount": 10,
+    "thirdParty": 654312,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 90,
+    "+weight.total": 335,
+    "-weight.document": 166,
+    "+weight.document": 253,
+    "-weight.script": 148,
+    "+weight.script": 273,
+    "-weight.image": 170,
+    "+weight.image": 248,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 91,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 216
+  },
+  "axe": {
+    "passes": 633,
+    "violations": 44
+  }
+}

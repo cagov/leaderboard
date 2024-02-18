@@ -1,0 +1,67 @@
+{
+  "url": "https://earthquake.ca.gov/",
+  "requestedUrl": "https://earthquake.ca.gov/",
+  "timestamp": 1708262327048,
+  "ranks": {
+    "hundos": 301,
+    "performance": 327,
+    "accessibility": 224,
+    "cumulative": 300
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 0.91,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 296
+  },
+  "firstContentfulPaint": 2881.535,
+  "firstMeaningfulPaint": 3236.323,
+  "speedIndex": 9029.6466458408,
+  "largestContentfulPaint": 7570.838000000002,
+  "totalBlockingTime": 68.5,
+  "cumulativeLayoutShift": 0.6521209001062384,
+  "timeToInteractive": 13992.881000000001,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 996.7520000000001,
+  "weight": {
+    "summary": "96 requests • 2.2 MiB",
+    "total": 2278114,
+    "image": 578718,
+    "imageCount": 26,
+    "script": 869827,
+    "scriptCount": 28,
+    "document": 62374,
+    "font": 548595,
+    "fontCount": 9,
+    "stylesheet": 198538,
+    "stylesheetCount": 20,
+    "thirdParty": 1161234,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 169,
+    "+weight.total": 256,
+    "-weight.document": 306,
+    "+weight.document": 113,
+    "-weight.script": 197,
+    "+weight.script": 224,
+    "-weight.image": 141,
+    "+weight.image": 277,
+    "-weight.font": 310,
+    "+weight.font": 47,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 383,
+    "-totalBlockingTime": 100,
+    "-largestContentfulPaint": 95
+  },
+  "axe": {
+    "passes": 855,
+    "violations": 5
+  }
+}

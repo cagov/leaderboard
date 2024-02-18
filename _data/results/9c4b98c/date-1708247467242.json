@@ -1,0 +1,67 @@
+{
+  "url": "https://bsis.ca.gov/",
+  "requestedUrl": "https://bsis.ca.gov/",
+  "timestamp": 1708250116175,
+  "ranks": {
+    "hundos": 189,
+    "performance": 172,
+    "accessibility": 294,
+    "cumulative": 191
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "bestPractices": 0.78,
+    "seo": 0.99,
+    "total": 321
+  },
+  "firstContentfulPaint": 6214.005000000001,
+  "firstMeaningfulPaint": 8702.957000000002,
+  "speedIndex": 11731.942261626133,
+  "largestContentfulPaint": 15677.1405,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17707.3475,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 24.113,
+  "weight": {
+    "summary": "84 requests • 2.8 MiB",
+    "total": 2939331,
+    "image": 803172,
+    "imageCount": 33,
+    "script": 1252037,
+    "scriptCount": 26,
+    "document": 61552,
+    "font": 175529,
+    "fontCount": 5,
+    "stylesheet": 625642,
+    "stylesheetCount": 8,
+    "thirdParty": 833140,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 234,
+    "+weight.total": 191,
+    "-weight.document": 302,
+    "+weight.document": 117,
+    "-weight.script": 301,
+    "+weight.script": 120,
+    "-weight.image": 188,
+    "+weight.image": 230,
+    "-weight.font": 183,
+    "+weight.font": 174,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 66,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 320
+  },
+  "axe": {
+    "passes": 1306,
+    "violations": 35
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://calosba.ca.gov/",
+  "requestedUrl": "https://calosba.ca.gov/",
+  "timestamp": 1708252517789,
+  "ranks": {
+    "hundos": 306,
+    "performance": 391,
+    "accessibility": 367,
+    "cumulative": 306
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.32,
+    "accessibility": 0.82,
+    "bestPractices": 0.89,
+    "seo": 0.91,
+    "total": 294
+  },
+  "firstContentfulPaint": 4218.86,
+  "firstMeaningfulPaint": 5503.571999999999,
+  "speedIndex": 16029.764009422372,
+  "largestContentfulPaint": 13495.021999999997,
+  "totalBlockingTime": 28,
+  "cumulativeLayoutShift": 1.1316470156667064,
+  "timeToInteractive": 27104.376941085815,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 2099.0879999999997,
+  "weight": {
+    "summary": "140 requests • 6.5 MiB",
+    "total": 6836336,
+    "image": 4220597,
+    "imageCount": 61,
+    "script": 1187432,
+    "scriptCount": 38,
+    "document": 274473,
+    "font": 874185,
+    "fontCount": 9,
+    "stylesheet": 277979,
+    "stylesheetCount": 22,
+    "thirdParty": 965749,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 348,
+    "+weight.total": 77,
+    "-weight.document": 403,
+    "+weight.document": 16,
+    "-weight.script": 290,
+    "+weight.script": 131,
+    "-weight.image": 350,
+    "+weight.image": 68,
+    "-weight.font": 346,
+    "+weight.font": 11,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 410,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 284
+  },
+  "axe": {
+    "passes": 1205,
+    "violations": 23
+  }
+}

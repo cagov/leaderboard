@@ -1,0 +1,67 @@
+{
+  "url": "https://scdd.ca.gov/",
+  "requestedUrl": "https://scdd.ca.gov/",
+  "timestamp": 1708275173849,
+  "ranks": {
+    "hundos": 226,
+    "performance": 336,
+    "accessibility": 205,
+    "cumulative": 224
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.39,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 314
+  },
+  "firstContentfulPaint": 3410.9530000000004,
+  "firstMeaningfulPaint": 4507.9529999999995,
+  "speedIndex": 6357.503029656953,
+  "largestContentfulPaint": 20199.953,
+  "totalBlockingTime": 53,
+  "cumulativeLayoutShift": 0.7676723617471422,
+  "timeToInteractive": 9692.453000000001,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 108.465,
+  "weight": {
+    "summary": "92 requests • 3.5 MiB",
+    "total": 3682999,
+    "image": 1832989,
+    "imageCount": 16,
+    "script": 934621,
+    "scriptCount": 32,
+    "document": 38082,
+    "font": 677344,
+    "fontCount": 9,
+    "stylesheet": 236473,
+    "stylesheetCount": 26,
+    "thirdParty": 890802,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 273,
+    "+weight.total": 152,
+    "-weight.document": 216,
+    "+weight.document": 203,
+    "-weight.script": 224,
+    "+weight.script": 197,
+    "-weight.image": 279,
+    "+weight.image": 139,
+    "-weight.font": 331,
+    "+weight.font": 26,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 208,
+    "-totalBlockingTime": 81,
+    "-largestContentfulPaint": 356
+  },
+  "axe": {
+    "passes": 919,
+    "violations": 5
+  }
+}

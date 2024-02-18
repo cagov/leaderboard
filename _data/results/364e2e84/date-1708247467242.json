@@ -1,0 +1,67 @@
+{
+  "url": "https://ssc.ca.gov/",
+  "requestedUrl": "https://ssc.ca.gov/",
+  "timestamp": 1708277559376,
+  "ranks": {
+    "hundos": 325,
+    "performance": 256,
+    "accessibility": 331,
+    "cumulative": 327
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.85,
+    "bestPractices": 0.7,
+    "seo": 0.85,
+    "total": 287
+  },
+  "firstContentfulPaint": 3341.5725,
+  "firstMeaningfulPaint": 3745.9475,
+  "speedIndex": 7492.679912664107,
+  "largestContentfulPaint": 5222.521000000001,
+  "totalBlockingTime": 57,
+  "cumulativeLayoutShift": 0.4733971371766144,
+  "timeToInteractive": 12758.76025,
+  "maxPotentialFirstInputDelay": 91,
+  "timeToFirstByte": 1016.5759999999999,
+  "weight": {
+    "summary": "72 requests • 6.7 MiB",
+    "total": 7066583,
+    "image": 618963,
+    "imageCount": 22,
+    "script": 523008,
+    "scriptCount": 19,
+    "document": 17861,
+    "font": 619552,
+    "fontCount": 6,
+    "stylesheet": 226442,
+    "stylesheetCount": 16,
+    "thirdParty": 5413266,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 354,
+    "+weight.total": 71,
+    "-weight.document": 78,
+    "+weight.document": 341,
+    "-weight.script": 119,
+    "+weight.script": 302,
+    "-weight.image": 163,
+    "+weight.image": 255,
+    "-weight.font": 319,
+    "+weight.font": 38,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 384,
+    "-totalBlockingTime": 86,
+    "-largestContentfulPaint": 56
+  },
+  "axe": {
+    "passes": 1040,
+    "violations": 12
+  }
+}

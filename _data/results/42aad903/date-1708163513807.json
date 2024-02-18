@@ -1,0 +1,67 @@
+{
+  "url": "https://wwd.ca.gov/",
+  "requestedUrl": "https://wwd.ca.gov/",
+  "timestamp": 1708198007826,
+  "ranks": {
+    "hundos": 123,
+    "performance": 155,
+    "accessibility": 140,
+    "cumulative": 125
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.57,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 338
+  },
+  "firstContentfulPaint": 4759.7635199999995,
+  "firstMeaningfulPaint": 4878.760189999999,
+  "speedIndex": 8037.00150579635,
+  "largestContentfulPaint": 13504.397220000003,
+  "totalBlockingTime": 7.5,
+  "cumulativeLayoutShift": 0.08396360291576549,
+  "timeToInteractive": 13275.410539999999,
+  "maxPotentialFirstInputDelay": 57,
+  "timeToFirstByte": 30.525,
+  "weight": {
+    "summary": "119 requests • 2.3 MiB",
+    "total": 2396278,
+    "image": 1129383,
+    "imageCount": 11,
+    "script": 528576,
+    "scriptCount": 54,
+    "document": 39176,
+    "font": 428073,
+    "fontCount": 9,
+    "stylesheet": 166093,
+    "stylesheetCount": 29,
+    "thirdParty": 605612,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 181,
+    "+weight.total": 242,
+    "-weight.document": 232,
+    "+weight.document": 187,
+    "-weight.script": 118,
+    "+weight.script": 302,
+    "-weight.image": 232,
+    "+weight.image": 185,
+    "-weight.font": 289,
+    "+weight.font": 62,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 79,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 250
+  },
+  "axe": {
+    "passes": 617,
+    "violations": 8
+  }
+}

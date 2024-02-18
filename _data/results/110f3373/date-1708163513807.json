@@ -1,0 +1,67 @@
+{
+  "url": "https://arts.ca.gov/",
+  "requestedUrl": "https://cac.ca.gov/",
+  "timestamp": 1708166501997,
+  "ranks": {
+    "hundos": 304,
+    "performance": 173,
+    "accessibility": 366,
+    "cumulative": 305
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.81,
+    "bestPractices": 0.74,
+    "seo": 0.84,
+    "total": 294
+  },
+  "firstContentfulPaint": 4988.76192,
+  "firstMeaningfulPaint": 5545.26192,
+  "speedIndex": 5758.003804240281,
+  "largestContentfulPaint": 10354.261919999999,
+  "totalBlockingTime": 85.5,
+  "cumulativeLayoutShift": 0.14521013764058702,
+  "timeToInteractive": 8852.76192,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 61.977000000000004,
+  "weight": {
+    "summary": "57 requests • 1.8 MiB",
+    "total": 1879522,
+    "image": 917785,
+    "imageCount": 22,
+    "script": 441326,
+    "scriptCount": 14,
+    "document": 55682,
+    "font": 164366,
+    "fontCount": 6,
+    "stylesheet": 296798,
+    "stylesheetCount": 7,
+    "thirdParty": 313380,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 136,
+    "+weight.total": 287,
+    "-weight.document": 293,
+    "+weight.document": 126,
+    "-weight.script": 96,
+    "+weight.script": 324,
+    "-weight.image": 202,
+    "+weight.image": 215,
+    "-weight.font": 168,
+    "+weight.font": 183,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 141,
+    "-totalBlockingTime": 125,
+    "-largestContentfulPaint": 199
+  },
+  "axe": {
+    "passes": 981,
+    "violations": 12
+  }
+}

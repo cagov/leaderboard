@@ -1,0 +1,67 @@
+{
+  "url": "https://ww2.arb.ca.gov/",
+  "requestedUrl": "https://arb.ca.gov/",
+  "timestamp": 1708248470437,
+  "ranks": {
+    "hundos": 153,
+    "performance": 104,
+    "accessibility": 298,
+    "cumulative": 155
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.64,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.84,
+    "total": 331
+  },
+  "firstContentfulPaint": 3561.5189999999993,
+  "firstMeaningfulPaint": 4207.8814999999995,
+  "speedIndex": 5640.21860010021,
+  "largestContentfulPaint": 14959.734,
+  "totalBlockingTime": 4.999999999999545,
+  "cumulativeLayoutShift": 0.008807040979654995,
+  "timeToInteractive": 4316.5154999999995,
+  "maxPotentialFirstInputDelay": 54.999999999999545,
+  "timeToFirstByte": 26.873,
+  "weight": {
+    "summary": "40 requests • 3.6 MiB",
+    "total": 3735059,
+    "image": 3079448,
+    "imageCount": 12,
+    "script": 423959,
+    "scriptCount": 11,
+    "document": 19685,
+    "font": 128374,
+    "fontCount": 5,
+    "stylesheet": 65866,
+    "stylesheetCount": 5,
+    "thirdParty": 355453,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 278,
+    "+weight.total": 147,
+    "-weight.document": 93,
+    "+weight.document": 326,
+    "-weight.script": 93,
+    "+weight.script": 328,
+    "-weight.image": 324,
+    "+weight.image": 94,
+    "-weight.font": 122,
+    "+weight.font": 235,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 77,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 306
+  },
+  "axe": {
+    "passes": 529,
+    "violations": 6
+  }
+}

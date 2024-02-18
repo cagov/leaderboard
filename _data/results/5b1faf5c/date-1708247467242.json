@@ -1,0 +1,67 @@
+{
+  "url": "https://green.ca.gov/",
+  "requestedUrl": "https://green.ca.gov/",
+  "timestamp": 1708265403092,
+  "ranks": {
+    "hundos": 62,
+    "performance": 161,
+    "accessibility": 31,
+    "cumulative": 62
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.99,
+    "total": 351
+  },
+  "firstContentfulPaint": 1941.6165,
+  "firstMeaningfulPaint": 7265.552,
+  "speedIndex": 4950.741559046544,
+  "largestContentfulPaint": 5954.937999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.36137946532472703,
+  "timeToInteractive": 7265.552,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 101.84499999999997,
+  "weight": {
+    "summary": "29 requests • 1.5 MiB",
+    "total": 1596586,
+    "image": 481856,
+    "imageCount": 13,
+    "script": 138314,
+    "scriptCount": 6,
+    "document": 7450,
+    "font": 924166,
+    "fontCount": 4,
+    "stylesheet": 44243,
+    "stylesheetCount": 3,
+    "thirdParty": 53226,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 105,
+    "+weight.total": 320,
+    "-weight.document": 19,
+    "+weight.document": 400,
+    "-weight.script": 25,
+    "+weight.script": 396,
+    "-weight.image": 123,
+    "+weight.image": 295,
+    "-weight.font": 349,
+    "+weight.font": 8,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 194,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 68
+  },
+  "axe": {
+    "passes": 295,
+    "violations": 1
+  }
+}

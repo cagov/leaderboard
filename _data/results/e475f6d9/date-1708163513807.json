@@ -1,0 +1,67 @@
+{
+  "url": "https://energysafety.ca.gov/",
+  "requestedUrl": "https://energysafety.ca.gov/",
+  "timestamp": 1708179435815,
+  "ranks": {
+    "hundos": 324,
+    "performance": 407,
+    "accessibility": 160,
+    "cumulative": 324
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.27,
+    "accessibility": 0.95,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 287
+  },
+  "firstContentfulPaint": 8521.839800000002,
+  "firstMeaningfulPaint": 8763.512,
+  "speedIndex": 15065.821710715032,
+  "largestContentfulPaint": 15772.0058,
+  "totalBlockingTime": 205,
+  "cumulativeLayoutShift": 0.9742539332501177,
+  "timeToInteractive": 30196.938650915527,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 76.269,
+  "weight": {
+    "summary": "109 requests • 4.9 MiB",
+    "total": 5096846,
+    "image": 652052,
+    "imageCount": 22,
+    "script": 2686491,
+    "scriptCount": 42,
+    "document": 351209,
+    "font": 532938,
+    "fontCount": 11,
+    "stylesheet": 821671,
+    "stylesheetCount": 15,
+    "thirdParty": 1749198,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 317,
+    "+weight.total": 106,
+    "-weight.document": 412,
+    "+weight.document": 7,
+    "-weight.script": 402,
+    "+weight.script": 18,
+    "-weight.image": 166,
+    "+weight.image": 251,
+    "-weight.font": 302,
+    "+weight.font": 49,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 162,
+    "-totalBlockingTime": 184,
+    "-largestContentfulPaint": 277
+  },
+  "axe": {
+    "passes": 970,
+    "violations": 7
+  }
+}

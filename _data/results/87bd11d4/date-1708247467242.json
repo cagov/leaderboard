@@ -1,0 +1,67 @@
+{
+  "url": "https://rcb.ca.gov/",
+  "requestedUrl": "https://rcb.ca.gov/",
+  "timestamp": 1708273659675,
+  "ranks": {
+    "hundos": 105,
+    "performance": 204,
+    "accessibility": 133,
+    "cumulative": 105
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 342
+  },
+  "firstContentfulPaint": 2635.7009999999996,
+  "firstMeaningfulPaint": 3449.2777499999997,
+  "speedIndex": 3961.937863093817,
+  "largestContentfulPaint": 5873.676,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.5083626503885114,
+  "timeToInteractive": 5632.754000000001,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 16.510000000000005,
+  "weight": {
+    "summary": "52 requests • 1.3 MiB",
+    "total": 1414879,
+    "image": 583260,
+    "imageCount": 29,
+    "script": 589106,
+    "scriptCount": 13,
+    "document": 24051,
+    "font": 64280,
+    "fontCount": 1,
+    "stylesheet": 152762,
+    "stylesheetCount": 3,
+    "thirdParty": 488972,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 91,
+    "+weight.total": 334,
+    "-weight.document": 116,
+    "+weight.document": 303,
+    "-weight.script": 130,
+    "+weight.script": 291,
+    "-weight.image": 144,
+    "+weight.image": 274,
+    "-weight.font": 43,
+    "+weight.font": 314,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 28,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 200
+  },
+  "axe": {
+    "passes": 519,
+    "violations": 8
+  }
+}

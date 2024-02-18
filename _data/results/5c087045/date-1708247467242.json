@@ -1,0 +1,67 @@
+{
+  "url": "https://caleprocure.ca.gov/pages/index.aspx",
+  "requestedUrl": "https://caleprocure.ca.gov/",
+  "timestamp": 1708251399911,
+  "ranks": {
+    "hundos": 264,
+    "performance": 375,
+    "accessibility": 73,
+    "cumulative": 266
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.34,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.92,
+    "total": 304
+  },
+  "firstContentfulPaint": 5284.318840000001,
+  "firstMeaningfulPaint": 8192.84762,
+  "speedIndex": 8333.668214812496,
+  "largestContentfulPaint": 16053.37224,
+  "totalBlockingTime": 9,
+  "cumulativeLayoutShift": 0.706619105830595,
+  "timeToInteractive": 15591.841380000002,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 17.553,
+  "weight": {
+    "summary": "49 requests • 3.1 MiB",
+    "total": 3214509,
+    "image": 886100,
+    "imageCount": 9,
+    "script": 1431316,
+    "scriptCount": 15,
+    "document": 14898,
+    "font": 541438,
+    "fontCount": 5,
+    "stylesheet": 288537,
+    "stylesheetCount": 3,
+    "thirdParty": 348450,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 252,
+    "+weight.total": 173,
+    "-weight.document": 67,
+    "+weight.document": 352,
+    "-weight.script": 321,
+    "+weight.script": 100,
+    "-weight.image": 198,
+    "+weight.image": 220,
+    "-weight.font": 309,
+    "+weight.font": 48,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 37,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 324
+  },
+  "axe": {
+    "passes": 282,
+    "violations": 4
+  }
+}

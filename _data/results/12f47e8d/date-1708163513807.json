@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sbac.ca.gov/",
+  "requestedUrl": "https://sbac.ca.gov/",
+  "timestamp": 1708191007447,
+  "ranks": {
+    "hundos": 191,
+    "performance": 178,
+    "accessibility": 295,
+    "cumulative": 192
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 321
+  },
+  "firstContentfulPaint": 7386.081,
+  "firstMeaningfulPaint": 8526.264000000001,
+  "speedIndex": 9641.016045415481,
+  "largestContentfulPaint": 16190.6025,
+  "totalBlockingTime": 106,
+  "cumulativeLayoutShift": 0.053246629494916986,
+  "timeToInteractive": 16401.689882171635,
+  "maxPotentialFirstInputDelay": 200,
+  "timeToFirstByte": 94.57899999999998,
+  "weight": {
+    "summary": "76 requests • 2.7 MiB",
+    "total": 2828585,
+    "image": 1150695,
+    "imageCount": 17,
+    "script": 1343871,
+    "scriptCount": 25,
+    "document": 47127,
+    "font": 181582,
+    "fontCount": 6,
+    "stylesheet": 102670,
+    "stylesheetCount": 18,
+    "thirdParty": 2810187,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 226,
+    "+weight.total": 197,
+    "-weight.document": 272,
+    "+weight.document": 147,
+    "-weight.script": 310,
+    "+weight.script": 110,
+    "-weight.image": 234,
+    "+weight.image": 183,
+    "-weight.font": 181,
+    "+weight.font": 170,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 183,
+    "-totalBlockingTime": 142,
+    "-largestContentfulPaint": 282
+  },
+  "axe": {
+    "passes": 646,
+    "violations": 37
+  }
+}

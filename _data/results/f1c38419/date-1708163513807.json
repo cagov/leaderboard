@@ -1,0 +1,67 @@
+{
+  "url": "https://hollister.ca.gov/",
+  "requestedUrl": "https://hollister.ca.gov/",
+  "timestamp": 1708182267194,
+  "ranks": {
+    "hundos": 235,
+    "performance": 123,
+    "accessibility": 263,
+    "cumulative": 236
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 0.9,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 311
+  },
+  "firstContentfulPaint": 2929.6348799999996,
+  "firstMeaningfulPaint": 2929.6348799999996,
+  "speedIndex": 8364.7815167739,
+  "largestContentfulPaint": 32291.842560000005,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.0005476626802247956,
+  "timeToInteractive": 18446.14544,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 743.7090000000001,
+  "weight": {
+    "summary": "111 requests • 6.1 MiB",
+    "total": 6416231,
+    "image": 4454524,
+    "imageCount": 24,
+    "script": 1060231,
+    "scriptCount": 44,
+    "document": 47351,
+    "font": 114578,
+    "fontCount": 6,
+    "stylesheet": 694602,
+    "stylesheetCount": 25,
+    "thirdParty": 844309,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 345,
+    "+weight.total": 78,
+    "-weight.document": 274,
+    "+weight.document": 145,
+    "-weight.script": 270,
+    "+weight.script": 150,
+    "-weight.image": 356,
+    "+weight.image": 61,
+    "-weight.font": 109,
+    "+weight.font": 242,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 374,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 399
+  },
+  "axe": {
+    "passes": 1788,
+    "violations": 95
+  }
+}

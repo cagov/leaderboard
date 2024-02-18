@@ -1,0 +1,67 @@
+{
+  "url": "https://dcn-cde.ca.gov/",
+  "requestedUrl": "https://dcn-cde.ca.gov/",
+  "timestamp": 1708176215226,
+  "ranks": {
+    "hundos": 44,
+    "performance": 96,
+    "accessibility": 10,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.97,
+    "total": 355
+  },
+  "firstContentfulPaint": 3050.0477499999997,
+  "firstMeaningfulPaint": 3050.0477499999997,
+  "speedIndex": 4946.39535394279,
+  "largestContentfulPaint": 6671.132,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.10707817816719176,
+  "timeToInteractive": 4173.42125,
+  "maxPotentialFirstInputDelay": 58,
+  "timeToFirstByte": 118.78099999999998,
+  "weight": {
+    "summary": "49 requests • 1.0 MiB",
+    "total": 1069986,
+    "image": 402606,
+    "imageCount": 17,
+    "script": 605663,
+    "scriptCount": 17,
+    "document": 11429,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 47454,
+    "stylesheetCount": 9,
+    "thirdParty": 622894,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 56,
+    "+weight.total": 367,
+    "-weight.document": 47,
+    "+weight.document": 372,
+    "-weight.script": 131,
+    "+weight.script": 289,
+    "-weight.image": 105,
+    "+weight.image": 312,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 227,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 113
+  },
+  "axe": {
+    "passes": 565,
+    "violations": 0
+  }
+}

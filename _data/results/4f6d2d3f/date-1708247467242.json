@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sunnyvale.ca.gov/",
+  "requestedUrl": "https://sunnyvale.ca.gov/",
+  "timestamp": 1708278137891,
+  "ranks": {
+    "hundos": 328,
+    "performance": 230,
+    "accessibility": 139,
+    "cumulative": 328
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.5,
+    "accessibility": 0.96,
+    "bestPractices": 0.59,
+    "seo": 0.82,
+    "total": 287
+  },
+  "firstContentfulPaint": 9027.525499999996,
+  "firstMeaningfulPaint": 9027.525499999996,
+  "speedIndex": 9027.525499999996,
+  "largestContentfulPaint": 9438.786499999995,
+  "totalBlockingTime": 308.91299999999865,
+  "cumulativeLayoutShift": 0.04352745305457171,
+  "timeToInteractive": 9824.699499999997,
+  "maxPotentialFirstInputDelay": 498,
+  "timeToFirstByte": 26.894000000000002,
+  "weight": {
+    "summary": "68 requests • 2.5 MiB",
+    "total": 2581977,
+    "image": 713202,
+    "imageCount": 37,
+    "script": 1463053,
+    "scriptCount": 12,
+    "document": 15733,
+    "font": 266295,
+    "fontCount": 3,
+    "stylesheet": 122525,
+    "stylesheetCount": 11,
+    "thirdParty": 381524,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 201,
+    "+weight.total": 224,
+    "-weight.document": 71,
+    "+weight.document": 348,
+    "-weight.script": 325,
+    "+weight.script": 96,
+    "-weight.image": 176,
+    "+weight.image": 242,
+    "-weight.font": 230,
+    "+weight.font": 127,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 78,
+    "-totalBlockingTime": 198,
+    "-largestContentfulPaint": 233
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

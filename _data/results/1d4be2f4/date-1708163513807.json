@@ -1,0 +1,67 @@
+{
+  "url": "https://dre.ca.gov/",
+  "requestedUrl": "https://dre.ca.gov/",
+  "timestamp": 1708177896380,
+  "ranks": {
+    "hundos": 229,
+    "performance": 59,
+    "accessibility": 383,
+    "cumulative": 233
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.74,
+    "accessibility": 0.8,
+    "bestPractices": 0.89,
+    "seo": 0.69,
+    "total": 312
+  },
+  "firstContentfulPaint": 2376.54284,
+  "firstMeaningfulPaint": 2376.54284,
+  "speedIndex": 2469.7265741796705,
+  "largestContentfulPaint": 5394.857760000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.11271272491746467,
+  "timeToInteractive": 2376.54284,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 14.661999999999992,
+  "weight": {
+    "summary": "78 requests • 1.4 MiB",
+    "total": 1449834,
+    "image": 888627,
+    "imageCount": 47,
+    "script": 479995,
+    "scriptCount": 17,
+    "document": 40974,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 40078,
+    "stylesheetCount": 12,
+    "thirdParty": 376687,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 92,
+    "+weight.total": 331,
+    "-weight.document": 248,
+    "+weight.document": 171,
+    "-weight.script": 105,
+    "+weight.script": 315,
+    "-weight.image": 199,
+    "+weight.image": 218,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 20,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 82
+  },
+  "axe": {
+    "passes": 781,
+    "violations": 40
+  }
+}

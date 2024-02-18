@@ -1,0 +1,67 @@
+{
+  "url": "https://opr.ca.gov/",
+  "requestedUrl": "https://opr.ca.gov/",
+  "timestamp": 1708187783396,
+  "ranks": {
+    "hundos": 53,
+    "performance": 91,
+    "accessibility": 235,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.66,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.96,
+    "total": 353
+  },
+  "firstContentfulPaint": 3081.171849999999,
+  "firstMeaningfulPaint": 3081.171849999999,
+  "speedIndex": 5693.655823471794,
+  "largestContentfulPaint": 4604.191239999999,
+  "totalBlockingTime": 34.5,
+  "cumulativeLayoutShift": 0.16742051995655063,
+  "timeToInteractive": 5921.207144999999,
+  "maxPotentialFirstInputDelay": 80,
+  "timeToFirstByte": 28.58499999999998,
+  "weight": {
+    "summary": "73 requests • 3.1 MiB",
+    "total": 3270974,
+    "image": 1910533,
+    "imageCount": 18,
+    "script": 420398,
+    "scriptCount": 9,
+    "document": 16109,
+    "font": 629730,
+    "fontCount": 28,
+    "stylesheet": 158622,
+    "stylesheetCount": 6,
+    "thirdParty": 906456,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 259,
+    "+weight.total": 164,
+    "-weight.document": 73,
+    "+weight.document": 346,
+    "-weight.script": 89,
+    "+weight.script": 331,
+    "-weight.image": 284,
+    "+weight.image": 133,
+    "-weight.font": 318,
+    "+weight.font": 33,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 75,
+    "-totalBlockingTime": 60,
+    "-largestContentfulPaint": 59
+  },
+  "axe": {
+    "passes": 699,
+    "violations": 10
+  }
+}

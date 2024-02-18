@@ -1,0 +1,67 @@
+{
+  "url": "https://www.treasurer.ca.gov/",
+  "requestedUrl": "https://treasurer.ca.gov/",
+  "timestamp": 1708195853868,
+  "ranks": {
+    "hundos": 65,
+    "performance": 39,
+    "accessibility": 116,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.82,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 350
+  },
+  "firstContentfulPaint": 2742.8244999999997,
+  "firstMeaningfulPaint": 2742.8244999999997,
+  "speedIndex": 2742.8244999999997,
+  "largestContentfulPaint": 4073.2245000000003,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0.01931251204731025,
+  "timeToInteractive": 4494.5745,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 112.618,
+  "weight": {
+    "summary": "58 requests • 544.8 KiB",
+    "total": 557926,
+    "image": 326497,
+    "imageCount": 33,
+    "script": 177820,
+    "scriptCount": 11,
+    "document": 9969,
+    "font": 13711,
+    "fontCount": 1,
+    "stylesheet": 9102,
+    "stylesheetCount": 5,
+    "thirdParty": 187494,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 20,
+    "+weight.total": 403,
+    "-weight.document": 36,
+    "+weight.document": 383,
+    "-weight.script": 31,
+    "+weight.script": 389,
+    "-weight.image": 90,
+    "+weight.image": 327,
+    "-weight.font": 1,
+    "+weight.font": 350,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 222,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 45
+  },
+  "axe": {
+    "passes": 507,
+    "violations": 3
+  }
+}

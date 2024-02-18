@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cpuc.ca.gov/",
+  "requestedUrl": "https://cpuc.ca.gov/",
+  "timestamp": 1708174759085,
+  "ranks": {
+    "hundos": 151,
+    "performance": 226,
+    "accessibility": 148,
+    "cumulative": 150
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 332
+  },
+  "firstContentfulPaint": 2718.5200000000004,
+  "firstMeaningfulPaint": 3767.277,
+  "speedIndex": 8066.485928404766,
+  "largestContentfulPaint": 18650.281000000014,
+  "totalBlockingTime": 48,
+  "cumulativeLayoutShift": 0.24589156975377885,
+  "timeToInteractive": 12811.195000000007,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 417.09800000000007,
+  "weight": {
+    "summary": "42 requests • 3.2 MiB",
+    "total": 3404391,
+    "image": 2569576,
+    "imageCount": 9,
+    "script": 633806,
+    "scriptCount": 19,
+    "document": 14275,
+    "font": 62750,
+    "fontCount": 4,
+    "stylesheet": 123447,
+    "stylesheetCount": 7,
+    "thirdParty": 539280,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 262,
+    "+weight.total": 161,
+    "-weight.document": 64,
+    "+weight.document": 355,
+    "-weight.script": 144,
+    "+weight.script": 276,
+    "-weight.image": 311,
+    "+weight.image": 106,
+    "-weight.font": 32,
+    "+weight.font": 319,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 319,
+    "-totalBlockingTime": 76,
+    "-largestContentfulPaint": 300
+  },
+  "axe": {
+    "passes": 783,
+    "violations": 0
+  }
+}

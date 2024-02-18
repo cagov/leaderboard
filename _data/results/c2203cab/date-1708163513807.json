@@ -1,0 +1,67 @@
+{
+  "url": "https://mbc.ca.gov/",
+  "requestedUrl": "https://mbc.ca.gov/",
+  "timestamp": 1708185299262,
+  "ranks": {
+    "hundos": 131,
+    "performance": 235,
+    "accessibility": 114,
+    "cumulative": 130
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.5,
+    "accessibility": 0.98,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 336
+  },
+  "firstContentfulPaint": 4901.284,
+  "firstMeaningfulPaint": 4901.284,
+  "speedIndex": 5047.441852935944,
+  "largestContentfulPaint": 6600.322,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2709737731541441,
+  "timeToInteractive": 4901.284,
+  "maxPotentialFirstInputDelay": 42,
+  "timeToFirstByte": 31.67500000000001,
+  "weight": {
+    "summary": "39 requests • 1.2 MiB",
+    "total": 1269465,
+    "image": 373011,
+    "imageCount": 16,
+    "script": 506403,
+    "scriptCount": 6,
+    "document": 57419,
+    "font": 232581,
+    "fontCount": 7,
+    "stylesheet": 97562,
+    "stylesheetCount": 4,
+    "thirdParty": 416561,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 69,
+    "+weight.total": 354,
+    "-weight.document": 299,
+    "+weight.document": 120,
+    "-weight.script": 113,
+    "+weight.script": 307,
+    "-weight.image": 100,
+    "+weight.image": 317,
+    "-weight.font": 210,
+    "+weight.font": 141,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 84,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 110
+  },
+  "axe": {
+    "passes": 612,
+    "violations": 2
+  }
+}

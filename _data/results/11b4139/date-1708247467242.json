@@ -1,0 +1,67 @@
+{
+  "url": "https://bvnpt.ca.gov/",
+  "requestedUrl": "https://bvnpt.ca.gov/",
+  "timestamp": 1708250350767,
+  "ranks": {
+    "hundos": 60,
+    "performance": 134,
+    "accessibility": 27,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.61,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.97,
+    "total": 351
+  },
+  "firstContentfulPaint": 3528.0249999999996,
+  "firstMeaningfulPaint": 4026.308,
+  "speedIndex": 8138.975699721203,
+  "largestContentfulPaint": 9334.346000000001,
+  "totalBlockingTime": 16.5,
+  "cumulativeLayoutShift": 0.009792740096461418,
+  "timeToInteractive": 6918.387000000001,
+  "maxPotentialFirstInputDelay": 79,
+  "timeToFirstByte": 40.025000000000006,
+  "weight": {
+    "summary": "59 requests • 1.3 MiB",
+    "total": 1325131,
+    "image": 413559,
+    "imageCount": 32,
+    "script": 595780,
+    "scriptCount": 16,
+    "document": 47787,
+    "font": 64299,
+    "fontCount": 1,
+    "stylesheet": 202366,
+    "stylesheetCount": 4,
+    "thirdParty": 491634,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 75,
+    "+weight.total": 350,
+    "-weight.document": 270,
+    "+weight.document": 149,
+    "-weight.script": 133,
+    "+weight.script": 288,
+    "-weight.image": 110,
+    "+weight.image": 308,
+    "-weight.font": 44,
+    "+weight.font": 313,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 113,
+    "-totalBlockingTime": 33,
+    "-largestContentfulPaint": 231
+  },
+  "axe": {
+    "passes": 867,
+    "violations": 1
+  }
+}

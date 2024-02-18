@@ -1,0 +1,67 @@
+{
+  "url": "https://cchcs.ca.gov/",
+  "requestedUrl": "https://cchcs.ca.gov/",
+  "timestamp": 1708253946819,
+  "ranks": {
+    "hundos": 113,
+    "performance": 311,
+    "accessibility": 61,
+    "cumulative": 111
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.41,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 341
+  },
+  "firstContentfulPaint": 2947.676,
+  "firstMeaningfulPaint": 5908.176,
+  "speedIndex": 5014.970569386591,
+  "largestContentfulPaint": 5990.176,
+  "totalBlockingTime": 278.5,
+  "cumulativeLayoutShift": 0.6999027444135328,
+  "timeToInteractive": 10148.348,
+  "maxPotentialFirstInputDelay": 221,
+  "timeToFirstByte": 423.636,
+  "weight": {
+    "summary": "77 requests • 1.7 MiB",
+    "total": 1806632,
+    "image": 13707,
+    "imageCount": 10,
+    "script": 926624,
+    "scriptCount": 24,
+    "document": 30081,
+    "font": 640055,
+    "fontCount": 7,
+    "stylesheet": 195302,
+    "stylesheetCount": 27,
+    "thirdParty": 831603,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 128,
+    "+weight.total": 297,
+    "-weight.document": 150,
+    "+weight.document": 269,
+    "-weight.script": 219,
+    "+weight.script": 202,
+    "-weight.image": 6,
+    "+weight.image": 412,
+    "-weight.font": 324,
+    "+weight.font": 33,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 317,
+    "-totalBlockingTime": 192,
+    "-largestContentfulPaint": 201
+  },
+  "axe": {
+    "passes": 367,
+    "violations": 3
+  }
+}

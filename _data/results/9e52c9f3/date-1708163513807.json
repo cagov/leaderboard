@@ -1,0 +1,67 @@
+{
+  "url": "https://alpha.ca.gov/",
+  "requestedUrl": "https://alpha.ca.gov/",
+  "timestamp": 1708164237574,
+  "ranks": {
+    "hundos": 1,
+    "performance": 9,
+    "accessibility": 48,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1584.866,
+  "firstMeaningfulPaint": 1584.866,
+  "speedIndex": 1584.866,
+  "largestContentfulPaint": 1584.866,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1584.866,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 79.893,
+  "weight": {
+    "summary": "3 requests • 15.5 KiB",
+    "total": 15861,
+    "image": 0,
+    "imageCount": 0,
+    "script": 2830,
+    "scriptCount": 1,
+    "document": 1286,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11745,
+    "stylesheetCount": 1,
+    "thirdParty": 2830,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 421,
+    "-weight.document": 2,
+    "+weight.document": 417,
+    "-weight.script": 2,
+    "+weight.script": 418,
+    "-weight.image": 1,
+    "+weight.image": 417,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 169,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 12,
+    "violations": 2
+  }
+}

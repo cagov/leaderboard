@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdss.ca.gov/inforesources/community-care/continuing-care",
+  "requestedUrl": "https://calccrc.ca.gov/",
+  "timestamp": 1708251097614,
+  "ranks": {
+    "hundos": 387,
+    "performance": 170,
+    "accessibility": 215,
+    "cumulative": 385
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "bestPractices": 0.33,
+    "seo": 0.87,
+    "total": 268
+  },
+  "firstContentfulPaint": 9701.814000000002,
+  "firstMeaningfulPaint": 9701.814000000002,
+  "speedIndex": 10860.516480391769,
+  "largestContentfulPaint": 10273.972000000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9701.814000000002,
+  "maxPotentialFirstInputDelay": 29.5,
+  "timeToFirstByte": 796.026,
+  "weight": {
+    "summary": "59 requests • 5.3 MiB",
+    "total": 5581993,
+    "image": 4338129,
+    "imageCount": 13,
+    "script": 814227,
+    "scriptCount": 23,
+    "document": 38016,
+    "font": 64216,
+    "fontCount": 1,
+    "stylesheet": 326315,
+    "stylesheetCount": 15,
+    "thirdParty": 402288,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 329,
+    "+weight.total": 96,
+    "-weight.document": 215,
+    "+weight.document": 204,
+    "-weight.script": 180,
+    "+weight.script": 241,
+    "-weight.image": 351,
+    "+weight.image": 67,
+    "-weight.font": 42,
+    "+weight.font": 315,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 369,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 147
+  },
+  "axe": {
+    "passes": 625,
+    "violations": 9
+  }
+}

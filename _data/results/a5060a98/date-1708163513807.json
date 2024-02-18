@@ -1,0 +1,67 @@
+{
+  "url": "https://covid19.ca.gov/",
+  "requestedUrl": "https://covid19.ca.gov/",
+  "timestamp": 1708174441577,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 151,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 384
+  },
+  "firstContentfulPaint": 1012,
+  "firstMeaningfulPaint": 1012,
+  "speedIndex": 1012,
+  "largestContentfulPaint": 1230,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.019150865349086714,
+  "timeToInteractive": 1012,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 9.983999999999995,
+  "weight": {
+    "summary": "17 requests • 159.6 KiB",
+    "total": 163420,
+    "image": 40889,
+    "imageCount": 2,
+    "script": 14761,
+    "scriptCount": 3,
+    "document": 37348,
+    "font": 60378,
+    "fontCount": 5,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 74686,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 418,
+    "-weight.document": 219,
+    "+weight.document": 200,
+    "-weight.script": 5,
+    "+weight.script": 415,
+    "-weight.image": 15,
+    "+weight.image": 402,
+    "-weight.font": 28,
+    "+weight.font": 323,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 557,
+    "violations": 2
+  }
+}

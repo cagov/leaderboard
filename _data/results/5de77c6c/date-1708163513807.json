@@ -1,0 +1,67 @@
+{
+  "url": "https://www.csac.ca.gov/",
+  "requestedUrl": "https://csac.ca.gov/",
+  "timestamp": 1708174900008,
+  "ranks": {
+    "hundos": 334,
+    "performance": 317,
+    "accessibility": 141,
+    "cumulative": 334
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 0.96,
+    "bestPractices": 0.56,
+    "seo": 0.9,
+    "total": 284
+  },
+  "firstContentfulPaint": 4425.885200000001,
+  "firstMeaningfulPaint": 8123.90088,
+  "speedIndex": 11571.85997513359,
+  "largestContentfulPaint": 20266.57439,
+  "totalBlockingTime": 354.5000000000018,
+  "cumulativeLayoutShift": 0.15594753638612288,
+  "timeToInteractive": 21547.15855,
+  "maxPotentialFirstInputDelay": 214,
+  "timeToFirstByte": 14.537000000000003,
+  "weight": {
+    "summary": "93 requests • 3.8 MiB",
+    "total": 4031640,
+    "image": 1669618,
+    "imageCount": 23,
+    "script": 1878550,
+    "scriptCount": 19,
+    "document": 62400,
+    "font": 243620,
+    "fontCount": 16,
+    "stylesheet": 130790,
+    "stylesheetCount": 18,
+    "thirdParty": 2153768,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 293,
+    "+weight.total": 130,
+    "-weight.document": 311,
+    "+weight.document": 108,
+    "-weight.script": 371,
+    "+weight.script": 49,
+    "-weight.image": 267,
+    "+weight.image": 150,
+    "-weight.font": 220,
+    "+weight.font": 131,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 362
+  },
+  "axe": {
+    "passes": 3714,
+    "violations": 9
+  }
+}

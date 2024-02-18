@@ -1,0 +1,67 @@
+{
+  "url": "https://www.simivalley.org/",
+  "requestedUrl": "https://simivalley.ca.gov/",
+  "timestamp": 1708276411848,
+  "ranks": {
+    "hundos": 368,
+    "performance": 278,
+    "accessibility": 195,
+    "cumulative": 368
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.93,
+    "bestPractices": 0.56,
+    "seo": 0.81,
+    "total": 275
+  },
+  "firstContentfulPaint": 9302.146,
+  "firstMeaningfulPaint": 9302.146,
+  "speedIndex": 9302.146,
+  "largestContentfulPaint": 13050.152999999998,
+  "totalBlockingTime": 443.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14513.796499999997,
+  "maxPotentialFirstInputDelay": 451,
+  "timeToFirstByte": 20.188000000000002,
+  "weight": {
+    "summary": "101 requests • 5.2 MiB",
+    "total": 5424566,
+    "image": 3430106,
+    "imageCount": 55,
+    "script": 1706706,
+    "scriptCount": 23,
+    "document": 28643,
+    "font": 103792,
+    "fontCount": 3,
+    "stylesheet": 153469,
+    "stylesheetCount": 13,
+    "thirdParty": 410276,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 325,
+    "+weight.total": 100,
+    "-weight.document": 138,
+    "+weight.document": 281,
+    "-weight.script": 356,
+    "+weight.script": 65,
+    "-weight.image": 332,
+    "+weight.image": 86,
+    "-weight.font": 87,
+    "+weight.font": 270,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 51,
+    "-totalBlockingTime": 207,
+    "-largestContentfulPaint": 278
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

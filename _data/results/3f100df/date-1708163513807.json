@@ -1,0 +1,67 @@
+{
+  "url": "https://careereducation.gov.ca.gov/",
+  "requestedUrl": "https://postsecondarycouncil.ca.gov/",
+  "timestamp": 1708188950597,
+  "ranks": {
+    "hundos": 128,
+    "performance": 310,
+    "accessibility": 153,
+    "cumulative": 127
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 337
+  },
+  "firstContentfulPaint": 3238.091,
+  "firstMeaningfulPaint": 4209.523,
+  "speedIndex": 6409.693942774871,
+  "largestContentfulPaint": 17596.081,
+  "totalBlockingTime": 38,
+  "cumulativeLayoutShift": 0.5048886658233963,
+  "timeToInteractive": 12923.862000000001,
+  "maxPotentialFirstInputDelay": 96,
+  "timeToFirstByte": 107.869,
+  "weight": {
+    "summary": "60 requests • 2.7 MiB",
+    "total": 2869255,
+    "image": 1587335,
+    "imageCount": 11,
+    "script": 695694,
+    "scriptCount": 18,
+    "document": 28557,
+    "font": 370276,
+    "fontCount": 3,
+    "stylesheet": 186079,
+    "stylesheetCount": 19,
+    "thirdParty": 587184,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 231,
+    "+weight.total": 192,
+    "-weight.document": 141,
+    "+weight.document": 278,
+    "-weight.script": 156,
+    "+weight.script": 264,
+    "-weight.image": 261,
+    "+weight.image": 156,
+    "-weight.font": 269,
+    "+weight.font": 82,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 209,
+    "-totalBlockingTime": 65,
+    "-largestContentfulPaint": 292
+  },
+  "axe": {
+    "passes": 293,
+    "violations": 2
+  }
+}

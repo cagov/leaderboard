@@ -1,0 +1,67 @@
+{
+  "url": "https://naturopathic.ca.gov/",
+  "requestedUrl": "https://naturopathic.ca.gov/",
+  "timestamp": 1708186800164,
+  "ranks": {
+    "hundos": 156,
+    "performance": 250,
+    "accessibility": 234,
+    "cumulative": 158
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.48,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 330
+  },
+  "firstContentfulPaint": 4939.736000000001,
+  "firstMeaningfulPaint": 5911.2675,
+  "speedIndex": 6824.563057340809,
+  "largestContentfulPaint": 7923.500000000001,
+  "totalBlockingTime": 15.5,
+  "cumulativeLayoutShift": 0.23948026537108488,
+  "timeToInteractive": 7916.608499999999,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 33.703,
+  "weight": {
+    "summary": "54 requests • 2.7 MiB",
+    "total": 2800280,
+    "image": 630465,
+    "imageCount": 20,
+    "script": 1280731,
+    "scriptCount": 15,
+    "document": 35890,
+    "font": 242040,
+    "fontCount": 5,
+    "stylesheet": 609663,
+    "stylesheetCount": 4,
+    "thirdParty": 733897,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 225,
+    "+weight.total": 198,
+    "-weight.document": 212,
+    "+weight.document": 207,
+    "-weight.script": 305,
+    "+weight.script": 115,
+    "-weight.image": 164,
+    "+weight.image": 253,
+    "-weight.font": 217,
+    "+weight.font": 134,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 88,
+    "-totalBlockingTime": 30,
+    "-largestContentfulPaint": 141
+  },
+  "axe": {
+    "passes": 604,
+    "violations": 9
+  }
+}

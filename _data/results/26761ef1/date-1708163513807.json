@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sos.ca.gov/",
+  "requestedUrl": "https://sos.ca.gov/",
+  "timestamp": 1708193269351,
+  "ranks": {
+    "hundos": 126,
+    "performance": 264,
+    "accessibility": 2,
+    "cumulative": 123
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 338
+  },
+  "firstContentfulPaint": 2106.0585,
+  "firstMeaningfulPaint": 2106.0585,
+  "speedIndex": 11571.131909232317,
+  "largestContentfulPaint": 4050.6125,
+  "totalBlockingTime": 2479.83,
+  "cumulativeLayoutShift": 0.034266951511008684,
+  "timeToInteractive": 20789.387249999992,
+  "maxPotentialFirstInputDelay": 1333.9999999999982,
+  "timeToFirstByte": 56.553999999999995,
+  "weight": {
+    "summary": "177 requests • 3.8 MiB",
+    "total": 4020094,
+    "image": 2149016,
+    "imageCount": 129,
+    "script": 1586742,
+    "scriptCount": 31,
+    "document": 158695,
+    "font": 77393,
+    "fontCount": 1,
+    "stylesheet": 44070,
+    "stylesheetCount": 8,
+    "thirdParty": 2069829,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 291,
+    "+weight.total": 132,
+    "-weight.document": 379,
+    "+weight.document": 40,
+    "-weight.script": 339,
+    "+weight.script": 81,
+    "-weight.image": 293,
+    "+weight.image": 124,
+    "-weight.font": 56,
+    "+weight.font": 295,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 135,
+    "-totalBlockingTime": 257,
+    "-largestContentfulPaint": 308
+  },
+  "axe": {
+    "passes": 1050,
+    "violations": 0
+  }
+}

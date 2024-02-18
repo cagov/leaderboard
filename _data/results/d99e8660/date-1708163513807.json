@@ -1,0 +1,67 @@
+{
+  "url": "https://bellcanyoncsd.ca.gov/",
+  "requestedUrl": "https://bellcanyoncsd.ca.gov/",
+  "timestamp": 1708165209036,
+  "ranks": {
+    "hundos": 143,
+    "performance": 166,
+    "accessibility": 174,
+    "cumulative": 143
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 0.84,
+    "total": 334
+  },
+  "firstContentfulPaint": 7463.91725,
+  "firstMeaningfulPaint": 7463.91725,
+  "speedIndex": 9125.547707019854,
+  "largestContentfulPaint": 12302.191250000003,
+  "totalBlockingTime": 104,
+  "cumulativeLayoutShift": 0.014600001755270526,
+  "timeToInteractive": 12746.233250000001,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 108.737,
+  "weight": {
+    "summary": "33 requests • 2.2 MiB",
+    "total": 2262904,
+    "image": 719620,
+    "imageCount": 13,
+    "script": 1354279,
+    "scriptCount": 9,
+    "document": 30999,
+    "font": 62252,
+    "fontCount": 2,
+    "stylesheet": 95009,
+    "stylesheetCount": 6,
+    "thirdParty": 1255711,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 170,
+    "+weight.total": 253,
+    "-weight.document": 161,
+    "+weight.document": 258,
+    "-weight.script": 314,
+    "+weight.script": 106,
+    "-weight.image": 175,
+    "+weight.image": 242,
+    "-weight.font": 31,
+    "+weight.font": 320,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 213,
+    "-totalBlockingTime": 140,
+    "-largestContentfulPaint": 235
+  },
+  "axe": {
+    "passes": 745,
+    "violations": 3
+  }
+}

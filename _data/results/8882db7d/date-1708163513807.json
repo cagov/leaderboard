@@ -1,0 +1,67 @@
+{
+  "url": "https://registertovote.ca.gov/",
+  "requestedUrl": "https://registertovote.ca.gov/",
+  "timestamp": 1708190014852,
+  "ranks": {
+    "hundos": 16,
+    "performance": 19,
+    "accessibility": 80,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.97,
+    "total": 367
+  },
+  "firstContentfulPaint": 1967.115,
+  "firstMeaningfulPaint": 2125.197,
+  "speedIndex": 2027.528938979919,
+  "largestContentfulPaint": 3073.689,
+  "totalBlockingTime": 60,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3152.149,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 76.484,
+  "weight": {
+    "summary": "26 requests • 446.3 KiB",
+    "total": 457044,
+    "image": 91942,
+    "imageCount": 10,
+    "script": 294028,
+    "scriptCount": 6,
+    "document": 5923,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 63718,
+    "stylesheetCount": 4,
+    "thirdParty": 178483,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 405,
+    "-weight.document": 12,
+    "+weight.document": 407,
+    "-weight.script": 56,
+    "+weight.script": 364,
+    "-weight.image": 34,
+    "+weight.image": 383,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 163,
+    "-totalBlockingTime": 94,
+    "-largestContentfulPaint": 27
+  },
+  "axe": {
+    "passes": 491,
+    "violations": 6
+  }
+}

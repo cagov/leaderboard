@@ -1,0 +1,67 @@
+{
+  "url": "https://sjrc.ca.gov/",
+  "requestedUrl": "https://sjrc.ca.gov/",
+  "timestamp": 1708192519670,
+  "ranks": {
+    "hundos": 252,
+    "performance": 275,
+    "accessibility": 312,
+    "cumulative": 250
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.86,
+    "bestPractices": 0.78,
+    "seo": 0.97,
+    "total": 307
+  },
+  "firstContentfulPaint": 7165.076,
+  "firstMeaningfulPaint": 8983.07,
+  "speedIndex": 9405.983502216613,
+  "largestContentfulPaint": 11564.301749999999,
+  "totalBlockingTime": 16.5,
+  "cumulativeLayoutShift": 0.2158804269796925,
+  "timeToInteractive": 12039.526999999998,
+  "maxPotentialFirstInputDelay": 83,
+  "timeToFirstByte": 468.288,
+  "weight": {
+    "summary": "51 requests • 2.1 MiB",
+    "total": 2236680,
+    "image": 224475,
+    "imageCount": 18,
+    "script": 969939,
+    "scriptCount": 13,
+    "document": 38583,
+    "font": 110024,
+    "fontCount": 3,
+    "stylesheet": 892779,
+    "stylesheetCount": 11,
+    "thirdParty": 413000,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 166,
+    "+weight.total": 257,
+    "-weight.document": 227,
+    "+weight.document": 192,
+    "-weight.script": 243,
+    "+weight.script": 177,
+    "-weight.image": 61,
+    "+weight.image": 356,
+    "-weight.font": 98,
+    "+weight.font": 253,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 332,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 221
+  },
+  "axe": {
+    "passes": 419,
+    "violations": 6
+  }
+}

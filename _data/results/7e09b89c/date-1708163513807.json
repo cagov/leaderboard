@@ -1,0 +1,67 @@
+{
+  "url": "https://cannabis.ca.gov/",
+  "requestedUrl": "https://cannabis.ca.gov/",
+  "timestamp": 1708169347678,
+  "ranks": {
+    "hundos": 7,
+    "performance": 28,
+    "accessibility": 60,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 381
+  },
+  "firstContentfulPaint": 1182.502,
+  "firstMeaningfulPaint": 1182.502,
+  "speedIndex": 3526.0214955884094,
+  "largestContentfulPaint": 3666.342,
+  "totalBlockingTime": 44,
+  "cumulativeLayoutShift": 0.002360678947276156,
+  "timeToInteractive": 8696.601999999999,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 46.605000000000004,
+  "weight": {
+    "summary": "38 requests • 1.1 MiB",
+    "total": 1164002,
+    "image": 246118,
+    "imageCount": 10,
+    "script": 695034,
+    "scriptCount": 19,
+    "document": 152705,
+    "font": 69178,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 803708,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 62,
+    "+weight.total": 361,
+    "-weight.document": 374,
+    "+weight.document": 45,
+    "-weight.script": 155,
+    "+weight.script": 265,
+    "-weight.image": 68,
+    "+weight.image": 349,
+    "-weight.font": 50,
+    "+weight.font": 301,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 121,
+    "-totalBlockingTime": 72,
+    "-largestContentfulPaint": 36
+  },
+  "axe": {
+    "passes": 552,
+    "violations": 3
+  }
+}

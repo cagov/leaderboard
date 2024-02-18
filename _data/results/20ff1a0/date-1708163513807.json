@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gov.ca.gov/",
+  "requestedUrl": "https://gov.ca.gov/",
+  "timestamp": 1708181020978,
+  "ranks": {
+    "hundos": 146,
+    "performance": 331,
+    "accessibility": 59,
+    "cumulative": 144
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 333
+  },
+  "firstContentfulPaint": 3358.24,
+  "firstMeaningfulPaint": 5758.24,
+  "speedIndex": 13069.338683859607,
+  "largestContentfulPaint": 9358.24,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 0.4103850847275077,
+  "timeToInteractive": 18790.739999999998,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 62.114,
+  "weight": {
+    "summary": "89 requests • 37.7 MiB",
+    "total": 39494765,
+    "image": 1647315,
+    "imageCount": 20,
+    "script": 820430,
+    "scriptCount": 30,
+    "document": 37210,
+    "font": 681368,
+    "fontCount": 8,
+    "stylesheet": 167074,
+    "stylesheetCount": 16,
+    "thirdParty": 36862048,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 419,
+    "+weight.total": 4,
+    "-weight.document": 216,
+    "+weight.document": 203,
+    "-weight.script": 181,
+    "+weight.script": 239,
+    "-weight.image": 264,
+    "+weight.image": 153,
+    "-weight.font": 330,
+    "+weight.font": 21,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 142,
+    "-totalBlockingTime": 107,
+    "-largestContentfulPaint": 178
+  },
+  "axe": {
+    "passes": 571,
+    "violations": 3
+  }
+}

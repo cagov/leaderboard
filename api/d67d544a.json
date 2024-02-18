@@ -1,43 +1,43 @@
 {
   "url": "https://climateassessment.ca.gov/",
   "requestedUrl": "https://climateassessment.ca.gov/",
-  "timestamp": 1707769102197,
+  "timestamp": 1708256244680,
   "ranks": {
-    "hundos": 25,
-    "performance": 99,
-    "accessibility": 34,
-    "cumulative": 25
+    "hundos": 27,
+    "performance": 112,
+    "accessibility": 33,
+    "cumulative": 26
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.65,
+    "performance": 0.63,
     "accessibility": 1,
     "bestPractices": 1,
     "seo": 0.99,
-    "total": 364
+    "total": 362
   },
-  "firstContentfulPaint": 2464.815,
-  "firstMeaningfulPaint": 2865.9955,
-  "speedIndex": 3839.978880446505,
-  "largestContentfulPaint": 10105.843,
+  "firstContentfulPaint": 2702.371,
+  "firstMeaningfulPaint": 3057.7529999999997,
+  "speedIndex": 4710.358290952459,
+  "largestContentfulPaint": 10060.047499999997,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0.13371164383389955,
-  "timeToInteractive": 2865.9955,
-  "maxPotentialFirstInputDelay": 33,
-  "timeToFirstByte": 31.89999999999999,
+  "timeToInteractive": 3057.7529999999997,
+  "maxPotentialFirstInputDelay": 36,
+  "timeToFirstByte": 63.92200000000001,
   "weight": {
     "summary": "47 requests • 1.4 MiB",
-    "total": 1484006,
-    "image": 858668,
+    "total": 1484131,
+    "image": 858709,
     "imageCount": 13,
-    "script": 395620,
+    "script": 395798,
     "scriptCount": 15,
     "document": 40015,
-    "font": 78617,
+    "font": 78635,
     "fontCount": 3,
-    "stylesheet": 110531,
+    "stylesheet": 110421,
     "stylesheetCount": 13,
-    "thirdParty": 265775,
+    "thirdParty": 265871,
     "thirdPartyCount": 7
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 95,
-    "+weight.total": 331,
-    "-weight.document": 240,
-    "+weight.document": 183,
-    "-weight.script": 85,
+    "+weight.total": 330,
+    "-weight.document": 239,
+    "+weight.document": 180,
+    "-weight.script": 84,
     "+weight.script": 337,
-    "-weight.image": 196,
-    "+weight.image": 226,
-    "-weight.font": 62,
-    "+weight.font": 297,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 98,
+    "-weight.image": 195,
+    "+weight.image": 223,
+    "-weight.font": 61,
+    "+weight.font": 296,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 147,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 190
+    "-largestContentfulPaint": 140
   },
   "axe": {
     "passes": 267,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 24,
+    "performance": 92,
+    "accessibility": 33,
+    "cumulative": 24
   }
 }

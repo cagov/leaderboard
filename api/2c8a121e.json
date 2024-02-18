@@ -1,12 +1,12 @@
 {
   "url": "https://barbercosmo.ca.gov/",
   "requestedUrl": "https://barbercosmo.ca.gov/",
-  "timestamp": 1707761775961,
+  "timestamp": 1708248886791,
   "ranks": {
-    "hundos": 124,
-    "performance": 160,
-    "accessibility": 185,
-    "cumulative": 127
+    "hundos": 125,
+    "performance": 159,
+    "accessibility": 183,
+    "cumulative": 128
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.98,
     "total": 338
   },
-  "firstContentfulPaint": 6604.197750000001,
-  "firstMeaningfulPaint": 8664.455000000002,
-  "speedIndex": 8224.617120659505,
-  "largestContentfulPaint": 22857.109999999993,
-  "totalBlockingTime": 1.5,
+  "firstContentfulPaint": 6531.884,
+  "firstMeaningfulPaint": 8784.436000000002,
+  "speedIndex": 8575.938879046924,
+  "largestContentfulPaint": 22323.47599999999,
+  "totalBlockingTime": 10.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 8857.998,
-  "maxPotentialFirstInputDelay": 53,
-  "timeToFirstByte": 27.471000000000004,
+  "timeToInteractive": 9298.988999999998,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 31.33,
   "weight": {
     "summary": "54 requests • 3.9 MiB",
-    "total": 4037956,
-    "image": 2142592,
+    "total": 4066320,
+    "image": 2171084,
     "imageCount": 22,
-    "script": 1099100,
+    "script": 1098939,
     "scriptCount": 14,
-    "document": 38307,
-    "font": 166961,
+    "document": 38313,
+    "font": 166963,
     "fontCount": 5,
-    "stylesheet": 589795,
+    "stylesheet": 589817,
     "stylesheetCount": 6,
-    "thirdParty": 548444,
+    "thirdParty": 548288,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 289,
-    "+weight.total": 137,
-    "-weight.document": 223,
-    "+weight.document": 200,
-    "-weight.script": 278,
-    "+weight.script": 144,
-    "-weight.image": 291,
-    "+weight.image": 131,
-    "-weight.font": 179,
+    "-weight.total": 294,
+    "+weight.total": 131,
+    "-weight.document": 218,
+    "+weight.document": 201,
+    "-weight.script": 279,
+    "+weight.script": 142,
+    "-weight.image": 293,
+    "+weight.image": 125,
+    "-weight.font": 177,
     "+weight.font": 180,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 82,
-    "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 366
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 90,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 369
   },
   "axe": {
     "passes": 811,
     "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 117,
+    "performance": 151,
+    "accessibility": 182,
+    "cumulative": 118
   }
 }

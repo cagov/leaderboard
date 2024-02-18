@@ -1,43 +1,43 @@
 {
   "url": "https://dublin.ca.gov/",
   "requestedUrl": "https://dublin.ca.gov/",
-  "timestamp": 1707774954188,
+  "timestamp": 1708262111340,
   "ranks": {
-    "hundos": 390,
-    "performance": 311,
-    "accessibility": 358,
-    "cumulative": 391
+    "hundos": 393,
+    "performance": 298,
+    "accessibility": 357,
+    "cumulative": 392
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.42,
+    "performance": 0.43,
     "accessibility": 0.83,
     "bestPractices": 0.52,
     "seo": 0.85,
-    "total": 262
+    "total": 263
   },
-  "firstContentfulPaint": 2441.0725,
-  "firstMeaningfulPaint": 2441.0725,
-  "speedIndex": 8907.656493532904,
-  "largestContentfulPaint": 14790.091999999997,
-  "totalBlockingTime": 971,
+  "firstContentfulPaint": 2438.54,
+  "firstMeaningfulPaint": 2438.54,
+  "speedIndex": 8366.074464259156,
+  "largestContentfulPaint": 15052.7165,
+  "totalBlockingTime": 917.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 17897.565499999997,
-  "maxPotentialFirstInputDelay": 546,
-  "timeToFirstByte": 561.044,
+  "timeToInteractive": 18097.728000000003,
+  "maxPotentialFirstInputDelay": 536,
+  "timeToFirstByte": 274.175,
   "weight": {
     "summary": "121 requests • 2.7 MiB",
-    "total": 2811577,
-    "image": 588551,
+    "total": 2849552,
+    "image": 596682,
     "imageCount": 45,
-    "script": 1972010,
+    "script": 1999970,
     "scriptCount": 38,
-    "document": 34116,
-    "font": 37116,
+    "document": 34401,
+    "font": 37115,
     "fontCount": 3,
-    "stylesheet": 123516,
+    "stylesheet": 125046,
     "stylesheetCount": 10,
-    "thirdParty": 1774167,
+    "thirdParty": 1783885,
     "thirdPartyCount": 11
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 225,
-    "+weight.total": 201,
+    "-weight.total": 227,
+    "+weight.total": 198,
     "-weight.document": 192,
-    "+weight.document": 231,
-    "-weight.script": 377,
-    "+weight.script": 45,
-    "-weight.image": 142,
-    "+weight.image": 280,
+    "+weight.document": 227,
+    "-weight.script": 380,
+    "+weight.script": 41,
+    "-weight.image": 150,
+    "+weight.image": 268,
     "-weight.font": 17,
-    "+weight.font": 342,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 339,
-    "-totalBlockingTime": 237,
-    "-largestContentfulPaint": 337
+    "+weight.font": 340,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 271,
+    "-totalBlockingTime": 231,
+    "-largestContentfulPaint": 308
   },
   "axe": {
-    "passes": 1626,
+    "passes": 1666,
     "violations": 31
+  },
+  "previousRanks": {
+    "hundos": 405,
+    "performance": 371,
+    "accessibility": 354,
+    "cumulative": 405
   }
 }

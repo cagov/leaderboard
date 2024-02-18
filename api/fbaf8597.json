@@ -1,12 +1,12 @@
 {
   "url": "https://solanosr2s.ca.gov/",
   "requestedUrl": "https://solanosr2s.ca.gov/",
-  "timestamp": 1707790006477,
+  "timestamp": 1708277162532,
   "ranks": {
-    "hundos": 202,
-    "performance": 313,
-    "accessibility": 206,
-    "cumulative": 203
+    "hundos": 204,
+    "performance": 309,
+    "accessibility": 203,
+    "cumulative": 204
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.91,
     "total": 319
   },
-  "firstContentfulPaint": 3488.2250000000004,
-  "firstMeaningfulPaint": 5416.0340000000015,
-  "speedIndex": 10571.837427816266,
-  "largestContentfulPaint": 17364.176000000003,
-  "totalBlockingTime": 23,
-  "cumulativeLayoutShift": 0.3376633640573373,
-  "timeToInteractive": 20629.328000000005,
-  "maxPotentialFirstInputDelay": 96,
-  "timeToFirstByte": 617.358,
+  "firstContentfulPaint": 3493.8140000000008,
+  "firstMeaningfulPaint": 4288.636,
+  "speedIndex": 12519.656899308455,
+  "largestContentfulPaint": 20483.134250000003,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0.33838568267246677,
+  "timeToInteractive": 20492.2815,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 688.172,
   "weight": {
-    "summary": "104 requests • 5.8 MiB",
-    "total": 6120238,
-    "image": 5296193,
+    "summary": "106 requests • 5.9 MiB",
+    "total": 6146548,
+    "image": 5296197,
     "imageCount": 25,
-    "script": 471992,
-    "scriptCount": 42,
-    "document": 39758,
-    "font": 146853,
+    "script": 475389,
+    "scriptCount": 44,
+    "document": 39531,
+    "font": 146851,
     "fontCount": 4,
-    "stylesheet": 153694,
+    "stylesheet": 176399,
     "stylesheetCount": 23,
-    "thirdParty": 315756,
+    "thirdParty": 341835,
     "thirdPartyCount": 10
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 341,
-    "+weight.total": 85,
-    "-weight.document": 237,
-    "+weight.document": 186,
-    "-weight.script": 106,
+    "-weight.total": 343,
+    "+weight.total": 82,
+    "-weight.document": 230,
+    "+weight.document": 189,
+    "-weight.script": 105,
     "+weight.script": 316,
-    "-weight.image": 370,
-    "+weight.image": 52,
-    "-weight.font": 151,
-    "+weight.font": 208,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 345,
-    "-totalBlockingTime": 40,
-    "-largestContentfulPaint": 286
+    "-weight.image": 368,
+    "+weight.image": 50,
+    "-weight.font": 148,
+    "+weight.font": 209,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 356,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 359
   },
   "axe": {
     "passes": 610,
     "violations": 63
+  },
+  "previousRanks": {
+    "hundos": 200,
+    "performance": 316,
+    "accessibility": 203,
+    "cumulative": 200
   }
 }

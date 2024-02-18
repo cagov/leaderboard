@@ -1,43 +1,43 @@
 {
   "url": "https://www.colma.ca.gov/",
   "requestedUrl": "https://colma.ca.gov/",
-  "timestamp": 1707770273323,
+  "timestamp": 1708257445489,
   "ranks": {
-    "hundos": 226,
-    "performance": 368,
-    "accessibility": 294,
-    "cumulative": 226
+    "hundos": 236,
+    "performance": 340,
+    "accessibility": 326,
+    "cumulative": 236
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.36,
-    "accessibility": 0.88,
-    "bestPractices": 1,
+    "performance": 0.39,
+    "accessibility": 0.86,
+    "bestPractices": 0.96,
     "seo": 0.91,
-    "total": 315
+    "total": 312
   },
-  "firstContentfulPaint": 4696.9228,
-  "firstMeaningfulPaint": 6607.348480000001,
-  "speedIndex": 9747.73089294444,
-  "largestContentfulPaint": 10167.997699999998,
-  "totalBlockingTime": 198.5,
-  "cumulativeLayoutShift": 0.39155189849479727,
-  "timeToInteractive": 13372.70492,
-  "maxPotentialFirstInputDelay": 106,
-  "timeToFirstByte": 1391.836,
+  "firstContentfulPaint": 4606.886,
+  "firstMeaningfulPaint": 4606.886,
+  "speedIndex": 9255.452758059822,
+  "largestContentfulPaint": 10182.911000000002,
+  "totalBlockingTime": 124,
+  "cumulativeLayoutShift": 0.3870841235738689,
+  "timeToInteractive": 13011.889000000001,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 1118.277,
   "weight": {
-    "summary": "172 requests • 2.3 MiB",
-    "total": 2419600,
-    "image": 593610,
-    "imageCount": 46,
-    "script": 1196939,
-    "scriptCount": 77,
-    "document": 54690,
-    "font": 373625,
-    "fontCount": 10,
-    "stylesheet": 168381,
-    "stylesheetCount": 27,
-    "thirdParty": 1627314,
+    "summary": "152 requests • 2.2 MiB",
+    "total": 2316695,
+    "image": 591623,
+    "imageCount": 43,
+    "script": 1167748,
+    "scriptCount": 69,
+    "document": 19419,
+    "font": 363027,
+    "fontCount": 8,
+    "stylesheet": 141979,
+    "stylesheetCount": 24,
+    "thirdParty": 1526273,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 185,
-    "+weight.total": 241,
-    "-weight.document": 290,
-    "+weight.document": 133,
-    "-weight.script": 290,
+    "-weight.total": 172,
+    "+weight.total": 253,
+    "-weight.document": 92,
+    "+weight.document": 327,
+    "-weight.script": 289,
     "+weight.script": 132,
-    "-weight.image": 147,
-    "+weight.image": 275,
-    "-weight.font": 278,
-    "+weight.font": 81,
-    "+weight.fontCount": 14,
-    "-timeToFirstByte": 394,
-    "-totalBlockingTime": 172,
-    "-largestContentfulPaint": 193
+    "-weight.image": 149,
+    "+weight.image": 269,
+    "-weight.font": 269,
+    "+weight.font": 88,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 388,
+    "-totalBlockingTime": 140,
+    "-largestContentfulPaint": 144
   },
   "axe": {
-    "passes": 1489,
-    "violations": 69
+    "passes": 1092,
+    "violations": 38
+  },
+  "previousRanks": {
+    "hundos": 231,
+    "performance": 339,
+    "accessibility": 325,
+    "cumulative": 232
   }
 }

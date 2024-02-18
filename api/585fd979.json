@@ -1,12 +1,12 @@
 {
   "url": "https://granada.ca.gov/",
   "requestedUrl": "https://granada.ca.gov/",
-  "timestamp": 1707778126853,
+  "timestamp": 1708265255265,
   "ranks": {
-    "hundos": 137,
-    "performance": 75,
-    "accessibility": 366,
-    "cumulative": 136
+    "hundos": 139,
+    "performance": 74,
+    "accessibility": 364,
+    "cumulative": 140
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,26 +16,26 @@
     "seo": 0.85,
     "total": 336
   },
-  "firstContentfulPaint": 2860.1865,
-  "firstMeaningfulPaint": 2860.1865,
-  "speedIndex": 2860.1865,
-  "largestContentfulPaint": 14860.1865,
-  "totalBlockingTime": 1.5,
-  "cumulativeLayoutShift": 0.05735475285099365,
-  "timeToInteractive": 4096.873,
-  "maxPotentialFirstInputDelay": 53,
-  "timeToFirstByte": 461.462,
+  "firstContentfulPaint": 2858.124,
+  "firstMeaningfulPaint": 2858.124,
+  "speedIndex": 2929.918602907479,
+  "largestContentfulPaint": 14858.124,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.05739195369244273,
+  "timeToInteractive": 4093.748,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 458.034,
   "weight": {
     "summary": "35 requests • 2.7 MiB",
-    "total": 2854451,
-    "image": 2480607,
+    "total": 2854708,
+    "image": 2480609,
     "imageCount": 7,
-    "script": 130832,
+    "script": 131081,
     "scriptCount": 13,
-    "document": 18777,
-    "font": 66803,
+    "document": 18774,
+    "font": 66805,
     "fontCount": 2,
-    "stylesheet": 157432,
+    "stylesheet": 157439,
     "stylesheetCount": 11,
     "thirdParty": 48267,
     "thirdPartyCount": 1
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 228,
-    "+weight.total": 198,
-    "-weight.document": 88,
-    "+weight.document": 335,
-    "-weight.script": 22,
-    "+weight.script": 400,
-    "-weight.image": 301,
-    "+weight.image": 121,
-    "-weight.font": 50,
-    "+weight.font": 309,
-    "+weight.fontCount": 22,
+    "+weight.total": 197,
+    "-weight.document": 86,
+    "+weight.document": 333,
+    "-weight.script": 23,
+    "+weight.script": 398,
+    "-weight.image": 304,
+    "+weight.image": 114,
+    "-weight.font": 49,
+    "+weight.font": 308,
+    "+weight.fontCount": 24,
     "-timeToFirstByte": 325,
-    "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 268
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 304
   },
   "axe": {
     "passes": 860,
     "violations": 15
+  },
+  "previousRanks": {
+    "hundos": 147,
+    "performance": 86,
+    "accessibility": 361,
+    "cumulative": 147
   }
 }

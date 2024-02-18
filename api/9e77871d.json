@@ -1,43 +1,43 @@
 {
   "url": "https://hcrc.ca.gov/",
   "requestedUrl": "https://hcrc.ca.gov/",
-  "timestamp": 1707778567860,
+  "timestamp": 1708265695835,
   "ranks": {
     "hundos": 19,
-    "performance": 49,
-    "accessibility": 36,
+    "performance": 43,
+    "accessibility": 35,
     "cumulative": 19
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.78,
+    "performance": 0.79,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.92,
-    "total": 366
+    "total": 367
   },
-  "firstContentfulPaint": 1258.58,
-  "firstMeaningfulPaint": 1363.08,
-  "speedIndex": 2496.056825299016,
-  "largestContentfulPaint": 1617.58,
-  "totalBlockingTime": 4.5,
-  "cumulativeLayoutShift": 0.5231023232181256,
-  "timeToInteractive": 4692.58,
-  "maxPotentialFirstInputDelay": 59,
-  "timeToFirstByte": 56.496999999999986,
+  "firstContentfulPaint": 1262.125,
+  "firstMeaningfulPaint": 1262.125,
+  "speedIndex": 1262.125,
+  "largestContentfulPaint": 1412.125,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.5228482992543944,
+  "timeToInteractive": 1262.125,
+  "maxPotentialFirstInputDelay": 20,
+  "timeToFirstByte": 59.33200000000002,
   "weight": {
-    "summary": "13 requests • 570.0 KiB",
-    "total": 583718,
+    "summary": "13 requests • 570.1 KiB",
+    "total": 583823,
     "image": 28258,
     "imageCount": 2,
-    "script": 127972,
+    "script": 128280,
     "scriptCount": 3,
     "document": 7335,
-    "font": 347624,
+    "font": 347421,
     "fontCount": 4,
     "stylesheet": 72326,
     "stylesheetCount": 2,
-    "thirdParty": 88579,
+    "thirdParty": 88659,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 25,
-    "+weight.total": 401,
-    "-weight.document": 19,
-    "+weight.document": 404,
-    "-weight.script": 19,
-    "+weight.script": 403,
-    "-weight.image": 12,
-    "+weight.image": 410,
-    "-weight.font": 268,
-    "+weight.font": 91,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 142,
-    "-totalBlockingTime": 9,
-    "-largestContentfulPaint": 8
+    "-weight.total": 23,
+    "+weight.total": 402,
+    "-weight.document": 18,
+    "+weight.document": 401,
+    "-weight.script": 22,
+    "+weight.script": 399,
+    "-weight.image": 10,
+    "+weight.image": 408,
+    "-weight.font": 265,
+    "+weight.font": 92,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 138,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 3
   },
   "axe": {
     "passes": 216,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 18,
+    "performance": 44,
+    "accessibility": 35,
+    "cumulative": 18
   }
 }

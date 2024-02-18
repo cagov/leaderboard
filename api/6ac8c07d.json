@@ -1,43 +1,43 @@
 {
   "url": "https://www.eurekaca.gov/",
   "requestedUrl": "https://eureka.ca.gov/",
-  "timestamp": 1707776514951,
+  "timestamp": 1708263672034,
   "ranks": {
-    "hundos": 412,
-    "performance": 397,
-    "accessibility": 400,
-    "cumulative": 412
+    "hundos": 409,
+    "performance": 410,
+    "accessibility": 387,
+    "cumulative": 410
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.32,
-    "accessibility": 0.76,
-    "bestPractices": 0.48,
+    "performance": 0.27,
+    "accessibility": 0.8,
+    "bestPractices": 0.52,
     "seo": 0.92,
-    "total": 248
+    "total": 251
   },
-  "firstContentfulPaint": 3653.7165,
-  "firstMeaningfulPaint": 3653.7165,
-  "speedIndex": 24742.638064271345,
-  "largestContentfulPaint": 27807.27750000001,
-  "totalBlockingTime": 1595.5,
-  "cumulativeLayoutShift": 0.000022855336954820837,
-  "timeToInteractive": 29082.020000000004,
-  "maxPotentialFirstInputDelay": 1749,
-  "timeToFirstByte": 314.448,
+  "firstContentfulPaint": 3749.3244999999997,
+  "firstMeaningfulPaint": 3749.3244999999997,
+  "speedIndex": 22572.79793470086,
+  "largestContentfulPaint": 12649.144499999997,
+  "totalBlockingTime": 719.5,
+  "cumulativeLayoutShift": 0.25260141200893443,
+  "timeToInteractive": 27326.1475,
+  "maxPotentialFirstInputDelay": 400,
+  "timeToFirstByte": 328.909,
   "weight": {
-    "summary": "145 requests • 11.8 MiB",
-    "total": 12377006,
-    "image": 9926193,
+    "summary": "144 requests • 11.4 MiB",
+    "total": 11958653,
+    "image": 9547099,
     "imageCount": 35,
-    "script": 1945963,
-    "scriptCount": 66,
-    "document": 143411,
-    "font": 149030,
+    "script": 1903554,
+    "scriptCount": 65,
+    "document": 141671,
+    "font": 149034,
     "fontCount": 7,
-    "stylesheet": 183177,
+    "stylesheet": 187629,
     "stylesheetCount": 14,
-    "thirdParty": 2024014,
+    "thirdParty": 1981508,
     "thirdPartyCount": 16
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 404,
-    "+weight.total": 22,
-    "-weight.document": 372,
-    "+weight.document": 51,
+    "-weight.total": 402,
+    "+weight.total": 23,
+    "-weight.document": 365,
+    "+weight.document": 54,
     "-weight.script": 374,
-    "+weight.script": 48,
-    "-weight.image": 403,
-    "+weight.image": 19,
-    "-weight.font": 152,
-    "+weight.font": 207,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 291,
-    "-totalBlockingTime": 243,
-    "-largestContentfulPaint": 381
+    "+weight.script": 47,
+    "-weight.image": 398,
+    "+weight.image": 20,
+    "-weight.font": 149,
+    "+weight.font": 208,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 296,
+    "-totalBlockingTime": 227,
+    "-largestContentfulPaint": 273
   },
   "axe": {
-    "passes": 2167,
-    "violations": 68
+    "passes": 2149,
+    "violations": 66
+  },
+  "previousRanks": {
+    "hundos": 410,
+    "performance": 405,
+    "accessibility": 399,
+    "cumulative": 410
   }
 }

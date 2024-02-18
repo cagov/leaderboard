@@ -1,43 +1,43 @@
 {
   "url": "https://www.sunnyvale.ca.gov/",
   "requestedUrl": "https://sunnyvale.ca.gov/",
-  "timestamp": 1707790996220,
+  "timestamp": 1708278137891,
   "ranks": {
-    "hundos": 320,
-    "performance": 223,
-    "accessibility": 134,
-    "cumulative": 320
+    "hundos": 328,
+    "performance": 230,
+    "accessibility": 139,
+    "cumulative": 328
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.51,
+    "performance": 0.5,
     "accessibility": 0.96,
     "bestPractices": 0.59,
     "seo": 0.82,
-    "total": 288
+    "total": 287
   },
-  "firstContentfulPaint": 8982.280499999997,
-  "firstMeaningfulPaint": 8982.280499999997,
-  "speedIndex": 8982.280499999997,
-  "largestContentfulPaint": 9391.899499999996,
-  "totalBlockingTime": 269.6269999999995,
+  "firstContentfulPaint": 9027.525499999996,
+  "firstMeaningfulPaint": 9027.525499999996,
+  "speedIndex": 9027.525499999996,
+  "largestContentfulPaint": 9438.786499999995,
+  "totalBlockingTime": 308.91299999999865,
   "cumulativeLayoutShift": 0.04352745305457171,
-  "timeToInteractive": 10639.573999999997,
-  "maxPotentialFirstInputDelay": 466,
-  "timeToFirstByte": 19.331,
+  "timeToInteractive": 9824.699499999997,
+  "maxPotentialFirstInputDelay": 498,
+  "timeToFirstByte": 26.894000000000002,
   "weight": {
     "summary": "68 requests • 2.5 MiB",
-    "total": 2581635,
-    "image": 713207,
+    "total": 2581977,
+    "image": 713202,
     "imageCount": 37,
-    "script": 1462903,
+    "script": 1463053,
     "scriptCount": 12,
-    "document": 15542,
+    "document": 15733,
     "font": 266295,
     "fontCount": 3,
-    "stylesheet": 122521,
+    "stylesheet": 122525,
     "stylesheetCount": 11,
-    "thirdParty": 381376,
+    "thirdParty": 381524,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 203,
-    "+weight.total": 223,
+    "-weight.total": 201,
+    "+weight.total": 224,
     "-weight.document": 71,
-    "+weight.document": 352,
-    "-weight.script": 322,
-    "+weight.script": 100,
-    "-weight.image": 175,
-    "+weight.image": 247,
-    "-weight.font": 231,
-    "+weight.font": 128,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 54,
-    "-totalBlockingTime": 197,
-    "-largestContentfulPaint": 315
+    "+weight.document": 348,
+    "-weight.script": 325,
+    "+weight.script": 96,
+    "-weight.image": 176,
+    "+weight.image": 242,
+    "-weight.font": 230,
+    "+weight.font": 127,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 78,
+    "-totalBlockingTime": 198,
+    "-largestContentfulPaint": 233
   },
   "axe": {
     "passes": 8,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 319,
+    "performance": 228,
+    "accessibility": 136,
+    "cumulative": 319
   }
 }

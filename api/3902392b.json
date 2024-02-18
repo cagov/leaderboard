@@ -1,11 +1,11 @@
 {
   "url": "https://expositionpark.ca.gov/",
   "requestedUrl": "https://expositionpark.ca.gov/",
-  "timestamp": 1707776621754,
+  "timestamp": 1708263781599,
   "ranks": {
-    "hundos": 195,
-    "performance": 300,
-    "accessibility": 362,
+    "hundos": 199,
+    "performance": 297,
+    "accessibility": 360,
     "cumulative": 195
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.99,
     "total": 320
   },
-  "firstContentfulPaint": 5575.403,
-  "firstMeaningfulPaint": 6400.3705,
-  "speedIndex": 6977.272757535404,
-  "largestContentfulPaint": 7801.119500000001,
-  "totalBlockingTime": 0.5,
+  "firstContentfulPaint": 5585.137000000001,
+  "firstMeaningfulPaint": 6469.6085,
+  "speedIndex": 7940.287186427826,
+  "largestContentfulPaint": 7508.4839999999995,
+  "totalBlockingTime": 5,
   "cumulativeLayoutShift": 0.32227765001522185,
-  "timeToInteractive": 6400.3705,
-  "maxPotentialFirstInputDelay": 51,
-  "timeToFirstByte": 339.873,
+  "timeToInteractive": 6469.6085,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 1287.2069999999999,
   "weight": {
     "summary": "49 requests • 1.8 MiB",
-    "total": 1850990,
-    "image": 86641,
+    "total": 1851109,
+    "image": 86639,
     "imageCount": 15,
-    "script": 970682,
+    "script": 970705,
     "scriptCount": 13,
     "document": 42717,
     "font": 110025,
     "fontCount": 3,
-    "stylesheet": 640034,
+    "stylesheet": 640143,
     "stylesheetCount": 12,
-    "thirdParty": 412914,
+    "thirdParty": 413033,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 135,
-    "+weight.total": 291,
-    "-weight.document": 257,
-    "+weight.document": 166,
+    "-weight.total": 133,
+    "+weight.total": 292,
+    "-weight.document": 254,
+    "+weight.document": 165,
     "-weight.script": 244,
-    "+weight.script": 178,
-    "-weight.image": 33,
-    "+weight.image": 389,
-    "-weight.font": 103,
-    "+weight.font": 256,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 295,
-    "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 130
+    "+weight.script": 177,
+    "-weight.image": 31,
+    "+weight.image": 387,
+    "-weight.font": 98,
+    "+weight.font": 259,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 391,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 213
   },
   "axe": {
     "passes": 492,
     "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 192,
+    "performance": 290,
+    "accessibility": 357,
+    "cumulative": 190
   }
 }

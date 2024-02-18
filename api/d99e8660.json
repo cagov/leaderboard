@@ -1,67 +1,26 @@
 {
   "url": "https://bellcanyoncsd.ca.gov/",
-  "requestedUrl": "https://bellcanyoncsd.ca.gov/",
-  "timestamp": 1707762075357,
-  "ranks": {
-    "hundos": 169,
-    "performance": 171,
-    "accessibility": 176,
-    "cumulative": 168
-  },
-  "lighthouse": {
-    "version": "11.5.0",
-    "performance": 0.56,
-    "accessibility": 0.94,
-    "bestPractices": 1,
-    "seo": 0.77,
-    "total": 327
-  },
-  "firstContentfulPaint": 8436.89175,
-  "firstMeaningfulPaint": 8719.48775,
-  "speedIndex": 8436.89175,
-  "largestContentfulPaint": 13059.3945,
-  "totalBlockingTime": 113,
-  "cumulativeLayoutShift": 0.0032579426381067595,
-  "timeToInteractive": 12909.996,
-  "maxPotentialFirstInputDelay": 212,
-  "timeToFirstByte": 286.206,
-  "weight": {
-    "summary": "33 requests • 2.2 MiB",
-    "total": 2265527,
-    "image": 722069,
-    "imageCount": 13,
-    "script": 1354570,
-    "scriptCount": 9,
-    "document": 30896,
-    "font": 62252,
-    "fontCount": 2,
-    "stylesheet": 94999,
-    "stylesheetCount": 6,
-    "thirdParty": 1258354,
-    "thirdPartyCount": 8
-  },
-  "run": {
-    "number": 1,
-    "total": 1
-  },
+  "error": "Unknown error.",
   "sidequests": {
-    "-weight.total": 169,
-    "+weight.total": 257,
-    "-weight.document": 162,
-    "+weight.document": 261,
-    "-weight.script": 312,
-    "+weight.script": 110,
-    "-weight.image": 178,
-    "+weight.image": 244,
-    "-weight.font": 32,
-    "+weight.font": 327,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 283,
-    "-totalBlockingTime": 135,
-    "-largestContentfulPaint": 246
+    "-weight.total": 425,
+    "+weight.total": 425,
+    "-weight.document": 419,
+    "+weight.document": 419,
+    "-weight.script": 421,
+    "+weight.script": 421,
+    "-weight.image": 418,
+    "+weight.image": 418,
+    "-weight.font": 357,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 425,
+    "-totalBlockingTime": 251,
+    "-largestContentfulPaint": 424
   },
-  "axe": {
-    "passes": 745,
-    "violations": 3
+  "previousRanks": {
+    "hundos": 143,
+    "performance": 166,
+    "accessibility": 174,
+    "cumulative": 143
   }
 }

@@ -1,41 +1,41 @@
 {
   "url": "https://cnips.ca.gov/Splash.aspx",
   "requestedUrl": "https://cnips.ca.gov/",
-  "timestamp": 1707769946251,
+  "timestamp": 1708257118707,
   "ranks": {
-    "hundos": 152,
-    "performance": 10,
-    "accessibility": 168,
-    "cumulative": 152
+    "hundos": 158,
+    "performance": 11,
+    "accessibility": 169,
+    "cumulative": 159
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.99,
+    "performance": 0.98,
     "accessibility": 0.95,
     "bestPractices": 0.7,
     "seo": 0.67,
-    "total": 331
+    "total": 330
   },
-  "firstContentfulPaint": 1511.22,
-  "firstMeaningfulPaint": 1511.22,
-  "speedIndex": 1511.22,
-  "largestContentfulPaint": 1811.22,
+  "firstContentfulPaint": 1805.923,
+  "firstMeaningfulPaint": 1805.923,
+  "speedIndex": 1805.923,
+  "largestContentfulPaint": 2105.923,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0.01529623572716397,
-  "timeToInteractive": 1511.22,
+  "timeToInteractive": 1805.923,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 51.978,
+  "timeToFirstByte": 92.872,
   "weight": {
-    "summary": "33 requests • 232.2 KiB",
-    "total": 237796,
-    "image": 89574,
+    "summary": "33 requests • 270.9 KiB",
+    "total": 277364,
+    "image": 89592,
     "imageCount": 18,
-    "script": 116405,
+    "script": 152847,
     "scriptCount": 7,
-    "document": 24527,
+    "document": 24535,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 6915,
+    "stylesheet": 10015,
     "stylesheetCount": 2,
     "thirdParty": 0,
     "thirdPartyCount": 0
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 10,
-    "+weight.total": 416,
-    "-weight.document": 120,
-    "+weight.document": 303,
-    "-weight.script": 14,
-    "+weight.script": 408,
-    "-weight.image": 34,
-    "+weight.image": 388,
+    "-weight.total": 11,
+    "+weight.total": 414,
+    "-weight.document": 119,
+    "+weight.document": 300,
+    "-weight.script": 27,
+    "+weight.script": 394,
+    "-weight.image": 32,
+    "+weight.image": 386,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 137,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 178,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 12
+    "-largestContentfulPaint": 11
   },
   "axe": {
     "passes": 629,
     "violations": 18
+  },
+  "previousRanks": {
+    "hundos": 162,
+    "performance": 12,
+    "accessibility": 167,
+    "cumulative": 164
   }
 }

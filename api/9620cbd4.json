@@ -1,43 +1,43 @@
 {
   "url": "https://www.sandiegocounty.gov/",
   "requestedUrl": "https://sdcounty.ca.gov/",
-  "timestamp": 1707788295683,
+  "timestamp": 1708275436443,
   "ranks": {
-    "hundos": 387,
-    "performance": 282,
-    "accessibility": 398,
-    "cumulative": 387
+    "hundos": 390,
+    "performance": 259,
+    "accessibility": 402,
+    "cumulative": 390
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.44,
+    "performance": 0.46,
     "accessibility": 0.76,
     "bestPractices": 0.67,
     "seo": 0.76,
-    "total": 263
+    "total": 265
   },
-  "firstContentfulPaint": 3445.5465,
-  "firstMeaningfulPaint": 3935.0464999999995,
-  "speedIndex": 4829.248468581509,
-  "largestContentfulPaint": 5825.5464999999995,
-  "totalBlockingTime": 46.5,
-  "cumulativeLayoutShift": 1.0093861124033447,
-  "timeToInteractive": 6178.5464999999995,
-  "maxPotentialFirstInputDelay": 95,
-  "timeToFirstByte": 17.663000000000004,
+  "firstContentfulPaint": 3212.7666399999994,
+  "firstMeaningfulPaint": 3658.61322,
+  "speedIndex": 3656.2514951457283,
+  "largestContentfulPaint": 6160.137919999999,
+  "totalBlockingTime": 3,
+  "cumulativeLayoutShift": 1.056210650974025,
+  "timeToInteractive": 3889.6417800000004,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 16.095999999999997,
   "weight": {
-    "summary": "79 requests • 1.2 MiB",
-    "total": 1218944,
-    "image": 621187,
+    "summary": "79 requests • 1.1 MiB",
+    "total": 1159930,
+    "image": 562107,
     "imageCount": 38,
-    "script": 488716,
+    "script": 488855,
     "scriptCount": 18,
-    "document": 12890,
+    "document": 12899,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 89052,
     "stylesheetCount": 15,
-    "thirdParty": 557082,
+    "thirdParty": 539791,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 71,
-    "+weight.total": 355,
-    "-weight.document": 59,
-    "+weight.document": 364,
-    "-weight.script": 109,
+    "-weight.total": 63,
+    "+weight.total": 362,
+    "-weight.document": 58,
+    "+weight.document": 361,
+    "-weight.script": 108,
     "+weight.script": 313,
-    "-weight.image": 159,
-    "+weight.image": 263,
+    "-weight.image": 136,
+    "+weight.image": 282,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 41,
-    "-totalBlockingTime": 73,
-    "-largestContentfulPaint": 92
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 70
   },
   "axe": {
     "passes": 831,
     "violations": 29
+  },
+  "previousRanks": {
+    "hundos": 384,
+    "performance": 248,
+    "accessibility": 397,
+    "cumulative": 385
   }
 }

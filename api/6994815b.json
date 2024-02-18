@@ -1,12 +1,12 @@
 {
   "url": "https://iep.ca.gov/",
   "requestedUrl": "https://iep.ca.gov/",
-  "timestamp": 1707779350529,
+  "timestamp": 1708266481145,
   "ranks": {
-    "hundos": 297,
-    "performance": 337,
-    "accessibility": 179,
-    "cumulative": 297
+    "hundos": 298,
+    "performance": 342,
+    "accessibility": 178,
+    "cumulative": 298
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.9,
     "total": 297
   },
-  "firstContentfulPaint": 10054.669499999998,
-  "firstMeaningfulPaint": 11124.599000000002,
-  "speedIndex": 10054.669499999998,
-  "largestContentfulPaint": 16353.8255,
-  "totalBlockingTime": 27,
-  "cumulativeLayoutShift": 0.35475421539778307,
-  "timeToInteractive": 14589.44875,
-  "maxPotentialFirstInputDelay": 72,
-  "timeToFirstByte": 83.739,
+  "firstContentfulPaint": 10245.742999999999,
+  "firstMeaningfulPaint": 11162.099499999998,
+  "speedIndex": 10245.742999999999,
+  "largestContentfulPaint": 13668.805999999999,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.3534387542260335,
+  "timeToInteractive": 11206.539499999997,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 96.06,
   "weight": {
     "summary": "68 requests • 2.5 MiB",
-    "total": 2616353,
-    "image": 278419,
+    "total": 2616508,
+    "image": 278420,
     "imageCount": 12,
-    "script": 1579409,
+    "script": 1579677,
     "scriptCount": 28,
     "document": 49299,
-    "font": 125734,
+    "font": 125733,
     "fontCount": 3,
-    "stylesheet": 582300,
+    "stylesheet": 582189,
     "stylesheetCount": 19,
-    "thirdParty": 435548,
+    "thirdParty": 435704,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 206,
+    "-weight.total": 205,
     "+weight.total": 220,
-    "-weight.document": 277,
+    "-weight.document": 273,
     "+weight.document": 146,
-    "-weight.script": 334,
-    "+weight.script": 88,
-    "-weight.image": 77,
-    "+weight.image": 345,
-    "-weight.font": 121,
+    "-weight.script": 337,
+    "+weight.script": 84,
+    "-weight.image": 78,
+    "+weight.image": 340,
+    "-weight.font": 119,
     "+weight.font": 238,
-    "+weight.fontCount": 21,
+    "+weight.fontCount": 23,
     "-timeToFirstByte": 184,
-    "-totalBlockingTime": 46,
-    "-largestContentfulPaint": 279
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 289
   },
   "axe": {
     "passes": 740,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 300,
+    "performance": 342,
+    "accessibility": 177,
+    "cumulative": 300
   }
 }

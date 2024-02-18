@@ -1,43 +1,43 @@
 {
   "url": "https://recycledelnorte.ca.gov/",
   "requestedUrl": "https://recycledelnorte.ca.gov/",
-  "timestamp": 1707786815886,
+  "timestamp": 1708273950652,
   "ranks": {
-    "hundos": 364,
-    "performance": 270,
-    "accessibility": 419,
-    "cumulative": 364
+    "hundos": 369,
+    "performance": 284,
+    "accessibility": 418,
+    "cumulative": 370
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.45,
+    "performance": 0.44,
     "accessibility": 0.71,
     "bestPractices": 1,
     "seo": 0.6,
-    "total": 276
+    "total": 275
   },
-  "firstContentfulPaint": 3079.2090000000007,
-  "firstMeaningfulPaint": 3079.2090000000007,
-  "speedIndex": 3117.1995462711766,
-  "largestContentfulPaint": 46549.017000000014,
-  "totalBlockingTime": 58,
-  "cumulativeLayoutShift": 0.8507388195623574,
-  "timeToInteractive": 5453.412,
+  "firstContentfulPaint": 3151.6200000000003,
+  "firstMeaningfulPaint": 3151.6200000000003,
+  "speedIndex": 3537.9274091698435,
+  "largestContentfulPaint": 45718.96799999999,
+  "totalBlockingTime": 29,
+  "cumulativeLayoutShift": 0.8783545420362217,
+  "timeToInteractive": 5327.462,
   "maxPotentialFirstInputDelay": 108,
-  "timeToFirstByte": 14.843000000000004,
+  "timeToFirstByte": 14.474999999999994,
   "weight": {
     "summary": "54 requests • 9.0 MiB",
-    "total": 9459625,
-    "image": 8759184,
+    "total": 9459353,
+    "image": 8758638,
     "imageCount": 21,
-    "script": 667978,
+    "script": 667830,
     "scriptCount": 23,
-    "document": 3584,
+    "document": 3647,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 25364,
     "stylesheetCount": 1,
-    "thirdParty": 312714,
+    "thirdParty": 312352,
     "thirdPartyCount": 2
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 383,
-    "+weight.total": 43,
+    "+weight.total": 42,
     "-weight.document": 8,
-    "+weight.document": 415,
-    "-weight.script": 154,
-    "+weight.script": 268,
-    "-weight.image": 398,
-    "+weight.image": 24,
+    "+weight.document": 411,
+    "-weight.script": 149,
+    "+weight.script": 272,
+    "-weight.image": 395,
+    "+weight.image": 23,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 23,
-    "-totalBlockingTime": 86,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 49,
     "-largestContentfulPaint": 415
   },
   "axe": {
     "passes": 352,
     "violations": 35
+  },
+  "previousRanks": {
+    "hundos": 366,
+    "performance": 280,
+    "accessibility": 416,
+    "cumulative": 369
   }
 }

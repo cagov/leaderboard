@@ -1,43 +1,43 @@
 {
   "url": "https://www.californiavolunteers.ca.gov/climateactioncorps/",
   "requestedUrl": "https://climateactioncorps.ca.gov/",
-  "timestamp": 1707769094142,
+  "timestamp": 1708256235588,
   "ranks": {
-    "hundos": 260,
-    "performance": 231,
-    "accessibility": 249,
-    "cumulative": 260
+    "hundos": 324,
+    "performance": 398,
+    "accessibility": 246,
+    "cumulative": 324
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.5,
+    "performance": 0.31,
     "accessibility": 0.9,
     "bestPractices": 0.78,
     "seo": 0.88,
-    "total": 306
+    "total": 287
   },
-  "firstContentfulPaint": 4579.4125,
-  "firstMeaningfulPaint": 7047.865,
-  "speedIndex": 14653.377046567799,
-  "largestContentfulPaint": 22097.46249999999,
-  "totalBlockingTime": 224.13824999999952,
-  "cumulativeLayoutShift": 0.09565530839675838,
-  "timeToInteractive": 28571.217250000005,
-  "maxPotentialFirstInputDelay": 119.99999999999955,
-  "timeToFirstByte": 801.303,
+  "firstContentfulPaint": 4812.717499999999,
+  "firstMeaningfulPaint": 8946.5095,
+  "speedIndex": 14450.230667878188,
+  "largestContentfulPaint": 23339.250662500002,
+  "totalBlockingTime": 230.7584999999999,
+  "cumulativeLayoutShift": 0.4929541100131073,
+  "timeToInteractive": 28247.249000000003,
+  "maxPotentialFirstInputDelay": 121,
+  "timeToFirstByte": 671.794,
   "weight": {
-    "summary": "142 requests • 11.1 MiB",
-    "total": 11655166,
-    "image": 8666065,
+    "summary": "142 requests • 10.8 MiB",
+    "total": 11302757,
+    "image": 8313934,
     "imageCount": 40,
-    "script": 1862982,
+    "script": 1863633,
     "scriptCount": 40,
-    "document": 115134,
-    "font": 711950,
+    "document": 114019,
+    "font": 711955,
     "fontCount": 13,
-    "stylesheet": 256075,
+    "stylesheet": 256129,
     "stylesheetCount": 25,
-    "thirdParty": 2083627,
+    "thirdParty": 2083060,
     "thirdPartyCount": 11
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 397,
-    "+weight.total": 29,
-    "-weight.document": 357,
+    "-weight.total": 395,
+    "+weight.total": 30,
+    "-weight.document": 353,
     "+weight.document": 66,
-    "-weight.script": 367,
-    "+weight.script": 55,
-    "-weight.image": 397,
-    "+weight.image": 25,
-    "-weight.font": 341,
+    "-weight.script": 370,
+    "+weight.script": 51,
+    "-weight.image": 392,
+    "+weight.image": 26,
+    "-weight.font": 339,
     "+weight.font": 18,
-    "+weight.fontCount": 11,
-    "-timeToFirstByte": 372,
-    "-totalBlockingTime": 178,
-    "-largestContentfulPaint": 361
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 351,
+    "-totalBlockingTime": 177,
+    "-largestContentfulPaint": 373
   },
   "axe": {
     "passes": 571,
     "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 313,
+    "performance": 374,
+    "accessibility": 248,
+    "cumulative": 313
   }
 }

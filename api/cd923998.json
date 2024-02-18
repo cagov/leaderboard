@@ -1,43 +1,43 @@
 {
   "url": "https://auburn.ca.gov/",
   "requestedUrl": "https://auburn.ca.gov/",
-  "timestamp": 1707761654850,
+  "timestamp": 1708248763748,
   "ranks": {
-    "hundos": 408,
-    "performance": 290,
-    "accessibility": 399,
-    "cumulative": 408
+    "hundos": 411,
+    "performance": 329,
+    "accessibility": 403,
+    "cumulative": 411
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.44,
+    "performance": 0.4,
     "accessibility": 0.76,
     "bestPractices": 0.48,
     "seo": 0.85,
-    "total": 253
+    "total": 249
   },
-  "firstContentfulPaint": 2384.0934999999995,
-  "firstMeaningfulPaint": 2667.2814999999996,
-  "speedIndex": 10259.67730683487,
-  "largestContentfulPaint": 24189.569500000005,
-  "totalBlockingTime": 511.5,
-  "cumulativeLayoutShift": 0.15031168953453977,
-  "timeToInteractive": 19748.36875,
-  "maxPotentialFirstInputDelay": 168,
-  "timeToFirstByte": 235.76100000000002,
+  "firstContentfulPaint": 2386.215,
+  "firstMeaningfulPaint": 2669.655,
+  "speedIndex": 10473.261074841796,
+  "largestContentfulPaint": 22415.97499999999,
+  "totalBlockingTime": 1088,
+  "cumulativeLayoutShift": 0.0030987490728143804,
+  "timeToInteractive": 20014.461499999994,
+  "maxPotentialFirstInputDelay": 813,
+  "timeToFirstByte": 205.565,
   "weight": {
-    "summary": "124 requests • 3.7 MiB",
-    "total": 3850517,
-    "image": 1287723,
-    "imageCount": 44,
-    "script": 2160745,
-    "scriptCount": 41,
-    "document": 100689,
-    "font": 61353,
+    "summary": "128 requests • 3.3 MiB",
+    "total": 3504286,
+    "image": 935746,
+    "imageCount": 47,
+    "script": 2166330,
+    "scriptCount": 42,
+    "document": 100538,
+    "font": 61349,
     "fontCount": 4,
-    "stylesheet": 171941,
+    "stylesheet": 172089,
     "stylesheetCount": 15,
-    "thirdParty": 2145796,
+    "thirdParty": 2173358,
     "thirdPartyCount": 9
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 281,
-    "+weight.total": 145,
-    "-weight.document": 351,
-    "+weight.document": 72,
+    "-weight.total": 268,
+    "+weight.total": 157,
+    "-weight.document": 345,
+    "+weight.document": 74,
     "-weight.script": 387,
-    "+weight.script": 35,
-    "-weight.image": 243,
-    "+weight.image": 179,
-    "-weight.font": 30,
-    "+weight.font": 329,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 267,
-    "-totalBlockingTime": 218,
-    "-largestContentfulPaint": 374
+    "+weight.script": 34,
+    "-weight.image": 207,
+    "+weight.image": 211,
+    "-weight.font": 29,
+    "+weight.font": 328,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 256,
+    "-totalBlockingTime": 235,
+    "-largestContentfulPaint": 370
   },
   "axe": {
-    "passes": 1357,
+    "passes": 1382,
     "violations": 30
+  },
+  "previousRanks": {
+    "hundos": 401,
+    "performance": 262,
+    "accessibility": 398,
+    "cumulative": 401
   }
 }

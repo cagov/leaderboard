@@ -1,43 +1,43 @@
 {
   "url": "https://optometry.ca.gov/",
   "requestedUrl": "https://optometry.ca.gov/",
-  "timestamp": 1707784647181,
+  "timestamp": 1708271726524,
   "ranks": {
-    "hundos": 229,
-    "performance": 92,
-    "accessibility": 101,
+    "hundos": 228,
+    "performance": 95,
+    "accessibility": 102,
     "cumulative": 229
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.67,
+    "performance": 0.66,
     "accessibility": 1,
     "bestPractices": 0.7,
     "seo": 0.77,
-    "total": 314
+    "total": 313
   },
-  "firstContentfulPaint": 1768.5227999999997,
-  "firstMeaningfulPaint": 2710.9074,
-  "speedIndex": 6932.49458936176,
-  "largestContentfulPaint": 12464.716299999998,
-  "totalBlockingTime": 38.5,
-  "cumulativeLayoutShift": 0.0020324784763630878,
-  "timeToInteractive": 15388.707999999999,
-  "maxPotentialFirstInputDelay": 97,
-  "timeToFirstByte": 17.00800000000001,
+  "firstContentfulPaint": 1781.6559000000002,
+  "firstMeaningfulPaint": 2682.7657,
+  "speedIndex": 7329.63510629659,
+  "largestContentfulPaint": 13363.95885,
+  "totalBlockingTime": 39.5,
+  "cumulativeLayoutShift": 0.058714437465656626,
+  "timeToInteractive": 15916.537000000006,
+  "maxPotentialFirstInputDelay": 96,
+  "timeToFirstByte": 24.705999999999996,
   "weight": {
-    "summary": "132 requests • 3.0 MiB",
-    "total": 3109350,
-    "image": 1483646,
-    "imageCount": 58,
-    "script": 1407163,
-    "scriptCount": 48,
-    "document": 152873,
+    "summary": "133 requests • 3.0 MiB",
+    "total": 3102874,
+    "image": 1473241,
+    "imageCount": 57,
+    "script": 1409046,
+    "scriptCount": 49,
+    "document": 153828,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 43575,
-    "stylesheetCount": 14,
-    "thirdParty": 1639364,
+    "stylesheet": 43570,
+    "stylesheetCount": 15,
+    "thirdParty": 1632914,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 243,
-    "+weight.total": 183,
-    "-weight.document": 377,
-    "+weight.document": 46,
-    "-weight.script": 317,
-    "+weight.script": 105,
-    "-weight.image": 255,
-    "+weight.image": 167,
+    "-weight.total": 246,
+    "+weight.total": 179,
+    "-weight.document": 372,
+    "+weight.document": 47,
+    "-weight.script": 318,
+    "+weight.script": 103,
+    "-weight.image": 253,
+    "+weight.image": 165,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 38,
-    "-totalBlockingTime": 61,
-    "-largestContentfulPaint": 231
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 68,
+    "-totalBlockingTime": 63,
+    "-largestContentfulPaint": 280
   },
   "axe": {
-    "passes": 912,
-    "violations": 68
+    "passes": 933,
+    "violations": 73
+  },
+  "previousRanks": {
+    "hundos": 269,
+    "performance": 153,
+    "accessibility": 102,
+    "cumulative": 276
   }
 }

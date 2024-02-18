@@ -1,12 +1,12 @@
 {
   "url": "https://driveclean.ca.gov/",
   "requestedUrl": "https://driveclean.ca.gov/",
-  "timestamp": 1707774702204,
+  "timestamp": 1708261885395,
   "ranks": {
     "hundos": 103,
-    "performance": 109,
-    "accessibility": 225,
-    "cumulative": 100
+    "performance": 117,
+    "accessibility": 221,
+    "cumulative": 102
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.93,
     "total": 343
   },
-  "firstContentfulPaint": 1988.0739999999998,
-  "firstMeaningfulPaint": 4288.6395,
-  "speedIndex": 6299.398963706516,
-  "largestContentfulPaint": 29310.75500000001,
-  "totalBlockingTime": 259.9999999999991,
-  "cumulativeLayoutShift": 0.0028194340800695343,
-  "timeToInteractive": 9398.854,
-  "maxPotentialFirstInputDelay": 247,
-  "timeToFirstByte": 13.375,
+  "firstContentfulPaint": 2111.6699999999996,
+  "firstMeaningfulPaint": 2585.7169999999996,
+  "speedIndex": 6033.965869879858,
+  "largestContentfulPaint": 28666.857000000004,
+  "totalBlockingTime": 250.5,
+  "cumulativeLayoutShift": 0.0026195557059025985,
+  "timeToInteractive": 9050.39,
+  "maxPotentialFirstInputDelay": 242,
+  "timeToFirstByte": 105.46499999999999,
   "weight": {
-    "summary": "53 requests • 5.2 MiB",
-    "total": 5459563,
-    "image": 4372350,
+    "summary": "52 requests • 5.1 MiB",
+    "total": 5378667,
+    "image": 4372467,
     "imageCount": 18,
-    "script": 885911,
+    "script": 804916,
     "scriptCount": 15,
-    "document": 24810,
-    "font": 62950,
+    "document": 24492,
+    "font": 62944,
     "fontCount": 3,
-    "stylesheet": 75477,
+    "stylesheet": 75801,
     "stylesheetCount": 8,
-    "thirdParty": 4686603,
+    "thirdParty": 4606444,
     "thirdPartyCount": 11
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 326,
-    "+weight.total": 100,
-    "-weight.document": 122,
+    "-weight.total": 324,
+    "+weight.total": 101,
+    "-weight.document": 118,
     "+weight.document": 301,
-    "-weight.script": 206,
-    "+weight.script": 216,
-    "-weight.image": 356,
+    "-weight.script": 178,
+    "+weight.script": 243,
+    "-weight.image": 352,
     "+weight.image": 66,
     "-weight.font": 34,
-    "+weight.font": 325,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 17,
-    "-totalBlockingTime": 192,
-    "-largestContentfulPaint": 387
+    "+weight.font": 323,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 204,
+    "-totalBlockingTime": 181,
+    "-largestContentfulPaint": 389
   },
   "axe": {
     "passes": 388,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 103,
+    "performance": 113,
+    "accessibility": 223,
+    "cumulative": 103
   }
 }

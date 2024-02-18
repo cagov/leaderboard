@@ -1,38 +1,38 @@
 {
   "url": "https://wdopestboard.ca.gov/",
   "requestedUrl": "https://wdopestboard.ca.gov/",
-  "timestamp": 1707794161756,
+  "timestamp": 1708281293557,
   "ranks": {
-    "hundos": 265,
-    "performance": 20,
-    "accessibility": 350,
-    "cumulative": 266
+    "hundos": 280,
+    "performance": 24,
+    "accessibility": 352,
+    "cumulative": 280
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.93,
+    "performance": 0.9,
     "accessibility": 0.84,
     "bestPractices": 0.7,
     "seo": 0.58,
-    "total": 305
+    "total": 302
   },
-  "firstContentfulPaint": 2042.082,
-  "firstMeaningfulPaint": 2042.082,
-  "speedIndex": 2042.082,
-  "largestContentfulPaint": 2885.4780000000005,
+  "firstContentfulPaint": 2227.5554999999995,
+  "firstMeaningfulPaint": 2227.5554999999995,
+  "speedIndex": 2227.5554999999995,
+  "largestContentfulPaint": 3266.1690000000003,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 2042.082,
+  "timeToInteractive": 2227.5554999999995,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 40.92999999999999,
+  "timeToFirstByte": 14.985,
   "weight": {
     "summary": "24 requests • 94.6 KiB",
-    "total": 96892,
+    "total": 96873,
     "image": 39047,
     "imageCount": 13,
     "script": 5154,
     "scriptCount": 2,
-    "document": 20513,
+    "document": 20494,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 32178,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 3,
-    "+weight.total": 423,
-    "-weight.document": 100,
-    "+weight.document": 323,
-    "-weight.script": 3,
-    "+weight.script": 419,
-    "-weight.image": 14,
-    "+weight.image": 408,
+    "+weight.total": 422,
+    "-weight.document": 98,
+    "+weight.document": 321,
+    "-weight.script": 4,
+    "+weight.script": 417,
+    "-weight.image": 15,
+    "+weight.image": 403,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 125,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 22,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 30
+    "-largestContentfulPaint": 25
   },
   "axe": {
     "passes": 269,
     "violations": 51
+  },
+  "previousRanks": {
+    "hundos": 260,
+    "performance": 15,
+    "accessibility": 349,
+    "cumulative": 260
   }
 }

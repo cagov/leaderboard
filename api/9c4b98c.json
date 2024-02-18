@@ -1,12 +1,12 @@
 {
   "url": "https://bsis.ca.gov/",
   "requestedUrl": "https://bsis.ca.gov/",
-  "timestamp": 1707762963030,
+  "timestamp": 1708250116175,
   "ranks": {
-    "hundos": 190,
-    "performance": 173,
-    "accessibility": 292,
-    "cumulative": 192
+    "hundos": 189,
+    "performance": 172,
+    "accessibility": 294,
+    "cumulative": 191
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.99,
     "total": 321
   },
-  "firstContentfulPaint": 6350.593,
-  "firstMeaningfulPaint": 9153.971000000001,
-  "speedIndex": 9233.027103519864,
-  "largestContentfulPaint": 15774.986,
-  "totalBlockingTime": 15,
+  "firstContentfulPaint": 6214.005000000001,
+  "firstMeaningfulPaint": 8702.957000000002,
+  "speedIndex": 11731.942261626133,
+  "largestContentfulPaint": 15677.1405,
+  "totalBlockingTime": 20,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 17913.183000000005,
+  "timeToInteractive": 17707.3475,
   "maxPotentialFirstInputDelay": 69,
-  "timeToFirstByte": 17.97800000000001,
+  "timeToFirstByte": 24.113,
   "weight": {
     "summary": "84 requests • 2.8 MiB",
-    "total": 2912524,
-    "image": 774436,
+    "total": 2939331,
+    "image": 803172,
     "imageCount": 33,
-    "script": 1251008,
+    "script": 1252037,
     "scriptCount": 26,
-    "document": 63971,
-    "font": 175564,
+    "document": 61552,
+    "font": 175529,
     "fontCount": 5,
-    "stylesheet": 625622,
+    "stylesheet": 625642,
     "stylesheetCount": 8,
-    "thirdParty": 831638,
+    "thirdParty": 833140,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 231,
-    "+weight.total": 195,
-    "-weight.document": 312,
-    "+weight.document": 111,
-    "-weight.script": 298,
-    "+weight.script": 124,
-    "-weight.image": 184,
-    "+weight.image": 238,
-    "-weight.font": 185,
+    "-weight.total": 234,
+    "+weight.total": 191,
+    "-weight.document": 302,
+    "+weight.document": 117,
+    "-weight.script": 301,
+    "+weight.script": 120,
+    "-weight.image": 188,
+    "+weight.image": 230,
+    "-weight.font": 183,
     "+weight.font": 174,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 44,
-    "-totalBlockingTime": 27,
-    "-largestContentfulPaint": 275
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 66,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 320
   },
   "axe": {
-    "passes": 1336,
+    "passes": 1306,
     "violations": 35
+  },
+  "previousRanks": {
+    "hundos": 190,
+    "performance": 169,
+    "accessibility": 294,
+    "cumulative": 191
   }
 }

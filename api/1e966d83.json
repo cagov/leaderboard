@@ -1,30 +1,30 @@
 {
   "url": "https://vision.ca.gov/",
   "requestedUrl": "https://vision.ca.gov/",
-  "timestamp": 1707793626555,
+  "timestamp": 1708280775350,
   "ranks": {
-    "hundos": 284,
-    "performance": 9,
-    "accessibility": 407,
-    "cumulative": 286
+    "hundos": 294,
+    "performance": 14,
+    "accessibility": 409,
+    "cumulative": 294
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.99,
+    "performance": 0.96,
     "accessibility": 0.74,
     "bestPractices": 0.7,
     "seo": 0.58,
-    "total": 301
+    "total": 298
   },
-  "firstContentfulPaint": 1491.1014999999998,
-  "firstMeaningfulPaint": 1491.1014999999998,
-  "speedIndex": 1491.1014999999998,
-  "largestContentfulPaint": 1812.7409999999998,
+  "firstContentfulPaint": 1491.56975,
+  "firstMeaningfulPaint": 1491.56975,
+  "speedIndex": 1491.56975,
+  "largestContentfulPaint": 2672.036249999999,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 1491.1014999999998,
+  "timeToInteractive": 1491.56975,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 81.59400000000001,
+  "timeToFirstByte": 74.95100000000001,
   "weight": {
     "summary": "28 requests • 251.9 KiB",
     "total": 257992,
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 12,
-    "+weight.total": 414,
-    "-weight.document": 62,
-    "+weight.document": 361,
-    "-weight.script": 5,
-    "+weight.script": 417,
+    "-weight.total": 10,
+    "+weight.total": 415,
+    "-weight.document": 60,
+    "+weight.document": 359,
+    "-weight.script": 6,
+    "+weight.script": 415,
     "-weight.image": 56,
-    "+weight.image": 366,
+    "+weight.image": 362,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 181,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 159,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 13
+    "-largestContentfulPaint": 19
   },
   "axe": {
     "passes": 174,
     "violations": 18
+  },
+  "previousRanks": {
+    "hundos": 290,
+    "performance": 11,
+    "accessibility": 404,
+    "cumulative": 292
   }
 }

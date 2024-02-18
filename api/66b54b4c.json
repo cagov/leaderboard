@@ -1,43 +1,43 @@
 {
   "url": "https://www.labor.ca.gov/",
   "requestedUrl": "https://labor.ca.gov/",
-  "timestamp": 1707780505556,
+  "timestamp": 1708267633171,
   "ranks": {
-    "hundos": 395,
-    "performance": 414,
-    "accessibility": 348,
-    "cumulative": 395
+    "hundos": 345,
+    "performance": 408,
+    "accessibility": 350,
+    "cumulative": 346
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.25,
+    "performance": 0.27,
     "accessibility": 0.84,
-    "bestPractices": 0.59,
+    "bestPractices": 0.78,
     "seo": 0.93,
-    "total": 261
+    "total": 282
   },
-  "firstContentfulPaint": 4870.4515,
-  "firstMeaningfulPaint": 6032.0913,
-  "speedIndex": 16253.756430768166,
-  "largestContentfulPaint": 38445.01565,
-  "totalBlockingTime": 350,
+  "firstContentfulPaint": 4568.3279999999995,
+  "firstMeaningfulPaint": 6912.312,
+  "speedIndex": 11961.9992510759,
+  "largestContentfulPaint": 31493.0884,
+  "totalBlockingTime": 319,
   "cumulativeLayoutShift": 0.6584887170748229,
-  "timeToInteractive": 23932.19782087097,
-  "maxPotentialFirstInputDelay": 336,
-  "timeToFirstByte": 490.43,
+  "timeToInteractive": 18343.552443414308,
+  "maxPotentialFirstInputDelay": 132,
+  "timeToFirstByte": 102.408,
   "weight": {
-    "summary": "155 requests • 8.0 MiB",
-    "total": 8353307,
-    "image": 5525308,
+    "summary": "165 requests • 6.6 MiB",
+    "total": 6883187,
+    "image": 4944975,
     "imageCount": 40,
-    "script": 1964068,
+    "script": 1016675,
     "scriptCount": 49,
-    "document": 276191,
-    "font": 325016,
+    "document": 269121,
+    "font": 314196,
     "fontCount": 17,
-    "stylesheet": 259601,
+    "stylesheet": 211740,
     "stylesheetCount": 21,
-    "thirdParty": 2612489,
+    "thirdParty": 1722859,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 368,
-    "+weight.total": 58,
-    "-weight.document": 408,
-    "+weight.document": 15,
-    "-weight.script": 375,
-    "+weight.script": 47,
-    "-weight.image": 373,
-    "+weight.image": 49,
-    "-weight.font": 262,
-    "+weight.font": 97,
-    "+weight.fontCount": 7,
-    "-timeToFirstByte": 329,
-    "-totalBlockingTime": 203,
-    "-largestContentfulPaint": 403
+    "-weight.total": 350,
+    "+weight.total": 75,
+    "-weight.document": 401,
+    "+weight.document": 18,
+    "-weight.script": 260,
+    "+weight.script": 161,
+    "-weight.image": 362,
+    "+weight.image": 56,
+    "-weight.font": 255,
+    "+weight.font": 102,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 196,
+    "-totalBlockingTime": 199,
+    "-largestContentfulPaint": 397
   },
   "axe": {
     "passes": 904,
     "violations": 36
+  },
+  "previousRanks": {
+    "hundos": 376,
+    "performance": 417,
+    "accessibility": 347,
+    "cumulative": 376
   }
 }

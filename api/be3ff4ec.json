@@ -1,20 +1,73 @@
 {
   "url": "https://sonomacounty.ca.gov/",
-  "error": "Unknown error.",
+  "requestedUrl": "https://sonomacounty.ca.gov/",
+  "timestamp": 1708277238501,
+  "ranks": {
+    "hundos": 24,
+    "performance": 52,
+    "accessibility": 28,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.77,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.97,
+    "total": 363
+  },
+  "firstContentfulPaint": 2547.0891,
+  "firstMeaningfulPaint": 2547.0891,
+  "speedIndex": 5443.031657707232,
+  "largestContentfulPaint": 4471.4764,
+  "totalBlockingTime": 45.999999999999545,
+  "cumulativeLayoutShift": 0.006199400069443243,
+  "timeToInteractive": 10269.540549999998,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 1619.3319999999999,
+  "weight": {
+    "summary": "54 requests • 1.7 MiB",
+    "total": 1772665,
+    "image": 788534,
+    "imageCount": 15,
+    "script": 577358,
+    "scriptCount": 16,
+    "document": 17405,
+    "font": 195940,
+    "fontCount": 8,
+    "stylesheet": 59089,
+    "stylesheetCount": 5,
+    "thirdParty": 875811,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
   "sidequests": {
-    "-weight.total": 426,
-    "+weight.total": 426,
-    "-weight.document": 423,
-    "+weight.document": 423,
-    "-weight.script": 422,
-    "+weight.script": 422,
-    "-weight.image": 422,
-    "+weight.image": 422,
-    "-weight.font": 359,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 426,
-    "-totalBlockingTime": 254,
-    "-largestContentfulPaint": 425
+    "-weight.total": 122,
+    "+weight.total": 303,
+    "-weight.document": 77,
+    "+weight.document": 342,
+    "-weight.script": 128,
+    "+weight.script": 293,
+    "-weight.image": 187,
+    "+weight.image": 231,
+    "-weight.font": 196,
+    "+weight.font": 161,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 402,
+    "-totalBlockingTime": 72,
+    "-largestContentfulPaint": 42
+  },
+  "axe": {
+    "passes": 752,
+    "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 71,
+    "performance": 108,
+    "accessibility": 28,
+    "cumulative": 70
   }
 }

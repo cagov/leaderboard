@@ -1,43 +1,43 @@
 {
   "url": "https://acupuncture.ca.gov/",
   "requestedUrl": "https://acupuncture.ca.gov/",
-  "timestamp": 1707760745234,
+  "timestamp": 1708247861593,
   "ranks": {
     "hundos": 66,
-    "performance": 44,
-    "accessibility": 96,
-    "cumulative": 66
+    "performance": 45,
+    "accessibility": 97,
+    "cumulative": 69
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.8,
+    "performance": 0.79,
     "accessibility": 1,
     "bestPractices": 0.93,
     "seo": 0.77,
-    "total": 350
+    "total": 349
   },
-  "firstContentfulPaint": 1870.7209999999998,
-  "firstMeaningfulPaint": 2841.6820000000002,
-  "speedIndex": 2023.2192401701286,
-  "largestContentfulPaint": 4986.940999999999,
-  "totalBlockingTime": 10.5,
-  "cumulativeLayoutShift": 0.003900164421070264,
-  "timeToInteractive": 4554.9127499999995,
-  "maxPotentialFirstInputDelay": 70,
-  "timeToFirstByte": 34.216999999999985,
+  "firstContentfulPaint": 3816.7879999999996,
+  "firstMeaningfulPaint": 3816.7879999999996,
+  "speedIndex": 3816.7879999999996,
+  "largestContentfulPaint": 3946.0049999999997,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.018916773836616784,
+  "timeToInteractive": 5218.216499999999,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 24.408,
   "weight": {
-    "summary": "49 requests • 692.6 KiB",
-    "total": 709187,
-    "image": 237274,
+    "summary": "52 requests • 782.7 KiB",
+    "total": 801435,
+    "image": 237414,
     "imageCount": 26,
-    "script": 406184,
-    "scriptCount": 11,
+    "script": 498258,
+    "scriptCount": 12,
     "document": 31355,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 33652,
     "stylesheetCount": 7,
-    "thirdParty": 387399,
+    "thirdParty": 479480,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 38,
-    "+weight.total": 388,
-    "-weight.document": 165,
-    "+weight.document": 258,
-    "-weight.script": 87,
-    "+weight.script": 335,
-    "-weight.image": 62,
-    "+weight.image": 360,
+    "-weight.total": 42,
+    "+weight.total": 383,
+    "-weight.document": 162,
+    "+weight.document": 257,
+    "-weight.script": 112,
+    "+weight.script": 309,
+    "-weight.image": 64,
+    "+weight.image": 354,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 109,
-    "-totalBlockingTime": 20,
-    "-largestContentfulPaint": 72
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 67,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 184
   },
   "axe": {
     "passes": 532,
     "violations": 27
+  },
+  "previousRanks": {
+    "hundos": 63,
+    "performance": 42,
+    "accessibility": 97,
+    "cumulative": 63
   }
 }

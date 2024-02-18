@@ -1,43 +1,43 @@
 {
   "url": "https://deltaconservancy.ca.gov/",
   "requestedUrl": "https://deltaconservancy.ca.gov/",
-  "timestamp": 1707773149577,
+  "timestamp": 1708260338285,
   "ranks": {
-    "hundos": 207,
-    "performance": 252,
-    "accessibility": 316,
-    "cumulative": 207
+    "hundos": 244,
+    "performance": 275,
+    "accessibility": 393,
+    "cumulative": 243
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.47,
-    "accessibility": 0.86,
+    "performance": 0.45,
+    "accessibility": 0.78,
     "bestPractices": 0.96,
     "seo": 0.9,
-    "total": 319
+    "total": 309
   },
-  "firstContentfulPaint": 5602.916000000001,
-  "firstMeaningfulPaint": 8322.645,
-  "speedIndex": 6825.34733528743,
-  "largestContentfulPaint": 12388.6525,
-  "totalBlockingTime": 2.5,
-  "cumulativeLayoutShift": 0.24168215926802833,
-  "timeToInteractive": 13875.70475,
-  "maxPotentialFirstInputDelay": 55,
-  "timeToFirstByte": 338.91900000000004,
+  "firstContentfulPaint": 5505.859999999999,
+  "firstMeaningfulPaint": 6646.029,
+  "speedIndex": 8823.749750892079,
+  "largestContentfulPaint": 9815.3445,
+  "totalBlockingTime": 57,
+  "cumulativeLayoutShift": 0.24742171807896715,
+  "timeToInteractive": 6646.029,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 1437.279,
   "weight": {
-    "summary": "55 requests • 2.0 MiB",
-    "total": 2149384,
-    "image": 303593,
-    "imageCount": 20,
-    "script": 999244,
+    "summary": "59 requests • 2.4 MiB",
+    "total": 2540989,
+    "image": 694320,
+    "imageCount": 24,
+    "script": 998801,
     "scriptCount": 14,
-    "document": 62793,
-    "font": 146229,
+    "document": 63965,
+    "font": 146228,
     "fontCount": 3,
-    "stylesheet": 636637,
+    "stylesheet": 636793,
     "stylesheetCount": 12,
-    "thirdParty": 413121,
+    "thirdParty": 412921,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 158,
-    "+weight.total": 268,
-    "-weight.document": 309,
-    "+weight.document": 114,
-    "-weight.script": 257,
+    "-weight.total": 196,
+    "+weight.total": 229,
+    "-weight.document": 308,
+    "+weight.document": 111,
+    "-weight.script": 256,
     "+weight.script": 165,
-    "-weight.image": 86,
-    "+weight.image": 336,
-    "-weight.font": 149,
-    "+weight.font": 210,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 294,
-    "-totalBlockingTime": 5,
-    "-largestContentfulPaint": 230
+    "-weight.image": 172,
+    "+weight.image": 246,
+    "-weight.font": 146,
+    "+weight.font": 211,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 395,
+    "-totalBlockingTime": 86,
+    "-largestContentfulPaint": 136
   },
   "axe": {
-    "passes": 729,
-    "violations": 12
+    "passes": 752,
+    "violations": 14
+  },
+  "previousRanks": {
+    "hundos": 238,
+    "performance": 273,
+    "accessibility": 390,
+    "cumulative": 240
   }
 }

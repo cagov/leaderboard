@@ -1,12 +1,12 @@
 {
   "url": "https://calosba.ca.gov/",
-  "requestedUrl": "https://businessportal.ca.gov/",
-  "timestamp": 1707763153762,
+  "requestedUrl": "https://calosba.ca.gov/",
+  "timestamp": 1708252517789,
   "ranks": {
-    "hundos": 305,
-    "performance": 394,
-    "accessibility": 368,
-    "cumulative": 305
+    "hundos": 306,
+    "performance": 391,
+    "accessibility": 367,
+    "cumulative": 306
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.91,
     "total": 294
   },
-  "firstContentfulPaint": 4970.1685,
-  "firstMeaningfulPaint": 7328.568499999999,
-  "speedIndex": 15842.989732659273,
-  "largestContentfulPaint": 30045.488500000014,
-  "totalBlockingTime": 18.5,
-  "cumulativeLayoutShift": 0.9944993624174436,
-  "timeToInteractive": 29098.50324275089,
-  "maxPotentialFirstInputDelay": 59,
-  "timeToFirstByte": 1510.7720000000002,
+  "firstContentfulPaint": 4218.86,
+  "firstMeaningfulPaint": 5503.571999999999,
+  "speedIndex": 16029.764009422372,
+  "largestContentfulPaint": 13495.021999999997,
+  "totalBlockingTime": 28,
+  "cumulativeLayoutShift": 1.1316470156667064,
+  "timeToInteractive": 27104.376941085815,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 2099.0879999999997,
   "weight": {
-    "summary": "142 requests • 6.7 MiB",
-    "total": 6996068,
-    "image": 4225107,
+    "summary": "140 requests • 6.5 MiB",
+    "total": 6836336,
+    "image": 4220597,
     "imageCount": 61,
-    "script": 1187562,
+    "script": 1187432,
     "scriptCount": 38,
-    "document": 273140,
-    "font": 1031575,
-    "fontCount": 10,
-    "stylesheet": 276621,
+    "document": 274473,
+    "font": 874185,
+    "fontCount": 9,
+    "stylesheet": 277979,
     "stylesheetCount": 22,
-    "thirdParty": 1122246,
+    "thirdParty": 965749,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 350,
-    "+weight.total": 76,
-    "-weight.document": 405,
-    "+weight.document": 18,
-    "-weight.script": 289,
-    "+weight.script": 133,
-    "-weight.image": 351,
-    "+weight.image": 71,
-    "-weight.font": 355,
-    "+weight.font": 4,
-    "+weight.fontCount": 14,
-    "-timeToFirstByte": 398,
-    "-totalBlockingTime": 33,
-    "-largestContentfulPaint": 389
+    "-weight.total": 348,
+    "+weight.total": 77,
+    "-weight.document": 403,
+    "+weight.document": 16,
+    "-weight.script": 290,
+    "+weight.script": 131,
+    "-weight.image": 350,
+    "+weight.image": 68,
+    "-weight.font": 346,
+    "+weight.font": 11,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 410,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 284
   },
   "axe": {
     "passes": 1205,
     "violations": 23
+  },
+  "previousRanks": {
+    "hundos": 236,
+    "performance": 247,
+    "accessibility": 363,
+    "cumulative": 235
   }
 }

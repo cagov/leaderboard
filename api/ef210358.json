@@ -1,12 +1,12 @@
 {
   "url": "https://www.placer.ca.gov//",
   "requestedUrl": "https://placer.ca.gov/",
-  "timestamp": 1707785589884,
+  "timestamp": 1708272716728,
   "ranks": {
-    "hundos": 386,
-    "performance": 329,
-    "accessibility": 386,
-    "cumulative": 386
+    "hundos": 391,
+    "performance": 334,
+    "accessibility": 385,
+    "cumulative": 391
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.91,
     "total": 263
   },
-  "firstContentfulPaint": 9396.776000000002,
-  "firstMeaningfulPaint": 11325.953000000001,
-  "speedIndex": 20897.177233883525,
-  "largestContentfulPaint": 23187.130679999995,
-  "totalBlockingTime": 582.5,
+  "firstContentfulPaint": 9180.821,
+  "firstMeaningfulPaint": 11164.415999999997,
+  "speedIndex": 15287.983862640333,
+  "largestContentfulPaint": 25869.177539999997,
+  "totalBlockingTime": 577,
   "cumulativeLayoutShift": 0.0005810148119482063,
-  "timeToInteractive": 25620.195499999994,
-  "maxPotentialFirstInputDelay": 214,
-  "timeToFirstByte": 366.327,
+  "timeToInteractive": 26441.083499999993,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 797.165,
   "weight": {
-    "summary": "162 requests • 5.2 MiB",
-    "total": 5439607,
-    "image": 2703771,
+    "summary": "162 requests • 5.8 MiB",
+    "total": 6115737,
+    "image": 3420047,
     "imageCount": 50,
-    "script": 2353480,
-    "scriptCount": 63,
-    "document": 30635,
-    "font": 173227,
+    "script": 2326583,
+    "scriptCount": 62,
+    "document": 30591,
+    "font": 173232,
     "fontCount": 8,
-    "stylesheet": 144741,
+    "stylesheet": 131178,
     "stylesheetCount": 16,
-    "thirdParty": 2224762,
+    "thirdParty": 2183136,
     "thirdPartyCount": 19
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 325,
-    "+weight.total": 101,
-    "-weight.document": 156,
+    "-weight.total": 342,
+    "+weight.total": 83,
+    "-weight.document": 152,
     "+weight.document": 267,
     "-weight.script": 393,
-    "+weight.script": 29,
-    "-weight.image": 314,
-    "+weight.image": 108,
-    "-weight.font": 182,
+    "+weight.script": 28,
+    "-weight.image": 331,
+    "+weight.image": 87,
+    "-weight.font": 180,
     "+weight.font": 177,
-    "+weight.fontCount": 16,
-    "-timeToFirstByte": 302,
-    "-totalBlockingTime": 223,
-    "-largestContentfulPaint": 368
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 370,
+    "-totalBlockingTime": 220,
+    "-largestContentfulPaint": 382
   },
   "axe": {
-    "passes": 2526,
-    "violations": 43
+    "passes": 2580,
+    "violations": 44
+  },
+  "previousRanks": {
+    "hundos": 391,
+    "performance": 349,
+    "accessibility": 378,
+    "cumulative": 390
   }
 }

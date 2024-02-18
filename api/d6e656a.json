@@ -1,12 +1,12 @@
 {
   "url": "https://ociac.ca.gov/?AspxAutoDetectCookieSupport=1",
   "requestedUrl": "https://ociac.ca.gov/",
-  "timestamp": 1707784144391,
+  "timestamp": 1708271223666,
   "ranks": {
     "hundos": 45,
-    "performance": 48,
-    "accessibility": 244,
-    "cumulative": 45
+    "performance": 47,
+    "accessibility": 241,
+    "cumulative": 44
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,23 +16,23 @@
     "seo": 0.92,
     "total": 357
   },
-  "firstContentfulPaint": 938.388,
-  "firstMeaningfulPaint": 938.388,
-  "speedIndex": 1186.439112182808,
-  "largestContentfulPaint": 2287.0370000000003,
+  "firstContentfulPaint": 913.943,
+  "firstMeaningfulPaint": 913.943,
+  "speedIndex": 1120.057665972542,
+  "largestContentfulPaint": 2262.22,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0.48905037286163744,
-  "timeToInteractive": 938.388,
-  "maxPotentialFirstInputDelay": 41,
-  "timeToFirstByte": 221.563,
+  "timeToInteractive": 913.943,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 224.866,
   "weight": {
     "summary": "4 requests • 184.8 KiB",
-    "total": 189227,
+    "total": 189231,
     "image": 163515,
     "imageCount": 1,
     "script": 21298,
     "scriptCount": 1,
-    "document": 4088,
+    "document": 4091,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 0,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 7,
-    "+weight.total": 419,
-    "-weight.document": 10,
-    "+weight.document": 413,
-    "-weight.script": 4,
-    "+weight.script": 418,
-    "-weight.image": 52,
-    "+weight.image": 370,
+    "+weight.total": 418,
+    "-weight.document": 9,
+    "+weight.document": 410,
+    "-weight.script": 5,
+    "+weight.script": 416,
+    "-weight.image": 51,
+    "+weight.image": 367,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 262,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 264,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 17
+    "-largestContentfulPaint": 14
   },
   "axe": {
     "passes": 1004,
     "violations": 86
+  },
+  "previousRanks": {
+    "hundos": 41,
+    "performance": 43,
+    "accessibility": 243,
+    "cumulative": 41
   }
 }

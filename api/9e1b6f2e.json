@@ -1,41 +1,41 @@
 {
   "url": "https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F",
   "requestedUrl": "https://epanet.ca.gov/",
-  "timestamp": 1707776366791,
+  "timestamp": 1708263525499,
   "ranks": {
-    "hundos": 47,
-    "performance": 21,
+    "hundos": 53,
+    "performance": 23,
     "accessibility": 86,
-    "cumulative": 47
+    "cumulative": 51
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.93,
+    "performance": 0.91,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.67,
-    "total": 356
+    "total": 354
   },
-  "firstContentfulPaint": 2551.647,
-  "firstMeaningfulPaint": 2551.647,
-  "speedIndex": 2551.647,
-  "largestContentfulPaint": 2551.647,
-  "totalBlockingTime": 32,
+  "firstContentfulPaint": 2745.835,
+  "firstMeaningfulPaint": 2745.835,
+  "speedIndex": 2745.835,
+  "largestContentfulPaint": 2745.835,
+  "totalBlockingTime": 42.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 4840.647,
-  "maxPotentialFirstInputDelay": 114,
-  "timeToFirstByte": 147.84799999999998,
+  "timeToInteractive": 4895.835,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 145.162,
   "weight": {
-    "summary": "28 requests • 609.0 KiB",
-    "total": 591891,
-    "image": 5052,
+    "summary": "28 requests • 609.8 KiB",
+    "total": 592722,
+    "image": 5983,
     "imageCount": 1,
-    "script": 493829,
+    "script": 493731,
     "scriptCount": 16,
-    "document": 3126,
+    "document": 3123,
     "font": 31728,
     "fontCount": 1,
-    "stylesheet": 89061,
+    "stylesheet": 89063,
     "stylesheetCount": 7,
     "thirdParty": 0,
     "thirdPartyCount": 0
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 27,
-    "+weight.total": 399,
+    "+weight.total": 398,
     "-weight.document": 7,
-    "+weight.document": 416,
-    "-weight.script": 113,
-    "+weight.script": 309,
-    "-weight.image": 3,
-    "+weight.image": 419,
+    "+weight.document": 412,
+    "-weight.script": 110,
+    "+weight.script": 311,
+    "-weight.image": 4,
+    "+weight.image": 414,
     "-weight.font": 9,
-    "+weight.font": 350,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 244,
-    "-totalBlockingTime": 54,
-    "-largestContentfulPaint": 23
+    "+weight.font": 348,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 236,
+    "-totalBlockingTime": 68,
+    "-largestContentfulPaint": 20
   },
   "axe": {
     "passes": 60,
     "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 49,
+    "performance": 22,
+    "accessibility": 85,
+    "cumulative": 50
   }
 }

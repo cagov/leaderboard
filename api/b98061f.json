@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calbar.ca.gov/Attorneys/Conduct-Discipline/Ethics",
+  "requestedUrl": "https://calbar.ca.gov/",
+  "timestamp": 1708166959449,
+  "ranks": {
+    "hundos": 282,
+    "performance": 102,
+    "accessibility": 280,
+    "cumulative": 283
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.64,
+    "accessibility": 0.89,
+    "bestPractices": 0.52,
+    "seo": 0.96,
+    "total": 301
+  },
+  "firstContentfulPaint": 4187.215119999999,
+  "firstMeaningfulPaint": 4766.2552,
+  "speedIndex": 5177.704098940033,
+  "largestContentfulPaint": 7003.27216,
+  "totalBlockingTime": 75,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7100.098839999998,
+  "maxPotentialFirstInputDelay": 196,
+  "timeToFirstByte": 54.42599999999999,
+  "weight": {
+    "summary": "54 requests • 712.5 KiB",
+    "total": 729577,
+    "image": 259232,
+    "imageCount": 16,
+    "script": 336651,
+    "scriptCount": 18,
+    "document": 27015,
+    "font": 64130,
+    "fontCount": 6,
+    "stylesheet": 35576,
+    "stylesheetCount": 7,
+    "thirdParty": 286694,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 38,
+    "+weight.total": 385,
+    "-weight.document": 134,
+    "+weight.document": 285,
+    "-weight.script": 72,
+    "+weight.script": 348,
+    "-weight.image": 72,
+    "+weight.image": 345,
+    "-weight.font": 40,
+    "+weight.font": 311,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 132,
+    "-totalBlockingTime": 116,
+    "-largestContentfulPaint": 123
+  },
+  "axe": {
+    "passes": 510,
+    "violations": 22
+  }
+}

@@ -1,30 +1,30 @@
 {
   "url": "https://dc-cde.ca.gov/",
   "requestedUrl": "https://dc-cde.ca.gov/",
-  "timestamp": 1707772968655,
+  "timestamp": 1708260152574,
   "ranks": {
-    "hundos": 9,
-    "performance": 28,
+    "hundos": 8,
+    "performance": 13,
     "accessibility": 91,
-    "cumulative": 9
+    "cumulative": 8
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.89,
+    "performance": 0.97,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.89,
-    "total": 374
+    "total": 382
   },
-  "firstContentfulPaint": 1644.5150000000003,
-  "firstMeaningfulPaint": 1644.5150000000003,
-  "speedIndex": 2205.6424082260137,
-  "largestContentfulPaint": 2323.84,
+  "firstContentfulPaint": 1774.9554999999996,
+  "firstMeaningfulPaint": 1774.9554999999996,
+  "speedIndex": 2196.2461259665006,
+  "largestContentfulPaint": 2226.709,
   "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 0.18247536924448826,
-  "timeToInteractive": 1644.5150000000003,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1774.9554999999996,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 286.942,
+  "timeToFirstByte": 118.07900000000001,
   "weight": {
     "summary": "13 requests • 193.7 KiB",
     "total": 198362,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 8,
-    "+weight.total": 418,
-    "-weight.document": 11,
-    "+weight.document": 412,
-    "-weight.script": 8,
-    "+weight.script": 414,
+    "+weight.total": 417,
+    "-weight.document": 10,
+    "+weight.document": 409,
+    "-weight.script": 9,
+    "+weight.script": 412,
     "-weight.image": 40,
-    "+weight.image": 382,
+    "+weight.image": 378,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 284,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 220,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 19
+    "-largestContentfulPaint": 12
   },
   "axe": {
     "passes": 284,
     "violations": 10
+  },
+  "previousRanks": {
+    "hundos": 9,
+    "performance": 27,
+    "accessibility": 91,
+    "cumulative": 9
   }
 }

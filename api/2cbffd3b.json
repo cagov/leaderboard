@@ -1,43 +1,43 @@
 {
   "url": "https://cuiab.ca.gov/",
   "requestedUrl": "https://cuiab.ca.gov/",
-  "timestamp": 1707772288946,
+  "timestamp": 1708259468182,
   "ranks": {
-    "hundos": 122,
-    "performance": 243,
-    "accessibility": 109,
-    "cumulative": 120
+    "hundos": 134,
+    "performance": 263,
+    "accessibility": 113,
+    "cumulative": 130
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.48,
+    "performance": 0.46,
     "accessibility": 0.98,
     "bestPractices": 0.93,
     "seo": 1,
-    "total": 339
+    "total": 337
   },
-  "firstContentfulPaint": 4019.161,
-  "firstMeaningfulPaint": 7373.161,
-  "speedIndex": 6007.833563573772,
-  "largestContentfulPaint": 4751.161,
-  "totalBlockingTime": 146.5,
-  "cumulativeLayoutShift": 0.4412667555232692,
-  "timeToInteractive": 9130.438999999998,
-  "maxPotentialFirstInputDelay": 110,
-  "timeToFirstByte": 68.21600000000001,
+  "firstContentfulPaint": 3645.759,
+  "firstMeaningfulPaint": 7888.759,
+  "speedIndex": 6928.957896455871,
+  "largestContentfulPaint": 5198.759,
+  "totalBlockingTime": 115.50000000000045,
+  "cumulativeLayoutShift": 0.4408704530108033,
+  "timeToInteractive": 9094.336000000001,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 722.986,
   "weight": {
-    "summary": "82 requests • 1.9 MiB",
-    "total": 2030684,
-    "image": 626118,
-    "imageCount": 23,
-    "script": 834136,
+    "summary": "76 requests • 1.9 MiB",
+    "total": 2029870,
+    "image": 625757,
+    "imageCount": 17,
+    "script": 833787,
     "scriptCount": 26,
-    "document": 33504,
-    "font": 351390,
+    "document": 33450,
+    "font": 351399,
     "fontCount": 3,
-    "stylesheet": 184754,
+    "stylesheet": 184695,
     "stylesheetCount": 23,
-    "thirdParty": 697319,
+    "thirdParty": 696545,
     "thirdPartyCount": 7
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 151,
-    "+weight.total": 275,
-    "-weight.document": 184,
+    "+weight.total": 274,
+    "-weight.document": 180,
     "+weight.document": 239,
     "-weight.script": 183,
-    "+weight.script": 239,
+    "+weight.script": 238,
     "-weight.image": 164,
-    "+weight.image": 258,
-    "-weight.font": 269,
+    "+weight.image": 254,
+    "-weight.font": 267,
     "+weight.font": 90,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 159,
-    "-totalBlockingTime": 150,
-    "-largestContentfulPaint": 65
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 358,
+    "-totalBlockingTime": 137,
+    "-largestContentfulPaint": 54
   },
   "axe": {
     "passes": 858,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 104,
+    "performance": 209,
+    "accessibility": 111,
+    "cumulative": 102
   }
 }

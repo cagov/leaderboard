@@ -1,67 +1,73 @@
 {
   "url": "https://www.contracosta.ca.gov/",
   "requestedUrl": "https://contracosta.ca.gov/",
-  "timestamp": 1707770628134,
+  "timestamp": 1708257797226,
   "ranks": {
-    "hundos": 416,
-    "performance": 402,
-    "accessibility": 415,
-    "cumulative": 417
+    "hundos": 415,
+    "performance": 386,
+    "accessibility": 416,
+    "cumulative": 415
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.31,
+    "performance": 0.33,
     "accessibility": 0.73,
     "bestPractices": 0.52,
     "seo": 0.84,
-    "total": 240
+    "total": 242
   },
-  "firstContentfulPaint": 3438.8014999999996,
-  "firstMeaningfulPaint": 3500.6629999999996,
-  "speedIndex": 16618.15590994153,
-  "largestContentfulPaint": 22342.753999999997,
-  "totalBlockingTime": 857.5,
-  "cumulativeLayoutShift": 0.1749176828022383,
-  "timeToInteractive": 38979.52600000001,
-  "maxPotentialFirstInputDelay": 178,
-  "timeToFirstByte": 426.088,
+  "firstContentfulPaint": 3410.2780000000007,
+  "firstMeaningfulPaint": 3489.9535000000005,
+  "speedIndex": 12420.119784397624,
+  "largestContentfulPaint": 16731.7355,
+  "totalBlockingTime": 714.8933588714572,
+  "cumulativeLayoutShift": 0.17682658832551393,
+  "timeToInteractive": 25581.72121774292,
+  "maxPotentialFirstInputDelay": 207,
+  "timeToFirstByte": 486.29999999999995,
   "weight": {
-    "summary": "185 requests • 9.6 MiB",
-    "total": 10019036,
-    "image": 6519311,
+    "summary": "182 requests • 9.8 MiB",
+    "total": 10253589,
+    "image": 6781433,
     "imageCount": 48,
-    "script": 2750204,
+    "script": 2748022,
     "scriptCount": 73,
-    "document": 269348,
-    "font": 129421,
+    "document": 267450,
+    "font": 129419,
     "fontCount": 11,
-    "stylesheet": 184353,
+    "stylesheet": 184834,
     "stylesheetCount": 10,
-    "thirdParty": 3034656,
-    "thirdPartyCount": 13
+    "thirdParty": 3004078,
+    "thirdPartyCount": 12
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 390,
-    "+weight.total": 36,
-    "-weight.document": 404,
+    "-weight.total": 391,
+    "+weight.total": 34,
+    "-weight.document": 400,
     "+weight.document": 19,
-    "-weight.script": 405,
-    "+weight.script": 17,
-    "-weight.image": 380,
-    "+weight.image": 42,
-    "-weight.font": 128,
+    "-weight.script": 406,
+    "+weight.script": 15,
+    "-weight.image": 382,
+    "+weight.image": 36,
+    "-weight.font": 126,
     "+weight.font": 231,
-    "+weight.fontCount": 13,
-    "-timeToFirstByte": 316,
-    "-totalBlockingTime": 234,
-    "-largestContentfulPaint": 364
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 332,
+    "-totalBlockingTime": 226,
+    "-largestContentfulPaint": 328
   },
   "axe": {
-    "passes": 2258,
+    "passes": 2291,
     "violations": 51
+  },
+  "previousRanks": {
+    "hundos": 415,
+    "performance": 393,
+    "accessibility": 412,
+    "cumulative": 415
   }
 }

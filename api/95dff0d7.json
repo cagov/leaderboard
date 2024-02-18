@@ -1,12 +1,12 @@
 {
   "url": "https://waterresilience.ca.gov/",
   "requestedUrl": "https://waterresilience.ca.gov/",
-  "timestamp": 1707794027589,
+  "timestamp": 1708281166081,
   "ranks": {
     "hundos": 168,
-    "performance": 287,
+    "performance": 291,
     "accessibility": 297,
-    "cumulative": 169
+    "cumulative": 168
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 1,
     "total": 327
   },
-  "firstContentfulPaint": 5388.8099999999995,
-  "firstMeaningfulPaint": 8236.1185,
-  "speedIndex": 7344.949409839702,
-  "largestContentfulPaint": 10742.5495,
-  "totalBlockingTime": 1.5,
-  "cumulativeLayoutShift": 0.2942161971824021,
-  "timeToInteractive": 8236.1185,
-  "maxPotentialFirstInputDelay": 53,
-  "timeToFirstByte": 345.49100000000004,
+  "firstContentfulPaint": 5367.953,
+  "firstMeaningfulPaint": 8258.2635,
+  "speedIndex": 7181.762303931248,
+  "largestContentfulPaint": 11504.5435,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.2977649932891743,
+  "timeToInteractive": 8785.2035,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 311.745,
   "weight": {
     "summary": "45 requests • 1.7 MiB",
-    "total": 1795217,
-    "image": 43642,
+    "total": 1795195,
+    "image": 43366,
     "imageCount": 13,
-    "script": 995345,
+    "script": 995638,
     "scriptCount": 14,
     "document": 34780,
     "font": 95218,
     "fontCount": 2,
-    "stylesheet": 625352,
+    "stylesheet": 625303,
     "stylesheetCount": 10,
-    "thirdParty": 370393,
+    "thirdParty": 370371,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 127,
+    "-weight.total": 126,
     "+weight.total": 299,
-    "-weight.document": 200,
+    "-weight.document": 196,
     "+weight.document": 223,
-    "-weight.script": 256,
+    "-weight.script": 255,
     "+weight.script": 166,
     "-weight.image": 19,
-    "+weight.image": 403,
-    "-weight.font": 83,
-    "+weight.font": 276,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 297,
-    "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 209
+    "+weight.image": 399,
+    "-weight.font": 78,
+    "+weight.font": 279,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 293,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 170
   },
   "axe": {
     "passes": 285,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 170,
+    "performance": 292,
+    "accessibility": 297,
+    "cumulative": 170
   }
 }

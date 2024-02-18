@@ -1,11 +1,11 @@
 {
   "url": "https://lao.ca.gov/",
   "requestedUrl": "https://lao.ca.gov/",
-  "timestamp": 1707780803282,
+  "timestamp": 1708267931279,
   "ranks": {
-    "hundos": 79,
-    "performance": 88,
-    "accessibility": 166,
+    "hundos": 80,
+    "performance": 82,
+    "accessibility": 167,
     "cumulative": 80
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.91,
     "total": 346
   },
-  "firstContentfulPaint": 3834.8360000000002,
-  "firstMeaningfulPaint": 3834.8360000000002,
-  "speedIndex": 4209.778364763486,
-  "largestContentfulPaint": 6937.146000000002,
-  "totalBlockingTime": 22,
+  "firstContentfulPaint": 3841.8349999999996,
+  "firstMeaningfulPaint": 3841.8349999999996,
+  "speedIndex": 4240.493614015312,
+  "largestContentfulPaint": 6800.234999999999,
+  "totalBlockingTime": 22.5,
   "cumulativeLayoutShift": 0.00003529891763459747,
-  "timeToInteractive": 6799.981,
-  "maxPotentialFirstInputDelay": 94,
-  "timeToFirstByte": 37.065000000000005,
+  "timeToInteractive": 6740.665,
+  "maxPotentialFirstInputDelay": 95,
+  "timeToFirstByte": 34.291999999999994,
   "weight": {
-    "summary": "43 requests • 1.8 MiB",
-    "total": 1917711,
-    "image": 1029221,
-    "imageCount": 26,
-    "script": 551227,
+    "summary": "45 requests • 1.9 MiB",
+    "total": 1947864,
+    "image": 1053695,
+    "imageCount": 28,
+    "script": 551261,
     "scriptCount": 8,
-    "document": 53477,
+    "document": 59124,
     "font": 121716,
     "fontCount": 1,
-    "stylesheet": 161820,
+    "stylesheet": 161818,
     "stylesheetCount": 6,
-    "thirdParty": 340757,
+    "thirdParty": 340761,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 143,
-    "+weight.total": 283,
-    "-weight.document": 288,
-    "+weight.document": 135,
-    "-weight.script": 123,
+    "-weight.total": 144,
+    "+weight.total": 281,
+    "-weight.document": 296,
+    "+weight.document": 123,
+    "-weight.script": 122,
     "+weight.script": 299,
     "-weight.image": 222,
-    "+weight.image": 200,
-    "-weight.font": 119,
+    "+weight.image": 196,
+    "-weight.font": 117,
     "+weight.font": 240,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 116,
-    "-totalBlockingTime": 37,
-    "-largestContentfulPaint": 115
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 97,
+    "-totalBlockingTime": 39,
+    "-largestContentfulPaint": 204
   },
   "axe": {
-    "passes": 1301,
+    "passes": 1451,
     "violations": 15
+  },
+  "previousRanks": {
+    "hundos": 82,
+    "performance": 87,
+    "accessibility": 165,
+    "cumulative": 87
   }
 }

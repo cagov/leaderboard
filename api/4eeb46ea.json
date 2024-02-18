@@ -1,43 +1,43 @@
 {
   "url": "https://ojai.ca.gov/",
   "requestedUrl": "https://ojai.ca.gov/",
-  "timestamp": 1707784516440,
+  "timestamp": 1708271594842,
   "ranks": {
-    "hundos": 355,
-    "performance": 201,
-    "accessibility": 410,
-    "cumulative": 353
+    "hundos": 380,
+    "performance": 312,
+    "accessibility": 394,
+    "cumulative": 380
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.53,
-    "accessibility": 0.73,
+    "performance": 0.41,
+    "accessibility": 0.77,
     "bestPractices": 0.7,
     "seo": 0.83,
-    "total": 279
+    "total": 271
   },
-  "firstContentfulPaint": 2442.375,
-  "firstMeaningfulPaint": 2455.375,
-  "speedIndex": 5294.228033236769,
-  "largestContentfulPaint": 10564.660499999998,
-  "totalBlockingTime": 567.418000000001,
+  "firstContentfulPaint": 2427.329,
+  "firstMeaningfulPaint": 2441.329,
+  "speedIndex": 5753.719344656198,
+  "largestContentfulPaint": 14072.448000000004,
+  "totalBlockingTime": 1606.7480000000005,
   "cumulativeLayoutShift": 0.0003903854285967668,
-  "timeToInteractive": 8553.232000000002,
-  "maxPotentialFirstInputDelay": 608,
-  "timeToFirstByte": 258.70799999999997,
+  "timeToInteractive": 9771.857,
+  "maxPotentialFirstInputDelay": 1653,
+  "timeToFirstByte": 299.36199999999997,
   "weight": {
-    "summary": "79 requests • 9.8 MiB",
-    "total": 10275454,
-    "image": 9193170,
+    "summary": "79 requests • 8.3 MiB",
+    "total": 8660379,
+    "image": 7578008,
     "imageCount": 35,
-    "script": 866492,
+    "script": 866583,
     "scriptCount": 24,
-    "document": 35495,
+    "document": 35431,
     "font": 40955,
     "fontCount": 5,
-    "stylesheet": 116951,
+    "stylesheet": 116970,
     "stylesheetCount": 7,
-    "thirdParty": 525171,
+    "thirdParty": 525429,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 393,
-    "+weight.total": 33,
-    "-weight.document": 206,
-    "+weight.document": 217,
-    "-weight.script": 196,
-    "+weight.script": 226,
-    "-weight.image": 400,
-    "+weight.image": 22,
+    "-weight.total": 375,
+    "+weight.total": 50,
+    "-weight.document": 200,
+    "+weight.document": 219,
+    "-weight.script": 194,
+    "+weight.script": 227,
+    "-weight.image": 385,
+    "+weight.image": 33,
     "-weight.font": 18,
-    "+weight.font": 341,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 273,
-    "-totalBlockingTime": 222,
-    "-largestContentfulPaint": 323
+    "+weight.font": 339,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 288,
+    "-totalBlockingTime": 239,
+    "-largestContentfulPaint": 296
   },
   "axe": {
-    "passes": 1749,
-    "violations": 18
+    "passes": 1726,
+    "violations": 16
+  },
+  "previousRanks": {
+    "hundos": 363,
+    "performance": 222,
+    "accessibility": 407,
+    "cumulative": 363
   }
 }

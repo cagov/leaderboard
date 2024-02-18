@@ -1,43 +1,43 @@
 {
   "url": "https://bsa.ca.gov/",
   "requestedUrl": "https://bsa.ca.gov/",
-  "timestamp": 1707762844525,
+  "timestamp": 1708249995959,
   "ranks": {
-    "hundos": 175,
-    "performance": 36,
+    "hundos": 205,
+    "performance": 51,
     "accessibility": 16,
-    "cumulative": 175
+    "cumulative": 205
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.84,
+    "performance": 0.78,
     "accessibility": 1,
     "bestPractices": 0.52,
     "seo": 0.89,
-    "total": 325
+    "total": 319
   },
-  "firstContentfulPaint": 1136.66,
-  "firstMeaningfulPaint": 6383.3775000000005,
-  "speedIndex": 3921.451752291499,
-  "largestContentfulPaint": 4237.968,
-  "totalBlockingTime": 65,
+  "firstContentfulPaint": 1136.205,
+  "firstMeaningfulPaint": 6379.04825,
+  "speedIndex": 3833.1896426975513,
+  "largestContentfulPaint": 5352.471,
+  "totalBlockingTime": 67.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 7419.593750000002,
-  "maxPotentialFirstInputDelay": 147,
-  "timeToFirstByte": 11.452999999999996,
+  "timeToInteractive": 7551.62225,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 11.608999999999995,
   "weight": {
     "summary": "39 requests • 1.7 MiB",
-    "total": 1775518,
-    "image": 594890,
+    "total": 1779679,
+    "image": 597579,
     "imageCount": 21,
-    "script": 261468,
+    "script": 262918,
     "scriptCount": 6,
-    "document": 23091,
+    "document": 23082,
     "font": 831329,
     "fontCount": 6,
-    "stylesheet": 63680,
+    "stylesheet": 63713,
     "stylesheetCount": 2,
-    "thirdParty": 380605,
+    "thirdParty": 382084,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 125,
-    "+weight.total": 301,
-    "-weight.document": 113,
-    "+weight.document": 310,
-    "-weight.script": 49,
+    "-weight.total": 123,
+    "+weight.total": 302,
+    "-weight.document": 111,
+    "+weight.document": 308,
+    "-weight.script": 48,
     "+weight.script": 373,
-    "-weight.image": 149,
-    "+weight.image": 273,
-    "-weight.font": 348,
-    "+weight.font": 11,
-    "+weight.fontCount": 18,
-    "-timeToFirstByte": 13,
-    "-totalBlockingTime": 96,
-    "-largestContentfulPaint": 53
+    "-weight.image": 151,
+    "+weight.image": 267,
+    "-weight.font": 345,
+    "+weight.font": 12,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 99,
+    "-largestContentfulPaint": 59
   },
   "axe": {
     "passes": 398,
     "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 140,
+    "performance": 18,
+    "accessibility": 15,
+    "cumulative": 139
   }
 }

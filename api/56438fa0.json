@@ -1,43 +1,43 @@
 {
   "url": "https://bppe.ca.gov/",
   "requestedUrl": "https://bppe.ca.gov/",
-  "timestamp": 1707762674973,
+  "timestamp": 1708249826097,
   "ranks": {
-    "hundos": 382,
-    "performance": 404,
-    "accessibility": 305,
-    "cumulative": 383
+    "hundos": 385,
+    "performance": 393,
+    "accessibility": 307,
+    "cumulative": 386
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.3,
+    "performance": 0.31,
     "accessibility": 0.87,
     "bestPractices": 0.52,
     "seo": 0.98,
-    "total": 267
+    "total": 268
   },
-  "firstContentfulPaint": 4393.969999999999,
-  "firstMeaningfulPaint": 5456.219499999999,
-  "speedIndex": 14237.728802489097,
-  "largestContentfulPaint": 9541.7945,
-  "totalBlockingTime": 276.5,
-  "cumulativeLayoutShift": 0.5228638283100423,
-  "timeToInteractive": 27803.98183446502,
+  "firstContentfulPaint": 4434.726,
+  "firstMeaningfulPaint": 4845.943500000001,
+  "speedIndex": 7864.476142689465,
+  "largestContentfulPaint": 7148.761500000001,
+  "totalBlockingTime": 284,
+  "cumulativeLayoutShift": 0.6264497711031554,
+  "timeToInteractive": 23699.365999999995,
   "maxPotentialFirstInputDelay": 120,
-  "timeToFirstByte": 14.895999999999994,
+  "timeToFirstByte": 20.554999999999993,
   "weight": {
-    "summary": "165 requests • 4.7 MiB",
-    "total": 4919633,
-    "image": 1079890,
+    "summary": "166 requests • 4.8 MiB",
+    "total": 5040602,
+    "image": 1108334,
     "imageCount": 54,
-    "script": 2886734,
-    "scriptCount": 59,
-    "document": 280962,
-    "font": 101957,
+    "script": 2980097,
+    "scriptCount": 60,
+    "document": 279781,
+    "font": 101955,
     "fontCount": 7,
-    "stylesheet": 463120,
+    "stylesheet": 463588,
     "stylesheetCount": 14,
-    "thirdParty": 3218632,
+    "thirdParty": 3311137,
     "thirdPartyCount": 12
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 309,
-    "+weight.total": 117,
-    "-weight.document": 409,
-    "+weight.document": 14,
-    "-weight.script": 408,
-    "+weight.script": 14,
-    "-weight.image": 224,
-    "+weight.image": 198,
-    "-weight.font": 90,
-    "+weight.font": 269,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 24,
-    "-totalBlockingTime": 201,
-    "-largestContentfulPaint": 316
+    "-weight.total": 315,
+    "+weight.total": 110,
+    "-weight.document": 404,
+    "+weight.document": 15,
+    "-weight.script": 409,
+    "+weight.script": 12,
+    "-weight.image": 231,
+    "+weight.image": 187,
+    "-weight.font": 85,
+    "+weight.font": 272,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 53,
+    "-totalBlockingTime": 195,
+    "-largestContentfulPaint": 209
   },
   "axe": {
-    "passes": 1382,
+    "passes": 1379,
     "violations": 27
+  },
+  "previousRanks": {
+    "hundos": 386,
+    "performance": 408,
+    "accessibility": 307,
+    "cumulative": 386
   }
 }

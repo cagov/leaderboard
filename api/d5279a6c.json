@@ -1,43 +1,43 @@
 {
   "url": "https://dcc-cde.ca.gov/",
   "requestedUrl": "https://dcc-cde.ca.gov/",
-  "timestamp": 1707772960380,
+  "timestamp": 1708260144342,
   "ranks": {
-    "hundos": 41,
-    "performance": 102,
+    "hundos": 38,
+    "performance": 93,
     "accessibility": 13,
-    "cumulative": 40
+    "cumulative": 36
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.65,
+    "performance": 0.66,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.97,
-    "total": 358
+    "total": 359
   },
-  "firstContentfulPaint": 3108.7917499999994,
-  "firstMeaningfulPaint": 3108.7917499999994,
-  "speedIndex": 5304.780191749596,
-  "largestContentfulPaint": 8212.771499999999,
-  "totalBlockingTime": 4,
+  "firstContentfulPaint": 3259.8427500000007,
+  "firstMeaningfulPaint": 3259.8427500000007,
+  "speedIndex": 5436.323709112234,
+  "largestContentfulPaint": 6515.430500000001,
+  "totalBlockingTime": 8,
   "cumulativeLayoutShift": 0.05495921787990569,
-  "timeToInteractive": 4730.4349999999995,
-  "maxPotentialFirstInputDelay": 58,
-  "timeToFirstByte": 130.21000000000004,
+  "timeToInteractive": 4844.000750000001,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 701.7389999999999,
   "weight": {
-    "summary": "48 requests • 923.8 KiB",
-    "total": 945921,
-    "image": 275641,
+    "summary": "48 requests • 937.1 KiB",
+    "total": 959578,
+    "image": 289126,
     "imageCount": 14,
-    "script": 610498,
+    "script": 610646,
     "scriptCount": 19,
     "document": 10498,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 47304,
+    "stylesheet": 47194,
     "stylesheetCount": 9,
-    "thirdParty": 624437,
+    "thirdParty": 624609,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 52,
+    "-weight.total": 51,
     "+weight.total": 374,
-    "-weight.document": 42,
-    "+weight.document": 381,
-    "-weight.script": 141,
+    "-weight.document": 41,
+    "+weight.document": 378,
+    "-weight.script": 140,
     "+weight.script": 281,
-    "-weight.image": 74,
-    "+weight.image": 348,
+    "-weight.image": 86,
+    "+weight.image": 332,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 236,
-    "-totalBlockingTime": 8,
-    "-largestContentfulPaint": 140
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 357,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 203
   },
   "axe": {
     "passes": 485,
     "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 50,
+    "performance": 129,
+    "accessibility": 12,
+    "cumulative": 49
   }
 }

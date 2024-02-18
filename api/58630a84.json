@@ -1,43 +1,43 @@
 {
   "url": "https://sanramon.ca.gov/",
   "requestedUrl": "https://sanramon.ca.gov/",
-  "timestamp": 1707787656602,
+  "timestamp": 1708274798270,
   "ranks": {
-    "hundos": 406,
-    "performance": 410,
-    "accessibility": 322,
-    "cumulative": 406
+    "hundos": 405,
+    "performance": 412,
+    "accessibility": 323,
+    "cumulative": 405
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.27,
+    "performance": 0.26,
     "accessibility": 0.86,
     "bestPractices": 0.7,
     "seo": 0.71,
-    "total": 254
+    "total": 253
   },
-  "firstContentfulPaint": 5842.607,
-  "firstMeaningfulPaint": 5842.607,
-  "speedIndex": 12912.539607598968,
-  "largestContentfulPaint": 10258.100999999999,
-  "totalBlockingTime": 516.4999999999982,
+  "firstContentfulPaint": 5844.9524999999985,
+  "firstMeaningfulPaint": 5844.9524999999985,
+  "speedIndex": 14155.494889845464,
+  "largestContentfulPaint": 10175.406500000001,
+  "totalBlockingTime": 571.5,
   "cumulativeLayoutShift": 0.3046148610457149,
-  "timeToInteractive": 21446.4895,
-  "maxPotentialFirstInputDelay": 347.9999999999982,
-  "timeToFirstByte": 1854.467,
+  "timeToInteractive": 23031.334500000004,
+  "maxPotentialFirstInputDelay": 354,
+  "timeToFirstByte": 2002.828,
   "weight": {
-    "summary": "192 requests • 3.1 MiB",
-    "total": 3218244,
-    "image": 592328,
-    "imageCount": 48,
-    "script": 2109961,
-    "scriptCount": 83,
-    "document": 205196,
-    "font": 135354,
+    "summary": "216 requests • 6.7 MiB",
+    "total": 7002282,
+    "image": 590082,
+    "imageCount": 45,
+    "script": 2395761,
+    "scriptCount": 90,
+    "document": 205867,
+    "font": 135352,
     "fontCount": 5,
-    "stylesheet": 135821,
+    "stylesheet": 151305,
     "stylesheetCount": 30,
-    "thirdParty": 2917897,
+    "thirdParty": 6701920,
     "thirdPartyCount": 14
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 252,
-    "+weight.total": 174,
-    "-weight.document": 393,
-    "+weight.document": 30,
-    "-weight.script": 382,
-    "+weight.script": 40,
+    "-weight.total": 352,
+    "+weight.total": 73,
+    "-weight.document": 390,
+    "+weight.document": 29,
+    "-weight.script": 398,
+    "+weight.script": 23,
     "-weight.image": 146,
-    "+weight.image": 276,
-    "-weight.font": 137,
-    "+weight.font": 222,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 408,
+    "+weight.image": 272,
+    "-weight.font": 133,
+    "+weight.font": 224,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 409,
     "-totalBlockingTime": 219,
-    "-largestContentfulPaint": 317
+    "-largestContentfulPaint": 241
   },
   "axe": {
-    "passes": 1726,
-    "violations": 30
+    "passes": 1639,
+    "violations": 32
+  },
+  "previousRanks": {
+    "hundos": 406,
+    "performance": 406,
+    "accessibility": 322,
+    "cumulative": 406
   }
 }

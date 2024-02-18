@@ -1,12 +1,12 @@
 {
   "url": "https://registertovote.ca.gov/",
   "requestedUrl": "https://registertovote.ca.gov/",
-  "timestamp": 1707786865966,
+  "timestamp": 1708274000796,
   "ranks": {
     "hundos": 13,
-    "performance": 17,
+    "performance": 15,
     "accessibility": 81,
-    "cumulative": 13
+    "cumulative": 14
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.97,
     "total": 371
   },
-  "firstContentfulPaint": 1969.7699999999998,
-  "firstMeaningfulPaint": 1969.7699999999998,
-  "speedIndex": 1969.7699999999998,
-  "largestContentfulPaint": 2451.072,
-  "totalBlockingTime": 21.5,
+  "firstContentfulPaint": 1954.0929999999996,
+  "firstMeaningfulPaint": 1954.0929999999996,
+  "speedIndex": 1954.0929999999996,
+  "largestContentfulPaint": 2430.240999999999,
+  "totalBlockingTime": 23,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 3150.4249999999997,
+  "timeToInteractive": 2984.6549999999997,
   "maxPotentialFirstInputDelay": 66,
-  "timeToFirstByte": 86.71300000000001,
+  "timeToFirstByte": 91.87299999999999,
   "weight": {
-    "summary": "26 requests • 448.4 KiB",
-    "total": 459185,
-    "image": 91942,
+    "summary": "26 requests • 448.3 KiB",
+    "total": 459050,
+    "image": 91958,
     "imageCount": 10,
-    "script": 296159,
+    "script": 296032,
     "scriptCount": 6,
-    "document": 5926,
+    "document": 5918,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 63712,
+    "stylesheet": 63727,
     "stylesheetCount": 4,
-    "thirdParty": 178589,
+    "thirdParty": 178540,
     "thirdPartyCount": 3
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 17,
+    "-weight.total": 16,
     "+weight.total": 409,
-    "-weight.document": 14,
-    "+weight.document": 409,
+    "-weight.document": 12,
+    "+weight.document": 407,
     "-weight.script": 57,
-    "+weight.script": 365,
-    "-weight.image": 35,
-    "+weight.image": 387,
+    "+weight.script": 364,
+    "-weight.image": 34,
+    "+weight.image": 384,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 186,
-    "-totalBlockingTime": 36,
-    "-largestContentfulPaint": 21
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 174,
+    "-totalBlockingTime": 40,
+    "-largestContentfulPaint": 176
   },
   "axe": {
     "passes": 491,
     "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 16,
+    "performance": 19,
+    "accessibility": 80,
+    "cumulative": 16
   }
 }

@@ -1,66 +1,72 @@
 {
   "url": "https://www.calvet.ca.gov/",
   "requestedUrl": "https://calvet.ca.gov/",
-  "timestamp": 1707765984762,
+  "timestamp": 1708253118550,
   "ranks": {
-    "hundos": 409,
-    "performance": 413,
+    "hundos": 408,
+    "performance": 411,
     "accessibility": 283,
-    "cumulative": 409
+    "cumulative": 408
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.26,
+    "performance": 0.27,
     "accessibility": 0.89,
     "bestPractices": 0.52,
     "seo": 0.84,
-    "total": 251
+    "total": 252
   },
-  "firstContentfulPaint": 16805.0527,
-  "firstMeaningfulPaint": 17436.19755,
-  "speedIndex": 27515.401495135913,
-  "largestContentfulPaint": 31591.95774999998,
-  "totalBlockingTime": 2696.9999999999964,
+  "firstContentfulPaint": 16379.22310796204,
+  "firstMeaningfulPaint": 17366.236020533725,
+  "speedIndex": 24628.921047168915,
+  "largestContentfulPaint": 32055.843351720294,
+  "totalBlockingTime": 2134.500000000002,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 38445.568849999974,
-  "maxPotentialFirstInputDelay": 1317,
-  "timeToFirstByte": 321.689,
+  "timeToInteractive": 32918.5073404146,
+  "maxPotentialFirstInputDelay": 1412.0000000000036,
+  "timeToFirstByte": 248.594,
   "weight": {
-    "summary": "247 requests • 8.5 MiB",
-    "total": 8905496,
-    "image": 3279098,
-    "imageCount": 55,
-    "script": 3158521,
-    "scriptCount": 95,
-    "document": 104852,
+    "summary": "215 requests • 6.2 MiB",
+    "total": 6460004,
+    "image": 2948820,
+    "imageCount": 58,
+    "script": 2689141,
+    "scriptCount": 84,
+    "document": 91661,
     "font": 319980,
     "fontCount": 5,
-    "stylesheet": 290469,
-    "stylesheetCount": 26,
-    "thirdParty": 5596258,
-    "thirdPartyCount": 28
+    "stylesheet": 272681,
+    "stylesheetCount": 23,
+    "thirdParty": 3149212,
+    "thirdPartyCount": 29
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 374,
-    "+weight.total": 52,
-    "-weight.document": 353,
-    "+weight.document": 70,
-    "-weight.script": 410,
-    "+weight.script": 12,
-    "-weight.image": 329,
-    "+weight.image": 93,
-    "-weight.font": 260,
+    "-weight.total": 345,
+    "+weight.total": 80,
+    "-weight.document": 335,
+    "+weight.document": 84,
+    "-weight.script": 403,
+    "+weight.script": 18,
+    "-weight.image": 323,
+    "+weight.image": 95,
+    "-weight.font": 258,
     "+weight.font": 99,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 292,
-    "-totalBlockingTime": 249,
-    "-largestContentfulPaint": 395
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 268,
+    "-totalBlockingTime": 246,
+    "-largestContentfulPaint": 398
   },
   "axe": {
     "error": "{}"
+  },
+  "previousRanks": {
+    "hundos": 403,
+    "performance": 399,
+    "accessibility": 286,
+    "cumulative": 403
   }
 }

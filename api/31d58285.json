@@ -1,12 +1,12 @@
 {
   "url": "https://broadbandcouncil.ca.gov/",
   "requestedUrl": "https://broadbandcouncil.ca.gov/",
-  "timestamp": 1707762790674,
+  "timestamp": 1708249941856,
   "ranks": {
-    "hundos": 130,
-    "performance": 285,
-    "accessibility": 51,
-    "cumulative": 128
+    "hundos": 133,
+    "performance": 286,
+    "accessibility": 52,
+    "cumulative": 133
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 1,
     "total": 337
   },
-  "firstContentfulPaint": 2348.02,
-  "firstMeaningfulPaint": 4765.8859999999995,
-  "speedIndex": 5513.607500624595,
-  "largestContentfulPaint": 9173.02,
-  "totalBlockingTime": 46.5,
-  "cumulativeLayoutShift": 0.8869188609074219,
-  "timeToInteractive": 9194.019999999999,
-  "maxPotentialFirstInputDelay": 99,
-  "timeToFirstByte": 420.851,
+  "firstContentfulPaint": 2363.6949999999997,
+  "firstMeaningfulPaint": 4632.195,
+  "speedIndex": 5730.719463146253,
+  "largestContentfulPaint": 9332.9025,
+  "totalBlockingTime": 62,
+  "cumulativeLayoutShift": 0.8655896693239108,
+  "timeToInteractive": 8706.195,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 738.591,
   "weight": {
     "summary": "77 requests • 1.4 MiB",
-    "total": 1509645,
-    "image": 113738,
+    "total": 1499412,
+    "image": 103663,
     "imageCount": 21,
-    "script": 870498,
+    "script": 870256,
     "scriptCount": 23,
-    "document": 30757,
-    "font": 303488,
+    "document": 30794,
+    "font": 303494,
     "fontCount": 5,
-    "stylesheet": 190302,
+    "stylesheet": 190343,
     "stylesheetCount": 20,
-    "thirdParty": 796311,
+    "thirdParty": 796105,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 102,
-    "+weight.total": 324,
-    "-weight.document": 159,
-    "+weight.document": 264,
-    "-weight.script": 201,
-    "+weight.script": 221,
-    "-weight.image": 43,
-    "+weight.image": 379,
-    "-weight.font": 253,
-    "+weight.font": 106,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 314,
-    "-totalBlockingTime": 73,
-    "-largestContentfulPaint": 160
+    "-weight.total": 98,
+    "+weight.total": 327,
+    "-weight.document": 157,
+    "+weight.document": 262,
+    "-weight.script": 198,
+    "+weight.script": 223,
+    "-weight.image": 37,
+    "+weight.image": 381,
+    "-weight.font": 249,
+    "+weight.font": 108,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 361,
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 130
   },
   "axe": {
     "passes": 871,
     "violations": 3
+  },
+  "previousRanks": {
+    "hundos": 136,
+    "performance": 309,
+    "accessibility": 52,
+    "cumulative": 134
   }
 }

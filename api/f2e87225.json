@@ -1,43 +1,43 @@
 {
   "url": "https://www.cityofriodell.ca.gov/",
   "requestedUrl": "https://cityofriodell.ca.gov/",
-  "timestamp": 1707768744187,
+  "timestamp": 1708255885326,
   "ranks": {
-    "hundos": 61,
-    "performance": 70,
-    "accessibility": 119,
-    "cumulative": 61
+    "hundos": 67,
+    "performance": 80,
+    "accessibility": 123,
+    "cumulative": 67
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.7,
+    "performance": 0.68,
     "accessibility": 0.98,
     "bestPractices": 0.93,
     "seo": 0.9,
-    "total": 351
+    "total": 349
   },
-  "firstContentfulPaint": 3163.1875,
-  "firstMeaningfulPaint": 3163.1875,
-  "speedIndex": 3780.580493026063,
-  "largestContentfulPaint": 3728.1875,
+  "firstContentfulPaint": 3141.3085,
+  "firstMeaningfulPaint": 3141.3085,
+  "speedIndex": 3711.7758813135433,
+  "largestContentfulPaint": 6645.9225,
   "totalBlockingTime": 2.5,
-  "cumulativeLayoutShift": 0.2333436556075121,
-  "timeToInteractive": 5067.2105,
+  "cumulativeLayoutShift": 0.09287933580667163,
+  "timeToInteractive": 4973.4745,
   "maxPotentialFirstInputDelay": 55,
-  "timeToFirstByte": 156.197,
+  "timeToFirstByte": 174.05700000000002,
   "weight": {
-    "summary": "81 requests • 610.7 KiB",
-    "total": 625403,
-    "image": 103965,
+    "summary": "81 requests • 610.9 KiB",
+    "total": 625585,
+    "image": 103948,
     "imageCount": 7,
-    "script": 314279,
+    "script": 314362,
     "scriptCount": 34,
-    "document": 21497,
-    "font": 111457,
+    "document": 21563,
+    "font": 111461,
     "fontCount": 2,
-    "stylesheet": 72297,
+    "stylesheet": 72357,
     "stylesheetCount": 32,
-    "thirdParty": 252609,
+    "thirdParty": 252574,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 32,
-    "+weight.total": 394,
-    "-weight.document": 107,
-    "+weight.document": 316,
+    "-weight.total": 30,
+    "+weight.total": 395,
+    "-weight.document": 105,
+    "+weight.document": 314,
     "-weight.script": 64,
-    "+weight.script": 358,
+    "+weight.script": 357,
     "-weight.image": 38,
-    "+weight.image": 384,
-    "-weight.font": 110,
-    "+weight.font": 249,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 246,
+    "+weight.image": 380,
+    "-weight.font": 105,
+    "+weight.font": 252,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 243,
     "-totalBlockingTime": 5,
-    "-largestContentfulPaint": 40
+    "-largestContentfulPaint": 77
   },
   "axe": {
-    "passes": 763,
+    "passes": 767,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 211,
+    "performance": 79,
+    "accessibility": 120,
+    "cumulative": 211
   }
 }

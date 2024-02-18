@@ -1,43 +1,43 @@
 {
   "url": "https://losaltoshills.ca.gov/",
   "requestedUrl": "https://losaltoshills.ca.gov/",
-  "timestamp": 1707781572616,
+  "timestamp": 1708268672456,
   "ranks": {
-    "hundos": 399,
-    "performance": 278,
-    "accessibility": 416,
-    "cumulative": 399
+    "hundos": 392,
+    "performance": 244,
+    "accessibility": 415,
+    "cumulative": 393
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.45,
-    "accessibility": 0.72,
+    "performance": 0.48,
+    "accessibility": 0.73,
     "bestPractices": 0.52,
     "seo": 0.9,
-    "total": 259
+    "total": 263
   },
-  "firstContentfulPaint": 2473.676,
-  "firstMeaningfulPaint": 2473.676,
-  "speedIndex": 8627.09486373968,
-  "largestContentfulPaint": 21944.99550000001,
-  "totalBlockingTime": 592,
-  "cumulativeLayoutShift": 0.11568614705220549,
-  "timeToInteractive": 17653.499499999998,
-  "maxPotentialFirstInputDelay": 417,
-  "timeToFirstByte": 352.476,
+  "firstContentfulPaint": 2430.83,
+  "firstMeaningfulPaint": 2430.83,
+  "speedIndex": 8860.602513641044,
+  "largestContentfulPaint": 23909.70300000001,
+  "totalBlockingTime": 451,
+  "cumulativeLayoutShift": 0.12003796873087101,
+  "timeToInteractive": 17801.034999999996,
+  "maxPotentialFirstInputDelay": 235,
+  "timeToFirstByte": 373.371,
   "weight": {
-    "summary": "133 requests • 8.9 MiB",
-    "total": 9307197,
-    "image": 7255699,
+    "summary": "133 requests • 8.3 MiB",
+    "total": 8706810,
+    "image": 6651926,
     "imageCount": 51,
-    "script": 1714713,
+    "script": 1717251,
     "scriptCount": 55,
-    "document": 150038,
-    "font": 36828,
+    "document": 149672,
+    "font": 36826,
     "fontCount": 3,
-    "stylesheet": 120690,
+    "stylesheet": 121418,
     "stylesheetCount": 8,
-    "thirdParty": 1464750,
+    "thirdParty": 1466800,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 381,
-    "+weight.total": 45,
-    "-weight.document": 376,
-    "+weight.document": 47,
-    "-weight.script": 355,
-    "+weight.script": 67,
-    "-weight.image": 386,
-    "+weight.image": 36,
+    "-weight.total": 377,
+    "+weight.total": 48,
+    "-weight.document": 369,
+    "+weight.document": 50,
+    "-weight.script": 357,
+    "+weight.script": 64,
+    "-weight.image": 380,
+    "+weight.image": 38,
     "-weight.font": 16,
-    "+weight.font": 343,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 300,
-    "-totalBlockingTime": 224,
-    "-largestContentfulPaint": 359
+    "+weight.font": 341,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 307,
+    "-totalBlockingTime": 209,
+    "-largestContentfulPaint": 374
   },
   "axe": {
-    "passes": 1529,
-    "violations": 48
+    "passes": 1539,
+    "violations": 46
+  },
+  "previousRanks": {
+    "hundos": 400,
+    "performance": 305,
+    "accessibility": 413,
+    "cumulative": 400
   }
 }

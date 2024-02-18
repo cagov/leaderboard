@@ -1,43 +1,43 @@
 {
   "url": "https://ltg.ca.gov/",
   "requestedUrl": "https://ltg.ca.gov/",
-  "timestamp": 1707781648140,
+  "timestamp": 1708268746474,
   "ranks": {
-    "hundos": 127,
-    "performance": 275,
+    "hundos": 120,
+    "performance": 265,
     "accessibility": 63,
-    "cumulative": 126
+    "cumulative": 120
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.45,
+    "performance": 0.46,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.97,
-    "total": 338
+    "total": 339
   },
-  "firstContentfulPaint": 2333.0009999999997,
-  "firstMeaningfulPaint": 3168.5009999999993,
-  "speedIndex": 7433.159166259985,
-  "largestContentfulPaint": 17408.001000000004,
-  "totalBlockingTime": 118.5,
+  "firstContentfulPaint": 2286.426,
+  "firstMeaningfulPaint": 3636.4260000000004,
+  "speedIndex": 7813.255677135161,
+  "largestContentfulPaint": 17362.618499999997,
+  "totalBlockingTime": 61.5,
   "cumulativeLayoutShift": 0.4091121830205215,
-  "timeToInteractive": 8824.357499999998,
-  "maxPotentialFirstInputDelay": 107,
-  "timeToFirstByte": 1096.2359999999999,
+  "timeToInteractive": 13376.426,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 108.62700000000001,
   "weight": {
-    "summary": "79 requests • 2.8 MiB",
-    "total": 2956530,
-    "image": 1149042,
-    "imageCount": 12,
-    "script": 918152,
+    "summary": "80 requests • 2.7 MiB",
+    "total": 2870644,
+    "image": 1060730,
+    "imageCount": 13,
+    "script": 920417,
     "scriptCount": 30,
-    "document": 39540,
-    "font": 656971,
+    "document": 39560,
+    "font": 656974,
     "fontCount": 7,
-    "stylesheet": 191981,
+    "stylesheet": 192119,
     "stylesheetCount": 22,
-    "thirdParty": 812659,
+    "thirdParty": 814989,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 235,
-    "+weight.total": 191,
-    "-weight.document": 234,
-    "+weight.document": 189,
+    "-weight.total": 231,
+    "+weight.total": 194,
+    "-weight.document": 231,
+    "+weight.document": 188,
     "-weight.script": 217,
-    "+weight.script": 205,
-    "-weight.image": 232,
-    "+weight.image": 190,
-    "-weight.font": 329,
+    "+weight.script": 204,
+    "-weight.image": 223,
+    "+weight.image": 195,
+    "-weight.font": 327,
     "+weight.font": 30,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 388,
-    "-totalBlockingTime": 139,
-    "-largestContentfulPaint": 287
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 209,
+    "-totalBlockingTime": 91,
+    "-largestContentfulPaint": 334
   },
   "axe": {
     "passes": 261,
     "violations": 3
+  },
+  "previousRanks": {
+    "hundos": 138,
+    "performance": 313,
+    "accessibility": 64,
+    "cumulative": 138
   }
 }

@@ -1,12 +1,12 @@
 {
   "url": "https://crob.ca.gov/",
   "requestedUrl": "https://crob.ca.gov/",
-  "timestamp": 1707771591492,
+  "timestamp": 1708258766684,
   "ranks": {
     "hundos": 206,
-    "performance": 187,
-    "accessibility": 278,
-    "cumulative": 209
+    "performance": 183,
+    "accessibility": 277,
+    "cumulative": 206
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.79,
     "total": 319
   },
-  "firstContentfulPaint": 10277.973,
-  "firstMeaningfulPaint": 11607.741999999997,
-  "speedIndex": 12707.902197397805,
-  "largestContentfulPaint": 12615.263999999997,
-  "totalBlockingTime": 14.5,
+  "firstContentfulPaint": 10308.520000000002,
+  "firstMeaningfulPaint": 11476.777999999998,
+  "speedIndex": 13534.14271445145,
+  "largestContentfulPaint": 12228.760999999999,
+  "totalBlockingTime": 45,
   "cumulativeLayoutShift": 0.005493702010869737,
-  "timeToInteractive": 17915.932499999988,
-  "maxPotentialFirstInputDelay": 69,
-  "timeToFirstByte": 211.384,
+  "timeToInteractive": 23100.543999999994,
+  "maxPotentialFirstInputDelay": 104,
+  "timeToFirstByte": 206.81,
   "weight": {
     "summary": "93 requests • 6.6 MiB",
-    "total": 6957092,
+    "total": 6957197,
     "image": 3586593,
     "imageCount": 7,
-    "script": 1676028,
+    "script": 1676123,
     "scriptCount": 44,
-    "document": 128459,
+    "document": 128272,
     "font": 162860,
     "fontCount": 4,
-    "stylesheet": 1400778,
+    "stylesheet": 1400749,
     "stylesheetCount": 30,
-    "thirdParty": 521490,
+    "thirdParty": 521785,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 347,
-    "+weight.total": 79,
-    "-weight.document": 365,
+    "-weight.total": 351,
+    "+weight.total": 74,
+    "-weight.document": 361,
     "+weight.document": 58,
-    "-weight.script": 348,
-    "+weight.script": 74,
-    "-weight.image": 334,
-    "+weight.image": 88,
-    "-weight.font": 172,
-    "+weight.font": 187,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 261,
-    "-totalBlockingTime": 26,
-    "-largestContentfulPaint": 236
+    "-weight.script": 349,
+    "+weight.script": 72,
+    "-weight.image": 335,
+    "+weight.image": 83,
+    "-weight.font": 169,
+    "+weight.font": 188,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 257,
+    "-totalBlockingTime": 70,
+    "-largestContentfulPaint": 263
   },
   "axe": {
     "passes": 237,
     "violations": 18
+  },
+  "previousRanks": {
+    "hundos": 202,
+    "performance": 182,
+    "accessibility": 278,
+    "cumulative": 203
   }
 }

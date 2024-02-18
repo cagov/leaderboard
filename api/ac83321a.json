@@ -1,12 +1,12 @@
 {
   "url": "https://speechandhearing.ca.gov/",
   "requestedUrl": "https://speechandhearing.ca.gov/",
-  "timestamp": 1707790234387,
+  "timestamp": 1708277374442,
   "ranks": {
-    "hundos": 94,
-    "performance": 57,
-    "accessibility": 94,
-    "cumulative": 99
+    "hundos": 93,
+    "performance": 58,
+    "accessibility": 95,
+    "cumulative": 101
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.77,
     "total": 344
   },
-  "firstContentfulPaint": 1821.1419999999996,
-  "firstMeaningfulPaint": 2751.0259999999994,
-  "speedIndex": 2344.3236843422883,
-  "largestContentfulPaint": 7974.0869999999995,
-  "totalBlockingTime": 13,
-  "cumulativeLayoutShift": 0.012734668609564462,
-  "timeToInteractive": 4877.403499999999,
-  "maxPotentialFirstInputDelay": 69,
-  "timeToFirstByte": 32.706999999999994,
+  "firstContentfulPaint": 1878.8715,
+  "firstMeaningfulPaint": 2786.6980000000003,
+  "speedIndex": 2950.96292820733,
+  "largestContentfulPaint": 7727.5824999999995,
+  "totalBlockingTime": 10.5,
+  "cumulativeLayoutShift": 0.04748903690944831,
+  "timeToInteractive": 4825.6255,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 35.035,
   "weight": {
     "summary": "64 requests • 1.6 MiB",
-    "total": 1715364,
-    "image": 1152981,
+    "total": 1717203,
+    "image": 1154547,
     "imageCount": 36,
-    "script": 504801,
+    "script": 505056,
     "scriptCount": 14,
-    "document": 34313,
+    "document": 34304,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 22544,
+    "stylesheet": 22571,
     "stylesheetCount": 9,
-    "thirdParty": 475704,
+    "thirdParty": 475959,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 120,
-    "+weight.total": 306,
-    "-weight.document": 195,
-    "+weight.document": 228,
-    "-weight.script": 117,
-    "+weight.script": 305,
-    "-weight.image": 234,
-    "+weight.image": 188,
+    "-weight.total": 116,
+    "+weight.total": 309,
+    "-weight.document": 190,
+    "+weight.document": 229,
+    "-weight.script": 114,
+    "+weight.script": 307,
+    "-weight.image": 235,
+    "+weight.image": 183,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 103,
-    "-totalBlockingTime": 24,
-    "-largestContentfulPaint": 135
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 102,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 215
   },
   "axe": {
     "passes": 465,
     "violations": 19
+  },
+  "previousRanks": {
+    "hundos": 90,
+    "performance": 57,
+    "accessibility": 95,
+    "cumulative": 99
   }
 }

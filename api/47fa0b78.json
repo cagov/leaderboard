@@ -1,43 +1,43 @@
 {
   "url": "https://chiro.ca.gov/",
   "requestedUrl": "https://chiro.ca.gov/",
-  "timestamp": 1707768330109,
+  "timestamp": 1708255472167,
   "ranks": {
-    "hundos": 74,
-    "performance": 41,
-    "accessibility": 98,
-    "cumulative": 76
+    "hundos": 50,
+    "performance": 28,
+    "accessibility": 99,
+    "cumulative": 53
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.81,
+    "performance": 0.88,
     "accessibility": 1,
     "bestPractices": 0.89,
     "seo": 0.77,
-    "total": 347
+    "total": 354
   },
-  "firstContentfulPaint": 1910.3925,
-  "firstMeaningfulPaint": 2649.205,
-  "speedIndex": 1910.3925,
-  "largestContentfulPaint": 4804.062,
-  "totalBlockingTime": 12,
-  "cumulativeLayoutShift": 0.011134693995463907,
-  "timeToInteractive": 5279.516,
-  "maxPotentialFirstInputDelay": 71,
-  "timeToFirstByte": 19.153,
+  "firstContentfulPaint": 1935.1219999999998,
+  "firstMeaningfulPaint": 1935.1219999999998,
+  "speedIndex": 2303.685239306432,
+  "largestContentfulPaint": 3648.445,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.01506274809996855,
+  "timeToInteractive": 5833.03,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 22.823999999999998,
   "weight": {
-    "summary": "64 requests • 1.0 MiB",
-    "total": 1050842,
-    "image": 392590,
+    "summary": "63 requests • 940.2 KiB",
+    "total": 962749,
+    "image": 392580,
     "imageCount": 36,
-    "script": 593698,
-    "scriptCount": 14,
-    "document": 39057,
+    "script": 505773,
+    "scriptCount": 13,
+    "document": 39048,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 24779,
+    "stylesheet": 24630,
     "stylesheetCount": 9,
-    "thirdParty": 583782,
+    "thirdParty": 495436,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 57,
-    "+weight.total": 369,
-    "-weight.document": 229,
+    "-weight.total": 52,
+    "+weight.total": 373,
+    "-weight.document": 225,
     "+weight.document": 194,
-    "-weight.script": 136,
-    "+weight.script": 286,
-    "-weight.image": 104,
-    "+weight.image": 318,
+    "-weight.script": 115,
+    "+weight.script": 306,
+    "-weight.image": 105,
+    "+weight.image": 313,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 53,
-    "-totalBlockingTime": 22,
-    "-largestContentfulPaint": 68
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 62,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 179
   },
   "axe": {
     "passes": 785,
     "violations": 39
+  },
+  "previousRanks": {
+    "hundos": 51,
+    "performance": 29,
+    "accessibility": 99,
+    "cumulative": 54
   }
 }

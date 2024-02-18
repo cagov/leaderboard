@@ -1,12 +1,12 @@
 {
   "url": "https://avaqmd.ca.gov/",
   "requestedUrl": "https://avaqmd.ca.gov/",
-  "timestamp": 1707761680933,
+  "timestamp": 1708248791986,
   "ranks": {
-    "hundos": 69,
-    "performance": 152,
+    "hundos": 64,
+    "performance": 146,
     "accessibility": 39,
-    "cumulative": 68
+    "cumulative": 64
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.92,
     "total": 350
   },
-  "firstContentfulPaint": 6808.544999999998,
-  "firstMeaningfulPaint": 7569.572999999999,
-  "speedIndex": 6808.544999999998,
-  "largestContentfulPaint": 11874.015,
-  "totalBlockingTime": 96,
+  "firstContentfulPaint": 6950.295999999999,
+  "firstMeaningfulPaint": 7629.839999999999,
+  "speedIndex": 6950.295999999999,
+  "largestContentfulPaint": 10857.673999999999,
+  "totalBlockingTime": 108.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 12296.137499999997,
-  "maxPotentialFirstInputDelay": 198,
-  "timeToFirstByte": 110.02799999999999,
+  "timeToInteractive": 11961.933000000003,
+  "maxPotentialFirstInputDelay": 211,
+  "timeToFirstByte": 63.337999999999994,
   "weight": {
     "summary": "31 requests • 2.1 MiB",
-    "total": 2209008,
-    "image": 618388,
+    "total": 2192334,
+    "image": 601776,
     "imageCount": 10,
-    "script": 1354404,
+    "script": 1354221,
     "scriptCount": 9,
-    "document": 32361,
+    "document": 32624,
     "font": 107819,
     "fontCount": 3,
-    "stylesheet": 95173,
+    "stylesheet": 95172,
     "stylesheetCount": 6,
-    "thirdParty": 1200362,
+    "thirdParty": 1183313,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 164,
+    "-weight.total": 163,
     "+weight.total": 262,
-    "-weight.document": 175,
-    "+weight.document": 248,
-    "-weight.script": 309,
-    "+weight.script": 113,
+    "-weight.document": 173,
+    "+weight.document": 246,
+    "-weight.script": 313,
+    "+weight.script": 108,
     "-weight.image": 156,
-    "+weight.image": 266,
-    "-weight.font": 96,
-    "+weight.font": 263,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 212,
-    "-totalBlockingTime": 122,
-    "-largestContentfulPaint": 220
+    "+weight.image": 262,
+    "-weight.font": 91,
+    "+weight.font": 266,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 145,
+    "-totalBlockingTime": 131,
+    "-largestContentfulPaint": 156
   },
   "axe": {
-    "passes": 988,
+    "passes": 1006,
     "violations": 2
+  },
+  "previousRanks": {
+    "hundos": 70,
+    "performance": 154,
+    "accessibility": 39,
+    "cumulative": 71
   }
 }

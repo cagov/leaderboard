@@ -1,43 +1,43 @@
 {
   "url": "https://hollister.ca.gov/",
   "requestedUrl": "https://hollister.ca.gov/",
-  "timestamp": 1707779057842,
+  "timestamp": 1708266187614,
   "ranks": {
-    "hundos": 198,
-    "performance": 114,
-    "accessibility": 173,
-    "cumulative": 198
+    "hundos": 230,
+    "performance": 106,
+    "accessibility": 261,
+    "cumulative": 230
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.63,
-    "accessibility": 0.95,
-    "bestPractices": 0.7,
-    "seo": 0.92,
-    "total": 320
+    "performance": 0.64,
+    "accessibility": 0.9,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 313
   },
-  "firstContentfulPaint": 2414.5808599999996,
-  "firstMeaningfulPaint": 2414.5808599999996,
-  "speedIndex": 10170.002501133216,
-  "largestContentfulPaint": 31045.340920000002,
-  "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 0.0009439013622282509,
-  "timeToInteractive": 2414.5808599999996,
-  "maxPotentialFirstInputDelay": 50,
-  "timeToFirstByte": 2402.2670000000003,
+  "firstContentfulPaint": 2423.3814799999996,
+  "firstMeaningfulPaint": 2423.3814799999996,
+  "speedIndex": 7955.5775224287945,
+  "largestContentfulPaint": 32840.30811999999,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 9.11095864026842e-7,
+  "timeToInteractive": 17445.838319999995,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 759.64,
   "weight": {
-    "summary": "112 requests • 6.0 MiB",
-    "total": 6289142,
-    "image": 4362576,
-    "imageCount": 23,
-    "script": 1059597,
+    "summary": "111 requests • 6.1 MiB",
+    "total": 6415404,
+    "image": 4454527,
+    "imageCount": 24,
+    "script": 1059444,
     "scriptCount": 44,
-    "document": 47434,
-    "font": 79446,
-    "fontCount": 5,
-    "stylesheet": 694602,
+    "document": 47352,
+    "font": 114576,
+    "fontCount": 6,
+    "stylesheet": 694548,
     "stylesheetCount": 25,
-    "thirdParty": 809922,
+    "thirdParty": 843496,
     "thirdPartyCount": 9
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 343,
-    "+weight.total": 83,
-    "-weight.document": 271,
-    "+weight.document": 152,
-    "-weight.script": 272,
+    "-weight.total": 344,
+    "+weight.total": 81,
+    "-weight.document": 268,
+    "+weight.document": 151,
+    "-weight.script": 271,
     "+weight.script": 150,
     "-weight.image": 355,
-    "+weight.image": 67,
-    "-weight.font": 64,
-    "+weight.font": 295,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 411,
-    "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 393
+    "+weight.image": 63,
+    "-weight.font": 110,
+    "+weight.font": 247,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 367,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 399
   },
   "axe": {
-    "passes": 1771,
-    "violations": 92
+    "passes": 1788,
+    "violations": 95
+  },
+  "previousRanks": {
+    "hundos": 235,
+    "performance": 123,
+    "accessibility": 263,
+    "cumulative": 236
   }
 }

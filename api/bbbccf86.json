@@ -1,43 +1,43 @@
 {
   "url": "https://earthquake.ca.gov/",
   "requestedUrl": "https://earthquake.ca.gov/",
-  "timestamp": 1707775169075,
+  "timestamp": 1708262327048,
   "ranks": {
-    "hundos": 302,
-    "performance": 335,
-    "accessibility": 228,
-    "cumulative": 301
+    "hundos": 301,
+    "performance": 327,
+    "accessibility": 224,
+    "cumulative": 300
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.39,
+    "performance": 0.4,
     "accessibility": 0.91,
     "bestPractices": 0.74,
     "seo": 0.91,
-    "total": 295
+    "total": 296
   },
-  "firstContentfulPaint": 2898.8380000000006,
-  "firstMeaningfulPaint": 3253.648,
-  "speedIndex": 8238.400975288434,
-  "largestContentfulPaint": 10281.655999999997,
-  "totalBlockingTime": 69.5,
-  "cumulativeLayoutShift": 0.6547125956070137,
-  "timeToInteractive": 14239.932096710207,
-  "maxPotentialFirstInputDelay": 90,
-  "timeToFirstByte": 924.0310000000002,
+  "firstContentfulPaint": 2881.535,
+  "firstMeaningfulPaint": 3236.323,
+  "speedIndex": 9029.6466458408,
+  "largestContentfulPaint": 7570.838000000002,
+  "totalBlockingTime": 68.5,
+  "cumulativeLayoutShift": 0.6521209001062384,
+  "timeToInteractive": 13992.881000000001,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 996.7520000000001,
   "weight": {
-    "summary": "95 requests • 2.1 MiB",
-    "total": 2212707,
-    "image": 516232,
+    "summary": "96 requests • 2.2 MiB",
+    "total": 2278114,
+    "image": 578718,
     "imageCount": 26,
-    "script": 870158,
+    "script": 869827,
     "scriptCount": 28,
-    "document": 62349,
-    "font": 548596,
+    "document": 62374,
+    "font": 548595,
     "fontCount": 9,
-    "stylesheet": 196499,
-    "stylesheetCount": 19,
-    "thirdParty": 1160131,
+    "stylesheet": 198538,
+    "stylesheetCount": 20,
+    "thirdParty": 1161234,
     "thirdPartyCount": 10
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 165,
-    "+weight.total": 261,
-    "-weight.document": 308,
-    "+weight.document": 115,
-    "-weight.script": 200,
-    "+weight.script": 222,
-    "-weight.image": 132,
-    "+weight.image": 290,
-    "-weight.font": 312,
+    "-weight.total": 169,
+    "+weight.total": 256,
+    "-weight.document": 306,
+    "+weight.document": 113,
+    "-weight.script": 197,
+    "+weight.script": 224,
+    "-weight.image": 141,
+    "+weight.image": 277,
+    "-weight.font": 310,
     "+weight.font": 47,
-    "+weight.fontCount": 15,
-    "-timeToFirstByte": 379,
-    "-totalBlockingTime": 101,
-    "-largestContentfulPaint": 198
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 383,
+    "-totalBlockingTime": 100,
+    "-largestContentfulPaint": 95
   },
   "axe": {
     "passes": 855,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 305,
+    "performance": 347,
+    "accessibility": 226,
+    "cumulative": 303
   }
 }

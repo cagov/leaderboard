@@ -1,12 +1,12 @@
 {
   "url": "https://www.calpia.ca.gov/",
   "requestedUrl": "https://calpia.ca.gov/",
-  "timestamp": 1707765589549,
+  "timestamp": 1708252723846,
   "ranks": {
-    "hundos": 379,
-    "performance": 199,
-    "accessibility": 130,
-    "cumulative": 380
+    "hundos": 388,
+    "performance": 192,
+    "accessibility": 134,
+    "cumulative": 388
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.54,
     "total": 268
   },
-  "firstContentfulPaint": 12378.679980000004,
-  "firstMeaningfulPaint": 12378.679980000004,
-  "speedIndex": 31399.86946385281,
-  "largestContentfulPaint": 37396.041,
-  "totalBlockingTime": 133.5,
+  "firstContentfulPaint": 12154.089759999997,
+  "firstMeaningfulPaint": 12154.089759999997,
+  "speedIndex": 28752.570774772976,
+  "largestContentfulPaint": 38118.769320000014,
+  "totalBlockingTime": 137,
   "cumulativeLayoutShift": 0.009720534629404616,
-  "timeToInteractive": 38225.76331,
-  "maxPotentialFirstInputDelay": 152,
-  "timeToFirstByte": 3365.7039999999997,
+  "timeToInteractive": 38478.76082000001,
+  "maxPotentialFirstInputDelay": 153,
+  "timeToFirstByte": 4125.289,
   "weight": {
     "summary": "133 requests • 6.9 MiB",
-    "total": 7199458,
-    "image": 2497935,
+    "total": 7206489,
+    "image": 2497937,
     "imageCount": 34,
-    "script": 2375953,
+    "script": 2376179,
     "scriptCount": 40,
-    "document": 144156,
-    "font": 1310170,
+    "document": 144085,
+    "font": 1310168,
     "fontCount": 13,
-    "stylesheet": 805900,
+    "stylesheet": 812734,
     "stylesheetCount": 25,
-    "thirdParty": 2012865,
+    "thirdParty": 2013238,
     "thirdPartyCount": 13
   },
   "run": {
@@ -45,22 +45,23 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 353,
-    "+weight.total": 73,
-    "-weight.document": 373,
-    "+weight.document": 50,
-    "-weight.script": 395,
-    "+weight.script": 27,
-    "-weight.image": 302,
-    "+weight.image": 120,
-    "-weight.font": 358,
-    "+weight.font": 1,
-    "+weight.fontCount": 11,
-    "-timeToFirstByte": 418,
-    "-totalBlockingTime": 146,
-    "-largestContentfulPaint": 402
+    "-weight.total": 358,
+    "+weight.total": 67,
+    "-weight.document": 367,
+    "+weight.document": 52,
+    "-weight.script": 396,
+    "+weight.script": 25,
+    "-weight.image": 305,
+    "+weight.image": 113,
+    "-weight.font": 355,
+    "+weight.font": 2,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 420,
+    "-totalBlockingTime": 144,
+    "-largestContentfulPaint": 403
   },
   "axe": {
-    "error": "{\"name\":\"TimeoutError\"}"
+    "passes": 1077,
+    "violations": 13
   }
 }

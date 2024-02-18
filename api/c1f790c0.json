@@ -1,43 +1,43 @@
 {
   "url": "https://coastal.ca.gov/",
   "requestedUrl": "https://coastal.ca.gov/",
-  "timestamp": 1707770086715,
+  "timestamp": 1708257258855,
   "ranks": {
-    "hundos": 228,
-    "performance": 82,
-    "accessibility": 387,
-    "cumulative": 228
+    "hundos": 238,
+    "performance": 96,
+    "accessibility": 386,
+    "cumulative": 238
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.69,
+    "performance": 0.66,
     "accessibility": 0.8,
     "bestPractices": 0.89,
     "seo": 0.76,
-    "total": 314
+    "total": 311
   },
-  "firstContentfulPaint": 3564.258,
-  "firstMeaningfulPaint": 4113.6165,
-  "speedIndex": 11616.727932847705,
-  "largestContentfulPaint": 4266.226499999999,
-  "totalBlockingTime": 51,
+  "firstContentfulPaint": 3622.2699999999995,
+  "firstMeaningfulPaint": 4190.248999999999,
+  "speedIndex": 11626.020167349909,
+  "largestContentfulPaint": 4764.165999999999,
+  "totalBlockingTime": 51.5,
   "cumulativeLayoutShift": 0.007866311207527647,
-  "timeToInteractive": 33778.588249999986,
-  "maxPotentialFirstInputDelay": 112,
-  "timeToFirstByte": 32.147999999999996,
+  "timeToInteractive": 33909.154749999994,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 17.114999999999995,
   "weight": {
     "summary": "103 requests • 28.2 MiB",
-    "total": 29566915,
+    "total": 29567234,
     "image": 28795729,
     "imageCount": 73,
-    "script": 506513,
+    "script": 506840,
     "scriptCount": 14,
     "document": 38781,
     "font": 166008,
     "fontCount": 2,
     "stylesheet": 58151,
     "stylesheetCount": 3,
-    "thirdParty": 473467,
+    "thirdParty": 473585,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 420,
+    "-weight.total": 419,
     "+weight.total": 6,
-    "-weight.document": 227,
-    "+weight.document": 196,
-    "-weight.script": 118,
+    "-weight.document": 224,
+    "+weight.document": 195,
+    "-weight.script": 117,
     "+weight.script": 304,
-    "-weight.image": 416,
+    "-weight.image": 412,
     "+weight.image": 6,
-    "-weight.font": 177,
+    "-weight.font": 175,
     "+weight.font": 182,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 100,
-    "-totalBlockingTime": 78,
-    "-largestContentfulPaint": 54
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 35,
+    "-totalBlockingTime": 79,
+    "-largestContentfulPaint": 47
   },
   "axe": {
     "passes": 1634,
     "violations": 51
+  },
+  "previousRanks": {
+    "hundos": 228,
+    "performance": 85,
+    "accessibility": 384,
+    "cumulative": 228
   }
 }

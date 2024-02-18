@@ -1,12 +1,12 @@
 {
   "url": "https://ibank.ca.gov/",
   "requestedUrl": "https://ibank.ca.gov/",
-  "timestamp": 1707779276744,
+  "timestamp": 1708266407129,
   "ranks": {
-    "hundos": 370,
-    "performance": 386,
-    "accessibility": 345,
-    "cumulative": 370
+    "hundos": 377,
+    "performance": 381,
+    "accessibility": 347,
+    "cumulative": 377
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,52 +16,58 @@
     "seo": 0.84,
     "total": 272
   },
-  "firstContentfulPaint": 3715.899,
-  "firstMeaningfulPaint": 3715.899,
-  "speedIndex": 23314.630169874636,
-  "largestContentfulPaint": 35306.43499999999,
-  "totalBlockingTime": 39,
+  "firstContentfulPaint": 3697.831,
+  "firstMeaningfulPaint": 3697.831,
+  "speedIndex": 21472.99084063316,
+  "largestContentfulPaint": 35353.30999999999,
+  "totalBlockingTime": 21,
   "cumulativeLayoutShift": 0.7422445036265163,
-  "timeToInteractive": 41565.24900000001,
-  "maxPotentialFirstInputDelay": 75.5,
-  "timeToFirstByte": 2991.7219999999998,
+  "timeToInteractive": 41716.47800000005,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 2332.652,
   "weight": {
-    "summary": "152 requests • 12.3 MiB",
-    "total": 12861135,
-    "image": 10630326,
-    "imageCount": 70,
-    "script": 858842,
+    "summary": "151 requests • 12.3 MiB",
+    "total": 12861607,
+    "image": 10591244,
+    "imageCount": 67,
+    "script": 857829,
     "scriptCount": 34,
-    "document": 246268,
-    "font": 864998,
-    "fontCount": 11,
-    "stylesheet": 241455,
+    "document": 246359,
+    "font": 905161,
+    "fontCount": 13,
+    "stylesheet": 241587,
     "stylesheetCount": 26,
-    "thirdParty": 785638,
-    "thirdPartyCount": 9
+    "thirdParty": 786346,
+    "thirdPartyCount": 10
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 405,
-    "+weight.total": 21,
-    "-weight.document": 403,
+    "-weight.total": 406,
+    "+weight.total": 19,
+    "-weight.document": 399,
     "+weight.document": 20,
     "-weight.script": 189,
-    "+weight.script": 233,
-    "-weight.image": 405,
+    "+weight.script": 232,
+    "-weight.image": 401,
     "+weight.image": 17,
-    "-weight.font": 349,
+    "-weight.font": 347,
     "+weight.font": 10,
     "+weight.fontCount": 13,
-    "-timeToFirstByte": 416,
-    "-totalBlockingTime": 62,
-    "-largestContentfulPaint": 399
+    "-timeToFirstByte": 413,
+    "-totalBlockingTime": 37,
+    "-largestContentfulPaint": 401
   },
   "axe": {
-    "passes": 1248,
+    "passes": 1247,
     "violations": 12
+  },
+  "previousRanks": {
+    "hundos": 378,
+    "performance": 381,
+    "accessibility": 344,
+    "cumulative": 378
   }
 }

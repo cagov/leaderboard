@@ -1,12 +1,12 @@
 {
   "url": "https://waterboards.ca.gov/",
   "requestedUrl": "https://waterboards.ca.gov/",
-  "timestamp": 1707793985120,
+  "timestamp": 1708281124110,
   "ranks": {
-    "hundos": 269,
-    "performance": 193,
-    "accessibility": 223,
-    "cumulative": 272
+    "hundos": 266,
+    "performance": 188,
+    "accessibility": 217,
+    "cumulative": 271
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.88,
     "total": 304
   },
-  "firstContentfulPaint": 2942.522,
-  "firstMeaningfulPaint": 4500.70375,
-  "speedIndex": 5991.45196324359,
-  "largestContentfulPaint": 7529.138499999999,
-  "totalBlockingTime": 115,
-  "cumulativeLayoutShift": 0.2184702094703099,
-  "timeToInteractive": 11307.9995,
-  "maxPotentialFirstInputDelay": 138,
-  "timeToFirstByte": 86.278,
+  "firstContentfulPaint": 2918.9604999999997,
+  "firstMeaningfulPaint": 4644.13625,
+  "speedIndex": 5485.5627424541435,
+  "largestContentfulPaint": 7550.330999999998,
+  "totalBlockingTime": 111.5,
+  "cumulativeLayoutShift": 0.23103829157907904,
+  "timeToInteractive": 11173.877,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 104.243,
   "weight": {
-    "summary": "75 requests • 2.6 MiB",
-    "total": 2736303,
-    "image": 1584575,
-    "imageCount": 21,
-    "script": 935670,
-    "scriptCount": 34,
-    "document": 20738,
-    "font": 129652,
+    "summary": "78 requests • 2.7 MiB",
+    "total": 2855362,
+    "image": 1584645,
+    "imageCount": 22,
+    "script": 1054672,
+    "scriptCount": 36,
+    "document": 20709,
+    "font": 129644,
     "fontCount": 7,
-    "stylesheet": 66686,
+    "stylesheet": 66793,
     "stylesheetCount": 6,
-    "thirdParty": 865135,
+    "thirdParty": 982392,
     "thirdPartyCount": 10
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 222,
-    "+weight.total": 204,
-    "-weight.document": 102,
-    "+weight.document": 321,
-    "-weight.script": 227,
-    "+weight.script": 195,
-    "-weight.image": 262,
-    "+weight.image": 160,
-    "-weight.font": 130,
+    "-weight.total": 229,
+    "+weight.total": 196,
+    "-weight.document": 99,
+    "+weight.document": 320,
+    "-weight.script": 270,
+    "+weight.script": 151,
+    "-weight.image": 260,
+    "+weight.image": 158,
+    "-weight.font": 128,
     "+weight.font": 229,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 185,
-    "-totalBlockingTime": 136,
-    "-largestContentfulPaint": 125
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 201,
+    "-totalBlockingTime": 132,
+    "-largestContentfulPaint": 94
   },
   "axe": {
-    "passes": 1358,
-    "violations": 31
+    "passes": 1830,
+    "violations": 28
+  },
+  "previousRanks": {
+    "hundos": 259,
+    "performance": 161,
+    "accessibility": 219,
+    "cumulative": 259
   }
 }

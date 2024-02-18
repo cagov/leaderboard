@@ -1,43 +1,43 @@
 {
   "url": "https://economicdevelopment.business.ca.gov/frequently-asked-questions/",
   "requestedUrl": "https://opzones.ca.gov/",
-  "timestamp": 1707784695174,
+  "timestamp": 1708271775334,
   "ranks": {
-    "hundos": 424,
-    "performance": 302,
-    "accessibility": 328,
-    "cumulative": 424
+    "hundos": 422,
+    "performance": 184,
+    "accessibility": 330,
+    "cumulative": 422
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.43,
+    "performance": 0.55,
     "accessibility": 0.85,
     "bestPractices": null,
     "seo": 0.84,
-    "total": 212
+    "total": 224
   },
-  "firstContentfulPaint": 7026.8615,
-  "firstMeaningfulPaint": 7026.8615,
-  "speedIndex": 13268.329683228698,
-  "largestContentfulPaint": 11417.1755,
-  "totalBlockingTime": 40,
-  "cumulativeLayoutShift": 0.24273487230761226,
-  "timeToInteractive": 15455.21,
-  "maxPotentialFirstInputDelay": 86,
-  "timeToFirstByte": 2490.2110000000002,
+  "firstContentfulPaint": 7201.624999999998,
+  "firstMeaningfulPaint": 7201.624999999998,
+  "speedIndex": 14136.456665433758,
+  "largestContentfulPaint": 11474.761,
+  "totalBlockingTime": 37.00000000000091,
+  "cumulativeLayoutShift": 0.05406010758499473,
+  "timeToInteractive": 16191.1545,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 2658.363,
   "weight": {
-    "summary": "98 requests • 3.1 MiB",
-    "total": 3270691,
-    "image": 699087,
+    "summary": "99 requests • 3.3 MiB",
+    "total": 3428195,
+    "image": 699082,
     "imageCount": 22,
-    "script": 812676,
+    "script": 812940,
     "scriptCount": 33,
-    "document": 552728,
-    "font": 932103,
-    "fontCount": 11,
-    "stylesheet": 272039,
+    "document": 552750,
+    "font": 1089321,
+    "fontCount": 12,
+    "stylesheet": 272044,
     "stylesheetCount": 24,
-    "thirdParty": 596512,
+    "thirdParty": 753919,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 258,
-    "+weight.total": 168,
-    "-weight.document": 418,
+    "-weight.total": 265,
+    "+weight.total": 160,
+    "-weight.document": 414,
     "+weight.document": 5,
-    "-weight.script": 181,
-    "+weight.script": 241,
-    "-weight.image": 173,
-    "+weight.image": 249,
-    "-weight.font": 353,
-    "+weight.font": 6,
-    "+weight.fontCount": 13,
-    "-timeToFirstByte": 413,
-    "-totalBlockingTime": 64,
-    "-largestContentfulPaint": 217
+    "-weight.script": 179,
+    "+weight.script": 242,
+    "-weight.image": 174,
+    "+weight.image": 244,
+    "-weight.font": 352,
+    "+weight.font": 5,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 415,
+    "-totalBlockingTime": 58,
+    "-largestContentfulPaint": 168
   },
   "axe": {
     "passes": 1205,
     "violations": 9
+  },
+  "previousRanks": {
+    "hundos": 420,
+    "performance": 183,
+    "accessibility": 329,
+    "cumulative": 420
   }
 }

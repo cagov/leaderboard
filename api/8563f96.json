@@ -1,12 +1,12 @@
 {
   "url": "https://www.senate.ca.gov/",
   "requestedUrl": "https://senate.ca.gov/",
-  "timestamp": 1707788673949,
+  "timestamp": 1708275813131,
   "ranks": {
-    "hundos": 365,
-    "performance": 400,
-    "accessibility": 421,
-    "cumulative": 365
+    "hundos": 366,
+    "performance": 396,
+    "accessibility": 420,
+    "cumulative": 367
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.83,
     "total": 276
   },
-  "firstContentfulPaint": 10944.283000000003,
-  "firstMeaningfulPaint": 12932.283,
-  "speedIndex": 13894.926054275067,
-  "largestContentfulPaint": 21790.493000000002,
+  "firstContentfulPaint": 10990.435,
+  "firstMeaningfulPaint": 12662.934999999998,
+  "speedIndex": 10990.435,
+  "largestContentfulPaint": 21814.697,
   "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 1.0010882623518045,
-  "timeToInteractive": 12932.283,
-  "maxPotentialFirstInputDelay": 49,
-  "timeToFirstByte": 383.47,
+  "cumulativeLayoutShift": 1,
+  "timeToInteractive": 12662.934999999998,
+  "maxPotentialFirstInputDelay": 45,
+  "timeToFirstByte": 336.633,
   "weight": {
     "summary": "172 requests • 108.9 MiB",
-    "total": 114224032,
+    "total": 114223944,
     "image": 112587407,
     "imageCount": 99,
-    "script": 905993,
+    "script": 905926,
     "scriptCount": 28,
-    "document": 75699,
+    "document": 74733,
     "font": 361598,
     "fontCount": 7,
     "stylesheet": 280391,
     "stylesheetCount": 34,
-    "thirdParty": 95745,
+    "thirdParty": 95678,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 425,
+    "-weight.total": 424,
     "+weight.total": 1,
-    "-weight.document": 333,
-    "+weight.document": 90,
-    "-weight.script": 210,
+    "-weight.document": 326,
+    "+weight.document": 93,
+    "-weight.script": 209,
     "+weight.script": 212,
-    "-weight.image": 421,
+    "-weight.image": 417,
     "+weight.image": 1,
-    "-weight.font": 271,
-    "+weight.font": 88,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 304,
+    "-weight.font": 268,
+    "+weight.font": 89,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 301,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 358
+    "-largestContentfulPaint": 366
   },
   "axe": {
-    "passes": 1244,
+    "passes": 1225,
     "violations": 233
+  },
+  "previousRanks": {
+    "hundos": 368,
+    "performance": 396,
+    "accessibility": 418,
+    "cumulative": 370
   }
 }

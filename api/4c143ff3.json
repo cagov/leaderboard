@@ -1,12 +1,12 @@
 {
   "url": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
   "requestedUrl": "https://medi-cal.ca.gov/",
-  "timestamp": 1707782377755,
+  "timestamp": 1708269475786,
   "ranks": {
     "hundos": 183,
-    "performance": 388,
+    "performance": 387,
     "accessibility": 174,
-    "cumulative": 183
+    "cumulative": 182
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.96,
     "total": 323
   },
-  "firstContentfulPaint": 16583.243500000004,
-  "firstMeaningfulPaint": 16583.243500000004,
-  "speedIndex": 16583.243500000004,
-  "largestContentfulPaint": 20842.50825000001,
-  "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 0.6104219900227174,
-  "timeToInteractive": 17826.245500000005,
-  "maxPotentialFirstInputDelay": 197.5,
-  "timeToFirstByte": 34.35300000000001,
+  "firstContentfulPaint": 16058.419499999996,
+  "firstMeaningfulPaint": 16058.419499999996,
+  "speedIndex": 16058.419499999996,
+  "largestContentfulPaint": 20354.253499999995,
+  "totalBlockingTime": 56.86650000000009,
+  "cumulativeLayoutShift": 0.6090612209808711,
+  "timeToInteractive": 17406.771499999995,
+  "maxPotentialFirstInputDelay": 291,
+  "timeToFirstByte": 36.789,
   "weight": {
-    "summary": "57 requests • 3.2 MiB",
-    "total": 3406621,
+    "summary": "56 requests • 3.2 MiB",
+    "total": 3407492,
     "image": 155026,
     "imageCount": 7,
     "script": 2135925,
     "scriptCount": 2,
     "document": 1324,
-    "font": 428863,
+    "font": 429368,
     "fontCount": 28,
     "stylesheet": 651251,
     "stylesheetCount": 6,
-    "thirdParty": 170320,
+    "thirdParty": 170825,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 264,
-    "+weight.total": 162,
+    "-weight.total": 262,
+    "+weight.total": 163,
     "-weight.document": 3,
-    "+weight.document": 420,
-    "-weight.script": 386,
-    "+weight.script": 36,
-    "-weight.image": 50,
-    "+weight.image": 372,
-    "-weight.font": 298,
-    "+weight.font": 61,
+    "+weight.document": 416,
+    "-weight.script": 384,
+    "+weight.script": 37,
+    "-weight.image": 48,
+    "+weight.image": 370,
+    "-weight.font": 295,
+    "+weight.font": 62,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 110,
-    "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 303
+    "-timeToFirstByte": 108,
+    "-totalBlockingTime": 85,
+    "-largestContentfulPaint": 358
   },
   "axe": {
-    "passes": 711,
+    "passes": 721,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 83,
+    "performance": 185,
+    "accessibility": 172,
+    "cumulative": 81
   }
 }

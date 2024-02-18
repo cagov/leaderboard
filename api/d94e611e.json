@@ -1,43 +1,43 @@
 {
   "url": "https://monocounty.ca.gov/",
   "requestedUrl": "https://mono.ca.gov/",
-  "timestamp": 1707782852006,
+  "timestamp": 1708269949919,
   "ranks": {
-    "hundos": 121,
-    "performance": 89,
-    "accessibility": 214,
-    "cumulative": 123
+    "hundos": 127,
+    "performance": 92,
+    "accessibility": 211,
+    "cumulative": 127
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.67,
+    "performance": 0.66,
     "accessibility": 0.92,
     "bestPractices": 0.96,
     "seo": 0.84,
-    "total": 339
+    "total": 338
   },
-  "firstContentfulPaint": 3162.0355000000004,
-  "firstMeaningfulPaint": 4246.406000000001,
-  "speedIndex": 4484.363097510859,
-  "largestContentfulPaint": 9932.071749999996,
-  "totalBlockingTime": 4,
+  "firstContentfulPaint": 3295.8474699999997,
+  "firstMeaningfulPaint": 4347.418175,
+  "speedIndex": 4624.984912830138,
+  "largestContentfulPaint": 10188.058972500005,
+  "totalBlockingTime": 4.5,
   "cumulativeLayoutShift": 0.00016646850227106365,
-  "timeToInteractive": 9404.091249999994,
+  "timeToInteractive": 9645.154772500007,
   "maxPotentialFirstInputDelay": 56,
-  "timeToFirstByte": 37.398999999999994,
+  "timeToFirstByte": 36.142999999999994,
   "weight": {
     "summary": "47 requests • 1.7 MiB",
-    "total": 1731690,
-    "image": 1340173,
+    "total": 1732000,
+    "image": 1340471,
     "imageCount": 23,
-    "script": 270497,
+    "script": 270550,
     "scriptCount": 10,
-    "document": 11247,
-    "font": 74693,
+    "document": 11316,
+    "font": 74692,
     "fontCount": 3,
-    "stylesheet": 34321,
+    "stylesheet": 34212,
     "stylesheetCount": 7,
-    "thirdParty": 280139,
+    "thirdParty": 280379,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 122,
-    "+weight.total": 304,
-    "-weight.document": 47,
-    "+weight.document": 376,
-    "-weight.script": 52,
-    "+weight.script": 370,
-    "-weight.image": 246,
-    "+weight.image": 176,
-    "-weight.font": 56,
-    "+weight.font": 303,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 117,
-    "-totalBlockingTime": 8,
-    "-largestContentfulPaint": 182
+    "-weight.total": 118,
+    "+weight.total": 307,
+    "-weight.document": 46,
+    "+weight.document": 373,
+    "-weight.script": 50,
+    "+weight.script": 371,
+    "-weight.image": 245,
+    "+weight.image": 173,
+    "-weight.font": 55,
+    "+weight.font": 302,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 106,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 145
   },
   "axe": {
     "passes": 372,
     "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 57,
+    "performance": 40,
+    "accessibility": 211,
+    "cumulative": 55
   }
 }

@@ -1,43 +1,43 @@
 {
   "url": "https://militarycouncil.ca.gov/",
   "requestedUrl": "https://militarycouncil.ca.gov/",
-  "timestamp": 1707782570872,
+  "timestamp": 1708269670165,
   "ranks": {
-    "hundos": 99,
-    "performance": 262,
-    "accessibility": 118,
-    "cumulative": 93
+    "hundos": 89,
+    "performance": 255,
+    "accessibility": 121,
+    "cumulative": 86
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.46,
+    "performance": 0.47,
     "accessibility": 0.98,
     "bestPractices": 1,
     "seo": 1,
-    "total": 344
+    "total": 345
   },
-  "firstContentfulPaint": 2179.4385,
-  "firstMeaningfulPaint": 2929.4385,
-  "speedIndex": 7865.176843480146,
-  "largestContentfulPaint": 12229.4385,
-  "totalBlockingTime": 65.5,
+  "firstContentfulPaint": 2123.1155,
+  "firstMeaningfulPaint": 2818.7895,
+  "speedIndex": 7314.741369713356,
+  "largestContentfulPaint": 10673.1155,
+  "totalBlockingTime": 59.5,
   "cumulativeLayoutShift": 0.4092352204922585,
-  "timeToInteractive": 12069.9385,
-  "maxPotentialFirstInputDelay": 99,
-  "timeToFirstByte": 583.341,
+  "timeToInteractive": 11886.6155,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 477.405,
   "weight": {
     "summary": "56 requests • 2.5 MiB",
-    "total": 2621676,
-    "image": 1240404,
+    "total": 2611586,
+    "image": 1230119,
     "imageCount": 9,
-    "script": 766760,
+    "script": 766921,
     "scriptCount": 22,
-    "document": 33415,
-    "font": 424211,
+    "document": 33448,
+    "font": 424202,
     "fontCount": 6,
-    "stylesheet": 156024,
+    "stylesheet": 156034,
     "stylesheetCount": 11,
-    "thirdParty": 663670,
+    "thirdParty": 663676,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 207,
-    "+weight.total": 219,
-    "-weight.document": 183,
+    "-weight.total": 204,
+    "+weight.total": 221,
+    "-weight.document": 179,
     "+weight.document": 240,
-    "-weight.script": 169,
+    "-weight.script": 168,
     "+weight.script": 253,
-    "-weight.image": 238,
-    "+weight.image": 184,
-    "-weight.font": 296,
-    "+weight.font": 63,
-    "+weight.fontCount": 18,
-    "-timeToFirstByte": 342,
-    "-totalBlockingTime": 97,
-    "-largestContentfulPaint": 226
+    "-weight.image": 236,
+    "+weight.image": 182,
+    "-weight.font": 292,
+    "+weight.font": 65,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 329,
+    "-totalBlockingTime": 89,
+    "-largestContentfulPaint": 153
   },
   "axe": {
     "passes": 316,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 85,
+    "performance": 258,
+    "accessibility": 119,
+    "cumulative": 83
   }
 }

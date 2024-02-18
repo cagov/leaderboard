@@ -1,43 +1,43 @@
 {
   "url": "https://medalofvalor.ca.gov/",
   "requestedUrl": "https://medalofvalor.ca.gov/",
-  "timestamp": 1707782335615,
+  "timestamp": 1708269434022,
   "ranks": {
-    "hundos": 56,
-    "performance": 45,
-    "accessibility": 37,
-    "cumulative": 56
+    "hundos": 36,
+    "performance": 33,
+    "accessibility": 36,
+    "cumulative": 37
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.8,
+    "performance": 0.87,
     "accessibility": 1,
     "bestPractices": 0.74,
     "seo": 0.98,
-    "total": 352
+    "total": 359
   },
-  "firstContentfulPaint": 2563.2665,
-  "firstMeaningfulPaint": 2573.7665,
-  "speedIndex": 2563.2665,
-  "largestContentfulPaint": 4643.906,
+  "firstContentfulPaint": 2547.8495,
+  "firstMeaningfulPaint": 2547.8495,
+  "speedIndex": 2547.8495,
+  "largestContentfulPaint": 3540.1009999999997,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 2573.7665,
+  "timeToInteractive": 2547.8495,
   "maxPotentialFirstInputDelay": 21,
-  "timeToFirstByte": 30.373000000000005,
+  "timeToFirstByte": 28.201000000000008,
   "weight": {
     "summary": "20 requests • 758.0 KiB",
-    "total": 776205,
-    "image": 281022,
+    "total": 776192,
+    "image": 280948,
     "imageCount": 7,
-    "script": 223934,
+    "script": 223898,
     "scriptCount": 6,
     "document": 10823,
     "font": 63996,
     "fontCount": 1,
-    "stylesheet": 195875,
+    "stylesheet": 195885,
     "stylesheetCount": 3,
-    "thirdParty": 46649,
+    "thirdParty": 46645,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 41,
+    "-weight.total": 40,
     "+weight.total": 385,
-    "-weight.document": 46,
-    "+weight.document": 377,
+    "-weight.document": 45,
+    "+weight.document": 374,
     "-weight.script": 40,
-    "+weight.script": 382,
-    "-weight.image": 80,
-    "+weight.image": 342,
+    "+weight.script": 381,
+    "-weight.image": 82,
+    "+weight.image": 336,
     "-weight.font": 37,
-    "+weight.font": 322,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 93,
+    "+weight.font": 320,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 81,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 62
+    "-largestContentfulPaint": 31
   },
   "axe": {
     "passes": 167,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 43,
+    "performance": 32,
+    "accessibility": 36,
+    "cumulative": 43
   }
 }

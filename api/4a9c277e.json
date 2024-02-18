@@ -1,43 +1,43 @@
 {
   "url": "https://morganhill.ca.gov/",
   "requestedUrl": "https://morganhill.ca.gov/",
-  "timestamp": 1707783007507,
+  "timestamp": 1708270129448,
   "ranks": {
-    "hundos": 400,
-    "performance": 372,
+    "hundos": 402,
+    "performance": 357,
     "accessibility": 392,
-    "cumulative": 400
+    "cumulative": 402
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.36,
+    "performance": 0.37,
     "accessibility": 0.79,
-    "bestPractices": 0.52,
+    "bestPractices": 0.48,
     "seo": 0.92,
-    "total": 259
+    "total": 256
   },
-  "firstContentfulPaint": 2984.751,
-  "firstMeaningfulPaint": 2984.751,
-  "speedIndex": 13701.36953602459,
-  "largestContentfulPaint": 10705.8395,
-  "totalBlockingTime": 436.5000000000018,
-  "cumulativeLayoutShift": 0.26724437116150923,
-  "timeToInteractive": 15793.904500000004,
-  "maxPotentialFirstInputDelay": 220.00000000000182,
-  "timeToFirstByte": 442.0010000000001,
+  "firstContentfulPaint": 2986.2969999999996,
+  "firstMeaningfulPaint": 2986.2969999999996,
+  "speedIndex": 16431.716068735157,
+  "largestContentfulPaint": 10682.817,
+  "totalBlockingTime": 482.5,
+  "cumulativeLayoutShift": 0.22949228692714357,
+  "timeToInteractive": 16324.592,
+  "maxPotentialFirstInputDelay": 217,
+  "timeToFirstByte": 446.36600000000004,
   "weight": {
-    "summary": "110 requests • 3.1 MiB",
-    "total": 3229042,
-    "image": 1520804,
-    "imageCount": 39,
-    "script": 1405694,
+    "summary": "115 requests • 3.9 MiB",
+    "total": 4110934,
+    "image": 2413228,
+    "imageCount": 42,
+    "script": 1395951,
     "scriptCount": 47,
-    "document": 51459,
+    "document": 50538,
     "font": 63565,
     "fontCount": 3,
-    "stylesheet": 166917,
+    "stylesheet": 166836,
     "stylesheetCount": 7,
-    "thirdParty": 1065047,
+    "thirdParty": 1055474,
     "thirdPartyCount": 9
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 254,
-    "+weight.total": 172,
-    "-weight.document": 283,
+    "-weight.total": 295,
+    "+weight.total": 130,
+    "-weight.document": 279,
     "+weight.document": 140,
-    "-weight.script": 316,
-    "+weight.script": 106,
-    "-weight.image": 257,
-    "+weight.image": 165,
+    "-weight.script": 317,
+    "+weight.script": 104,
+    "-weight.image": 299,
+    "+weight.image": 119,
     "-weight.font": 35,
-    "+weight.font": 324,
-    "+weight.fontCount": 21,
+    "+weight.font": 322,
+    "+weight.fontCount": 23,
     "-timeToFirstByte": 321,
-    "-totalBlockingTime": 211,
-    "-largestContentfulPaint": 324
+    "-totalBlockingTime": 214,
+    "-largestContentfulPaint": 246
   },
   "axe": {
-    "passes": 2456,
-    "violations": 52
+    "passes": 2413,
+    "violations": 49
+  },
+  "previousRanks": {
+    "hundos": 397,
+    "performance": 373,
+    "accessibility": 389,
+    "cumulative": 397
   }
 }

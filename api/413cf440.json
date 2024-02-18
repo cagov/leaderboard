@@ -1,43 +1,43 @@
 {
   "url": "https://cdss.ca.gov/inforesources/community-care-licensing",
   "requestedUrl": "https://ccldpartners.ca.gov/",
-  "timestamp": 1707766918477,
+  "timestamp": 1708254035213,
   "ranks": {
-    "hundos": 393,
-    "performance": 161,
-    "accessibility": 235,
-    "cumulative": 393
+    "hundos": 399,
+    "performance": 181,
+    "accessibility": 231,
+    "cumulative": 399
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.57,
+    "performance": 0.55,
     "accessibility": 0.91,
     "bestPractices": 0.33,
     "seo": 0.8,
-    "total": 261
+    "total": 259
   },
-  "firstContentfulPaint": 7024.706000000004,
-  "firstMeaningfulPaint": 7024.706000000004,
-  "speedIndex": 8320.779038029485,
-  "largestContentfulPaint": 13753.555500000006,
-  "totalBlockingTime": 11,
-  "cumulativeLayoutShift": 0.0006475284622764457,
-  "timeToInteractive": 7024.706000000004,
-  "maxPotentialFirstInputDelay": 72,
-  "timeToFirstByte": 850.897,
+  "firstContentfulPaint": 7654.113000000001,
+  "firstMeaningfulPaint": 7654.113000000001,
+  "speedIndex": 12358.989102874566,
+  "largestContentfulPaint": 13530.479999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.001686382116730154,
+  "timeToInteractive": 7654.113000000001,
+  "maxPotentialFirstInputDelay": 51.5,
+  "timeToFirstByte": 1069.8999999999999,
   "weight": {
-    "summary": "59 requests • 4.7 MiB",
-    "total": 4966629,
-    "image": 4202714,
+    "summary": "59 requests • 4.9 MiB",
+    "total": 5152521,
+    "image": 4202926,
     "imageCount": 13,
-    "script": 590860,
+    "script": 692440,
     "scriptCount": 23,
-    "document": 34230,
+    "document": 33930,
     "font": 64216,
     "fontCount": 1,
-    "stylesheet": 73516,
+    "stylesheet": 157955,
     "stylesheetCount": 15,
-    "thirdParty": 402415,
+    "thirdParty": 402330,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 312,
-    "+weight.total": 114,
-    "-weight.document": 193,
-    "+weight.document": 230,
-    "-weight.script": 133,
-    "+weight.script": 289,
-    "-weight.image": 348,
-    "+weight.image": 74,
+    "-weight.total": 317,
+    "+weight.total": 108,
+    "-weight.document": 184,
+    "+weight.document": 235,
+    "-weight.script": 157,
+    "+weight.script": 264,
+    "-weight.image": 349,
+    "+weight.image": 69,
     "-weight.font": 42,
-    "+weight.font": 317,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 375,
-    "-totalBlockingTime": 21,
-    "-largestContentfulPaint": 257
+    "+weight.font": 315,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 386,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 287
   },
   "axe": {
     "passes": 532,
     "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 395,
+    "performance": 181,
+    "accessibility": 233,
+    "cumulative": 395
   }
 }

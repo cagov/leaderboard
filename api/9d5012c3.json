@@ -1,43 +1,43 @@
 {
   "url": "https://sierracounty.ca.gov/",
   "requestedUrl": "https://sierracounty.ca.gov/",
-  "timestamp": 1707789154064,
+  "timestamp": 1708276292402,
   "ranks": {
-    "hundos": 356,
-    "performance": 236,
-    "accessibility": 417,
-    "cumulative": 358
+    "hundos": 351,
+    "performance": 240,
+    "accessibility": 404,
+    "cumulative": 351
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.49,
-    "accessibility": 0.72,
+    "performance": 0.48,
+    "accessibility": 0.76,
     "bestPractices": 0.74,
     "seo": 0.83,
-    "total": 278
+    "total": 281
   },
-  "firstContentfulPaint": 2684.0179999999996,
-  "firstMeaningfulPaint": 2684.0179999999996,
-  "speedIndex": 5456.774706466899,
-  "largestContentfulPaint": 9459.424000000003,
-  "totalBlockingTime": 171.9999999999991,
-  "cumulativeLayoutShift": 0.2910525229547064,
-  "timeToInteractive": 12207.845999999998,
-  "maxPotentialFirstInputDelay": 213.99999999999818,
-  "timeToFirstByte": 240.685,
+  "firstContentfulPaint": 2665.802,
+  "firstMeaningfulPaint": 2665.802,
+  "speedIndex": 6464.475548748666,
+  "largestContentfulPaint": 9128.859,
+  "totalBlockingTime": 182.5,
+  "cumulativeLayoutShift": 0.29402169568482206,
+  "timeToInteractive": 12158.46,
+  "maxPotentialFirstInputDelay": 215,
+  "timeToFirstByte": 283.869,
   "weight": {
     "summary": "77 requests • 4.1 MiB",
-    "total": 4342713,
-    "image": 3313700,
+    "total": 4343921,
+    "image": 3314021,
     "imageCount": 37,
-    "script": 768823,
+    "script": 769092,
     "scriptCount": 23,
-    "document": 41627,
-    "font": 69727,
+    "document": 41324,
+    "font": 69726,
     "fontCount": 3,
-    "stylesheet": 119227,
+    "stylesheet": 120031,
     "stylesheetCount": 6,
-    "thirdParty": 422094,
+    "thirdParty": 422410,
     "thirdPartyCount": 4
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 297,
-    "+weight.total": 129,
-    "-weight.document": 253,
-    "+weight.document": 170,
-    "-weight.script": 171,
-    "+weight.script": 251,
-    "-weight.image": 331,
-    "+weight.image": 91,
-    "-weight.font": 53,
-    "+weight.font": 306,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 268,
+    "-weight.total": 302,
+    "+weight.total": 123,
+    "-weight.document": 247,
+    "+weight.document": 172,
+    "-weight.script": 169,
+    "+weight.script": 252,
+    "-weight.image": 329,
+    "+weight.image": 89,
+    "-weight.font": 52,
+    "+weight.font": 305,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 278,
     "-totalBlockingTime": 160,
-    "-largestContentfulPaint": 169
+    "-largestContentfulPaint": 126
   },
   "axe": {
-    "passes": 1692,
-    "violations": 55
+    "passes": 1655,
+    "violations": 50
+  },
+  "previousRanks": {
+    "hundos": 360,
+    "performance": 244,
+    "accessibility": 414,
+    "cumulative": 360
   }
 }

@@ -1,12 +1,12 @@
 {
   "url": "https://women.ca.gov/",
   "requestedUrl": "https://women.ca.gov/",
-  "timestamp": 1707794817604,
+  "timestamp": 1708281948377,
   "ranks": {
-    "hundos": 259,
-    "performance": 349,
-    "accessibility": 202,
-    "cumulative": 257
+    "hundos": 258,
+    "performance": 351,
+    "accessibility": 199,
+    "cumulative": 258
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.86,
     "total": 306
   },
-  "firstContentfulPaint": 2669.426,
-  "firstMeaningfulPaint": 7221.4259999999995,
-  "speedIndex": 10522.848480948614,
-  "largestContentfulPaint": 28740.59272,
-  "totalBlockingTime": 60.5,
-  "cumulativeLayoutShift": 0.7808780860993869,
-  "timeToInteractive": 14246.926,
-  "maxPotentialFirstInputDelay": 98,
-  "timeToFirstByte": 1118.075,
+  "firstContentfulPaint": 2680.663,
+  "firstMeaningfulPaint": 4287.619499999999,
+  "speedIndex": 10187.603529491755,
+  "largestContentfulPaint": 28555.663,
+  "totalBlockingTime": 62,
+  "cumulativeLayoutShift": 0.7668435206166104,
+  "timeToInteractive": 13048.162999999999,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 1164.122,
   "weight": {
     "summary": "96 requests • 6.7 MiB",
-    "total": 6999691,
-    "image": 5129474,
+    "total": 7003651,
+    "image": 5129490,
     "imageCount": 15,
-    "script": 914925,
+    "script": 918776,
     "scriptCount": 25,
-    "document": 35689,
-    "font": 651006,
+    "document": 35861,
+    "font": 651014,
     "fontCount": 11,
-    "stylesheet": 267679,
+    "stylesheet": 267584,
     "stylesheetCount": 36,
-    "thirdParty": 888639,
+    "thirdParty": 892339,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 351,
-    "+weight.total": 75,
-    "-weight.document": 209,
-    "+weight.document": 214,
-    "-weight.script": 212,
-    "+weight.script": 210,
-    "-weight.image": 369,
-    "+weight.image": 53,
-    "-weight.font": 327,
+    "-weight.total": 353,
+    "+weight.total": 72,
+    "-weight.document": 204,
+    "+weight.document": 215,
+    "-weight.script": 214,
+    "+weight.script": 207,
+    "-weight.image": 366,
+    "+weight.image": 52,
+    "-weight.font": 325,
     "+weight.font": 32,
-    "+weight.fontCount": 13,
+    "+weight.fontCount": 15,
     "-timeToFirstByte": 389,
-    "-totalBlockingTime": 91,
-    "-largestContentfulPaint": 385
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 388
   },
   "axe": {
     "passes": 822,
     "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 247,
+    "performance": 327,
+    "accessibility": 198,
+    "cumulative": 247
   }
 }

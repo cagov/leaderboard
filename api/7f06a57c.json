@@ -1,12 +1,12 @@
 {
   "url": "https://westnile.ca.gov/",
   "requestedUrl": "https://westnile.ca.gov/",
-  "timestamp": 1707794464216,
+  "timestamp": 1708281594957,
   "ranks": {
-    "hundos": 294,
-    "performance": 411,
-    "accessibility": 340,
-    "cumulative": 295
+    "hundos": 296,
+    "performance": 409,
+    "accessibility": 343,
+    "cumulative": 296
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.92,
     "total": 297
   },
-  "firstContentfulPaint": 13317.074999999997,
-  "firstMeaningfulPaint": 13491.520999999997,
-  "speedIndex": 18180.43758264675,
-  "largestContentfulPaint": 16405.994999999995,
-  "totalBlockingTime": 2151.0000000000146,
+  "firstContentfulPaint": 13055.261999999999,
+  "firstMeaningfulPaint": 13229.205,
+  "speedIndex": 17782.79133189636,
+  "largestContentfulPaint": 15534.349999999999,
+  "totalBlockingTime": 2111,
   "cumulativeLayoutShift": 0.015738083055126282,
-  "timeToInteractive": 44137.74500000001,
-  "maxPotentialFirstInputDelay": 1290,
-  "timeToFirstByte": 290.928,
+  "timeToInteractive": 44300.403499999986,
+  "maxPotentialFirstInputDelay": 1344,
+  "timeToFirstByte": 296.762,
   "weight": {
     "summary": "113 requests • 7.2 MiB",
-    "total": 7592976,
-    "image": 502399,
+    "total": 7596407,
+    "image": 502403,
     "imageCount": 20,
-    "script": 2281407,
+    "script": 2281415,
     "scriptCount": 40,
-    "document": 127939,
-    "font": 267041,
+    "document": 131837,
+    "font": 267063,
     "fontCount": 4,
-    "stylesheet": 1785055,
+    "stylesheet": 1784914,
     "stylesheetCount": 28,
-    "thirdParty": 4536177,
+    "thirdParty": 4536245,
     "thirdPartyCount": 9
   },
   "run": {
@@ -45,22 +45,28 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 361,
-    "+weight.total": 65,
-    "-weight.document": 364,
-    "+weight.document": 59,
-    "-weight.script": 390,
-    "+weight.script": 32,
+    "-weight.total": 364,
+    "+weight.total": 61,
+    "-weight.document": 362,
+    "+weight.document": 57,
+    "-weight.script": 391,
+    "+weight.script": 30,
     "-weight.image": 128,
-    "+weight.image": 294,
-    "-weight.font": 232,
-    "+weight.font": 127,
-    "+weight.fontCount": 20,
+    "+weight.image": 290,
+    "-weight.font": 231,
+    "+weight.font": 126,
+    "+weight.fontCount": 22,
     "-timeToFirstByte": 285,
-    "-totalBlockingTime": 247,
-    "-largestContentfulPaint": 342
+    "-totalBlockingTime": 245,
+    "-largestContentfulPaint": 317
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 298,
+    "performance": 409,
+    "accessibility": 340,
+    "cumulative": 298
   }
 }

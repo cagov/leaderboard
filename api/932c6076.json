@@ -1,12 +1,12 @@
 {
   "url": "https://www.wheatland.ca.gov/",
   "requestedUrl": "https://wheatland.ca.gov/",
-  "timestamp": 1707794503944,
+  "timestamp": 1708281634668,
   "ranks": {
-    "hundos": 165,
-    "performance": 52,
-    "accessibility": 194,
-    "cumulative": 165
+    "hundos": 166,
+    "performance": 50,
+    "accessibility": 190,
+    "cumulative": 166
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.86,
     "total": 328
   },
-  "firstContentfulPaint": 3416.68872,
-  "firstMeaningfulPaint": 4199.010270000001,
-  "speedIndex": 3505.5205663532406,
-  "largestContentfulPaint": 4293.47458,
-  "totalBlockingTime": 12,
+  "firstContentfulPaint": 3399.9514,
+  "firstMeaningfulPaint": 4028.3012,
+  "speedIndex": 3491.9535695846944,
+  "largestContentfulPaint": 4282.476100000001,
+  "totalBlockingTime": 10,
   "cumulativeLayoutShift": 0.017350504703032055,
-  "timeToInteractive": 4511.938890000001,
-  "maxPotentialFirstInputDelay": 62,
-  "timeToFirstByte": 33.340999999999994,
+  "timeToInteractive": 4499.56355,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 34.958,
   "weight": {
     "summary": "25 requests • 442.2 KiB",
-    "total": 421082,
+    "total": 421135,
     "image": 129668,
     "imageCount": 3,
-    "script": 54129,
+    "script": 54132,
     "scriptCount": 5,
-    "document": 9982,
-    "font": 173397,
+    "document": 10049,
+    "font": 173395,
     "fontCount": 6,
-    "stylesheet": 85202,
+    "stylesheet": 85187,
     "stylesheetCount": 8,
-    "thirdParty": 410668,
+    "thirdParty": 410654,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 16,
+    "-weight.total": 15,
     "+weight.total": 410,
-    "-weight.document": 39,
-    "+weight.document": 384,
-    "-weight.script": 9,
-    "+weight.script": 413,
-    "-weight.image": 45,
-    "+weight.image": 377,
-    "-weight.font": 183,
+    "-weight.document": 38,
+    "+weight.document": 381,
+    "-weight.script": 10,
+    "+weight.script": 411,
+    "-weight.image": 44,
+    "+weight.image": 374,
+    "-weight.font": 181,
     "+weight.font": 176,
-    "+weight.fontCount": 18,
-    "-timeToFirstByte": 105,
-    "-totalBlockingTime": 22,
-    "-largestContentfulPaint": 55
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 101,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 187
   },
   "axe": {
     "passes": 389,
     "violations": 33
+  },
+  "previousRanks": {
+    "hundos": 167,
+    "performance": 47,
+    "accessibility": 190,
+    "cumulative": 168
   }
 }

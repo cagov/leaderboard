@@ -1,43 +1,43 @@
 {
   "url": "https://www.tam.ca.gov/",
   "requestedUrl": "https://tam.ca.gov/",
-  "timestamp": 1707791281890,
+  "timestamp": 1708278424961,
   "ranks": {
-    "hundos": 325,
-    "performance": 184,
+    "hundos": 332,
+    "performance": 190,
     "accessibility": 390,
-    "cumulative": 324
+    "cumulative": 332
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.55,
+    "performance": 0.54,
     "accessibility": 0.79,
     "bestPractices": 0.74,
     "seo": 0.78,
-    "total": 286
+    "total": 285
   },
-  "firstContentfulPaint": 4363.906,
-  "firstMeaningfulPaint": 6079.406,
-  "speedIndex": 7220.018749995257,
-  "largestContentfulPaint": 9196.906,
-  "totalBlockingTime": 73,
-  "cumulativeLayoutShift": 0.1347965937766444,
-  "timeToInteractive": 10272.405999999999,
-  "maxPotentialFirstInputDelay": 123,
-  "timeToFirstByte": 104.28600000000002,
+  "firstContentfulPaint": 4499.4345,
+  "firstMeaningfulPaint": 6424.9345,
+  "speedIndex": 7719.847833866492,
+  "largestContentfulPaint": 9899.4345,
+  "totalBlockingTime": 31,
+  "cumulativeLayoutShift": 0.13488519583372222,
+  "timeToInteractive": 11038.4345,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 103.172,
   "weight": {
-    "summary": "91 requests • 2.0 MiB",
-    "total": 2077702,
-    "image": 928747,
+    "summary": "92 requests • 2.2 MiB",
+    "total": 2292838,
+    "image": 1067820,
     "imageCount": 20,
-    "script": 522715,
+    "script": 522699,
     "scriptCount": 28,
-    "document": 30946,
-    "font": 373120,
-    "fontCount": 8,
-    "stylesheet": 252578,
+    "document": 30991,
+    "font": 449075,
+    "fontCount": 9,
+    "stylesheet": 252651,
     "stylesheetCount": 30,
-    "thirdParty": 219373,
+    "thirdParty": 219448,
     "thirdPartyCount": 4
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 154,
-    "+weight.total": 272,
-    "-weight.document": 163,
-    "+weight.document": 260,
-    "-weight.script": 119,
+    "-weight.total": 171,
+    "+weight.total": 254,
+    "-weight.document": 158,
+    "+weight.document": 261,
+    "-weight.script": 118,
     "+weight.script": 303,
-    "-weight.image": 205,
-    "+weight.image": 217,
-    "-weight.font": 277,
-    "+weight.font": 82,
-    "+weight.fontCount": 16,
-    "-timeToFirstByte": 203,
-    "-totalBlockingTime": 107,
-    "-largestContentfulPaint": 161
+    "-weight.image": 224,
+    "+weight.image": 194,
+    "-weight.font": 298,
+    "+weight.font": 59,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 197,
+    "-totalBlockingTime": 52,
+    "-largestContentfulPaint": 139
   },
   "axe": {
-    "passes": 1069,
+    "passes": 1061,
     "violations": 15
+  },
+  "previousRanks": {
+    "hundos": 327,
+    "performance": 176,
+    "accessibility": 387,
+    "cumulative": 328
   }
 }

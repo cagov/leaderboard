@@ -1,41 +1,41 @@
 {
   "url": "https://ecos.ca.gov/Login.aspx?ReturnUrl=%2f",
   "requestedUrl": "https://ecos.ca.gov/",
-  "timestamp": 1707775472445,
+  "timestamp": 1708262630377,
   "ranks": {
-    "hundos": 219,
-    "performance": 53,
+    "hundos": 185,
+    "performance": 39,
     "accessibility": 92,
-    "cumulative": 220
+    "cumulative": 187
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.77,
+    "performance": 0.83,
     "accessibility": 1,
     "bestPractices": 0.7,
     "seo": 0.69,
-    "total": 316
+    "total": 322
   },
-  "firstContentfulPaint": 2309.6725,
-  "firstMeaningfulPaint": 2525.6725,
-  "speedIndex": 3203.497575976905,
-  "largestContentfulPaint": 5256.672500000001,
+  "firstContentfulPaint": 1653.933,
+  "firstMeaningfulPaint": 1972.433,
+  "speedIndex": 2614.393513945626,
+  "largestContentfulPaint": 4503.933,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0.00022124833662219134,
-  "timeToInteractive": 2525.6725,
-  "maxPotentialFirstInputDelay": 35,
-  "timeToFirstByte": 62.561,
+  "timeToInteractive": 1972.433,
+  "maxPotentialFirstInputDelay": 37,
+  "timeToFirstByte": 84.05799999999999,
   "weight": {
-    "summary": "42 requests • 838.2 KiB",
-    "total": 858278,
-    "image": 68351,
+    "summary": "39 requests • 706.1 KiB",
+    "total": 723062,
+    "image": 67598,
     "imageCount": 12,
-    "script": 618033,
-    "scriptCount": 12,
-    "document": 22774,
+    "script": 501852,
+    "scriptCount": 11,
+    "document": 22392,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 131371,
+    "stylesheet": 130685,
     "stylesheetCount": 14,
     "thirdParty": 0,
     "thirdPartyCount": 0
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 45,
-    "+weight.total": 381,
-    "-weight.document": 111,
-    "+weight.document": 312,
-    "-weight.script": 143,
-    "+weight.script": 279,
-    "-weight.image": 27,
-    "+weight.image": 395,
+    "-weight.total": 38,
+    "+weight.total": 387,
+    "-weight.document": 109,
+    "+weight.document": 310,
+    "-weight.script": 113,
+    "+weight.script": 308,
+    "-weight.image": 25,
+    "+weight.image": 393,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 149,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 167,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 80
+    "-largestContentfulPaint": 43
   },
   "axe": {
     "passes": 98,
     "violations": 11
+  },
+  "previousRanks": {
+    "hundos": 212,
+    "performance": 50,
+    "accessibility": 92,
+    "cumulative": 213
   }
 }

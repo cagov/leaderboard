@@ -1,12 +1,12 @@
 {
   "url": "https://www.courts.ca.gov/",
   "requestedUrl": "https://courts.ca.gov/",
-  "timestamp": 1707771074806,
+  "timestamp": 1708258244436,
   "ranks": {
     "hundos": 116,
-    "performance": 127,
-    "accessibility": 165,
-    "cumulative": 118
+    "performance": 133,
+    "accessibility": 166,
+    "cumulative": 115
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.99,
     "total": 340
   },
-  "firstContentfulPaint": 5729.431999999997,
-  "firstMeaningfulPaint": 5729.431999999997,
-  "speedIndex": 6154.8237857089225,
-  "largestContentfulPaint": 7882.527999999996,
+  "firstContentfulPaint": 5700.892999999999,
+  "firstMeaningfulPaint": 5700.892999999999,
+  "speedIndex": 6131.582650314932,
+  "largestContentfulPaint": 7878.097500000002,
   "totalBlockingTime": 8,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 7876.289999999999,
+  "timeToInteractive": 7776.5275,
   "maxPotentialFirstInputDelay": 66,
-  "timeToFirstByte": 32.16799999999999,
+  "timeToFirstByte": 31.201000000000008,
   "weight": {
     "summary": "65 requests • 2.1 MiB",
-    "total": 2188259,
+    "total": 2188889,
     "image": 1556426,
     "imageCount": 12,
-    "script": 435362,
+    "script": 435890,
     "scriptCount": 20,
-    "document": 28847,
-    "font": 77621,
+    "document": 28980,
+    "font": 77624,
     "fontCount": 1,
-    "stylesheet": 88651,
+    "stylesheet": 88655,
     "stylesheetCount": 25,
-    "thirdParty": 502400,
+    "thirdParty": 503019,
     "thirdPartyCount": 10
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 161,
-    "+weight.total": 265,
+    "-weight.total": 162,
+    "+weight.total": 263,
     "-weight.document": 141,
-    "+weight.document": 282,
-    "-weight.script": 96,
+    "+weight.document": 278,
+    "-weight.script": 95,
     "+weight.script": 326,
-    "-weight.image": 261,
-    "+weight.image": 161,
-    "-weight.font": 60,
-    "+weight.font": 299,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 101,
-    "-totalBlockingTime": 15,
-    "-largestContentfulPaint": 134
+    "-weight.image": 258,
+    "+weight.image": 160,
+    "-weight.font": 59,
+    "+weight.font": 298,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 89,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 219
   },
   "axe": {
     "passes": 506,
     "violations": 11
+  },
+  "previousRanks": {
+    "hundos": 113,
+    "performance": 127,
+    "accessibility": 164,
+    "cumulative": 113
   }
 }

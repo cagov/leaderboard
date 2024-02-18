@@ -1,12 +1,12 @@
 {
   "url": "https://brea.ca.gov/",
   "requestedUrl": "https://brea.ca.gov/",
-  "timestamp": 1707762747920,
+  "timestamp": 1708249898989,
   "ranks": {
-    "hundos": 119,
-    "performance": 11,
-    "accessibility": 276,
-    "cumulative": 119
+    "hundos": 118,
+    "performance": 8,
+    "accessibility": 275,
+    "cumulative": 118
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.82,
     "total": 340
   },
-  "firstContentfulPaint": 1587.8400000000001,
-  "firstMeaningfulPaint": 1587.8400000000001,
-  "speedIndex": 1587.8400000000001,
-  "largestContentfulPaint": 1781.8760000000002,
-  "totalBlockingTime": 17,
+  "firstContentfulPaint": 1581.6375,
+  "firstMeaningfulPaint": 1581.6375,
+  "speedIndex": 1581.6375,
+  "largestContentfulPaint": 1863.2694999999999,
+  "totalBlockingTime": 16.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 2739.403045501709,
-  "maxPotentialFirstInputDelay": 84,
-  "timeToFirstByte": 27.705,
+  "timeToInteractive": 2732.1643821716307,
+  "maxPotentialFirstInputDelay": 83,
+  "timeToFirstByte": 29.286,
   "weight": {
     "summary": "63 requests • 1.8 MiB",
-    "total": 1861337,
-    "image": 1010794,
+    "total": 1861817,
+    "image": 1011427,
     "imageCount": 25,
-    "script": 466734,
+    "script": 466286,
     "scriptCount": 16,
-    "document": 48712,
-    "font": 45011,
+    "document": 49021,
+    "font": 45020,
     "fontCount": 3,
-    "stylesheet": 279927,
+    "stylesheet": 279963,
     "stylesheetCount": 11,
-    "thirdParty": 351401,
+    "thirdParty": 351381,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 137,
-    "+weight.total": 289,
-    "-weight.document": 275,
-    "+weight.document": 148,
-    "-weight.script": 104,
-    "+weight.script": 318,
+    "-weight.total": 134,
+    "+weight.total": 291,
+    "-weight.document": 272,
+    "+weight.document": 147,
+    "-weight.script": 102,
+    "+weight.script": 319,
     "-weight.image": 218,
-    "+weight.image": 204,
-    "-weight.font": 23,
-    "+weight.font": 336,
-    "+weight.fontCount": 21,
+    "+weight.image": 200,
+    "-weight.font": 22,
+    "+weight.font": 335,
+    "+weight.fontCount": 23,
     "-timeToFirstByte": 84,
-    "-totalBlockingTime": 31,
-    "-largestContentfulPaint": 11
+    "-totalBlockingTime": 33,
+    "-largestContentfulPaint": 175
   },
   "axe": {
-    "passes": 649,
+    "passes": 643,
     "violations": 15
+  },
+  "previousRanks": {
+    "hundos": 116,
+    "performance": 8,
+    "accessibility": 276,
+    "cumulative": 116
   }
 }

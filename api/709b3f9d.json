@@ -1,43 +1,43 @@
 {
   "url": "https://islavistacsd.ca.gov/",
   "requestedUrl": "https://islavistacsd.ca.gov/",
-  "timestamp": 1707779925827,
+  "timestamp": 1708267053885,
   "ranks": {
-    "hundos": 80,
-    "performance": 186,
+    "hundos": 74,
+    "performance": 165,
     "accessibility": 67,
-    "cumulative": 79
+    "cumulative": 76
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.55,
+    "performance": 0.56,
     "accessibility": 1,
     "bestPractices": 0.93,
     "seo": 0.98,
-    "total": 346
+    "total": 347
   },
-  "firstContentfulPaint": 8534.5665,
-  "firstMeaningfulPaint": 9547.697,
-  "speedIndex": 10292.468680144148,
-  "largestContentfulPaint": 16813.914,
-  "totalBlockingTime": 115.5,
+  "firstContentfulPaint": 7312.864,
+  "firstMeaningfulPaint": 8234.454,
+  "speedIndex": 8336.219260438653,
+  "largestContentfulPaint": 19911.6,
+  "totalBlockingTime": 102,
   "cumulativeLayoutShift": 0.032806804374240585,
-  "timeToInteractive": 17378.118000000002,
-  "maxPotentialFirstInputDelay": 213,
-  "timeToFirstByte": 276.98100000000005,
+  "timeToInteractive": 17087.384,
+  "maxPotentialFirstInputDelay": 198,
+  "timeToFirstByte": 65.76100000000001,
   "weight": {
     "summary": "55 requests • 3.4 MiB",
-    "total": 3605455,
-    "image": 1633580,
+    "total": 3596419,
+    "image": 1625063,
     "imageCount": 20,
-    "script": 1769076,
+    "script": 1768684,
     "scriptCount": 19,
-    "document": 34683,
+    "document": 34633,
     "font": 62252,
     "fontCount": 2,
-    "stylesheet": 102821,
+    "stylesheet": 102831,
     "stylesheetCount": 8,
-    "thirdParty": 2594866,
+    "thirdParty": 2585944,
     "thirdPartyCount": 13
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 270,
-    "+weight.total": 156,
-    "-weight.document": 198,
-    "+weight.document": 225,
-    "-weight.script": 358,
-    "+weight.script": 64,
-    "-weight.image": 265,
-    "+weight.image": 157,
+    "+weight.total": 155,
+    "-weight.document": 193,
+    "+weight.document": 226,
+    "-weight.script": 359,
+    "+weight.script": 62,
+    "-weight.image": 263,
+    "+weight.image": 155,
     "-weight.font": 32,
-    "+weight.font": 327,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 277,
-    "-totalBlockingTime": 137,
-    "-largestContentfulPaint": 280
+    "+weight.font": 325,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 149,
+    "-totalBlockingTime": 129,
+    "-largestContentfulPaint": 353
   },
   "axe": {
-    "passes": 1383,
+    "passes": 1369,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 84,
+    "performance": 193,
+    "accessibility": 68,
+    "cumulative": 82
   }
 }

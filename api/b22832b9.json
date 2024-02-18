@@ -1,11 +1,11 @@
 {
   "url": "https://www.cdss.ca.gov/inforesources/community-care-licensing",
   "requestedUrl": "https://babysafe.ca.gov/",
-  "timestamp": 1707761692054,
+  "timestamp": 1708248803223,
   "ranks": {
     "hundos": 398,
-    "performance": 163,
-    "accessibility": 233,
+    "performance": 158,
+    "accessibility": 229,
     "cumulative": 398
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.78,
     "total": 259
   },
-  "firstContentfulPaint": 7268.017,
-  "firstMeaningfulPaint": 7268.017,
-  "speedIndex": 8509.256905801009,
-  "largestContentfulPaint": 12980.084999999997,
-  "totalBlockingTime": 9.5,
-  "cumulativeLayoutShift": 0.001686382116730154,
-  "timeToInteractive": 7268.017,
-  "maxPotentialFirstInputDelay": 69,
-  "timeToFirstByte": 747.0369999999999,
+  "firstContentfulPaint": 7277.747499999998,
+  "firstMeaningfulPaint": 7277.747499999998,
+  "speedIndex": 8453.630829974363,
+  "largestContentfulPaint": 14066.444000000003,
+  "totalBlockingTime": 9,
+  "cumulativeLayoutShift": 0.0009456355910997176,
+  "timeToInteractive": 7277.747499999998,
+  "maxPotentialFirstInputDelay": 68,
+  "timeToFirstByte": 732.195,
   "weight": {
-    "summary": "59 requests • 4.7 MiB",
-    "total": 4966463,
-    "image": 4202925,
+    "summary": "59 requests • 4.8 MiB",
+    "total": 4994568,
+    "image": 4202924,
     "imageCount": 13,
-    "script": 590825,
+    "script": 590670,
     "scriptCount": 23,
-    "document": 33909,
+    "document": 33893,
     "font": 64216,
     "fontCount": 1,
-    "stylesheet": 73516,
+    "stylesheet": 101793,
     "stylesheetCount": 15,
-    "thirdParty": 402555,
+    "thirdParty": 402398,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 311,
-    "+weight.total": 115,
-    "-weight.document": 187,
+    "-weight.total": 312,
+    "+weight.total": 113,
+    "-weight.document": 183,
     "+weight.document": 236,
     "-weight.script": 132,
-    "+weight.script": 290,
-    "-weight.image": 350,
-    "+weight.image": 72,
+    "+weight.script": 289,
+    "-weight.image": 348,
+    "+weight.image": 70,
     "-weight.font": 42,
-    "+weight.font": 317,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 368,
-    "-totalBlockingTime": 18,
-    "-largestContentfulPaint": 243
+    "+weight.font": 315,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 360,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 295
   },
   "axe": {
     "passes": 532,
     "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 396,
+    "performance": 165,
+    "accessibility": 231,
+    "cumulative": 396
   }
 }

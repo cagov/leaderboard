@@ -4,6 +4,24 @@
     "hash": "fff0b04e",
     "categories": []
   },
+  "https://vote.ca.gov/": {
+    "requestedUrl": "https://vote.ca.gov/",
+    "url": "https://www.sos.ca.gov/elections/",
+    "hash": "94c210fe",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calottery.ca.gov/": {
+    "requestedUrl": "https://calottery.ca.gov/",
+    "url": "https://www.calottery.com/",
+    "hash": "35465542",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://saferatwork.ca.gov/": {
     "requestedUrl": "https://saferatwork.ca.gov/",
     "url": "https://saferatwork.covid19.ca.gov/",
@@ -13,8 +31,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://businessportal.ca.gov/": {
-    "requestedUrl": "https://businessportal.ca.gov/",
+  "https://calosba.ca.gov/": {
+    "requestedUrl": "https://calosba.ca.gov/",
     "url": "https://calosba.ca.gov/",
     "hash": "49006436",
     "categories": [
@@ -49,8 +67,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://arts.ca.gov/": {
-    "requestedUrl": "https://arts.ca.gov/",
+  "https://cac.ca.gov/": {
+    "requestedUrl": "https://cac.ca.gov/",
     "url": "https://arts.ca.gov/",
     "hash": "110f3373",
     "categories": [
@@ -139,6 +157,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://nahc.ca.gov/": {
+    "requestedUrl": "https://nahc.ca.gov/",
+    "url": "https://nahc.ca.gov/",
+    "hash": "14dfd43",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://calsta.ca.gov/": {
     "requestedUrl": "https://calsta.ca.gov/",
     "url": "https://calsta.ca.gov/",
@@ -206,6 +233,15 @@
     "requestedUrl": "https://capitolmuseum.ca.gov/",
     "url": "https://capitolmuseum.ca.gov/",
     "hash": "18cc49bd",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://calpers.ca.gov/": {
+    "requestedUrl": "https://calpers.ca.gov/",
+    "url": "https://www.calpers.ca.gov/",
+    "hash": "ddc03e24",
     "categories": [
       "cagov"
     ],
@@ -409,6 +445,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://access.ca.gov/": {
+    "requestedUrl": "https://access.ca.gov/",
+    "url": "https://idp.us.safenetid.com/auth/realms/3TT0W3H24V-STA/login-actions/authenticate?client_id=https%3A%2F%2Faccess.ca.gov&tab_id=20FCllXQYs4",
+    "hash": "efceb979",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://oehha.ca.gov/": {
     "requestedUrl": "https://oehha.ca.gov/",
     "url": "https://oehha.ca.gov/",
@@ -521,15 +566,6 @@
     "requestedUrl": "https://opzones.ca.gov/",
     "url": "https://economicdevelopment.business.ca.gov/frequently-asked-questions/",
     "hash": "267edfc6",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://bopc.ca.gov/": {
-    "requestedUrl": "https://bopc.ca.gov/",
-    "url": "https://bopc.ca.gov/",
-    "hash": "26bbae19",
     "categories": [
       "cagov"
     ],
@@ -868,10 +904,19 @@
     ],
     "vertical": "cagov"
   },
-  "https://fire.ca.gov/": {
-    "requestedUrl": "https://fire.ca.gov/",
+  "https://calfire.ca.gov/": {
+    "requestedUrl": "https://calfire.ca.gov/",
     "url": "https://www.fire.ca.gov/",
     "hash": "378858a6",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
+  "https://accessuat.ca.gov/": {
+    "requestedUrl": "https://accessuat.ca.gov/",
+    "url": "https://idp.us.safenetid.com/auth/realms/3TT0W3H24V-STA/login-actions/authenticate?client_id=https%3A%2F%2Faccess.ca.gov&tab_id=VqMTwOp-05Y",
+    "hash": "f15aef4e",
     "categories": [
       "cagov"
     ],
@@ -1768,6 +1813,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://template.webstandards.ca.gov/": {
+    "requestedUrl": "https://template.webstandards.ca.gov/",
+    "url": "https://template.webstandards.ca.gov/",
+    "hash": "7ad92141",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://meganslaw.ca.gov/": {
     "requestedUrl": "https://meganslaw.ca.gov/",
     "url": "https://meganslaw.ca.gov/Mobile/Default.aspx",
@@ -2119,15 +2173,6 @@
     ],
     "vertical": "cagov"
   },
-  "https://vote.ca.gov/": {
-    "requestedUrl": "https://vote.ca.gov/",
-    "url": "https://www.sos.ca.gov/elections/",
-    "hash": "94c210fe",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://trinidad.ca.gov/": {
     "requestedUrl": "https://trinidad.ca.gov/",
     "url": "https://www.trinidad.ca.gov/",
@@ -2184,8 +2229,8 @@
   },
   "https://calbar.ca.gov/": {
     "requestedUrl": "https://calbar.ca.gov/",
-    "url": "https://www.calbar.ca.gov/",
-    "hash": "9a9e6c1",
+    "url": "https://www.calbar.ca.gov/Attorneys/Conduct-Discipline/Ethics",
+    "hash": "b98061f",
     "categories": [
       "cagov"
     ],
@@ -2668,6 +2713,15 @@
     ],
     "vertical": "cagov"
   },
+  "https://sonomacounty.ca.gov/": {
+    "requestedUrl": "https://sonomacounty.ca.gov/",
+    "url": "https://sonomacounty.ca.gov/",
+    "hash": "be3ff4ec",
+    "categories": [
+      "cagov"
+    ],
+    "vertical": "cagov"
+  },
   "https://militarycouncil.ca.gov/": {
     "requestedUrl": "https://militarycouncil.ca.gov/",
     "url": "https://militarycouncil.ca.gov/",
@@ -2690,15 +2744,6 @@
     "requestedUrl": "https://oag.ca.gov/",
     "url": "https://oag.ca.gov/",
     "hash": "bf7e4e",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://hellosavings.ca.gov/": {
-    "requestedUrl": "https://hellosavings.ca.gov/",
-    "url": "https://hellosavings.ca.gov/",
-    "hash": "c03c5af2",
     "categories": [
       "cagov"
     ],
@@ -3118,15 +3163,6 @@
     ],
     "vertical": "cagov"
   },
-  "https://bellcanyoncsd.ca.gov/": {
-    "requestedUrl": "https://bellcanyoncsd.ca.gov/",
-    "url": "https://bellcanyoncsd.ca.gov/",
-    "hash": "d99e8660",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://dhcs.ca.gov/": {
     "requestedUrl": "https://dhcs.ca.gov/",
     "url": "https://www.dhcs.ca.gov/",
@@ -3185,15 +3221,6 @@
     "requestedUrl": "https://eaap.ca.gov/",
     "url": "https://eaap.ca.gov/",
     "hash": "dd871af2",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://calpers.ca.gov/": {
-    "requestedUrl": "https://calpers.ca.gov/",
-    "url": "https://www.calpers.ca.gov/",
-    "hash": "ddc03e24",
     "categories": [
       "cagov"
     ],
@@ -3293,15 +3320,6 @@
     "requestedUrl": "https://todb.ca.gov/",
     "url": "https://todb.ca.gov/",
     "hash": "e3cdb6ba",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://access.ca.gov/": {
-    "requestedUrl": "https://access.ca.gov/",
-    "url": "https://idp.us.safenetid.com/auth/realms/3TT0W3H24V-STA/login-actions/authenticate?client_id=https%3A%2F%2Faccess.ca.gov&tab_id=NIBv0zCEsO4",
-    "hash": "e3f6001e",
     "categories": [
       "cagov"
     ],
@@ -3433,15 +3451,6 @@
     ],
     "vertical": "cagov"
   },
-  "https://accessuat.ca.gov/": {
-    "requestedUrl": "https://accessuat.ca.gov/",
-    "url": "https://idp.us.safenetid.com/auth/realms/3TT0W3H24V-STA/login-actions/authenticate?client_id=https%3A%2F%2Faccess.ca.gov&tab_id=VqMTwOp-05Y",
-    "hash": "f15aef4e",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
   "https://hollister.ca.gov/": {
     "requestedUrl": "https://hollister.ca.gov/",
     "url": "https://hollister.ca.gov/",
@@ -3460,8 +3469,8 @@
     ],
     "vertical": "cagov"
   },
-  "https://crc.ca.gov/": {
-    "requestedUrl": "https://crc.ca.gov/",
+  "https://wedrawthelines.ca.gov/": {
+    "requestedUrl": "https://wedrawthelines.ca.gov/",
     "url": "https://wedrawthelines.ca.gov/",
     "hash": "f1ebccb1",
     "categories": [
@@ -3489,8 +3498,8 @@
   },
   "https://tehamacountypublicworks.ca.gov/": {
     "requestedUrl": "https://tehamacountypublicworks.ca.gov/",
-    "url": "https://tehamacountypublicworks.ca.gov/",
-    "hash": "f23c7f1a",
+    "url": "https://tcpw.ca.gov/",
+    "hash": "fb66a417",
     "categories": [
       "cagov"
     ],
@@ -3563,15 +3572,6 @@
     "requestedUrl": "https://fiscal.ca.gov/",
     "url": "https://fiscal.ca.gov/",
     "hash": "f9b68395",
-    "categories": [
-      "cagov"
-    ],
-    "vertical": "cagov"
-  },
-  "https://tcpw.ca.gov/": {
-    "requestedUrl": "https://tcpw.ca.gov/",
-    "url": "https://tcpw.ca.gov/",
-    "hash": "fb66a417",
     "categories": [
       "cagov"
     ],

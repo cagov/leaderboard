@@ -1,11 +1,11 @@
 {
   "url": "https://www.lassen.courts.ca.gov/",
   "requestedUrl": "https://lassencourt.ca.gov/",
-  "timestamp": 1707780844385,
+  "timestamp": 1708267972116,
   "ranks": {
     "hundos": 91,
-    "performance": 100,
-    "accessibility": 124,
+    "performance": 97,
+    "accessibility": 128,
     "cumulative": 91
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.86,
     "total": 345
   },
-  "firstContentfulPaint": 4164.5725,
-  "firstMeaningfulPaint": 7580.567500000001,
-  "speedIndex": 4399.095181981929,
-  "largestContentfulPaint": 9285.520500000002,
+  "firstContentfulPaint": 4191.89526,
+  "firstMeaningfulPaint": 7262.12206,
+  "speedIndex": 4433.221372069152,
+  "largestContentfulPaint": 8756.485459999998,
   "totalBlockingTime": 1,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 9672.575499999999,
+  "timeToInteractive": 9681.803499999998,
   "maxPotentialFirstInputDelay": 52,
-  "timeToFirstByte": 16.038,
+  "timeToFirstByte": 14.485,
   "weight": {
     "summary": "50 requests • 1.4 MiB",
-    "total": 1430162,
-    "image": 122130,
+    "total": 1430749,
+    "image": 122178,
     "imageCount": 18,
-    "script": 627954,
+    "script": 628263,
     "scriptCount": 14,
-    "document": 210546,
-    "font": 385321,
+    "document": 210645,
+    "font": 385272,
     "fontCount": 5,
-    "stylesheet": 82886,
+    "stylesheet": 83077,
     "stylesheetCount": 8,
-    "thirdParty": 298519,
+    "thirdParty": 299063,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 93,
+    "-weight.total": 92,
     "+weight.total": 333,
-    "-weight.document": 396,
-    "+weight.document": 27,
-    "-weight.script": 148,
-    "+weight.script": 274,
-    "-weight.image": 44,
-    "+weight.image": 378,
-    "-weight.font": 286,
-    "+weight.font": 73,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 31,
+    "-weight.document": 393,
+    "+weight.document": 26,
+    "-weight.script": 144,
+    "+weight.script": 277,
+    "-weight.image": 42,
+    "+weight.image": 376,
+    "-weight.font": 283,
+    "+weight.font": 74,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 18,
     "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 164
+    "-largestContentfulPaint": 120
   },
   "axe": {
     "passes": 1893,
     "violations": 14
+  },
+  "previousRanks": {
+    "hundos": 88,
+    "performance": 95,
+    "accessibility": 126,
+    "cumulative": 89
   }
 }

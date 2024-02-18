@@ -1,67 +1,20 @@
 {
   "url": "https://hellosavings.ca.gov/",
-  "requestedUrl": "https://hellosavings.ca.gov/",
-  "timestamp": 1707778757829,
-  "ranks": {
-    "hundos": 70,
-    "performance": 22,
-    "accessibility": 186,
-    "cumulative": 71
-  },
-  "lighthouse": {
-    "version": "11.5.0",
-    "performance": 0.93,
-    "accessibility": 0.94,
-    "bestPractices": 0.85,
-    "seo": 0.77,
-    "total": 349
-  },
-  "firstContentfulPaint": 1821.6790000000005,
-  "firstMeaningfulPaint": 1821.6790000000005,
-  "speedIndex": 5062.831619861612,
-  "largestContentfulPaint": 2312.6320000000037,
-  "totalBlockingTime": 2,
-  "cumulativeLayoutShift": 0.005079716999293517,
-  "timeToInteractive": 2706.3690000000006,
-  "maxPotentialFirstInputDelay": 54,
-  "timeToFirstByte": 13.875999999999749,
-  "weight": {
-    "summary": "30 requests • 560.4 KiB",
-    "total": 573841,
-    "image": 82533,
-    "imageCount": 8,
-    "script": 449724,
-    "scriptCount": 14,
-    "document": 5900,
-    "font": 0,
-    "fontCount": 0,
-    "stylesheet": 35428,
-    "stylesheetCount": 5,
-    "thirdParty": 457492,
-    "thirdPartyCount": 6
-  },
-  "run": {
-    "number": 1,
-    "total": 1
-  },
+  "error": "Unknown error.",
   "sidequests": {
-    "-weight.total": 22,
-    "+weight.total": 404,
-    "-weight.document": 13,
-    "+weight.document": 410,
-    "-weight.script": 99,
-    "+weight.script": 323,
-    "-weight.image": 31,
-    "+weight.image": 391,
-    "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 21,
-    "-totalBlockingTime": 4,
-    "-largestContentfulPaint": 18
-  },
-  "axe": {
-    "passes": 182,
-    "violations": 11
+    "-weight.total": 425,
+    "+weight.total": 425,
+    "-weight.document": 419,
+    "+weight.document": 419,
+    "-weight.script": 421,
+    "+weight.script": 421,
+    "-weight.image": 418,
+    "+weight.image": 418,
+    "-weight.font": 357,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 425,
+    "-totalBlockingTime": 251,
+    "-largestContentfulPaint": 424
   }
 }

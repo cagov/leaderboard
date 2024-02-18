@@ -1,43 +1,43 @@
 {
   "url": "https://aquaculturematters.ca.gov/",
   "requestedUrl": "https://aquaculturematters.ca.gov/",
-  "timestamp": 1707761345740,
+  "timestamp": 1708248461856,
   "ranks": {
-    "hundos": 33,
-    "performance": 31,
-    "accessibility": 245,
-    "cumulative": 33
+    "hundos": 44,
+    "performance": 38,
+    "accessibility": 242,
+    "cumulative": 45
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.87,
+    "performance": 0.83,
     "accessibility": 0.91,
     "bestPractices": 1,
     "seo": 0.83,
-    "total": 361
+    "total": 357
   },
-  "firstContentfulPaint": 2292.5985,
-  "firstMeaningfulPaint": 2292.5985,
-  "speedIndex": 2322.7082621328673,
-  "largestContentfulPaint": 3695.824,
+  "firstContentfulPaint": 2208.4595,
+  "firstMeaningfulPaint": 2208.4595,
+  "speedIndex": 2539.3117891117854,
+  "largestContentfulPaint": 4248.8575,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 2292.5985,
-  "maxPotentialFirstInputDelay": 47,
-  "timeToFirstByte": 224.85799999999998,
+  "timeToInteractive": 2208.4595,
+  "maxPotentialFirstInputDelay": 40,
+  "timeToFirstByte": 233.80599999999998,
   "weight": {
-    "summary": "38 requests • 1.2 MiB",
-    "total": 1215440,
-    "image": 881824,
-    "imageCount": 12,
-    "script": 119761,
-    "scriptCount": 10,
-    "document": 149633,
+    "summary": "40 requests • 1.2 MiB",
+    "total": 1220007,
+    "image": 881953,
+    "imageCount": 13,
+    "script": 123151,
+    "scriptCount": 11,
+    "document": 150612,
     "font": 0,
     "fontCount": 0,
-    "stylesheet": 63563,
+    "stylesheet": 63632,
     "stylesheetCount": 10,
-    "thirdParty": 1122213,
+    "thirdParty": 1124022,
     "thirdPartyCount": 4
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 69,
-    "+weight.total": 357,
-    "-weight.document": 375,
-    "+weight.document": 48,
-    "-weight.script": 15,
-    "+weight.script": 407,
-    "-weight.image": 199,
-    "+weight.image": 223,
+    "+weight.total": 356,
+    "-weight.document": 370,
+    "+weight.document": 49,
+    "-weight.script": 18,
+    "+weight.script": 403,
+    "-weight.image": 197,
+    "+weight.image": 221,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 264,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 265,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 39
+    "-largestContentfulPaint": 38
   },
   "axe": {
     "passes": 932,
     "violations": 118
+  },
+  "previousRanks": {
+    "hundos": 21,
+    "performance": 24,
+    "accessibility": 244,
+    "cumulative": 23
   }
 }

@@ -1,43 +1,43 @@
 {
   "url": "https://reedley.ca.gov/",
   "requestedUrl": "https://reedley.ca.gov/",
-  "timestamp": 1707786826119,
+  "timestamp": 1708273960866,
   "ranks": {
-    "hundos": 289,
-    "performance": 107,
+    "hundos": 291,
+    "performance": 115,
     "accessibility": 359,
-    "cumulative": 289
+    "cumulative": 292
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.64,
+    "performance": 0.63,
     "accessibility": 0.83,
     "bestPractices": 0.74,
     "seo": 0.78,
-    "total": 299
+    "total": 298
   },
-  "firstContentfulPaint": 5074.135000000001,
-  "firstMeaningfulPaint": 6385.08,
-  "speedIndex": 5074.135000000001,
-  "largestContentfulPaint": 6939.760000000002,
-  "totalBlockingTime": 33,
+  "firstContentfulPaint": 5159.924999999998,
+  "firstMeaningfulPaint": 6479.7784999999985,
+  "speedIndex": 5159.924999999998,
+  "largestContentfulPaint": 7504.775499999997,
+  "totalBlockingTime": 25,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 9231.140000000001,
-  "maxPotentialFirstInputDelay": 66,
-  "timeToFirstByte": 17.979000000000013,
+  "timeToInteractive": 9113.699999999997,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 18.075000000000003,
   "weight": {
     "summary": "101 requests • 1.9 MiB",
-    "total": 2024560,
+    "total": 2024715,
     "image": 843437,
     "imageCount": 12,
-    "script": 549555,
+    "script": 549487,
     "scriptCount": 33,
-    "document": 35766,
-    "font": 370364,
+    "document": 35849,
+    "font": 370362,
     "fontCount": 13,
-    "stylesheet": 225177,
+    "stylesheet": 225319,
     "stylesheetCount": 40,
-    "thirdParty": 302976,
+    "thirdParty": 302901,
     "thirdPartyCount": 3
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 150,
+    "-weight.total": 149,
     "+weight.total": 276,
-    "-weight.document": 210,
-    "+weight.document": 213,
-    "-weight.script": 122,
+    "-weight.document": 203,
+    "+weight.document": 216,
+    "-weight.script": 121,
     "+weight.script": 300,
-    "-weight.image": 192,
-    "+weight.image": 230,
-    "-weight.font": 276,
+    "-weight.image": 191,
+    "+weight.image": 227,
+    "-weight.font": 274,
     "+weight.font": 83,
-    "+weight.fontCount": 11,
-    "-timeToFirstByte": 45,
-    "-totalBlockingTime": 56,
-    "-largestContentfulPaint": 117
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 42,
+    "-totalBlockingTime": 44,
+    "-largestContentfulPaint": 92
   },
   "axe": {
-    "passes": 942,
+    "passes": 940,
     "violations": 91
+  },
+  "previousRanks": {
+    "hundos": 295,
+    "performance": 111,
+    "accessibility": 356,
+    "cumulative": 295
   }
 }

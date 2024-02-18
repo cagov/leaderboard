@@ -1,43 +1,43 @@
 {
   "url": "https://nvta.ca.gov/",
   "requestedUrl": "https://nvta.ca.gov/",
-  "timestamp": 1707783965598,
+  "timestamp": 1708271067775,
   "ranks": {
-    "hundos": 258,
-    "performance": 257,
-    "accessibility": 365,
-    "cumulative": 258
+    "hundos": 253,
+    "performance": 245,
+    "accessibility": 363,
+    "cumulative": 252
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.47,
+    "performance": 0.48,
     "accessibility": 0.82,
     "bestPractices": 0.93,
     "seo": 0.84,
-    "total": 306
+    "total": 307
   },
-  "firstContentfulPaint": 2344.108,
-  "firstMeaningfulPaint": 2344.108,
-  "speedIndex": 11337.619581725754,
-  "largestContentfulPaint": 30303.98199999999,
-  "totalBlockingTime": 29.99999999999818,
-  "cumulativeLayoutShift": 0.3247842160600432,
-  "timeToInteractive": 14706.487999999996,
-  "maxPotentialFirstInputDelay": 109,
-  "timeToFirstByte": 798.387,
+  "firstContentfulPaint": 2357.419,
+  "firstMeaningfulPaint": 2357.419,
+  "speedIndex": 10727.17685516592,
+  "largestContentfulPaint": 30264.97,
+  "totalBlockingTime": 31.5,
+  "cumulativeLayoutShift": 0.29848906164285766,
+  "timeToInteractive": 14820.910500000002,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 865.8290000000001,
   "weight": {
     "summary": "93 requests • 9.7 MiB",
-    "total": 10180643,
-    "image": 9609222,
+    "total": 10180633,
+    "image": 9609192,
     "imageCount": 32,
-    "script": 330563,
+    "script": 330614,
     "scriptCount": 28,
-    "document": 16878,
-    "font": 125917,
+    "document": 16897,
+    "font": 125899,
     "fontCount": 5,
-    "stylesheet": 97641,
+    "stylesheet": 97612,
     "stylesheetCount": 23,
-    "thirdParty": 213678,
+    "thirdParty": 213685,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 391,
-    "+weight.total": 35,
-    "-weight.document": 76,
-    "+weight.document": 347,
-    "-weight.script": 71,
+    "-weight.total": 389,
+    "+weight.total": 36,
+    "-weight.document": 74,
+    "+weight.document": 345,
+    "-weight.script": 70,
     "+weight.script": 351,
-    "-weight.image": 402,
-    "+weight.image": 20,
-    "-weight.font": 122,
+    "-weight.image": 399,
+    "+weight.image": 19,
+    "-weight.font": 120,
     "+weight.font": 237,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 370,
-    "-totalBlockingTime": 50,
-    "-largestContentfulPaint": 391
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 375,
+    "-totalBlockingTime": 53,
+    "-largestContentfulPaint": 393
   },
   "axe": {
     "passes": 519,
     "violations": 14
+  },
+  "previousRanks": {
+    "hundos": 261,
+    "performance": 279,
+    "accessibility": 360,
+    "cumulative": 261
   }
 }

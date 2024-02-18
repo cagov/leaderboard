@@ -1,43 +1,43 @@
 {
   "url": "https://pent.ca.gov/",
   "requestedUrl": "https://pent.ca.gov/",
-  "timestamp": 1707785317121,
+  "timestamp": 1708272441111,
   "ranks": {
-    "hundos": 35,
-    "performance": 76,
+    "hundos": 42,
+    "performance": 83,
     "accessibility": 14,
-    "cumulative": 34
+    "cumulative": 39
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.69,
+    "performance": 0.67,
     "accessibility": 1,
     "bestPractices": 0.93,
     "seo": 0.98,
-    "total": 360
+    "total": 358
   },
-  "firstContentfulPaint": 3236.6642499999994,
-  "firstMeaningfulPaint": 3236.6642499999994,
-  "speedIndex": 3845.3745432672185,
-  "largestContentfulPaint": 6617.533999999999,
-  "totalBlockingTime": 4,
+  "firstContentfulPaint": 3500.256,
+  "firstMeaningfulPaint": 3500.256,
+  "speedIndex": 4395.725950637571,
+  "largestContentfulPaint": 6820.0067500000005,
+  "totalBlockingTime": 8.5,
   "cumulativeLayoutShift": 0.06720692638690864,
-  "timeToInteractive": 3618.2914999999994,
-  "maxPotentialFirstInputDelay": 58,
-  "timeToFirstByte": 119.88999999999999,
+  "timeToInteractive": 4040.767,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 334.017,
   "weight": {
-    "summary": "32 requests • 671.6 KiB",
-    "total": 687695,
-    "image": 296605,
+    "summary": "32 requests • 643.3 KiB",
+    "total": 658720,
+    "image": 267483,
     "imageCount": 12,
-    "script": 334046,
+    "script": 334193,
     "scriptCount": 9,
     "document": 8709,
     "font": 0,
     "fontCount": 0,
     "stylesheet": 48084,
     "stylesheetCount": 9,
-    "thirdParty": 330669,
+    "thirdParty": 330816,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 35,
+    "-weight.total": 34,
     "+weight.total": 391,
-    "-weight.document": 30,
-    "+weight.document": 393,
-    "-weight.script": 73,
+    "-weight.document": 29,
+    "+weight.document": 390,
+    "-weight.script": 72,
     "+weight.script": 349,
-    "-weight.image": 85,
-    "+weight.image": 337,
+    "-weight.image": 77,
+    "+weight.image": 341,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 227,
-    "-totalBlockingTime": 8,
-    "-largestContentfulPaint": 110
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 299,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 205
   },
   "axe": {
     "passes": 452,
     "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 31,
+    "performance": 68,
+    "accessibility": 13,
+    "cumulative": 27
   }
 }

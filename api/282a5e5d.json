@@ -1,43 +1,43 @@
 {
   "url": "https://latc.ca.gov/",
   "requestedUrl": "https://latc.ca.gov/",
-  "timestamp": 1707780853967,
+  "timestamp": 1708267981350,
   "ranks": {
-    "hundos": 205,
-    "performance": 331,
-    "accessibility": 268,
-    "cumulative": 205
+    "hundos": 193,
+    "performance": 320,
+    "accessibility": 265,
+    "cumulative": 193
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.39,
+    "performance": 0.4,
     "accessibility": 0.89,
     "bestPractices": 0.93,
     "seo": 0.98,
-    "total": 319
+    "total": 320
   },
-  "firstContentfulPaint": 4625.916499999999,
-  "firstMeaningfulPaint": 5195.058500000001,
-  "speedIndex": 5967.417128057419,
-  "largestContentfulPaint": 12992.986499999999,
-  "totalBlockingTime": 18.5,
-  "cumulativeLayoutShift": 0.5982510430220075,
-  "timeToInteractive": 8809.769499999999,
-  "maxPotentialFirstInputDelay": 69,
-  "timeToFirstByte": 29.360000000000007,
+  "firstContentfulPaint": 4565.123500000001,
+  "firstMeaningfulPaint": 5136.691000000001,
+  "speedIndex": 5383.987241609455,
+  "largestContentfulPaint": 13041.763500000001,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0.5932980625205125,
+  "timeToInteractive": 8668.9025,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 25.035000000000004,
   "weight": {
-    "summary": "60 requests • 2.1 MiB",
-    "total": 2242986,
-    "image": 410196,
-    "imageCount": 24,
-    "script": 1258299,
+    "summary": "61 requests • 2.1 MiB",
+    "total": 2247514,
+    "image": 414198,
+    "imageCount": 25,
+    "script": 1258568,
     "scriptCount": 20,
-    "document": 81114,
-    "font": 80177,
+    "document": 81181,
+    "font": 80185,
     "fontCount": 3,
-    "stylesheet": 412304,
+    "stylesheet": 412410,
     "stylesheetCount": 6,
-    "thirdParty": 880289,
+    "thirdParty": 881031,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 168,
+    "-weight.total": 167,
     "+weight.total": 258,
-    "-weight.document": 337,
-    "+weight.document": 86,
-    "-weight.script": 299,
-    "+weight.script": 123,
-    "-weight.image": 109,
-    "+weight.image": 313,
-    "-weight.font": 67,
-    "+weight.font": 292,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 89,
-    "-totalBlockingTime": 33,
-    "-largestContentfulPaint": 244
+    "-weight.document": 331,
+    "+weight.document": 88,
+    "-weight.script": 302,
+    "+weight.script": 119,
+    "-weight.image": 111,
+    "+weight.image": 307,
+    "-weight.font": 66,
+    "+weight.font": 291,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 71,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 277
   },
   "axe": {
     "passes": 842,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 204,
+    "performance": 343,
+    "accessibility": 267,
+    "cumulative": 204
   }
 }

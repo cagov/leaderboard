@@ -1,30 +1,30 @@
 {
   "url": "https://meganslaw.ca.gov/Mobile/Default.aspx",
   "requestedUrl": "https://meganslaw.ca.gov/",
-  "timestamp": 1707782449240,
+  "timestamp": 1708269547296,
   "ranks": {
-    "hundos": 134,
-    "performance": 56,
-    "accessibility": 376,
-    "cumulative": 137
+    "hundos": 142,
+    "performance": 54,
+    "accessibility": 375,
+    "cumulative": 142
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.76,
+    "performance": 0.75,
     "accessibility": 0.81,
     "bestPractices": 0.96,
     "seo": 0.83,
-    "total": 336
+    "total": 335
   },
-  "firstContentfulPaint": 3925.321,
-  "firstMeaningfulPaint": 3967.321,
-  "speedIndex": 3925.321,
-  "largestContentfulPaint": 4387.54425,
-  "totalBlockingTime": 17,
+  "firstContentfulPaint": 3937.157,
+  "firstMeaningfulPaint": 3978.157,
+  "speedIndex": 3937.157,
+  "largestContentfulPaint": 4434.168,
+  "totalBlockingTime": 16,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 4073.321,
-  "maxPotentialFirstInputDelay": 84,
-  "timeToFirstByte": 50.019000000000005,
+  "timeToInteractive": 4072.657,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 49.788000000000004,
   "weight": {
     "summary": "15 requests • 570.5 KiB",
     "total": 584237,
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 26,
+    "-weight.total": 25,
     "+weight.total": 400,
-    "-weight.document": 45,
-    "+weight.document": 378,
-    "-weight.script": 58,
-    "+weight.script": 364,
-    "-weight.image": 26,
-    "+weight.image": 396,
+    "-weight.document": 44,
+    "+weight.document": 375,
+    "-weight.script": 59,
+    "+weight.script": 362,
+    "-weight.image": 24,
+    "+weight.image": 394,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 135,
-    "-totalBlockingTime": 31,
-    "-largestContentfulPaint": 57
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 126,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 188
   },
   "axe": {
     "passes": 514,
     "violations": 37
+  },
+  "previousRanks": {
+    "hundos": 134,
+    "performance": 56,
+    "accessibility": 372,
+    "cumulative": 136
   }
 }

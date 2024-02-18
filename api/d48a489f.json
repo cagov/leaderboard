@@ -1,43 +1,43 @@
 {
   "url": "https://cww.water.ca.gov/",
   "requestedUrl": "https://drought.ca.gov/",
-  "timestamp": 1707774730403,
+  "timestamp": 1708261911190,
   "ranks": {
-    "hundos": 405,
-    "performance": 418,
-    "accessibility": 375,
-    "cumulative": 405
+    "hundos": 403,
+    "performance": 415,
+    "accessibility": 374,
+    "cumulative": 403
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.21,
+    "performance": 0.22,
     "accessibility": 0.81,
     "bestPractices": 0.7,
     "seo": 0.83,
-    "total": 255
+    "total": 256
   },
-  "firstContentfulPaint": 39063.300974999984,
-  "firstMeaningfulPaint": 47200.105224999985,
-  "speedIndex": 39063.300974999984,
-  "largestContentfulPaint": 50779.74213749998,
-  "totalBlockingTime": 5867.5,
-  "cumulativeLayoutShift": 0.12158831183855424,
-  "timeToInteractive": 77961.76137500003,
-  "maxPotentialFirstInputDelay": 4647,
-  "timeToFirstByte": 68.849,
+  "firstContentfulPaint": 38265.32599999999,
+  "firstMeaningfulPaint": 46352.941999999995,
+  "speedIndex": 38265.32599999999,
+  "largestContentfulPaint": 49217.2895,
+  "totalBlockingTime": 5812.500000000007,
+  "cumulativeLayoutShift": 0.11300980261567684,
+  "timeToInteractive": 77094.9745,
+  "maxPotentialFirstInputDelay": 4595.000000000007,
+  "timeToFirstByte": 69.40499999999999,
   "weight": {
-    "summary": "267 requests • 13.9 MiB",
-    "total": 14561242,
-    "image": 2451455,
+    "summary": "268 requests • 14.0 MiB",
+    "total": 14671200,
+    "image": 2479999,
     "imageCount": 44,
-    "script": 7299672,
-    "scriptCount": 79,
-    "document": 118592,
-    "font": 332162,
+    "script": 7383357,
+    "scriptCount": 80,
+    "document": 118575,
+    "font": 332172,
     "fontCount": 8,
-    "stylesheet": 1059904,
+    "stylesheet": 1059909,
     "stylesheetCount": 23,
-    "thirdParty": 5194695,
+    "thirdParty": 5274987,
     "thirdPartyCount": 9
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 408,
-    "+weight.total": 18,
-    "-weight.document": 359,
-    "+weight.document": 64,
-    "-weight.script": 417,
+    "+weight.total": 17,
+    "-weight.document": 354,
+    "+weight.document": 65,
+    "-weight.script": 416,
     "+weight.script": 5,
-    "-weight.image": 299,
-    "+weight.image": 123,
-    "-weight.font": 265,
+    "-weight.image": 303,
+    "+weight.image": 115,
+    "-weight.font": 263,
     "+weight.font": 94,
-    "+weight.fontCount": 16,
-    "-timeToFirstByte": 161,
-    "-totalBlockingTime": 252,
-    "-largestContentfulPaint": 418
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 156,
+    "-totalBlockingTime": 250,
+    "-largestContentfulPaint": 416
   },
   "axe": {
     "passes": 1180,
     "violations": 32
+  },
+  "previousRanks": {
+    "hundos": 404,
+    "performance": 411,
+    "accessibility": 371,
+    "cumulative": 404
   }
 }

@@ -1,11 +1,11 @@
 {
   "url": "https://ccag.ca.gov/",
   "requestedUrl": "https://ccag.ca.gov/",
-  "timestamp": 1707766661928,
+  "timestamp": 1708253794347,
   "ranks": {
-    "hundos": 286,
-    "performance": 222,
-    "accessibility": 259,
+    "hundos": 285,
+    "performance": 221,
+    "accessibility": 256,
     "cumulative": 285
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.9,
     "total": 301
   },
-  "firstContentfulPaint": 2109.2619999999997,
-  "firstMeaningfulPaint": 2109.2619999999997,
-  "speedIndex": 8424.311182557494,
-  "largestContentfulPaint": 20049.762000000002,
-  "totalBlockingTime": 2.5,
-  "cumulativeLayoutShift": 0.2782579708130969,
-  "timeToInteractive": 2627.991,
-  "maxPotentialFirstInputDelay": 55,
-  "timeToFirstByte": 2099.749,
+  "firstContentfulPaint": 2107.397,
+  "firstMeaningfulPaint": 2107.397,
+  "speedIndex": 7902.922204607725,
+  "largestContentfulPaint": 20269.013000000006,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.27825513270916646,
+  "timeToInteractive": 2639.3995,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 1732.701,
   "weight": {
     "summary": "48 requests • 4.4 MiB",
-    "total": 4596903,
-    "image": 4173035,
+    "total": 4596359,
+    "image": 4172761,
     "imageCount": 11,
-    "script": 303327,
+    "script": 303081,
     "scriptCount": 21,
-    "document": 15176,
+    "document": 15186,
     "font": 13961,
     "fontCount": 1,
-    "stylesheet": 91162,
+    "stylesheet": 91119,
     "stylesheetCount": 12,
-    "thirdParty": 214347,
+    "thirdParty": 213996,
     "thirdPartyCount": 5
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 301,
-    "+weight.total": 125,
-    "-weight.document": 70,
-    "+weight.document": 353,
-    "-weight.script": 62,
+    "-weight.total": 305,
+    "+weight.total": 120,
+    "-weight.document": 68,
+    "+weight.document": 351,
+    "-weight.script": 61,
     "+weight.script": 360,
-    "-weight.image": 347,
-    "+weight.image": 75,
+    "-weight.image": 346,
+    "+weight.image": 72,
     "-weight.font": 2,
-    "+weight.font": 357,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 409,
-    "-totalBlockingTime": 5,
-    "-largestContentfulPaint": 300
+    "+weight.font": 355,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 406,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 357
   },
   "axe": {
     "passes": 349,
     "violations": 17
+  },
+  "previousRanks": {
+    "hundos": 289,
+    "performance": 227,
+    "accessibility": 258,
+    "cumulative": 288
   }
 }

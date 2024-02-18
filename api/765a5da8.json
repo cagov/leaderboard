@@ -1,12 +1,12 @@
 {
   "url": "https://www.calexico.ca.gov/",
   "requestedUrl": "https://calexico.ca.gov/",
-  "timestamp": 1707764257116,
+  "timestamp": 1708251411170,
   "ranks": {
-    "hundos": 136,
+    "hundos": 137,
     "performance": 319,
-    "accessibility": 57,
-    "cumulative": 135
+    "accessibility": 71,
+    "cumulative": 139
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 1,
     "total": 336
   },
-  "firstContentfulPaint": 4000.0358000000006,
-  "firstMeaningfulPaint": 4763.849900000001,
-  "speedIndex": 4761.445162834925,
-  "largestContentfulPaint": 9257.769750000001,
-  "totalBlockingTime": 1,
-  "cumulativeLayoutShift": 0.8366611964572521,
-  "timeToInteractive": 4763.849900000001,
-  "maxPotentialFirstInputDelay": 51,
-  "timeToFirstByte": 125.037,
+  "firstContentfulPaint": 4176.533600000001,
+  "firstMeaningfulPaint": 4891.46304,
+  "speedIndex": 4933.612637692743,
+  "largestContentfulPaint": 13511.366440000002,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0.8366090664545188,
+  "timeToInteractive": 4891.46304,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 122.738,
   "weight": {
     "summary": "47 requests • 2.4 MiB",
-    "total": 2464265,
-    "image": 2052263,
+    "total": 2492788,
+    "image": 2052176,
     "imageCount": 21,
-    "script": 68165,
+    "script": 94605,
     "scriptCount": 9,
     "document": 56632,
-    "font": 99805,
+    "font": 99800,
     "fontCount": 2,
-    "stylesheet": 54954,
+    "stylesheet": 57132,
     "stylesheetCount": 8,
-    "thirdParty": 290370,
+    "thirdParty": 290344,
     "thirdPartyCount": 4
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 187,
-    "+weight.total": 239,
-    "-weight.document": 297,
-    "+weight.document": 126,
-    "-weight.script": 10,
-    "+weight.script": 412,
-    "-weight.image": 286,
-    "+weight.image": 136,
-    "-weight.font": 87,
-    "+weight.font": 272,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 234,
-    "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 163
+    "-weight.total": 192,
+    "+weight.total": 233,
+    "-weight.document": 292,
+    "+weight.document": 127,
+    "-weight.script": 12,
+    "+weight.script": 409,
+    "-weight.image": 287,
+    "+weight.image": 131,
+    "-weight.font": 82,
+    "+weight.font": 275,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 224,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 286
   },
   "axe": {
-    "passes": 616,
-    "violations": 3
+    "passes": 617,
+    "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 135,
+    "performance": 333,
+    "accessibility": 58,
+    "cumulative": 133
   }
 }

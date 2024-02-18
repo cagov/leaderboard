@@ -1,12 +1,12 @@
 {
   "url": "https://saferatwork.covid19.ca.gov/es/",
   "requestedUrl": "https://trabajaseguro.ca.gov/",
-  "timestamp": 1707792502687,
+  "timestamp": 1708279636610,
   "ranks": {
-    "hundos": 199,
-    "performance": 343,
-    "accessibility": 157,
-    "cumulative": 199
+    "hundos": 203,
+    "performance": 347,
+    "accessibility": 159,
+    "cumulative": 202
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.93,
     "total": 319
   },
-  "firstContentfulPaint": 3158.0225,
-  "firstMeaningfulPaint": 3158.0225,
-  "speedIndex": 7742.248426628421,
-  "largestContentfulPaint": 13883.0225,
-  "totalBlockingTime": 52.5,
-  "cumulativeLayoutShift": 0.8750024963309981,
-  "timeToInteractive": 12497.5225,
-  "maxPotentialFirstInputDelay": 108,
-  "timeToFirstByte": 104.714,
+  "firstContentfulPaint": 3052.284,
+  "firstMeaningfulPaint": 3052.284,
+  "speedIndex": 7640.996175497207,
+  "largestContentfulPaint": 8063.284,
+  "totalBlockingTime": 95.5,
+  "cumulativeLayoutShift": 0.8940942956017401,
+  "timeToInteractive": 12490.284,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 843.905,
   "weight": {
     "summary": "78 requests • 2.1 MiB",
-    "total": 2202087,
-    "image": 542027,
+    "total": 2152576,
+    "image": 489033,
     "imageCount": 14,
-    "script": 917071,
+    "script": 920451,
     "scriptCount": 24,
-    "document": 28937,
-    "font": 520295,
+    "document": 28977,
+    "font": 520291,
     "fontCount": 11,
-    "stylesheet": 192639,
+    "stylesheet": 192729,
     "stylesheetCount": 19,
-    "thirdParty": 967598,
+    "thirdParty": 971073,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 163,
-    "+weight.total": 263,
-    "-weight.document": 142,
-    "+weight.document": 281,
-    "-weight.script": 213,
-    "+weight.script": 209,
-    "-weight.image": 136,
-    "+weight.image": 286,
-    "-weight.font": 309,
-    "+weight.font": 50,
-    "+weight.fontCount": 13,
-    "-timeToFirstByte": 204,
-    "-totalBlockingTime": 80,
-    "-largestContentfulPaint": 259
+    "-weight.total": 160,
+    "+weight.total": 265,
+    "-weight.document": 140,
+    "+weight.document": 279,
+    "-weight.script": 218,
+    "+weight.script": 203,
+    "-weight.image": 125,
+    "+weight.image": 293,
+    "-weight.font": 305,
+    "+weight.font": 52,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 372,
+    "-totalBlockingTime": 125,
+    "-largestContentfulPaint": 104
   },
   "axe": {
     "passes": 723,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 189,
+    "performance": 326,
+    "accessibility": 157,
+    "cumulative": 189
   }
 }

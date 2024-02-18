@@ -1,43 +1,43 @@
 {
   "url": "https://www.paumavalleycsd.ca.gov/",
   "requestedUrl": "https://paumavalleycsd.ca.gov/",
-  "timestamp": 1707785115705,
+  "timestamp": 1708272239211,
   "ranks": {
-    "hundos": 24,
-    "performance": 64,
-    "accessibility": 207,
-    "cumulative": 23
+    "hundos": 21,
+    "performance": 59,
+    "accessibility": 204,
+    "cumulative": 21
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.72,
+    "performance": 0.74,
     "accessibility": 0.92,
     "bestPractices": 1,
     "seo": 1,
-    "total": 364
+    "total": 366
   },
-  "firstContentfulPaint": 2320.472,
-  "firstMeaningfulPaint": 2355.472,
-  "speedIndex": 2958.7923168262028,
-  "largestContentfulPaint": 11023.521,
+  "firstContentfulPaint": 2538.7200000000003,
+  "firstMeaningfulPaint": 2538.7200000000003,
+  "speedIndex": 3084.5691218531483,
+  "largestContentfulPaint": 5919.9645,
   "totalBlockingTime": 27.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 8824.021,
-  "maxPotentialFirstInputDelay": 70,
-  "timeToFirstByte": 656.8,
+  "timeToInteractive": 7742.382999999997,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 25.134,
   "weight": {
-    "summary": "130 requests • 2.1 MiB",
-    "total": 2192812,
-    "image": 719500,
+    "summary": "133 requests • 2.1 MiB",
+    "total": 2196262,
+    "image": 719917,
     "imageCount": 8,
-    "script": 484938,
-    "scriptCount": 52,
-    "document": 135554,
-    "font": 319448,
+    "script": 478136,
+    "scriptCount": 53,
+    "document": 148095,
+    "font": 316969,
     "fontCount": 9,
     "stylesheet": 0,
     "stylesheetCount": 0,
-    "thirdParty": 1852116,
+    "thirdParty": 1842886,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 162,
-    "+weight.total": 264,
-    "-weight.document": 370,
-    "+weight.document": 53,
-    "-weight.script": 108,
-    "+weight.script": 314,
-    "-weight.image": 176,
-    "+weight.image": 246,
-    "-weight.font": 259,
+    "-weight.total": 164,
+    "+weight.total": 261,
+    "-weight.document": 368,
+    "+weight.document": 51,
+    "-weight.script": 106,
+    "+weight.script": 315,
+    "-weight.image": 177,
+    "+weight.image": 241,
+    "-weight.font": 257,
     "+weight.font": 100,
-    "+weight.fontCount": 15,
-    "-timeToFirstByte": 353,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 73,
     "-totalBlockingTime": 47,
-    "-largestContentfulPaint": 212
+    "-largestContentfulPaint": 66
   },
   "axe": {
     "passes": 929,
     "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 39,
+    "performance": 99,
+    "accessibility": 204,
+    "cumulative": 39
   }
 }

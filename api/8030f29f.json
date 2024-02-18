@@ -1,43 +1,43 @@
 {
   "url": "https://delta.ca.gov/",
   "requestedUrl": "https://delta.ca.gov/",
-  "timestamp": 1707773138590,
+  "timestamp": 1708260325163,
   "ranks": {
-    "hundos": 160,
-    "performance": 244,
-    "accessibility": 296,
-    "cumulative": 158
+    "hundos": 177,
+    "performance": 293,
+    "accessibility": 299,
+    "cumulative": 173
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.48,
+    "performance": 0.44,
     "accessibility": 0.87,
     "bestPractices": 0.96,
     "seo": 0.98,
-    "total": 329
+    "total": 325
   },
-  "firstContentfulPaint": 6316.053,
-  "firstMeaningfulPaint": 9497.683,
-  "speedIndex": 8677.239239015242,
-  "largestContentfulPaint": 15416.946000000004,
-  "totalBlockingTime": 4.5,
-  "cumulativeLayoutShift": 0.1954441807882524,
-  "timeToInteractive": 10049.209000000003,
-  "maxPotentialFirstInputDelay": 59,
-  "timeToFirstByte": 585.086,
+  "firstContentfulPaint": 6238.0425,
+  "firstMeaningfulPaint": 6315.143,
+  "speedIndex": 10663.10497886813,
+  "largestContentfulPaint": 7086.147999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.26952618975610176,
+  "timeToInteractive": 6315.143,
+  "maxPotentialFirstInputDelay": 49,
+  "timeToFirstByte": 1458.881,
   "weight": {
     "summary": "57 requests • 2.6 MiB",
-    "total": 2680759,
-    "image": 614919,
-    "imageCount": 17,
-    "script": 1092818,
-    "scriptCount": 18,
-    "document": 50406,
-    "font": 131423,
+    "total": 2679749,
+    "image": 616016,
+    "imageCount": 18,
+    "script": 1090631,
+    "scriptCount": 17,
+    "document": 50460,
+    "font": 131422,
     "fontCount": 2,
-    "stylesheet": 790305,
+    "stylesheet": 790328,
     "stylesheetCount": 14,
-    "thirdParty": 477166,
+    "thirdParty": 474845,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 215,
-    "+weight.total": 211,
-    "-weight.document": 281,
-    "+weight.document": 142,
-    "-weight.script": 277,
+    "-weight.total": 211,
+    "+weight.total": 214,
+    "-weight.document": 278,
+    "+weight.document": 141,
+    "-weight.script": 276,
     "+weight.script": 145,
-    "-weight.image": 155,
-    "+weight.image": 267,
-    "-weight.font": 132,
+    "-weight.image": 161,
+    "+weight.image": 257,
+    "-weight.font": 130,
     "+weight.font": 227,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 343,
-    "-totalBlockingTime": 9,
-    "-largestContentfulPaint": 273
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 397,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 87
   },
   "axe": {
-    "passes": 500,
-    "violations": 5
+    "passes": 514,
+    "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 169,
+    "performance": 263,
+    "accessibility": 299,
+    "cumulative": 169
   }
 }

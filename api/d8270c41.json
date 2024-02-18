@@ -1,30 +1,30 @@
 {
   "url": "https://www.sacramento.ca.gov/",
   "requestedUrl": "https://sacramento.ca.gov/",
-  "timestamp": 1707787399165,
+  "timestamp": 1708274536187,
   "ranks": {
-    "hundos": 64,
-    "performance": 32,
-    "accessibility": 307,
-    "cumulative": 63
+    "hundos": 128,
+    "performance": 62,
+    "accessibility": 310,
+    "cumulative": 125
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.86,
+    "performance": 0.73,
     "accessibility": 0.86,
     "bestPractices": 0.96,
     "seo": 0.83,
-    "total": 351
+    "total": 338
   },
-  "firstContentfulPaint": 3037.7759999999994,
-  "firstMeaningfulPaint": 3334.2389999999996,
-  "speedIndex": 3037.7759999999994,
-  "largestContentfulPaint": 3334.2389999999996,
+  "firstContentfulPaint": 3150.8105,
+  "firstMeaningfulPaint": 3150.8105,
+  "speedIndex": 3150.8105,
+  "largestContentfulPaint": 5720.45,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 3334.2389999999996,
+  "timeToInteractive": 3150.8105,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 19.796000000000006,
+  "timeToFirstByte": 16.695000000000007,
   "weight": {
     "summary": "10 requests • 681.0 KiB",
     "total": 697313,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 36,
-    "+weight.total": 390,
-    "-weight.document": 2,
-    "+weight.document": 421,
+    "+weight.total": 389,
+    "-weight.document": 1,
+    "+weight.document": 418,
     "-weight.script": 1,
-    "+weight.script": 422,
-    "-weight.image": 151,
-    "+weight.image": 271,
-    "-weight.font": 77,
-    "+weight.font": 282,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 58,
+    "+weight.script": 421,
+    "-weight.image": 155,
+    "+weight.image": 263,
+    "-weight.font": 74,
+    "+weight.font": 283,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 30,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 38
+    "-largestContentfulPaint": 62
   },
   "axe": {
     "passes": 25,
     "violations": 2
+  },
+  "previousRanks": {
+    "hundos": 62,
+    "performance": 30,
+    "accessibility": 310,
+    "cumulative": 62
   }
 }

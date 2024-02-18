@@ -1,43 +1,43 @@
 {
   "url": "https://www.ttsa.ca.gov/",
   "requestedUrl": "https://ttsa.ca.gov/",
-  "timestamp": 1707792994745,
+  "timestamp": 1708280152988,
   "ranks": {
-    "hundos": 126,
-    "performance": 150,
-    "accessibility": 114,
-    "cumulative": 125
+    "hundos": 101,
+    "performance": 101,
+    "accessibility": 122,
+    "cumulative": 96
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.58,
+    "performance": 0.64,
     "accessibility": 0.98,
     "bestPractices": 1,
     "seo": 0.82,
-    "total": 338
+    "total": 344
   },
-  "firstContentfulPaint": 3168.0041000000006,
-  "firstMeaningfulPaint": 3168.0041000000006,
-  "speedIndex": 4139.729541843695,
-  "largestContentfulPaint": 6492.7853000000005,
+  "firstContentfulPaint": 3455.019500000001,
+  "firstMeaningfulPaint": 3455.019500000001,
+  "speedIndex": 4920.818568195494,
+  "largestContentfulPaint": 5033.952500000001,
   "totalBlockingTime": 6.5,
-  "cumulativeLayoutShift": 0.2276268428378591,
-  "timeToInteractive": 4830.394700000001,
+  "cumulativeLayoutShift": 0.17868490059243558,
+  "timeToInteractive": 4853.551700000001,
   "maxPotentialFirstInputDelay": 63,
-  "timeToFirstByte": 417.84499999999997,
+  "timeToFirstByte": 350.69100000000003,
   "weight": {
-    "summary": "78 requests • 564.5 KiB",
-    "total": 578073,
-    "image": 133633,
+    "summary": "78 requests • 570.5 KiB",
+    "total": 584162,
+    "image": 139884,
     "imageCount": 5,
-    "script": 212665,
+    "script": 212361,
     "scriptCount": 33,
-    "document": 20316,
-    "font": 145504,
+    "document": 20352,
+    "font": 145511,
     "fontCount": 3,
-    "stylesheet": 65082,
+    "stylesheet": 65183,
     "stylesheetCount": 32,
-    "thirdParty": 193586,
+    "thirdParty": 193626,
     "thirdPartyCount": 4
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 24,
-    "+weight.total": 402,
-    "-weight.document": 98,
-    "+weight.document": 325,
+    "+weight.total": 401,
+    "-weight.document": 96,
+    "+weight.document": 323,
     "-weight.script": 34,
-    "+weight.script": 388,
-    "-weight.image": 46,
-    "+weight.image": 376,
-    "-weight.font": 145,
+    "+weight.script": 387,
+    "-weight.image": 45,
+    "+weight.image": 373,
+    "-weight.font": 143,
     "+weight.font": 214,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 313,
-    "-totalBlockingTime": 13,
-    "-largestContentfulPaint": 108
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 304,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 193
   },
   "axe": {
-    "passes": 568,
-    "violations": 3
+    "passes": 7,
+    "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 119,
+    "performance": 138,
+    "accessibility": 121,
+    "cumulative": 119
   }
 }

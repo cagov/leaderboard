@@ -1,12 +1,12 @@
 {
   "url": "https://dmae.ca.gov/",
   "requestedUrl": "https://dmae.ca.gov/",
-  "timestamp": 1707774080831,
+  "timestamp": 1708261275257,
   "ranks": {
-    "hundos": 336,
+    "hundos": 339,
     "performance": 232,
-    "accessibility": 295,
-    "cumulative": 337
+    "accessibility": 296,
+    "cumulative": 339
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.76,
     "total": 284
   },
-  "firstContentfulPaint": 10875.961500000001,
-  "firstMeaningfulPaint": 10875.961500000001,
-  "speedIndex": 15165.775455640252,
-  "largestContentfulPaint": 19451.330500000004,
-  "totalBlockingTime": 65.5,
+  "firstContentfulPaint": 9929.928000000005,
+  "firstMeaningfulPaint": 9929.928000000005,
+  "speedIndex": 14415.488152414298,
+  "largestContentfulPaint": 19931.332500000008,
+  "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0.13384577621583477,
-  "timeToInteractive": 20389.386,
-  "maxPotentialFirstInputDelay": 104,
-  "timeToFirstByte": 1438.6080000000002,
+  "timeToInteractive": 9929.928000000005,
+  "maxPotentialFirstInputDelay": 48,
+  "timeToFirstByte": 1452.818,
   "weight": {
-    "summary": "109 requests • 3.5 MiB",
-    "total": 3713319,
-    "image": 403693,
+    "summary": "108 requests • 3.5 MiB",
+    "total": 3713133,
+    "image": 404024,
     "imageCount": 23,
-    "script": 1613321,
+    "script": 1614106,
     "scriptCount": 40,
-    "document": 98400,
-    "font": 302550,
+    "document": 98393,
+    "font": 302565,
     "fontCount": 5,
-    "stylesheet": 835188,
+    "stylesheet": 835320,
     "stylesheetCount": 26,
-    "thirdParty": 1010727,
+    "thirdParty": 1010518,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 272,
-    "+weight.total": 154,
-    "-weight.document": 347,
-    "+weight.document": 76,
-    "-weight.script": 342,
-    "+weight.script": 80,
+    "-weight.total": 275,
+    "+weight.total": 150,
+    "-weight.document": 344,
+    "+weight.document": 75,
+    "-weight.script": 343,
+    "+weight.script": 78,
     "-weight.image": 106,
-    "+weight.image": 316,
-    "-weight.font": 248,
-    "+weight.font": 111,
-    "+weight.fontCount": 19,
+    "+weight.image": 312,
+    "-weight.font": 245,
+    "+weight.font": 112,
+    "+weight.fontCount": 21,
     "-timeToFirstByte": 396,
-    "-totalBlockingTime": 97,
-    "-largestContentfulPaint": 297
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 354
   },
   "axe": {
     "passes": 777,
     "violations": 74
+  },
+  "previousRanks": {
+    "hundos": 337,
+    "performance": 239,
+    "accessibility": 296,
+    "cumulative": 337
   }
 }

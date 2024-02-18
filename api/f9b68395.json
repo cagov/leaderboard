@@ -1,43 +1,43 @@
 {
   "url": "https://fiscal.ca.gov/",
   "requestedUrl": "https://fiscal.ca.gov/",
-  "timestamp": 1707777068743,
+  "timestamp": 1708264230390,
   "ranks": {
-    "hundos": 299,
-    "performance": 146,
-    "accessibility": 325,
-    "cumulative": 300
+    "hundos": 273,
+    "performance": 143,
+    "accessibility": 327,
+    "cumulative": 274
   },
   "lighthouse": {
     "version": "11.5.0",
     "performance": 0.59,
     "accessibility": 0.86,
     "bestPractices": 0.74,
-    "seo": 0.77,
-    "total": 296
+    "seo": 0.84,
+    "total": 303
   },
-  "firstContentfulPaint": 2155.63,
-  "firstMeaningfulPaint": 2155.63,
-  "speedIndex": 7328.968874673153,
-  "largestContentfulPaint": 5188.196999999997,
-  "totalBlockingTime": 49,
-  "cumulativeLayoutShift": 0.24137496878444026,
-  "timeToInteractive": 12779.991,
-  "maxPotentialFirstInputDelay": 88,
-  "timeToFirstByte": 159.929,
+  "firstContentfulPaint": 2173.8445,
+  "firstMeaningfulPaint": 2173.8445,
+  "speedIndex": 7179.381792597284,
+  "largestContentfulPaint": 5315.2925,
+  "totalBlockingTime": 28,
+  "cumulativeLayoutShift": 0.2413708343622057,
+  "timeToInteractive": 13027.983500000004,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 290.228,
   "weight": {
-    "summary": "107 requests • 2.4 MiB",
-    "total": 2566062,
-    "image": 934940,
-    "imageCount": 27,
-    "script": 1215137,
+    "summary": "101 requests • 2.4 MiB",
+    "total": 2548640,
+    "image": 928404,
+    "imageCount": 26,
+    "script": 1215738,
     "scriptCount": 48,
-    "document": 75861,
-    "font": 231796,
+    "document": 76332,
+    "font": 231795,
     "fontCount": 4,
-    "stylesheet": 85674,
-    "stylesheetCount": 18,
-    "thirdParty": 1260381,
+    "stylesheet": 75912,
+    "stylesheetCount": 14,
+    "thirdParty": 1249062,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 200,
-    "+weight.total": 226,
-    "-weight.document": 334,
-    "+weight.document": 89,
-    "-weight.script": 293,
-    "+weight.script": 129,
+    "-weight.total": 197,
+    "+weight.total": 228,
+    "-weight.document": 328,
+    "+weight.document": 91,
+    "-weight.script": 294,
+    "+weight.script": 127,
     "-weight.image": 206,
-    "+weight.image": 216,
+    "+weight.image": 212,
     "-weight.font": 215,
-    "+weight.font": 144,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 247,
-    "-totalBlockingTime": 76,
-    "-largestContentfulPaint": 78
+    "+weight.font": 142,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 282,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 57
   },
   "axe": {
-    "passes": 812,
+    "passes": 785,
     "violations": 66
+  },
+  "previousRanks": {
+    "hundos": 277,
+    "performance": 145,
+    "accessibility": 326,
+    "cumulative": 279
   }
 }

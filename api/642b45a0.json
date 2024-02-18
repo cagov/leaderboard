@@ -1,43 +1,43 @@
 {
   "url": "https://sierranevada.ca.gov/",
   "requestedUrl": "https://snc.ca.gov/",
-  "timestamp": 1707789865992,
+  "timestamp": 1708277019535,
   "ranks": {
-    "hundos": 220,
-    "performance": 341,
-    "accessibility": 210,
-    "cumulative": 219
+    "hundos": 212,
+    "performance": 338,
+    "accessibility": 207,
+    "cumulative": 211
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.38,
+    "performance": 0.39,
     "accessibility": 0.92,
     "bestPractices": 0.96,
     "seo": 0.9,
-    "total": 316
+    "total": 317
   },
-  "firstContentfulPaint": 3955.3869999999997,
-  "firstMeaningfulPaint": 6655.387000000001,
-  "speedIndex": 7220.039301382723,
-  "largestContentfulPaint": 12505.387000000002,
-  "totalBlockingTime": 70.5,
-  "cumulativeLayoutShift": 0.556083803796242,
-  "timeToInteractive": 11030.419000000002,
-  "maxPotentialFirstInputDelay": 88,
-  "timeToFirstByte": 658.7829999999999,
+  "firstContentfulPaint": 4044.102,
+  "firstMeaningfulPaint": 9819.101999999999,
+  "speedIndex": 7178.985653761422,
+  "largestContentfulPaint": 8244.101999999999,
+  "totalBlockingTime": 68.5,
+  "cumulativeLayoutShift": 0.49740014405455857,
+  "timeToInteractive": 13381.094,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 107.124,
   "weight": {
-    "summary": "100 requests • 2.4 MiB",
-    "total": 2497468,
-    "image": 622632,
+    "summary": "99 requests • 2.3 MiB",
+    "total": 2437811,
+    "image": 579742,
     "imageCount": 11,
-    "script": 981724,
+    "script": 981829,
     "scriptCount": 38,
-    "document": 43730,
-    "font": 630303,
-    "fontCount": 11,
-    "stylesheet": 217973,
+    "document": 45168,
+    "font": 614755,
+    "fontCount": 10,
+    "stylesheet": 215212,
     "stylesheetCount": 30,
-    "thirdParty": 917110,
+    "thirdParty": 901582,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 190,
-    "+weight.total": 236,
+    "-weight.total": 188,
+    "+weight.total": 237,
     "-weight.document": 261,
-    "+weight.document": 162,
-    "-weight.script": 249,
-    "+weight.script": 173,
-    "-weight.image": 160,
-    "+weight.image": 262,
-    "-weight.font": 324,
-    "+weight.font": 35,
-    "+weight.fontCount": 13,
-    "-timeToFirstByte": 355,
-    "-totalBlockingTime": 103,
-    "-largestContentfulPaint": 234
+    "+weight.document": 158,
+    "-weight.script": 247,
+    "+weight.script": 174,
+    "-weight.image": 142,
+    "+weight.image": 276,
+    "-weight.font": 318,
+    "+weight.font": 39,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 205,
+    "-totalBlockingTime": 100,
+    "-largestContentfulPaint": 108
   },
   "axe": {
     "passes": 754,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 206,
+    "performance": 325,
+    "accessibility": 207,
+    "cumulative": 205
   }
 }

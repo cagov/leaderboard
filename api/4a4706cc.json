@@ -1,10 +1,10 @@
 {
   "url": "https://www.govops.ca.gov/",
   "requestedUrl": "https://govops.ca.gov/",
-  "timestamp": 1707778085307,
+  "timestamp": 1708265213598,
   "ranks": {
     "hundos": 73,
-    "performance": 149,
+    "performance": 144,
     "accessibility": 68,
     "cumulative": 72
   },
@@ -16,28 +16,28 @@
     "seo": 0.93,
     "total": 348
   },
-  "firstContentfulPaint": 4230.9310000000005,
-  "firstMeaningfulPaint": 4230.9310000000005,
-  "speedIndex": 9844.380065043382,
-  "largestContentfulPaint": 7680.9310000000005,
-  "totalBlockingTime": 53,
-  "cumulativeLayoutShift": 0.003474915594000747,
-  "timeToInteractive": 11478.65,
-  "maxPotentialFirstInputDelay": 86,
-  "timeToFirstByte": 898.112,
+  "firstContentfulPaint": 4072.918,
+  "firstMeaningfulPaint": 4072.918,
+  "speedIndex": 8730.092785843704,
+  "largestContentfulPaint": 8412.918,
+  "totalBlockingTime": 49.5,
+  "cumulativeLayoutShift": 0.032088063120581704,
+  "timeToInteractive": 11202.418000000001,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 661.161,
   "weight": {
-    "summary": "94 requests • 2.8 MiB",
-    "total": 2962593,
-    "image": 1858011,
+    "summary": "94 requests • 2.4 MiB",
+    "total": 2487182,
+    "image": 1382267,
     "imageCount": 16,
-    "script": 777409,
+    "script": 777720,
     "scriptCount": 35,
-    "document": 32920,
-    "font": 156225,
+    "document": 32806,
+    "font": 156232,
     "fontCount": 3,
-    "stylesheet": 136129,
+    "stylesheet": 136240,
     "stylesheetCount": 31,
-    "thirdParty": 657569,
+    "thirdParty": 657796,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 237,
-    "+weight.total": 189,
-    "-weight.document": 177,
-    "+weight.document": 246,
-    "-weight.script": 176,
-    "+weight.script": 246,
-    "-weight.image": 280,
-    "+weight.image": 142,
-    "-weight.font": 164,
-    "+weight.font": 195,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 378,
-    "-totalBlockingTime": 81,
-    "-largestContentfulPaint": 126
+    "-weight.total": 190,
+    "+weight.total": 235,
+    "-weight.document": 174,
+    "+weight.document": 245,
+    "-weight.script": 173,
+    "+weight.script": 248,
+    "-weight.image": 247,
+    "+weight.image": 171,
+    "-weight.font": 161,
+    "+weight.font": 196,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 350,
+    "-totalBlockingTime": 76,
+    "-largestContentfulPaint": 111
   },
   "axe": {
     "passes": 768,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 68,
+    "performance": 136,
+    "accessibility": 69,
+    "cumulative": 67
   }
 }

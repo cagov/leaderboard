@@ -1,67 +1,73 @@
 {
   "url": "https://www.visitcalifornia.com/",
   "requestedUrl": "https://gocalif.ca.gov/",
-  "timestamp": 1707777740814,
+  "timestamp": 1708264869534,
   "ranks": {
-    "hundos": 389,
-    "performance": 382,
-    "accessibility": 352,
-    "cumulative": 389
+    "hundos": 362,
+    "performance": 281,
+    "accessibility": 284,
+    "cumulative": 363
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.35,
-    "accessibility": 0.84,
+    "performance": 0.45,
+    "accessibility": 0.89,
     "bestPractices": 0.52,
-    "seo": 0.92,
-    "total": 263
+    "seo": 0.91,
+    "total": 277
   },
-  "firstContentfulPaint": 7596.282500000001,
-  "firstMeaningfulPaint": 7596.282500000001,
-  "speedIndex": 24347.3797694395,
-  "largestContentfulPaint": 28529.64350000001,
-  "totalBlockingTime": 864,
+  "firstContentfulPaint": 4156.172500000001,
+  "firstMeaningfulPaint": 4156.172500000001,
+  "speedIndex": 10492.380286351523,
+  "largestContentfulPaint": 10355.137499999999,
+  "totalBlockingTime": 502.5,
   "cumulativeLayoutShift": 0.045602308149657,
-  "timeToInteractive": 47008.07999111938,
-  "maxPotentialFirstInputDelay": 529,
-  "timeToFirstByte": 7.603,
+  "timeToInteractive": 23805.336500000005,
+  "maxPotentialFirstInputDelay": 275,
+  "timeToFirstByte": 9.269000000000005,
   "weight": {
-    "summary": "582 requests • 8.9 MiB",
-    "total": 9261486,
-    "image": 3661998,
-    "imageCount": 319,
-    "script": 2306401,
-    "scriptCount": 93,
-    "document": 546957,
-    "font": 92665,
-    "fontCount": 16,
-    "stylesheet": 22187,
-    "stylesheetCount": 7,
-    "thirdParty": 2532003,
-    "thirdPartyCount": 69
+    "summary": "188 requests • 3.7 MiB",
+    "total": 3841078,
+    "image": 904006,
+    "imageCount": 58,
+    "script": 1549842,
+    "scriptCount": 40,
+    "document": 350381,
+    "font": 83972,
+    "fontCount": 8,
+    "stylesheet": 9985,
+    "stylesheetCount": 3,
+    "thirdParty": 1644380,
+    "thirdPartyCount": 49
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 379,
-    "+weight.total": 47,
-    "-weight.document": 417,
-    "+weight.document": 6,
-    "-weight.script": 391,
-    "+weight.script": 31,
-    "-weight.image": 338,
-    "+weight.image": 84,
-    "-weight.font": 80,
-    "+weight.font": 279,
-    "+weight.fontCount": 8,
+    "-weight.total": 283,
+    "+weight.total": 142,
+    "-weight.document": 411,
+    "+weight.document": 8,
+    "-weight.script": 335,
+    "+weight.script": 86,
+    "-weight.image": 200,
+    "+weight.image": 218,
+    "-weight.font": 70,
+    "+weight.font": 287,
+    "+weight.fontCount": 18,
     "-timeToFirstByte": 4,
-    "-totalBlockingTime": 235,
-    "-largestContentfulPaint": 383
+    "-totalBlockingTime": 215,
+    "-largestContentfulPaint": 243
   },
   "axe": {
-    "passes": 5732,
-    "violations": 280
+    "passes": 4481,
+    "violations": 143
+  },
+  "previousRanks": {
+    "hundos": 365,
+    "performance": 294,
+    "accessibility": 285,
+    "cumulative": 365
   }
 }

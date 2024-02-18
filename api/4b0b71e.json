@@ -1,43 +1,43 @@
 {
   "url": "https://resources.ca.gov/",
   "requestedUrl": "https://cnra.ca.gov/",
-  "timestamp": 1707770004255,
+  "timestamp": 1708257176894,
   "ranks": {
-    "hundos": 222,
-    "performance": 391,
-    "accessibility": 103,
+    "hundos": 223,
+    "performance": 395,
+    "accessibility": 104,
     "cumulative": 222
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.32,
+    "performance": 0.31,
     "accessibility": 1,
     "bestPractices": 0.93,
     "seo": 0.91,
-    "total": 316
+    "total": 315
   },
-  "firstContentfulPaint": 3660.3734999999997,
-  "firstMeaningfulPaint": 4764.436000000001,
-  "speedIndex": 9705.05208328194,
-  "largestContentfulPaint": 9242.8475,
-  "totalBlockingTime": 1998.5,
+  "firstContentfulPaint": 3646.9572500000004,
+  "firstMeaningfulPaint": 4692.027250000001,
+  "speedIndex": 9513.892946094264,
+  "largestContentfulPaint": 9431.538749999998,
+  "totalBlockingTime": 2004.5,
   "cumulativeLayoutShift": 0.022331404424836235,
-  "timeToInteractive": 22970.2085,
-  "maxPotentialFirstInputDelay": 1577,
-  "timeToFirstByte": 295.185,
+  "timeToInteractive": 23335.085999999996,
+  "maxPotentialFirstInputDelay": 1575.0000000000018,
+  "timeToFirstByte": 254.283,
   "weight": {
-    "summary": "263 requests • 9.1 MiB",
-    "total": 9540903,
-    "image": 8132254,
-    "imageCount": 208,
-    "script": 1023433,
+    "summary": "261 requests • 9.1 MiB",
+    "total": 9531648,
+    "image": 8123931,
+    "imageCount": 206,
+    "script": 1023073,
     "scriptCount": 34,
-    "document": 194004,
+    "document": 193365,
     "font": 108022,
     "fontCount": 8,
-    "stylesheet": 79320,
+    "stylesheet": 79300,
     "stylesheetCount": 5,
-    "thirdParty": 5075330,
+    "thirdParty": 5066045,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 385,
+    "-weight.total": 384,
     "+weight.total": 41,
-    "-weight.document": 391,
+    "-weight.document": 387,
     "+weight.document": 32,
     "-weight.script": 262,
-    "+weight.script": 160,
-    "-weight.image": 394,
-    "+weight.image": 28,
-    "-weight.font": 98,
-    "+weight.font": 261,
-    "+weight.fontCount": 16,
-    "-timeToFirstByte": 287,
-    "-totalBlockingTime": 245,
-    "-largestContentfulPaint": 314
+    "+weight.script": 159,
+    "-weight.image": 389,
+    "+weight.image": 29,
+    "-weight.font": 93,
+    "+weight.font": 264,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 270,
+    "-totalBlockingTime": 243,
+    "-largestContentfulPaint": 232
   },
   "axe": {
-    "passes": 21673,
-    "violations": 219
+    "passes": 21636,
+    "violations": 218
+  },
+  "previousRanks": {
+    "hundos": 218,
+    "performance": 394,
+    "accessibility": 104,
+    "cumulative": 218
   }
 }

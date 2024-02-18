@@ -1,12 +1,12 @@
 {
   "url": "https://www.lemongrove.ca.gov/",
   "requestedUrl": "https://lemongrove.ca.gov/",
-  "timestamp": 1707781260765,
+  "timestamp": 1708268388220,
   "ranks": {
-    "hundos": 360,
-    "performance": 380,
-    "accessibility": 291,
-    "cumulative": 360
+    "hundos": 359,
+    "performance": 373,
+    "accessibility": 293,
+    "cumulative": 361
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.98,
     "total": 277
   },
-  "firstContentfulPaint": 3462.7075000000004,
-  "firstMeaningfulPaint": 3462.7075000000004,
-  "speedIndex": 17218.174689792762,
-  "largestContentfulPaint": 36672.43174,
-  "totalBlockingTime": 140.5,
+  "firstContentfulPaint": 3474.0355,
+  "firstMeaningfulPaint": 3474.0355,
+  "speedIndex": 14222.705484144724,
+  "largestContentfulPaint": 23938.811499999996,
+  "totalBlockingTime": 142.5,
   "cumulativeLayoutShift": 0.5567102545439514,
-  "timeToInteractive": 23999.336499999998,
-  "maxPotentialFirstInputDelay": 137,
-  "timeToFirstByte": 168.013,
+  "timeToInteractive": 25189.157499999998,
+  "maxPotentialFirstInputDelay": 121,
+  "timeToFirstByte": 109.421,
   "weight": {
-    "summary": "116 requests • 8.1 MiB",
-    "total": 8454471,
-    "image": 6068548,
-    "imageCount": 43,
-    "script": 1907735,
-    "scriptCount": 35,
-    "document": 73727,
-    "font": 152508,
+    "summary": "124 requests • 8.3 MiB",
+    "total": 8695510,
+    "image": 6268085,
+    "imageCount": 48,
+    "script": 1905481,
+    "scriptCount": 34,
+    "document": 75013,
+    "font": 152515,
     "fontCount": 7,
-    "stylesheet": 229887,
+    "stylesheet": 230502,
     "stylesheetCount": 20,
-    "thirdParty": 2209127,
+    "thirdParty": 2322105,
     "thirdPartyCount": 11
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 369,
-    "+weight.total": 57,
-    "-weight.document": 330,
-    "+weight.document": 93,
-    "-weight.script": 370,
-    "+weight.script": 52,
-    "-weight.image": 377,
-    "+weight.image": 45,
-    "-weight.font": 160,
-    "+weight.font": 199,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 252,
-    "-totalBlockingTime": 149,
-    "-largestContentfulPaint": 400
+    "-weight.total": 376,
+    "+weight.total": 49,
+    "-weight.document": 327,
+    "+weight.document": 92,
+    "-weight.script": 375,
+    "+weight.script": 46,
+    "-weight.image": 376,
+    "+weight.image": 42,
+    "-weight.font": 157,
+    "+weight.font": 200,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 211,
+    "-totalBlockingTime": 148,
+    "-largestContentfulPaint": 375
   },
   "axe": {
-    "passes": 1439,
+    "passes": 1481,
     "violations": 29
+  },
+  "previousRanks": {
+    "hundos": 293,
+    "performance": 195,
+    "accessibility": 218,
+    "cumulative": 293
   }
 }

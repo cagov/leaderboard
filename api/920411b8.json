@@ -1,43 +1,43 @@
 {
   "url": "https://saltoncsd.ca.gov/",
   "requestedUrl": "https://saltoncsd.ca.gov/",
-  "timestamp": 1707787483325,
+  "timestamp": 1708274624089,
   "ranks": {
-    "hundos": 82,
-    "performance": 153,
+    "hundos": 99,
+    "performance": 164,
     "accessibility": 40,
-    "cumulative": 81
+    "cumulative": 93
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.58,
+    "performance": 0.56,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.92,
-    "total": 346
+    "total": 344
   },
-  "firstContentfulPaint": 6930.157249999998,
-  "firstMeaningfulPaint": 7354.704749999999,
-  "speedIndex": 6930.157249999998,
-  "largestContentfulPaint": 12958.731749999997,
-  "totalBlockingTime": 97,
+  "firstContentfulPaint": 8333.01375,
+  "firstMeaningfulPaint": 8613.99675,
+  "speedIndex": 8333.01375,
+  "largestContentfulPaint": 13390.707750000001,
+  "totalBlockingTime": 108.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 12704.003249999998,
-  "maxPotentialFirstInputDelay": 200,
-  "timeToFirstByte": 110.45800000000001,
+  "timeToInteractive": 13627.811500000003,
+  "maxPotentialFirstInputDelay": 207,
+  "timeToFirstByte": 280.24499999999995,
   "weight": {
-    "summary": "42 requests • 2.5 MiB",
-    "total": 2602092,
-    "image": 1057475,
-    "imageCount": 22,
-    "script": 1354405,
+    "summary": "41 requests • 2.5 MiB",
+    "total": 2589202,
+    "image": 1044556,
+    "imageCount": 21,
+    "script": 1354329,
     "scriptCount": 9,
-    "document": 32218,
+    "document": 32295,
     "font": 62252,
     "fontCount": 2,
-    "stylesheet": 95005,
+    "stylesheet": 95033,
     "stylesheetCount": 6,
-    "thirdParty": 1593696,
+    "thirdParty": 1580569,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 205,
-    "+weight.total": 221,
-    "-weight.document": 173,
-    "+weight.document": 250,
-    "-weight.script": 310,
-    "+weight.script": 112,
-    "-weight.image": 223,
-    "+weight.image": 199,
+    "-weight.total": 202,
+    "+weight.total": 223,
+    "-weight.document": 171,
+    "+weight.document": 248,
+    "-weight.script": 314,
+    "+weight.script": 107,
+    "-weight.image": 221,
+    "+weight.image": 197,
     "-weight.font": 32,
-    "+weight.font": 327,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 213,
-    "-totalBlockingTime": 123,
-    "-largestContentfulPaint": 242
+    "+weight.font": 325,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 275,
+    "-totalBlockingTime": 131,
+    "-largestContentfulPaint": 281
   },
   "axe": {
-    "passes": 937,
+    "passes": 899,
     "violations": 2
+  },
+  "previousRanks": {
+    "hundos": 99,
+    "performance": 164,
+    "accessibility": 40,
+    "cumulative": 91
   }
 }

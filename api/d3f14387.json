@@ -1,12 +1,12 @@
 {
   "url": "https://oshpd.ca.gov/",
   "requestedUrl": "https://oshpd.ca.gov/",
-  "timestamp": 1707784821859,
+  "timestamp": 1708271945081,
   "ranks": {
     "hundos": 90,
     "performance": 1,
-    "accessibility": 327,
-    "cumulative": 88
+    "accessibility": 329,
+    "cumulative": 87
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,15 +16,15 @@
     "seo": 0.64,
     "total": 345
   },
-  "firstContentfulPaint": 768.105,
-  "firstMeaningfulPaint": 768.105,
-  "speedIndex": 768.105,
-  "largestContentfulPaint": 768.105,
+  "firstContentfulPaint": 771.039,
+  "firstMeaningfulPaint": 771.039,
+  "speedIndex": 771.039,
+  "largestContentfulPaint": 771.039,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 768.105,
+  "timeToInteractive": 771.039,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 13.702000000000005,
+  "timeToFirstByte": 13.552999999999997,
   "weight": {
     "summary": "1 request • 1.8 KiB",
     "total": 1836,
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 2,
+    "-weight.total": 1,
     "+weight.total": 424,
     "-weight.document": 4,
-    "+weight.document": 419,
+    "+weight.document": 415,
     "-weight.script": 1,
-    "+weight.script": 422,
+    "+weight.script": 421,
     "-weight.image": 1,
-    "+weight.image": 422,
+    "+weight.image": 418,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 20,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 13,
     "-totalBlockingTime": 1,
     "-largestContentfulPaint": 1
   },
   "axe": {
     "passes": 20,
     "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 87,
+    "performance": 1,
+    "accessibility": 328,
+    "cumulative": 85
   }
 }

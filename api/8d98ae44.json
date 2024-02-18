@@ -1,67 +1,73 @@
 {
   "url": "https://abcab.ca.gov/",
   "requestedUrl": "https://abcab.ca.gov/",
-  "timestamp": 1707760504105,
+  "timestamp": 1708247619709,
   "ranks": {
-    "hundos": 251,
-    "performance": 316,
-    "accessibility": 216,
-    "cumulative": 251
+    "hundos": 292,
+    "performance": 389,
+    "accessibility": 214,
+    "cumulative": 291
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.41,
+    "performance": 0.32,
     "accessibility": 0.92,
     "bestPractices": 0.74,
     "seo": 1,
-    "total": 307
+    "total": 298
   },
-  "firstContentfulPaint": 2778.973,
-  "firstMeaningfulPaint": 3181.32375,
-  "speedIndex": 12522.441191699068,
-  "largestContentfulPaint": 14703.972999999998,
-  "totalBlockingTime": 423.5,
-  "cumulativeLayoutShift": 0.1942169128226711,
-  "timeToInteractive": 20792.02372322388,
-  "maxPotentialFirstInputDelay": 157,
-  "timeToFirstByte": 440.429,
+  "firstContentfulPaint": 2809.1059999999998,
+  "firstMeaningfulPaint": 3248.6475,
+  "speedIndex": 10556.805563009126,
+  "largestContentfulPaint": 15552.981,
+  "totalBlockingTime": 284.4999999999991,
+  "cumulativeLayoutShift": 0.6843479288065786,
+  "timeToInteractive": 16730.904240087886,
+  "maxPotentialFirstInputDelay": 121.99999999999909,
+  "timeToFirstByte": 756.771,
   "weight": {
-    "summary": "129 requests • 3.5 MiB",
-    "total": 3691954,
-    "image": 963970,
+    "summary": "133 requests • 2.7 MiB",
+    "total": 2808193,
+    "image": 957369,
     "imageCount": 24,
-    "script": 1809285,
+    "script": 904931,
     "scriptCount": 42,
-    "document": 194719,
-    "font": 402494,
+    "document": 196524,
+    "font": 380895,
     "fontCount": 13,
-    "stylesheet": 237783,
+    "stylesheet": 238245,
     "stylesheetCount": 23,
-    "thirdParty": 2165805,
-    "thirdPartyCount": 9
+    "thirdParty": 1288665,
+    "thirdPartyCount": 10
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 271,
-    "+weight.total": 155,
-    "-weight.document": 392,
+    "-weight.total": 224,
+    "+weight.total": 201,
+    "-weight.document": 388,
     "+weight.document": 31,
-    "-weight.script": 362,
-    "+weight.script": 60,
-    "-weight.image": 211,
-    "+weight.image": 211,
-    "-weight.font": 291,
-    "+weight.font": 68,
-    "+weight.fontCount": 11,
-    "-timeToFirstByte": 319,
-    "-totalBlockingTime": 210,
-    "-largestContentfulPaint": 336
+    "-weight.script": 208,
+    "+weight.script": 213,
+    "-weight.image": 212,
+    "+weight.image": 206,
+    "-weight.font": 275,
+    "+weight.font": 82,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 365,
+    "-totalBlockingTime": 196,
+    "-largestContentfulPaint": 318
   },
   "axe": {
     "passes": 856,
     "violations": 9
+  },
+  "previousRanks": {
+    "hundos": 279,
+    "performance": 357,
+    "accessibility": 214,
+    "cumulative": 277
   }
 }

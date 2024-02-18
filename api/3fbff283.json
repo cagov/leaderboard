@@ -1,43 +1,43 @@
 {
   "url": "https://calcivilrights.ca.gov/",
   "requestedUrl": "https://dfeh.ca.gov/",
-  "timestamp": 1707773435586,
+  "timestamp": 1708260627204,
   "ranks": {
     "hundos": 407,
     "performance": 383,
-    "accessibility": 222,
+    "accessibility": 219,
     "cumulative": 407
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.35,
+    "performance": 0.34,
     "accessibility": 0.92,
     "bestPractices": 0.33,
     "seo": 0.93,
-    "total": 253
+    "total": 252
   },
-  "firstContentfulPaint": 3766.4264999999996,
-  "firstMeaningfulPaint": 3766.4264999999996,
-  "speedIndex": 37092.492317053046,
-  "largestContentfulPaint": 10441.4265,
-  "totalBlockingTime": 104,
-  "cumulativeLayoutShift": 0.5967550123029656,
-  "timeToInteractive": 66132.858,
-  "maxPotentialFirstInputDelay": 158,
-  "timeToFirstByte": 106.495,
+  "firstContentfulPaint": 3605.7709999999997,
+  "firstMeaningfulPaint": 3680.7709999999997,
+  "speedIndex": 36176.41764064384,
+  "largestContentfulPaint": 11480.771,
+  "totalBlockingTime": 151,
+  "cumulativeLayoutShift": 0.5638172652221883,
+  "timeToInteractive": 70041.77599999998,
+  "maxPotentialFirstInputDelay": 256,
+  "timeToFirstByte": 103.845,
   "weight": {
-    "summary": "225 requests • 22.9 MiB",
-    "total": 23970330,
-    "image": 20392749,
-    "imageCount": 51,
-    "script": 2122467,
-    "scriptCount": 87,
-    "document": 90615,
-    "font": 488606,
+    "summary": "258 requests • 24.4 MiB",
+    "total": 25544874,
+    "image": 21508723,
+    "imageCount": 61,
+    "script": 2163621,
+    "scriptCount": 94,
+    "document": 92273,
+    "font": 488642,
     "fontCount": 2,
-    "stylesheet": 435354,
-    "stylesheetCount": 53,
-    "thirdParty": 3633035,
+    "stylesheet": 442507,
+    "stylesheetCount": 57,
+    "thirdParty": 5246958,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 418,
-    "+weight.total": 8,
-    "-weight.document": 343,
+    "-weight.total": 416,
+    "+weight.total": 9,
+    "-weight.document": 339,
     "+weight.document": 80,
-    "-weight.script": 384,
-    "+weight.script": 38,
-    "-weight.image": 414,
+    "-weight.script": 385,
+    "+weight.script": 36,
+    "-weight.image": 410,
     "+weight.image": 8,
-    "-weight.font": 306,
-    "+weight.font": 53,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 208,
-    "-totalBlockingTime": 128,
-    "-largestContentfulPaint": 201
+    "-weight.font": 301,
+    "+weight.font": 56,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 198,
+    "-totalBlockingTime": 151,
+    "-largestContentfulPaint": 169
   },
   "axe": {
-    "passes": 1604,
-    "violations": 28
+    "passes": 1709,
+    "violations": 29
+  },
+  "previousRanks": {
+    "hundos": 407,
+    "performance": 382,
+    "accessibility": 221,
+    "cumulative": 408
   }
 }

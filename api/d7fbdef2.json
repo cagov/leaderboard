@@ -1,41 +1,41 @@
 {
   "url": "https://findanewway.ca.gov/wp-login.php?redirect_to=%2F",
   "requestedUrl": "https://findanewway.ca.gov/",
-  "timestamp": 1707776868252,
+  "timestamp": 1708264032573,
   "ranks": {
-    "hundos": 32,
-    "performance": 15,
+    "hundos": 34,
+    "performance": 12,
     "accessibility": 87,
-    "cumulative": 32
+    "cumulative": 33
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.98,
+    "performance": 0.97,
     "accessibility": 1,
     "bestPractices": 0.96,
     "seo": 0.67,
-    "total": 361
+    "total": 360
   },
-  "firstContentfulPaint": 1906.836,
-  "firstMeaningfulPaint": 1906.836,
-  "speedIndex": 1906.836,
-  "largestContentfulPaint": 1906.836,
-  "totalBlockingTime": 72,
+  "firstContentfulPaint": 2078.259,
+  "firstMeaningfulPaint": 2078.259,
+  "speedIndex": 2078.259,
+  "largestContentfulPaint": 2078.259,
+  "totalBlockingTime": 80,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 4128.836,
-  "maxPotentialFirstInputDelay": 122,
-  "timeToFirstByte": 115.11999999999999,
+  "timeToInteractive": 4158.259,
+  "maxPotentialFirstInputDelay": 130,
+  "timeToFirstByte": 130.727,
   "weight": {
     "summary": "27 requests • 609.3 KiB",
-    "total": 592161,
+    "total": 592182,
     "image": 5982,
     "imageCount": 1,
-    "script": 493748,
+    "script": 493767,
     "scriptCount": 16,
-    "document": 2913,
+    "document": 2903,
     "font": 31728,
     "fontCount": 1,
-    "stylesheet": 89021,
+    "stylesheet": 89033,
     "stylesheetCount": 7,
     "thirdParty": 0,
     "thirdPartyCount": 0
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 28,
-    "+weight.total": 398,
+    "-weight.total": 26,
+    "+weight.total": 399,
     "-weight.document": 6,
-    "+weight.document": 417,
-    "-weight.script": 112,
+    "+weight.document": 413,
+    "-weight.script": 111,
     "+weight.script": 310,
-    "-weight.image": 4,
-    "+weight.image": 418,
+    "-weight.image": 3,
+    "+weight.image": 415,
     "-weight.font": 9,
-    "+weight.font": 350,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 218,
-    "-totalBlockingTime": 105,
-    "-largestContentfulPaint": 14
+    "+weight.font": 348,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 229,
+    "-totalBlockingTime": 114,
+    "-largestContentfulPaint": 10
   },
   "axe": {
     "passes": 60,
     "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 33,
+    "performance": 13,
+    "accessibility": 86,
+    "cumulative": 33
   }
 }

@@ -1,12 +1,12 @@
 {
   "url": "https://mywaterquality.ca.gov/",
   "requestedUrl": "https://mywaterquality.ca.gov/",
-  "timestamp": 1707783485698,
+  "timestamp": 1708270603797,
   "ranks": {
-    "hundos": 78,
-    "performance": 23,
-    "accessibility": 131,
-    "cumulative": 78
+    "hundos": 79,
+    "performance": 21,
+    "accessibility": 135,
+    "cumulative": 79
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.92,
     "total": 347
   },
-  "firstContentfulPaint": 1443.21,
-  "firstMeaningfulPaint": 2132.5445,
-  "speedIndex": 1614.766451967179,
-  "largestContentfulPaint": 3266.054,
-  "totalBlockingTime": 1,
+  "firstContentfulPaint": 1473.4855000000002,
+  "firstMeaningfulPaint": 2208.7987500000004,
+  "speedIndex": 1700.1007122368533,
+  "largestContentfulPaint": 3355.736,
+  "totalBlockingTime": 4.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 2374.565,
-  "maxPotentialFirstInputDelay": 52,
-  "timeToFirstByte": 115.22300000000001,
+  "timeToInteractive": 2407.4775000000004,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 163.868,
   "weight": {
-    "summary": "32 requests • 550.4 KiB",
-    "total": 563591,
-    "image": 378388,
+    "summary": "32 requests • 550.7 KiB",
+    "total": 563911,
+    "image": 378357,
     "imageCount": 15,
-    "script": 128419,
+    "script": 128151,
     "scriptCount": 8,
-    "document": 8308,
-    "font": 23502,
+    "document": 8312,
+    "font": 24115,
     "fontCount": 1,
-    "stylesheet": 23903,
+    "stylesheet": 23900,
     "stylesheetCount": 3,
-    "thirdParty": 72366,
+    "thirdParty": 72374,
     "thirdPartyCount": 4
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 21,
+    "-weight.total": 20,
     "+weight.total": 405,
-    "-weight.document": 27,
-    "+weight.document": 396,
-    "-weight.script": 20,
-    "+weight.script": 402,
+    "-weight.document": 26,
+    "+weight.document": 393,
+    "-weight.script": 21,
+    "+weight.script": 400,
     "-weight.image": 102,
-    "+weight.image": 320,
+    "+weight.image": 316,
     "-weight.font": 7,
-    "+weight.font": 352,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 219,
-    "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 36
+    "+weight.font": 350,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 238,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 28
   },
   "axe": {
     "passes": 377,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 69,
+    "performance": 14,
+    "accessibility": 132,
+    "cumulative": 69
   }
 }

@@ -1,43 +1,43 @@
 {
   "url": "https://www.firedepartment.org/",
   "requestedUrl": "https://srvfire.ca.gov/",
-  "timestamp": 1707790375238,
+  "timestamp": 1708277513698,
   "ranks": {
-    "hundos": 344,
-    "performance": 215,
-    "accessibility": 74,
-    "cumulative": 342
+    "hundos": 374,
+    "performance": 292,
+    "accessibility": 75,
+    "cumulative": 373
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.52,
+    "performance": 0.44,
     "accessibility": 1,
     "bestPractices": 0.48,
     "seo": 0.82,
-    "total": 282
+    "total": 274
   },
-  "firstContentfulPaint": 9098.766,
-  "firstMeaningfulPaint": 10373.673000000003,
-  "speedIndex": 9254.024786625854,
-  "largestContentfulPaint": 14801.945500000003,
-  "totalBlockingTime": 229.5,
+  "firstContentfulPaint": 8968.673,
+  "firstMeaningfulPaint": 11033.886,
+  "speedIndex": 9244.179255338766,
+  "largestContentfulPaint": 13953.821999999996,
+  "totalBlockingTime": 478.5,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 11325.699,
-  "maxPotentialFirstInputDelay": 491,
-  "timeToFirstByte": 413.662,
+  "timeToInteractive": 12308.740999999998,
+  "maxPotentialFirstInputDelay": 502,
+  "timeToFirstByte": 344.858,
   "weight": {
     "summary": "57 requests • 4.2 MiB",
-    "total": 4441583,
-    "image": 2595021,
+    "total": 4441883,
+    "image": 2595241,
     "imageCount": 23,
-    "script": 1545205,
+    "script": 1545288,
     "scriptCount": 13,
-    "document": 18411,
+    "document": 18408,
     "font": 160446,
     "fontCount": 4,
-    "stylesheet": 121090,
+    "stylesheet": 121092,
     "stylesheetCount": 11,
-    "thirdParty": 377803,
+    "thirdParty": 378183,
     "thirdPartyCount": 9
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 299,
-    "+weight.total": 127,
-    "-weight.document": 85,
-    "+weight.document": 338,
+    "-weight.total": 304,
+    "+weight.total": 121,
+    "-weight.document": 83,
+    "+weight.document": 336,
     "-weight.script": 333,
-    "+weight.script": 89,
-    "-weight.image": 311,
-    "+weight.image": 111,
-    "-weight.font": 169,
-    "+weight.font": 190,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 311,
-    "-totalBlockingTime": 182,
-    "-largestContentfulPaint": 338
+    "+weight.script": 88,
+    "-weight.image": 313,
+    "+weight.image": 105,
+    "-weight.font": 166,
+    "+weight.font": 191,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 303,
+    "-totalBlockingTime": 213,
+    "-largestContentfulPaint": 293
   },
   "axe": {
     "passes": 8,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 347,
+    "performance": 216,
+    "accessibility": 75,
+    "cumulative": 346
   }
 }

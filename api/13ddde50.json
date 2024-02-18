@@ -1,43 +1,43 @@
 {
   "url": "https://www.labor.ca.gov/labor-and-workforce-development-agency/fowc/",
   "requestedUrl": "https://futureofwork.ca.gov/",
-  "timestamp": 1707777489515,
+  "timestamp": 1708264626919,
   "ranks": {
     "hundos": 184,
-    "performance": 332,
-    "accessibility": 184,
-    "cumulative": 185
+    "performance": 321,
+    "accessibility": 182,
+    "cumulative": 183
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.39,
+    "performance": 0.4,
     "accessibility": 0.94,
     "bestPractices": 0.96,
     "seo": 0.93,
-    "total": 322
+    "total": 323
   },
-  "firstContentfulPaint": 3418.8280000000004,
-  "firstMeaningfulPaint": 3963.567,
-  "speedIndex": 6226.236304482793,
-  "largestContentfulPaint": 10638.567000000001,
-  "totalBlockingTime": 65.5,
-  "cumulativeLayoutShift": 0.7734481284438975,
-  "timeToInteractive": 10901.067,
+  "firstContentfulPaint": 3406.9105,
+  "firstMeaningfulPaint": 3406.9105,
+  "speedIndex": 6034.85852078775,
+  "largestContentfulPaint": 12370.373,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0.7389162576691337,
+  "timeToInteractive": 10887.619999999999,
   "maxPotentialFirstInputDelay": 102,
-  "timeToFirstByte": 494.172,
+  "timeToFirstByte": 361.188,
   "weight": {
-    "summary": "61 requests • 1.8 MiB",
-    "total": 1844861,
-    "image": 396263,
-    "imageCount": 10,
-    "script": 869910,
+    "summary": "62 requests • 1.8 MiB",
+    "total": 1839410,
+    "image": 388258,
+    "imageCount": 11,
+    "script": 872322,
     "scriptCount": 24,
-    "document": 35384,
-    "font": 381164,
+    "document": 35501,
+    "font": 381171,
     "fontCount": 5,
-    "stylesheet": 161091,
+    "stylesheet": 161092,
     "stylesheetCount": 13,
-    "thirdParty": 780958,
+    "thirdParty": 783457,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 133,
-    "+weight.total": 293,
-    "-weight.document": 205,
+    "-weight.total": 131,
+    "+weight.total": 294,
+    "-weight.document": 201,
     "+weight.document": 218,
-    "-weight.script": 199,
-    "+weight.script": 223,
-    "-weight.image": 105,
-    "+weight.image": 317,
-    "-weight.font": 279,
-    "+weight.font": 80,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 330,
-    "-totalBlockingTime": 97,
-    "-largestContentfulPaint": 205
+    "-weight.script": 200,
+    "+weight.script": 221,
+    "-weight.image": 104,
+    "+weight.image": 314,
+    "-weight.font": 276,
+    "+weight.font": 81,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 305,
+    "-totalBlockingTime": 96,
+    "-largestContentfulPaint": 269
   },
   "axe": {
     "passes": 423,
     "violations": 7
+  },
+  "previousRanks": {
+    "hundos": 186,
+    "performance": 337,
+    "accessibility": 181,
+    "cumulative": 186
   }
 }

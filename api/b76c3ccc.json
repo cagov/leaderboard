@@ -1,30 +1,30 @@
 {
   "url": "https://dmac.ca.gov/",
   "requestedUrl": "https://dmac.ca.gov/",
-  "timestamp": 1707774034953,
+  "timestamp": 1708261229936,
   "ranks": {
-    "hundos": 50,
-    "performance": 24,
-    "accessibility": 418,
-    "cumulative": 50
+    "hundos": 46,
+    "performance": 19,
+    "accessibility": 417,
+    "cumulative": 47
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.92,
+    "performance": 0.93,
     "accessibility": 0.71,
     "bestPractices": 1,
     "seo": 0.92,
-    "total": 355
+    "total": 356
   },
-  "firstContentfulPaint": 2392.687,
-  "firstMeaningfulPaint": 2392.687,
-  "speedIndex": 2436.9108417145903,
-  "largestContentfulPaint": 2599.5055,
+  "firstContentfulPaint": 2393.071,
+  "firstMeaningfulPaint": 2393.071,
+  "speedIndex": 2469.4742586344087,
+  "largestContentfulPaint": 2393.071,
   "totalBlockingTime": 0,
   "cumulativeLayoutShift": 0.09395089798181712,
-  "timeToInteractive": 2392.687,
+  "timeToInteractive": 2393.071,
   "maxPotentialFirstInputDelay": 20.5,
-  "timeToFirstByte": 96.68099999999998,
+  "timeToFirstByte": 95.25600000000003,
   "weight": {
     "summary": "10 requests • 884.5 KiB",
     "total": 905767,
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 48,
+    "-weight.total": 47,
     "+weight.total": 378,
-    "-weight.document": 18,
-    "+weight.document": 405,
+    "-weight.document": 16,
+    "+weight.document": 403,
     "-weight.script": 11,
-    "+weight.script": 411,
-    "-weight.image": 174,
-    "+weight.image": 248,
+    "+weight.script": 410,
+    "-weight.image": 175,
+    "+weight.image": 243,
     "-weight.font": 1,
-    "+weight.font": 359,
-    "+weight.fontCount": 24,
-    "-timeToFirstByte": 196,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 183,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 24
+    "-largestContentfulPaint": 16
   },
   "axe": {
     "passes": 197,
     "violations": 31
+  },
+  "previousRanks": {
+    "hundos": 46,
+    "performance": 21,
+    "accessibility": 415,
+    "cumulative": 47
   }
 }

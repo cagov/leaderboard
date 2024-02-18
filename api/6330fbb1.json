@@ -1,11 +1,11 @@
 {
   "url": "https://www.hcd.ca.gov/",
   "requestedUrl": "https://hcd.ca.gov/",
-  "timestamp": 1707778560380,
+  "timestamp": 1708265688407,
   "ranks": {
-    "hundos": 280,
-    "performance": 292,
-    "accessibility": 290,
+    "hundos": 279,
+    "performance": 295,
+    "accessibility": 292,
     "cumulative": 279
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.77,
     "total": 302
   },
-  "firstContentfulPaint": 5128.25066,
-  "firstMeaningfulPaint": 5128.25066,
-  "speedIndex": 14968.250062264882,
-  "largestContentfulPaint": 10497.137959999998,
-  "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 0.2292066602774867,
-  "timeToInteractive": 5128.25066,
-  "maxPotentialFirstInputDelay": 49,
-  "timeToFirstByte": 4299.499000000001,
+  "firstContentfulPaint": 4973.26278,
+  "firstMeaningfulPaint": 4973.26278,
+  "speedIndex": 13791.363508647899,
+  "largestContentfulPaint": 11079.324299999993,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0.23111344041433765,
+  "timeToInteractive": 5886.88954,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 4002.372,
   "weight": {
-    "summary": "205 requests • 3.0 MiB",
-    "total": 3197429,
-    "image": 1833795,
+    "summary": "204 requests • 3.1 MiB",
+    "total": 3213065,
+    "image": 1853541,
     "imageCount": 29,
-    "script": 660968,
+    "script": 661236,
     "scriptCount": 48,
-    "document": 25624,
-    "font": 221906,
+    "document": 25686,
+    "font": 221879,
     "fontCount": 5,
-    "stylesheet": 422113,
+    "stylesheet": 422089,
     "stylesheetCount": 110,
-    "thirdParty": 459563,
+    "thirdParty": 455387,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 249,
-    "+weight.total": 177,
-    "-weight.document": 126,
-    "+weight.document": 297,
-    "-weight.script": 151,
-    "+weight.script": 271,
-    "-weight.image": 279,
-    "+weight.image": 143,
+    "-weight.total": 251,
+    "+weight.total": 174,
+    "-weight.document": 124,
+    "+weight.document": 295,
+    "-weight.script": 147,
+    "+weight.script": 274,
+    "-weight.image": 281,
+    "+weight.image": 137,
     "-weight.font": 209,
-    "+weight.font": 150,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 421,
-    "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 203
+    "+weight.font": 148,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 419,
+    "-totalBlockingTime": 96,
+    "-largestContentfulPaint": 160
   },
   "axe": {
-    "passes": 1068,
+    "passes": 1100,
     "violations": 28
+  },
+  "previousRanks": {
+    "hundos": 281,
+    "performance": 297,
+    "accessibility": 293,
+    "cumulative": 281
   }
 }

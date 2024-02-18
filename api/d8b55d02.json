@@ -1,11 +1,11 @@
 {
   "url": "https://scta.ca.gov/",
   "requestedUrl": "https://scta.ca.gov/",
-  "timestamp": 1707788253787,
+  "timestamp": 1708275395350,
   "ranks": {
     "hundos": 55,
-    "performance": 79,
-    "accessibility": 281,
+    "performance": 77,
+    "accessibility": 280,
     "cumulative": 55
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.99,
     "total": 353
   },
-  "firstContentfulPaint": 2261.4530000000004,
-  "firstMeaningfulPaint": 2261.4530000000004,
-  "speedIndex": 4814.180211445982,
-  "largestContentfulPaint": 9451.3965,
-  "totalBlockingTime": 63,
+  "firstContentfulPaint": 2252.85,
+  "firstMeaningfulPaint": 2265.85,
+  "speedIndex": 4794.595070021331,
+  "largestContentfulPaint": 11519.554,
+  "totalBlockingTime": 38,
   "cumulativeLayoutShift": 0.00006367010241126026,
-  "timeToInteractive": 7855.1235,
-  "maxPotentialFirstInputDelay": 107,
-  "timeToFirstByte": 30.411,
+  "timeToInteractive": 6105.245999999999,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 16.781000000000006,
   "weight": {
     "summary": "115 requests • 2.4 MiB",
-    "total": 2523362,
+    "total": 2523586,
     "image": 1817676,
     "imageCount": 18,
-    "script": 450707,
+    "script": 450891,
     "scriptCount": 40,
-    "document": 23338,
-    "font": 97917,
+    "document": 23378,
+    "font": 97916,
     "fontCount": 3,
     "stylesheet": 132763,
     "stylesheetCount": 51,
-    "thirdParty": 362667,
+    "thirdParty": 362851,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 193,
-    "+weight.total": 233,
-    "-weight.document": 115,
-    "+weight.document": 308,
-    "-weight.script": 100,
-    "+weight.script": 322,
+    "-weight.total": 195,
+    "+weight.total": 230,
+    "-weight.document": 113,
+    "+weight.document": 306,
+    "-weight.script": 98,
+    "+weight.script": 323,
     "-weight.image": 277,
-    "+weight.image": 145,
-    "-weight.font": 85,
-    "+weight.font": 274,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 94,
-    "-totalBlockingTime": 93,
-    "-largestContentfulPaint": 168
+    "+weight.image": 141,
+    "-weight.font": 80,
+    "+weight.font": 277,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 31,
+    "-totalBlockingTime": 60,
+    "-largestContentfulPaint": 171
   },
   "axe": {
-    "passes": 730,
+    "passes": 746,
     "violations": 35
+  },
+  "previousRanks": {
+    "hundos": 52,
+    "performance": 76,
+    "accessibility": 282,
+    "cumulative": 53
   }
 }

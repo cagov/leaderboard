@@ -1,43 +1,43 @@
 {
   "url": "https://mhsoac.ca.gov/",
   "requestedUrl": "https://mhsoac.ca.gov/",
-  "timestamp": 1707782528513,
+  "timestamp": 1708269628285,
   "ranks": {
     "hundos": 410,
-    "performance": 419,
-    "accessibility": 308,
-    "cumulative": 410
+    "performance": 418,
+    "accessibility": 311,
+    "cumulative": 409
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.2,
+    "performance": 0.21,
     "accessibility": 0.86,
     "bestPractices": 0.52,
     "seo": 0.92,
-    "total": 250
+    "total": 251
   },
-  "firstContentfulPaint": 6260.967500000001,
-  "firstMeaningfulPaint": 8548.868000000002,
-  "speedIndex": 15274.896365321047,
-  "largestContentfulPaint": 21317.857829017634,
-  "totalBlockingTime": 828,
+  "firstContentfulPaint": 5612.365000000002,
+  "firstMeaningfulPaint": 8486.654,
+  "speedIndex": 14001.051891996161,
+  "largestContentfulPaint": 18077.470329017637,
+  "totalBlockingTime": 770.0000000000018,
   "cumulativeLayoutShift": 0.3115815985715708,
-  "timeToInteractive": 27640.296334465027,
-  "maxPotentialFirstInputDelay": 329,
-  "timeToFirstByte": 1575.191,
+  "timeToInteractive": 23820.08933446502,
+  "maxPotentialFirstInputDelay": 336.0000000000018,
+  "timeToFirstByte": 1862.5839999999998,
   "weight": {
-    "summary": "209 requests • 3.9 MiB",
-    "total": 4083823,
-    "image": 160862,
+    "summary": "205 requests • 3.0 MiB",
+    "total": 3091562,
+    "image": 161368,
     "imageCount": 28,
-    "script": 2398155,
-    "scriptCount": 92,
-    "document": 275268,
-    "font": 721699,
-    "fontCount": 17,
-    "stylesheet": 388470,
-    "stylesheetCount": 32,
-    "thirdParty": 2887431,
+    "script": 1510307,
+    "scriptCount": 95,
+    "document": 314048,
+    "font": 699952,
+    "fontCount": 19,
+    "stylesheet": 388670,
+    "stylesheetCount": 33,
+    "thirdParty": 1894537,
     "thirdPartyCount": 16
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 290,
-    "+weight.total": 136,
-    "-weight.document": 407,
-    "+weight.document": 16,
-    "-weight.script": 396,
-    "+weight.script": 26,
-    "-weight.image": 51,
-    "+weight.image": 371,
-    "-weight.font": 343,
-    "+weight.font": 16,
-    "+weight.fontCount": 7,
-    "-timeToFirstByte": 403,
-    "-totalBlockingTime": 233,
-    "-largestContentfulPaint": 353
+    "-weight.total": 245,
+    "+weight.total": 180,
+    "-weight.document": 410,
+    "+weight.document": 9,
+    "-weight.script": 329,
+    "+weight.script": 92,
+    "-weight.image": 50,
+    "+weight.image": 368,
+    "-weight.font": 337,
+    "+weight.font": 20,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 408,
+    "-totalBlockingTime": 229,
+    "-largestContentfulPaint": 342
   },
   "axe": {
     "passes": 1280,
     "violations": 4
+  },
+  "previousRanks": {
+    "hundos": 409,
+    "performance": 414,
+    "accessibility": 311,
+    "cumulative": 409
   }
 }

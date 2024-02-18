@@ -1,12 +1,12 @@
 {
   "url": "https://naturopathic.ca.gov/",
   "requestedUrl": "https://naturopathic.ca.gov/",
-  "timestamp": 1707783623170,
+  "timestamp": 1708270730657,
   "ranks": {
-    "hundos": 139,
+    "hundos": 144,
     "performance": 219,
-    "accessibility": 236,
-    "cumulative": 142
+    "accessibility": 232,
+    "cumulative": 148
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.91,
     "total": 333
   },
-  "firstContentfulPaint": 4714.219999999999,
-  "firstMeaningfulPaint": 6293.9,
-  "speedIndex": 4819.185417847435,
-  "largestContentfulPaint": 11544.859999999999,
-  "totalBlockingTime": 12.5,
-  "cumulativeLayoutShift": 0.23948026537108488,
-  "timeToInteractive": 7587.00875,
-  "maxPotentialFirstInputDelay": 71,
-  "timeToFirstByte": 42.663,
+  "firstContentfulPaint": 4659.516,
+  "firstMeaningfulPaint": 8015.414000000002,
+  "speedIndex": 5401.995734719325,
+  "largestContentfulPaint": 12253.411499999998,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0.21890975376158783,
+  "timeToInteractive": 8015.414000000002,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 22.556999999999988,
   "weight": {
-    "summary": "56 requests • 2.6 MiB",
-    "total": 2772155,
-    "image": 602120,
-    "imageCount": 22,
-    "script": 1280962,
+    "summary": "54 requests • 2.7 MiB",
+    "total": 2800575,
+    "image": 630501,
+    "imageCount": 20,
+    "script": 1280987,
     "scriptCount": 15,
-    "document": 35929,
-    "font": 242042,
+    "document": 35891,
+    "font": 242061,
     "fontCount": 5,
-    "stylesheet": 609636,
+    "stylesheet": 609641,
     "stylesheetCount": 4,
-    "thirdParty": 734274,
+    "thirdParty": 734161,
     "thirdPartyCount": 7
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 224,
+    "-weight.total": 223,
     "+weight.total": 202,
-    "-weight.document": 211,
-    "+weight.document": 212,
-    "-weight.script": 302,
-    "+weight.script": 120,
-    "-weight.image": 152,
-    "+weight.image": 270,
-    "-weight.font": 221,
-    "+weight.font": 138,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 127,
-    "-totalBlockingTime": 23,
-    "-largestContentfulPaint": 219
+    "-weight.document": 205,
+    "+weight.document": 214,
+    "-weight.script": 305,
+    "+weight.script": 116,
+    "-weight.image": 165,
+    "+weight.image": 253,
+    "-weight.font": 222,
+    "+weight.font": 135,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 61,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 265
   },
   "axe": {
     "passes": 604,
     "violations": 9
+  },
+  "previousRanks": {
+    "hundos": 156,
+    "performance": 250,
+    "accessibility": 234,
+    "cumulative": 158
   }
 }

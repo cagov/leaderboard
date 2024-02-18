@@ -1,43 +1,43 @@
 {
   "url": "https://spmud.ca.gov/",
   "requestedUrl": "https://spmud.ca.gov/",
-  "timestamp": 1707790310564,
+  "timestamp": 1708277450105,
   "ranks": {
-    "hundos": 187,
-    "performance": 214,
-    "accessibility": 50,
-    "cumulative": 186
+    "hundos": 100,
+    "performance": 210,
+    "accessibility": 51,
+    "cumulative": 94
   },
   "lighthouse": {
     "version": "11.5.0",
     "performance": 0.52,
     "accessibility": 1,
-    "bestPractices": 0.78,
+    "bestPractices": 1,
     "seo": 0.92,
-    "total": 322
+    "total": 344
   },
-  "firstContentfulPaint": 8241.8175,
-  "firstMeaningfulPaint": 8820.4195,
-  "speedIndex": 8934.003588822194,
-  "largestContentfulPaint": 14123.232999999998,
-  "totalBlockingTime": 247.5,
+  "firstContentfulPaint": 7906.410250000001,
+  "firstMeaningfulPaint": 8486.880250000002,
+  "speedIndex": 8840.204455112425,
+  "largestContentfulPaint": 12351.951500000001,
+  "totalBlockingTime": 235,
   "cumulativeLayoutShift": 0.0002623956088397305,
-  "timeToInteractive": 16429.495499999997,
-  "maxPotentialFirstInputDelay": 216,
-  "timeToFirstByte": 276.90299999999996,
+  "timeToInteractive": 15694.258000000002,
+  "maxPotentialFirstInputDelay": 215,
+  "timeToFirstByte": 283.15,
   "weight": {
     "summary": "41 requests • 2.6 MiB",
-    "total": 2709204,
-    "image": 824502,
+    "total": 2707218,
+    "image": 823336,
     "imageCount": 17,
-    "script": 1691189,
+    "script": 1690545,
     "scriptCount": 11,
-    "document": 34511,
-    "font": 62252,
+    "document": 34645,
+    "font": 62057,
     "fontCount": 2,
-    "stylesheet": 95044,
+    "stylesheet": 95038,
     "stylesheetCount": 6,
-    "thirdParty": 1699453,
+    "thirdParty": 1697349,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 219,
-    "+weight.total": 207,
-    "-weight.document": 197,
-    "+weight.document": 226,
+    "-weight.total": 216,
+    "+weight.total": 209,
+    "-weight.document": 194,
+    "+weight.document": 225,
     "-weight.script": 351,
-    "+weight.script": 71,
-    "-weight.image": 187,
-    "+weight.image": 235,
-    "-weight.font": 32,
+    "+weight.script": 70,
+    "-weight.image": 189,
+    "+weight.image": 229,
+    "-weight.font": 30,
     "+weight.font": 327,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 276,
-    "-totalBlockingTime": 189,
-    "-largestContentfulPaint": 335
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 277,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 268
   },
   "axe": {
     "passes": 873,
     "violations": 3
+  },
+  "previousRanks": {
+    "hundos": 100,
+    "performance": 214,
+    "accessibility": 51,
+    "cumulative": 92
   }
 }

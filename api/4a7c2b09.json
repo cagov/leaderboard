@@ -1,43 +1,43 @@
 {
   "url": "https://ccoa.ca.gov/",
   "requestedUrl": "https://ccoa.ca.gov/",
-  "timestamp": 1707766928249,
+  "timestamp": 1708254043930,
   "ranks": {
-    "hundos": 87,
-    "performance": 74,
-    "accessibility": 163,
-    "cumulative": 89
+    "hundos": 81,
+    "performance": 71,
+    "accessibility": 164,
+    "cumulative": 83
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.69,
+    "performance": 0.7,
     "accessibility": 0.95,
     "bestPractices": 0.89,
     "seo": 0.92,
-    "total": 345
+    "total": 346
   },
-  "firstContentfulPaint": 1805.254,
-  "firstMeaningfulPaint": 1805.254,
-  "speedIndex": 2483.205416227825,
-  "largestContentfulPaint": 3866.801,
-  "totalBlockingTime": 43,
+  "firstContentfulPaint": 1749.6199999999997,
+  "firstMeaningfulPaint": 1749.6199999999997,
+  "speedIndex": 2652.676635783774,
+  "largestContentfulPaint": 3729.6530000000002,
+  "totalBlockingTime": 23.5,
   "cumulativeLayoutShift": 0.3723354064716503,
-  "timeToInteractive": 6399.5935,
-  "maxPotentialFirstInputDelay": 84,
-  "timeToFirstByte": 40.12700000000001,
+  "timeToInteractive": 4112.228999999999,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 41.379000000000005,
   "weight": {
-    "summary": "40 requests • 1,005.9 KiB",
-    "total": 1030005,
-    "image": 418301,
-    "imageCount": 15,
-    "script": 476937,
+    "summary": "38 requests • 1,003.7 KiB",
+    "total": 1027753,
+    "image": 418501,
+    "imageCount": 14,
+    "script": 474498,
     "scriptCount": 12,
     "document": 10657,
     "font": 63999,
     "fontCount": 1,
-    "stylesheet": 59789,
+    "stylesheet": 59793,
     "stylesheetCount": 8,
-    "thirdParty": 464913,
+    "thirdParty": 462459,
     "thirdPartyCount": 8
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 55,
-    "+weight.total": 371,
-    "-weight.document": 43,
-    "+weight.document": 380,
-    "-weight.script": 107,
-    "+weight.script": 315,
+    "+weight.total": 370,
+    "-weight.document": 42,
+    "+weight.document": 377,
+    "-weight.script": 104,
+    "+weight.script": 317,
     "-weight.image": 113,
-    "+weight.image": 309,
-    "-weight.font": 38,
-    "+weight.font": 321,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 124,
-    "-totalBlockingTime": 68,
-    "-largestContentfulPaint": 42
+    "+weight.image": 305,
+    "-weight.font": 39,
+    "+weight.font": 318,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 116,
+    "-totalBlockingTime": 41,
+    "-largestContentfulPaint": 182
   },
   "axe": {
     "passes": 426,
     "violations": 10
+  },
+  "previousRanks": {
+    "hundos": 130,
+    "performance": 130,
+    "accessibility": 162,
+    "cumulative": 132
   }
 }

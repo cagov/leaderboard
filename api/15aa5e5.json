@@ -1,12 +1,12 @@
 {
   "url": "https://abortion.ca.gov/",
   "requestedUrl": "https://abortion.ca.gov/",
-  "timestamp": 1707760575538,
+  "timestamp": 1708247691055,
   "ranks": {
-    "hundos": 3,
-    "performance": 6,
-    "accessibility": 149,
-    "cumulative": 3
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 151,
+    "cumulative": 4
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,24 +16,24 @@
     "seo": 0.91,
     "total": 386
   },
-  "firstContentfulPaint": 1041.1535,
-  "firstMeaningfulPaint": 1041.1535,
-  "speedIndex": 1041.1535,
-  "largestContentfulPaint": 1660.3325,
+  "firstContentfulPaint": 1045.3734999999997,
+  "firstMeaningfulPaint": 1045.3734999999997,
+  "speedIndex": 1045.3734999999997,
+  "largestContentfulPaint": 1662.6944999999996,
   "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 0.0029210073829833622,
-  "timeToInteractive": 1041.1535,
-  "maxPotentialFirstInputDelay": 21,
-  "timeToFirstByte": 16.544999999999987,
+  "cumulativeLayoutShift": 0.0030701368440545166,
+  "timeToInteractive": 1045.3734999999997,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 12.991,
   "weight": {
-    "summary": "13 requests • 170.2 KiB",
-    "total": 174255,
-    "image": 41362,
+    "summary": "13 requests • 170.4 KiB",
+    "total": 174526,
+    "image": 41431,
     "imageCount": 7,
     "script": 452,
     "scriptCount": 1,
-    "document": 41127,
-    "font": 91314,
+    "document": 41335,
+    "font": 91308,
     "fontCount": 4,
     "stylesheet": 0,
     "stylesheetCount": 0,
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 5,
-    "+weight.total": 421,
-    "-weight.document": 249,
-    "+weight.document": 174,
+    "+weight.total": 420,
+    "-weight.document": 248,
+    "+weight.document": 171,
     "-weight.script": 1,
-    "+weight.script": 421,
+    "+weight.script": 420,
     "-weight.image": 17,
-    "+weight.image": 405,
-    "-weight.font": 78,
-    "+weight.font": 281,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 35,
+    "+weight.image": 401,
+    "-weight.font": 75,
+    "+weight.font": 282,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 11,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 9
+    "-largestContentfulPaint": 5
   },
   "axe": {
     "passes": 399,
     "violations": 0
+  },
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 149,
+    "cumulative": 3
   }
 }

@@ -1,12 +1,12 @@
 {
   "url": "https://bawa.ca.gov/",
   "requestedUrl": "https://bawa.ca.gov/",
-  "timestamp": 1707761824082,
+  "timestamp": 1708248934642,
   "ranks": {
     "hundos": 98,
-    "performance": 50,
-    "accessibility": 342,
-    "cumulative": 94
+    "performance": 48,
+    "accessibility": 345,
+    "cumulative": 97
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,26 +16,26 @@
     "seo": 0.82,
     "total": 344
   },
-  "firstContentfulPaint": 2784.7575,
-  "firstMeaningfulPaint": 3084.7575,
-  "speedIndex": 2785.0749867715836,
-  "largestContentfulPaint": 4893.7575,
+  "firstContentfulPaint": 2745.1655,
+  "firstMeaningfulPaint": 2745.1655,
+  "speedIndex": 2886.948618997884,
+  "largestContentfulPaint": 4704.1655,
   "totalBlockingTime": 0,
-  "cumulativeLayoutShift": 0.009381911562474114,
-  "timeToInteractive": 3084.7575,
+  "cumulativeLayoutShift": 0.018769441997376127,
+  "timeToInteractive": 2745.1655,
   "maxPotentialFirstInputDelay": 16,
-  "timeToFirstByte": 406.97900000000004,
+  "timeToFirstByte": 404.81500000000005,
   "weight": {
     "summary": "19 requests • 791.7 KiB",
-    "total": 810655,
-    "image": 352097,
+    "total": 810678,
+    "image": 352102,
     "imageCount": 4,
-    "script": 127411,
+    "script": 127434,
     "scriptCount": 4,
     "document": 27333,
     "font": 65515,
     "fontCount": 4,
-    "stylesheet": 238299,
+    "stylesheet": 238294,
     "stylesheetCount": 5,
     "thirdParty": 0,
     "thirdPartyCount": 0
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 44,
+    "-weight.total": 43,
     "+weight.total": 382,
-    "-weight.document": 134,
-    "+weight.document": 289,
-    "-weight.script": 18,
-    "+weight.script": 404,
-    "-weight.image": 98,
-    "+weight.image": 324,
-    "-weight.font": 47,
-    "+weight.font": 312,
-    "+weight.fontCount": 20,
-    "-timeToFirstByte": 310,
+    "-weight.document": 133,
+    "+weight.document": 286,
+    "-weight.script": 20,
+    "+weight.script": 401,
+    "-weight.image": 97,
+    "+weight.image": 321,
+    "-weight.font": 46,
+    "+weight.font": 311,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 314,
     "-totalBlockingTime": 1,
-    "-largestContentfulPaint": 70
+    "-largestContentfulPaint": 45
   },
   "axe": {
     "passes": 148,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 98,
+    "performance": 45,
+    "accessibility": 342,
+    "cumulative": 95
   }
 }

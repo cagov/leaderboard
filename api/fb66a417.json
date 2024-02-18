@@ -1,43 +1,43 @@
 {
   "url": "https://tcpw.ca.gov/",
-  "requestedUrl": "https://tcpw.ca.gov/",
-  "timestamp": 1707791430996,
+  "requestedUrl": "https://tehamacountypublicworks.ca.gov/",
+  "timestamp": 1708278800632,
   "ranks": {
-    "hundos": 262,
-    "performance": 111,
-    "accessibility": 374,
-    "cumulative": 264
+    "hundos": 268,
+    "performance": 125,
+    "accessibility": 373,
+    "cumulative": 269
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.63,
+    "performance": 0.62,
     "accessibility": 0.81,
     "bestPractices": 0.78,
     "seo": 0.83,
-    "total": 305
+    "total": 304
   },
-  "firstContentfulPaint": 3188.723,
-  "firstMeaningfulPaint": 4942.599499999999,
-  "speedIndex": 6643.143149218347,
-  "largestContentfulPaint": 10441.327999999998,
-  "totalBlockingTime": 63.5,
-  "cumulativeLayoutShift": 0.02093314237719614,
-  "timeToInteractive": 9589.19204550171,
-  "maxPotentialFirstInputDelay": 87,
-  "timeToFirstByte": 300.13599999999997,
+  "firstContentfulPaint": 4316.964999999999,
+  "firstMeaningfulPaint": 5703.322,
+  "speedIndex": 6077.518404736327,
+  "largestContentfulPaint": 8204.925,
+  "totalBlockingTime": 68.99999999999955,
+  "cumulativeLayoutShift": 0.0202379681701484,
+  "timeToInteractive": 10216.457382171628,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 287.024,
   "weight": {
-    "summary": "51 requests • 1.8 MiB",
-    "total": 1908352,
+    "summary": "52 requests • 1.8 MiB",
+    "total": 1908388,
     "image": 844606,
     "imageCount": 9,
-    "script": 610977,
+    "script": 610540,
     "scriptCount": 20,
-    "document": 53660,
+    "document": 53728,
     "font": 232986,
     "fontCount": 8,
-    "stylesheet": 155670,
+    "stylesheet": 155647,
     "stylesheetCount": 6,
-    "thirdParty": 536922,
+    "thirdParty": 536684,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 142,
+    "-weight.total": 141,
     "+weight.total": 284,
-    "-weight.document": 289,
+    "-weight.document": 285,
     "+weight.document": 134,
-    "-weight.script": 142,
-    "+weight.script": 280,
-    "-weight.image": 193,
-    "+weight.image": 229,
-    "-weight.font": 217,
-    "+weight.font": 142,
-    "+weight.fontCount": 16,
-    "-timeToFirstByte": 288,
-    "-totalBlockingTime": 94,
-    "-largestContentfulPaint": 200
+    "-weight.script": 139,
+    "+weight.script": 282,
+    "-weight.image": 192,
+    "+weight.image": 226,
+    "-weight.font": 216,
+    "+weight.font": 141,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 280,
+    "-totalBlockingTime": 101,
+    "-largestContentfulPaint": 107
   },
   "axe": {
     "passes": 796,
     "violations": 25
+  },
+  "previousRanks": {
+    "hundos": 278,
+    "performance": 128,
+    "accessibility": 370,
+    "cumulative": 278
   }
 }

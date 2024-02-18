@@ -1,43 +1,43 @@
 {
   "url": "https://srta.ca.gov/",
   "requestedUrl": "https://srta.ca.gov/",
-  "timestamp": 1707790363496,
+  "timestamp": 1708277502158,
   "ranks": {
-    "hundos": 361,
-    "performance": 210,
-    "accessibility": 412,
-    "cumulative": 362
+    "hundos": 365,
+    "performance": 220,
+    "accessibility": 413,
+    "cumulative": 366
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.52,
+    "performance": 0.51,
     "accessibility": 0.73,
     "bestPractices": 0.7,
     "seo": 0.82,
-    "total": 277
+    "total": 276
   },
-  "firstContentfulPaint": 2414.73,
-  "firstMeaningfulPaint": 2427.73,
-  "speedIndex": 5829.515657213976,
-  "largestContentfulPaint": 12463.213999999998,
-  "totalBlockingTime": 608.5740000000005,
-  "cumulativeLayoutShift": 0,
-  "timeToInteractive": 9425.96,
-  "maxPotentialFirstInputDelay": 530,
-  "timeToFirstByte": 261.098,
+  "firstContentfulPaint": 2389.376,
+  "firstMeaningfulPaint": 2401.876,
+  "speedIndex": 5619.252203517756,
+  "largestContentfulPaint": 12414.364000000003,
+  "totalBlockingTime": 253,
+  "cumulativeLayoutShift": 0.22621609443193105,
+  "timeToInteractive": 9186.878,
+  "maxPotentialFirstInputDelay": 215,
+  "timeToFirstByte": 175.72099999999998,
   "weight": {
     "summary": "69 requests • 2.3 MiB",
-    "total": 2418719,
-    "image": 1367568,
+    "total": 2415859,
+    "image": 1366233,
     "imageCount": 27,
-    "script": 865130,
+    "script": 864747,
     "scriptCount": 23,
-    "document": 29006,
-    "font": 21367,
+    "document": 28929,
+    "font": 20770,
     "fontCount": 2,
-    "stylesheet": 118645,
+    "stylesheet": 118226,
     "stylesheetCount": 8,
-    "thirdParty": 494676,
+    "thirdParty": 493613,
     "thirdPartyCount": 6
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 184,
-    "+weight.total": 242,
-    "-weight.document": 143,
+    "+weight.total": 241,
+    "-weight.document": 139,
     "+weight.document": 280,
-    "-weight.script": 193,
-    "+weight.script": 229,
-    "-weight.image": 247,
-    "+weight.image": 175,
+    "-weight.script": 191,
+    "+weight.script": 230,
+    "-weight.image": 246,
+    "+weight.image": 172,
     "-weight.font": 5,
-    "+weight.font": 354,
-    "+weight.fontCount": 22,
-    "-timeToFirstByte": 275,
-    "-totalBlockingTime": 225,
-    "-largestContentfulPaint": 330
+    "+weight.font": 352,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 245,
+    "-totalBlockingTime": 182,
+    "-largestContentfulPaint": 270
   },
   "axe": {
     "passes": 943,
     "violations": 30
+  },
+  "previousRanks": {
+    "hundos": 364,
+    "performance": 207,
+    "accessibility": 409,
+    "cumulative": 364
   }
 }

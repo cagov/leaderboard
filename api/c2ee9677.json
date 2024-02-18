@@ -1,43 +1,43 @@
 {
   "url": "https://seeleywaterdistrict.ca.gov/",
   "requestedUrl": "https://seeleywaterdistrict.ca.gov/",
-  "timestamp": 1707788553480,
+  "timestamp": 1708275693316,
   "ranks": {
-    "hundos": 76,
-    "performance": 170,
-    "accessibility": 104,
-    "cumulative": 74
+    "hundos": 72,
+    "performance": 156,
+    "accessibility": 107,
+    "cumulative": 70
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.56,
+    "performance": 0.57,
     "accessibility": 0.99,
     "bestPractices": 1,
     "seo": 0.92,
-    "total": 347
+    "total": 348
   },
-  "firstContentfulPaint": 7523.490750000001,
-  "firstMeaningfulPaint": 8288.171250000001,
-  "speedIndex": 7551.923179042511,
-  "largestContentfulPaint": 25164.87350000001,
-  "totalBlockingTime": 104.5,
-  "cumulativeLayoutShift": 0.07287614290839459,
-  "timeToInteractive": 16464.74725,
-  "maxPotentialFirstInputDelay": 210,
-  "timeToFirstByte": 95.99799999999999,
+  "firstContentfulPaint": 6933.799499999999,
+  "firstMeaningfulPaint": 7958.0535,
+  "speedIndex": 6933.799499999999,
+  "largestContentfulPaint": 22136.9275,
+  "totalBlockingTime": 93,
+  "cumulativeLayoutShift": 0.07281355792384499,
+  "timeToInteractive": 15300.214499999998,
+  "maxPotentialFirstInputDelay": 194,
+  "timeToFirstByte": 98.63399999999999,
   "weight": {
     "summary": "33 requests • 4.5 MiB",
-    "total": 4714387,
-    "image": 3124005,
+    "total": 4697484,
+    "image": 3107290,
     "imageCount": 12,
-    "script": 1354442,
+    "script": 1354134,
     "scriptCount": 9,
-    "document": 32314,
+    "document": 32434,
     "font": 107820,
     "fontCount": 3,
     "stylesheet": 95053,
     "stylesheetCount": 6,
-    "thirdParty": 3705871,
+    "thirdParty": 3688855,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 302,
-    "+weight.total": 124,
-    "-weight.document": 174,
-    "+weight.document": 249,
-    "-weight.script": 311,
-    "+weight.script": 111,
-    "-weight.image": 326,
-    "+weight.image": 96,
-    "-weight.font": 97,
-    "+weight.font": 262,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 195,
-    "-totalBlockingTime": 129,
-    "-largestContentfulPaint": 376
+    "-weight.total": 306,
+    "+weight.total": 119,
+    "-weight.document": 172,
+    "+weight.document": 247,
+    "-weight.script": 312,
+    "+weight.script": 109,
+    "-weight.image": 325,
+    "+weight.image": 93,
+    "-weight.font": 92,
+    "+weight.font": 265,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 186,
+    "-totalBlockingTime": 122,
+    "-largestContentfulPaint": 368
   },
   "axe": {
-    "passes": 1192,
+    "passes": 1206,
     "violations": 3
+  },
+  "previousRanks": {
+    "hundos": 75,
+    "performance": 152,
+    "accessibility": 105,
+    "cumulative": 73
   }
 }

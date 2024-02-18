@@ -1,11 +1,11 @@
 {
   "url": "https://www.oles.ca.gov/",
   "requestedUrl": "https://oles.ca.gov/",
-  "timestamp": 1707784558216,
+  "timestamp": 1708271636960,
   "ranks": {
     "hundos": 249,
-    "performance": 228,
-    "accessibility": 229,
+    "performance": 227,
+    "accessibility": 225,
     "cumulative": 248
   },
   "lighthouse": {
@@ -16,28 +16,28 @@
     "seo": 0.92,
     "total": 307
   },
-  "firstContentfulPaint": 5060.469750000001,
-  "firstMeaningfulPaint": 5060.469750000001,
-  "speedIndex": 6214.819098808688,
-  "largestContentfulPaint": 5429.893000000002,
-  "totalBlockingTime": 34,
+  "firstContentfulPaint": 5016.785750000001,
+  "firstMeaningfulPaint": 5016.785750000001,
+  "speedIndex": 6211.22707320552,
+  "largestContentfulPaint": 5262.889250000001,
+  "totalBlockingTime": 8.5,
   "cumulativeLayoutShift": 0.3054269137567728,
-  "timeToInteractive": 8972.6825,
-  "maxPotentialFirstInputDelay": 84,
-  "timeToFirstByte": 284.846,
+  "timeToInteractive": 7770.2865,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 283.10799999999995,
   "weight": {
-    "summary": "58 requests • 1.6 MiB",
-    "total": 1657118,
-    "image": 660500,
+    "summary": "58 requests • 1.5 MiB",
+    "total": 1565040,
+    "image": 660523,
     "imageCount": 16,
-    "script": 771856,
+    "script": 679471,
     "scriptCount": 20,
-    "document": 18260,
+    "document": 18288,
     "font": 50173,
     "fontCount": 1,
-    "stylesheet": 155270,
+    "stylesheet": 155277,
     "stylesheetCount": 11,
-    "thirdParty": 496951,
+    "thirdParty": 404011,
     "thirdPartyCount": 2
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 111,
-    "+weight.total": 315,
-    "-weight.document": 83,
-    "+weight.document": 340,
-    "-weight.script": 173,
-    "+weight.script": 249,
+    "-weight.total": 103,
+    "+weight.total": 322,
+    "-weight.document": 81,
+    "+weight.document": 338,
+    "-weight.script": 153,
+    "+weight.script": 268,
     "-weight.image": 168,
-    "+weight.image": 254,
-    "-weight.font": 27,
-    "+weight.font": 332,
-    "+weight.fontCount": 23,
-    "-timeToFirstByte": 281,
-    "-totalBlockingTime": 57,
-    "-largestContentfulPaint": 82
+    "+weight.image": 250,
+    "-weight.font": 26,
+    "+weight.font": 331,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 276,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 195
   },
   "axe": {
     "passes": 267,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 251,
+    "performance": 238,
+    "accessibility": 227,
+    "cumulative": 249
   }
 }

@@ -1,67 +1,73 @@
 {
   "url": "https://pioneercommunityenergy.org/",
   "requestedUrl": "https://pioneercommunityenergy.ca.gov/",
-  "timestamp": 1707785573054,
+  "timestamp": 1708272700185,
   "ranks": {
-    "hundos": 254,
-    "performance": 245,
-    "accessibility": 303,
-    "cumulative": 254
+    "hundos": 261,
+    "performance": 302,
+    "accessibility": 238,
+    "cumulative": 263
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.48,
-    "accessibility": 0.87,
+    "performance": 0.43,
+    "accessibility": 0.91,
     "bestPractices": 0.78,
     "seo": 0.93,
-    "total": 306
+    "total": 305
   },
-  "firstContentfulPaint": 4587.9259999999995,
-  "firstMeaningfulPaint": 5037.9259999999995,
-  "speedIndex": 11591.869490434918,
-  "largestContentfulPaint": 23130.426,
-  "totalBlockingTime": 377,
-  "cumulativeLayoutShift": 0.03217048140563891,
-  "timeToInteractive": 27932.557,
-  "maxPotentialFirstInputDelay": 134,
-  "timeToFirstByte": 128.09699999999998,
+  "firstContentfulPaint": 6431.194,
+  "firstMeaningfulPaint": 6881.1939999999995,
+  "speedIndex": 13695.98366906809,
+  "largestContentfulPaint": 29654.091999999997,
+  "totalBlockingTime": 474.5,
+  "cumulativeLayoutShift": 0.045413676367023995,
+  "timeToInteractive": 31699.43,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 131.56099999999998,
   "weight": {
-    "summary": "141 requests • 6.2 MiB",
-    "total": 6496449,
-    "image": 3018191,
-    "imageCount": 22,
-    "script": 2669482,
-    "scriptCount": 49,
-    "document": 108127,
-    "font": 229973,
+    "summary": "229 requests • 8.6 MiB",
+    "total": 8999768,
+    "image": 4941526,
+    "imageCount": 25,
+    "script": 3120111,
+    "scriptCount": 103,
+    "document": 112770,
+    "font": 229706,
     "fontCount": 15,
-    "stylesheet": 257965,
-    "stylesheetCount": 16,
-    "thirdParty": 2678397,
-    "thirdPartyCount": 14
+    "stylesheet": 381810,
+    "stylesheetCount": 44,
+    "thirdParty": 3103363,
+    "thirdPartyCount": 16
   },
   "run": {
     "number": 1,
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 344,
-    "+weight.total": 82,
-    "-weight.document": 355,
+    "-weight.total": 379,
+    "+weight.total": 46,
+    "-weight.document": 351,
     "+weight.document": 68,
-    "-weight.script": 403,
-    "+weight.script": 19,
-    "-weight.image": 324,
-    "+weight.image": 98,
+    "-weight.script": 410,
+    "+weight.script": 11,
+    "-weight.image": 361,
+    "+weight.image": 57,
     "-weight.font": 214,
-    "+weight.font": 145,
-    "+weight.fontCount": 9,
-    "-timeToFirstByte": 235,
-    "-totalBlockingTime": 205,
-    "-largestContentfulPaint": 367
+    "+weight.font": 143,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 230,
+    "-totalBlockingTime": 212,
+    "-largestContentfulPaint": 391
   },
   "axe": {
-    "passes": 680,
-    "violations": 24
+    "passes": 760,
+    "violations": 17
+  },
+  "previousRanks": {
+    "hundos": 264,
+    "performance": 308,
+    "accessibility": 240,
+    "cumulative": 266
   }
 }

@@ -1,43 +1,43 @@
 {
   "url": "https://sanbruno.ca.gov/",
   "requestedUrl": "https://sanbruno.ca.gov/",
-  "timestamp": 1707787541158,
+  "timestamp": 1708274681340,
   "ranks": {
-    "hundos": 352,
-    "performance": 225,
-    "accessibility": 205,
-    "cumulative": 351
+    "hundos": 350,
+    "performance": 212,
+    "accessibility": 202,
+    "cumulative": 350
   },
   "lighthouse": {
     "version": "11.5.0",
-    "performance": 0.51,
+    "performance": 0.52,
     "accessibility": 0.93,
     "bestPractices": 0.52,
     "seo": 0.84,
-    "total": 280
+    "total": 281
   },
-  "firstContentfulPaint": 2430.6760000000004,
-  "firstMeaningfulPaint": 2430.6760000000004,
-  "speedIndex": 12542.103082219957,
-  "largestContentfulPaint": 31203.633059999982,
-  "totalBlockingTime": 258.5,
-  "cumulativeLayoutShift": 0.15359120087784991,
-  "timeToInteractive": 22976.53949999999,
-  "maxPotentialFirstInputDelay": 222,
-  "timeToFirstByte": 254.304,
+  "firstContentfulPaint": 2384.6510000000003,
+  "firstMeaningfulPaint": 2384.6510000000003,
+  "speedIndex": 9682.15706783,
+  "largestContentfulPaint": 31490.927860000033,
+  "totalBlockingTime": 260,
+  "cumulativeLayoutShift": 0.15194817873827057,
+  "timeToInteractive": 22865.51400000001,
+  "maxPotentialFirstInputDelay": 203,
+  "timeToFirstByte": 301.37299999999993,
   "weight": {
-    "summary": "122 requests • 5.6 MiB",
-    "total": 5824151,
-    "image": 3957215,
+    "summary": "121 requests • 5.5 MiB",
+    "total": 5781298,
+    "image": 3957216,
     "imageCount": 35,
-    "script": 1471350,
-    "scriptCount": 54,
-    "document": 33162,
-    "font": 194743,
+    "script": 1427767,
+    "scriptCount": 53,
+    "document": 33104,
+    "font": 194751,
     "fontCount": 7,
-    "stylesheet": 128139,
+    "stylesheet": 128730,
     "stylesheetCount": 10,
-    "thirdParty": 1428712,
+    "thirdParty": 1385249,
     "thirdPartyCount": 11
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 334,
-    "+weight.total": 92,
-    "-weight.document": 181,
-    "+weight.document": 242,
-    "-weight.script": 325,
-    "+weight.script": 97,
+    "+weight.total": 91,
+    "-weight.document": 176,
+    "+weight.document": 243,
+    "-weight.script": 320,
+    "+weight.script": 101,
     "-weight.image": 343,
-    "+weight.image": 79,
-    "-weight.font": 196,
-    "+weight.font": 163,
-    "+weight.fontCount": 17,
-    "-timeToFirstByte": 272,
-    "-totalBlockingTime": 191,
-    "-largestContentfulPaint": 394
+    "+weight.image": 75,
+    "-weight.font": 195,
+    "+weight.font": 162,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 290,
+    "-totalBlockingTime": 186,
+    "-largestContentfulPaint": 396
   },
   "axe": {
-    "passes": 1534,
-    "violations": 24
+    "passes": 1590,
+    "violations": 22
+  },
+  "previousRanks": {
+    "hundos": 354,
+    "performance": 231,
+    "accessibility": 202,
+    "cumulative": 355
   }
 }

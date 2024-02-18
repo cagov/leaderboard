@@ -1,12 +1,12 @@
 {
   "url": "https://tuolumnecounty.ca.gov/",
   "requestedUrl": "https://tuolumnecounty.ca.gov/",
-  "timestamp": 1707793161705,
+  "timestamp": 1708280314504,
   "ranks": {
-    "hundos": 396,
-    "performance": 267,
-    "accessibility": 360,
-    "cumulative": 396
+    "hundos": 395,
+    "performance": 269,
+    "accessibility": 358,
+    "cumulative": 395
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.84,
     "total": 261
   },
-  "firstContentfulPaint": 2615.2239999999997,
-  "firstMeaningfulPaint": 3561.649,
-  "speedIndex": 9793.007930955677,
-  "largestContentfulPaint": 15050.321499999996,
-  "totalBlockingTime": 652.5,
+  "firstContentfulPaint": 2601.8220000000006,
+  "firstMeaningfulPaint": 3542.9970000000008,
+  "speedIndex": 9457.40130536993,
+  "largestContentfulPaint": 15839.6845,
+  "totalBlockingTime": 646,
   "cumulativeLayoutShift": 0.000022855336954820837,
-  "timeToInteractive": 23255.094500000003,
-  "maxPotentialFirstInputDelay": 831,
-  "timeToFirstByte": 329.969,
+  "timeToInteractive": 19824.812000000005,
+  "maxPotentialFirstInputDelay": 869,
+  "timeToFirstByte": 338.32399999999996,
   "weight": {
-    "summary": "152 requests • 5.2 MiB",
-    "total": 5502544,
-    "image": 3473010,
-    "imageCount": 46,
-    "script": 1663346,
-    "scriptCount": 66,
-    "document": 66836,
-    "font": 87402,
+    "summary": "140 requests • 5.2 MiB",
+    "total": 5430947,
+    "image": 3635450,
+    "imageCount": 44,
+    "script": 1437356,
+    "scriptCount": 60,
+    "document": 70532,
+    "font": 87400,
     "fontCount": 5,
-    "stylesheet": 154769,
-    "stylesheetCount": 16,
-    "thirdParty": 1590743,
+    "stylesheet": 148906,
+    "stylesheetCount": 12,
+    "thirdParty": 1310784,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 327,
+    "-weight.total": 326,
     "+weight.total": 99,
-    "-weight.document": 316,
-    "+weight.document": 107,
-    "-weight.script": 347,
-    "+weight.script": 75,
-    "-weight.image": 332,
-    "+weight.image": 90,
-    "-weight.font": 76,
-    "+weight.font": 283,
-    "+weight.fontCount": 19,
-    "-timeToFirstByte": 293,
-    "-totalBlockingTime": 227,
-    "-largestContentfulPaint": 339
+    "-weight.document": 319,
+    "+weight.document": 100,
+    "-weight.script": 322,
+    "+weight.script": 99,
+    "-weight.image": 338,
+    "+weight.image": 80,
+    "-weight.font": 73,
+    "+weight.font": 284,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 302,
+    "-totalBlockingTime": 224,
+    "-largestContentfulPaint": 321
   },
   "axe": {
-    "passes": 1765,
-    "violations": 92
+    "passes": 1780,
+    "violations": 88
+  },
+  "previousRanks": {
+    "hundos": 392,
+    "performance": 272,
+    "accessibility": 355,
+    "cumulative": 392
   }
 }

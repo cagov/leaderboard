@@ -1,12 +1,12 @@
 {
   "url": "https://wildlife.ca.gov/",
   "requestedUrl": "https://wildlife.ca.gov/",
-  "timestamp": 1707794643828,
+  "timestamp": 1708281774659,
   "ranks": {
-    "hundos": 333,
-    "performance": 385,
-    "accessibility": 306,
-    "cumulative": 334
+    "hundos": 336,
+    "performance": 380,
+    "accessibility": 309,
+    "cumulative": 337
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.9,
     "total": 285
   },
-  "firstContentfulPaint": 13923.419999999998,
-  "firstMeaningfulPaint": 13923.419999999998,
-  "speedIndex": 14708.88669037745,
-  "largestContentfulPaint": 33482.76,
-  "totalBlockingTime": 19,
-  "cumulativeLayoutShift": 0.5043314207349752,
-  "timeToInteractive": 24100.949500000002,
-  "maxPotentialFirstInputDelay": 78,
-  "timeToFirstByte": 348.563,
+  "firstContentfulPaint": 13814.445,
+  "firstMeaningfulPaint": 13814.445,
+  "speedIndex": 15728.262789875422,
+  "largestContentfulPaint": 33798.6325,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.5069290239690168,
+  "timeToInteractive": 24624.013,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 387.224,
   "weight": {
     "summary": "91 requests • 5.5 MiB",
-    "total": 5789253,
-    "image": 2721357,
+    "total": 5812024,
+    "image": 2743494,
     "imageCount": 24,
-    "script": 2071166,
+    "script": 2071215,
     "scriptCount": 32,
-    "document": 63870,
+    "document": 64537,
     "font": 244943,
     "fontCount": 6,
-    "stylesheet": 664517,
+    "stylesheet": 664565,
     "stylesheetCount": 21,
-    "thirdParty": 477405,
+    "thirdParty": 477654,
     "thirdPartyCount": 8
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 333,
-    "+weight.total": 93,
-    "-weight.document": 311,
-    "+weight.document": 112,
-    "-weight.script": 379,
-    "+weight.script": 43,
-    "-weight.image": 316,
-    "+weight.image": 106,
-    "-weight.font": 225,
-    "+weight.font": 134,
-    "+weight.fontCount": 18,
-    "-timeToFirstByte": 298,
-    "-totalBlockingTime": 34,
-    "-largestContentfulPaint": 397
+    "-weight.total": 335,
+    "+weight.total": 90,
+    "-weight.document": 309,
+    "+weight.document": 110,
+    "-weight.script": 381,
+    "+weight.script": 40,
+    "-weight.image": 318,
+    "+weight.image": 100,
+    "-weight.font": 226,
+    "+weight.font": 131,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 309,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 400
   },
   "axe": {
-    "passes": 1027,
+    "passes": 1029,
     "violations": 44
+  },
+  "previousRanks": {
+    "hundos": 335,
+    "performance": 386,
+    "accessibility": 309,
+    "cumulative": 336
   }
 }

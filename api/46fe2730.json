@@ -1,12 +1,12 @@
 {
   "url": "https://fosteryouthhelp.ca.gov/",
   "requestedUrl": "https://fosteryouthhelp.ca.gov/",
-  "timestamp": 1707777274542,
+  "timestamp": 1708264436863,
   "ranks": {
-    "hundos": 217,
-    "performance": 320,
-    "accessibility": 240,
-    "cumulative": 216
+    "hundos": 210,
+    "performance": 324,
+    "accessibility": 236,
+    "cumulative": 210
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 0.93,
     "total": 317
   },
-  "firstContentfulPaint": 2422.148,
-  "firstMeaningfulPaint": 3627.8415000000005,
-  "speedIndex": 8151.553267897197,
-  "largestContentfulPaint": 19297.148,
-  "totalBlockingTime": 66.5,
-  "cumulativeLayoutShift": 0.765265750063137,
-  "timeToInteractive": 15127.648000000001,
-  "maxPotentialFirstInputDelay": 104,
-  "timeToFirstByte": 107.297,
+  "firstContentfulPaint": 2288.262,
+  "firstMeaningfulPaint": 6413.262000000001,
+  "speedIndex": 8755.932480714515,
+  "largestContentfulPaint": 24040.762000000002,
+  "totalBlockingTime": 56.5,
+  "cumulativeLayoutShift": 0.7614270025129188,
+  "timeToInteractive": 14905.762,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 907.927,
   "weight": {
     "summary": "100 requests • 5.6 MiB",
-    "total": 5857915,
-    "image": 4088566,
+    "total": 5837325,
+    "image": 4067762,
     "imageCount": 34,
-    "script": 771301,
+    "script": 771424,
     "scriptCount": 25,
-    "document": 41299,
-    "font": 756376,
+    "document": 41349,
+    "font": 756428,
     "fontCount": 12,
-    "stylesheet": 199511,
+    "stylesheet": 199493,
     "stylesheetCount": 21,
-    "thirdParty": 788604,
+    "thirdParty": 788745,
     "thirdPartyCount": 6
   },
   "run": {
@@ -45,23 +45,29 @@
     "total": 1
   },
   "sidequests": {
-    "-weight.total": 338,
-    "+weight.total": 88,
-    "-weight.document": 251,
-    "+weight.document": 172,
-    "-weight.script": 172,
-    "+weight.script": 250,
+    "-weight.total": 336,
+    "+weight.total": 89,
+    "-weight.document": 249,
+    "+weight.document": 170,
+    "-weight.script": 170,
+    "+weight.script": 251,
     "-weight.image": 345,
-    "+weight.image": 77,
-    "-weight.font": 346,
-    "+weight.font": 13,
-    "+weight.fontCount": 12,
-    "-timeToFirstByte": 210,
-    "-totalBlockingTime": 99,
-    "-largestContentfulPaint": 296
+    "+weight.image": 73,
+    "-weight.font": 342,
+    "+weight.font": 15,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 380,
+    "-totalBlockingTime": 84,
+    "-largestContentfulPaint": 376
   },
   "axe": {
     "passes": 1047,
     "violations": 13
+  },
+  "previousRanks": {
+    "hundos": 223,
+    "performance": 365,
+    "accessibility": 238,
+    "cumulative": 223
   }
 }

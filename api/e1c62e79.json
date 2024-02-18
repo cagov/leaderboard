@@ -1,12 +1,12 @@
 {
   "url": "https://climateresilience.ca.gov/",
   "requestedUrl": "https://climateresilience.ca.gov/",
-  "timestamp": 1707769176821,
+  "timestamp": 1708256319276,
   "ranks": {
     "hundos": 40,
-    "performance": 154,
-    "accessibility": 33,
-    "cumulative": 41
+    "performance": 150,
+    "accessibility": 32,
+    "cumulative": 40
   },
   "lighthouse": {
     "version": "11.5.0",
@@ -16,28 +16,28 @@
     "seo": 1,
     "total": 358
   },
-  "firstContentfulPaint": 2740.7533,
-  "firstMeaningfulPaint": 3156.4096799999998,
-  "speedIndex": 6952.514025926208,
-  "largestContentfulPaint": 20920.5418,
-  "totalBlockingTime": 14.5,
+  "firstContentfulPaint": 2597.7297000000003,
+  "firstMeaningfulPaint": 3014.9850250000004,
+  "speedIndex": 7692.448212863702,
+  "largestContentfulPaint": 21053.816624999992,
+  "totalBlockingTime": 16,
   "cumulativeLayoutShift": 0.1536500723852674,
-  "timeToInteractive": 4575.595080000001,
-  "maxPotentialFirstInputDelay": 71,
-  "timeToFirstByte": 16.914,
+  "timeToInteractive": 4549.3822,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 21.668999999999997,
   "weight": {
     "summary": "48 requests • 5.1 MiB",
-    "total": 5300953,
-    "image": 4593440,
+    "total": 5299580,
+    "image": 4592176,
     "imageCount": 14,
-    "script": 420399,
+    "script": 420294,
     "scriptCount": 8,
     "document": 9013,
-    "font": 78485,
+    "font": 78486,
     "fontCount": 3,
-    "stylesheet": 136825,
+    "stylesheet": 136802,
     "stylesheetCount": 12,
-    "thirdParty": 334584,
+    "thirdParty": 334795,
     "thirdPartyCount": 7
   },
   "run": {
@@ -46,22 +46,28 @@
   },
   "sidequests": {
     "-weight.total": 321,
-    "+weight.total": 105,
-    "-weight.document": 31,
-    "+weight.document": 392,
-    "-weight.script": 92,
-    "+weight.script": 330,
-    "-weight.image": 361,
+    "+weight.total": 104,
+    "-weight.document": 30,
+    "+weight.document": 389,
+    "-weight.script": 90,
+    "+weight.script": 331,
+    "-weight.image": 357,
     "+weight.image": 61,
-    "-weight.font": 61,
-    "+weight.font": 298,
-    "+weight.fontCount": 21,
-    "-timeToFirstByte": 37,
-    "-totalBlockingTime": 26,
-    "-largestContentfulPaint": 352
+    "-weight.font": 60,
+    "+weight.font": 297,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 57,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 362
   },
   "axe": {
     "passes": 269,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 30,
+    "performance": 118,
+    "accessibility": 32,
+    "cumulative": 28
   }
 }

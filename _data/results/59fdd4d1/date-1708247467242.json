@@ -1,0 +1,67 @@
+{
+  "url": "https://tourism.ca.gov/s/login/?language=en_US&ec=302&startURL=%2Fs%2F",
+  "requestedUrl": "https://tourism.ca.gov/",
+  "timestamp": 1708279519309,
+  "ranks": {
+    "hundos": 416,
+    "performance": 419,
+    "accessibility": 382,
+    "cumulative": 416
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.2,
+    "accessibility": 0.8,
+    "bestPractices": 0.56,
+    "seo": 0.85,
+    "total": 241
+  },
+  "firstContentfulPaint": 66013.26200000019,
+  "firstMeaningfulPaint": 66110.76200000019,
+  "speedIndex": 66013.26200000019,
+  "largestContentfulPaint": 87827.13250000012,
+  "totalBlockingTime": 945.5,
+  "cumulativeLayoutShift": 0.26170534246735394,
+  "timeToInteractive": 91880.91950000016,
+  "maxPotentialFirstInputDelay": 947,
+  "timeToFirstByte": 601.253,
+  "weight": {
+    "summary": "84 requests • 17.9 MiB",
+    "total": 18670959,
+    "image": 4978232,
+    "imageCount": 9,
+    "script": 12492706,
+    "scriptCount": 17,
+    "document": 125434,
+    "font": 158516,
+    "fontCount": 6,
+    "stylesheet": 563495,
+    "stylesheetCount": 18,
+    "thirdParty": 11602808,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 413,
+    "+weight.total": 12,
+    "-weight.document": 358,
+    "+weight.document": 61,
+    "-weight.script": 420,
+    "+weight.script": 1,
+    "-weight.image": 363,
+    "+weight.image": 55,
+    "-weight.font": 163,
+    "+weight.font": 194,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 341,
+    "-totalBlockingTime": 233,
+    "-largestContentfulPaint": 420
+  },
+  "axe": {
+    "passes": 522,
+    "violations": 27
+  }
+}

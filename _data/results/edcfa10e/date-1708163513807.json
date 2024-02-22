@@ -1,0 +1,67 @@
+{
+  "url": "https://acupuncture.ca.gov/",
+  "requestedUrl": "https://acupuncture.ca.gov/",
+  "timestamp": 1708163890391,
+  "ranks": {
+    "hundos": 63,
+    "performance": 42,
+    "accessibility": 97,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.8,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 350
+  },
+  "firstContentfulPaint": 2299.5800000000004,
+  "firstMeaningfulPaint": 2299.5800000000004,
+  "speedIndex": 4323.963140317901,
+  "largestContentfulPaint": 4410.993,
+  "totalBlockingTime": 18,
+  "cumulativeLayoutShift": 0.0041950814273948225,
+  "timeToInteractive": 4667.325000000001,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 26.39699999999999,
+  "weight": {
+    "summary": "49 requests • 692.6 KiB",
+    "total": 709206,
+    "image": 237279,
+    "imageCount": 26,
+    "script": 406123,
+    "scriptCount": 11,
+    "document": 31355,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 33688,
+    "stylesheetCount": 7,
+    "thirdParty": 387359,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 37,
+    "+weight.total": 386,
+    "-weight.document": 165,
+    "+weight.document": 254,
+    "-weight.script": 84,
+    "+weight.script": 336,
+    "-weight.image": 63,
+    "+weight.image": 354,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 69,
+    "-totalBlockingTime": 36,
+    "-largestContentfulPaint": 54
+  },
+  "axe": {
+    "passes": 532,
+    "violations": 27
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://cacgn.ca.gov/",
+  "requestedUrl": "https://cacgn.ca.gov/",
+  "timestamp": 1708166510015,
+  "ranks": {
+    "hundos": 66,
+    "performance": 69,
+    "accessibility": 268,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 349
+  },
+  "firstContentfulPaint": 1805.743,
+  "firstMeaningfulPaint": 3773.7430000000004,
+  "speedIndex": 3569.562996318777,
+  "largestContentfulPaint": 5891.2429999999995,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.14133602006335938,
+  "timeToInteractive": 3773.7430000000004,
+  "maxPotentialFirstInputDelay": 47,
+  "timeToFirstByte": 77.77300000000001,
+  "weight": {
+    "summary": "25 requests • 1.1 MiB",
+    "total": 1157330,
+    "image": 285467,
+    "imageCount": 6,
+    "script": 491802,
+    "scriptCount": 7,
+    "document": 10701,
+    "font": 208279,
+    "fontCount": 4,
+    "stylesheet": 157111,
+    "stylesheetCount": 2,
+    "thirdParty": 325534,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 61,
+    "+weight.total": 362,
+    "-weight.document": 42,
+    "+weight.document": 377,
+    "-weight.script": 108,
+    "+weight.script": 312,
+    "-weight.image": 81,
+    "+weight.image": 336,
+    "-weight.font": 191,
+    "+weight.font": 160,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 167,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 96
+  },
+  "axe": {
+    "passes": 466,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://water.ca.gov/",
+  "requestedUrl": "https://water.ca.gov/",
+  "timestamp": 1708197068583,
+  "ranks": {
+    "hundos": 183,
+    "performance": 109,
+    "accessibility": 385,
+    "cumulative": 184
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 0.79,
+    "bestPractices": 1,
+    "seo": 0.82,
+    "total": 324
+  },
+  "firstContentfulPaint": 2426.8419999999996,
+  "firstMeaningfulPaint": 3128.37,
+  "speedIndex": 4598.657803028767,
+  "largestContentfulPaint": 10937.390500000001,
+  "totalBlockingTime": 12.000000000000227,
+  "cumulativeLayoutShift": 0.15115052276405178,
+  "timeToInteractive": 3528.0835000000006,
+  "maxPotentialFirstInputDelay": 74.00000000000023,
+  "timeToFirstByte": 566.2,
+  "weight": {
+    "summary": "37 requests • 2.1 MiB",
+    "total": 2228317,
+    "image": 1724452,
+    "imageCount": 12,
+    "script": 308984,
+    "scriptCount": 15,
+    "document": 18860,
+    "font": 83815,
+    "fontCount": 3,
+    "stylesheet": 91954,
+    "stylesheetCount": 5,
+    "thirdParty": 234678,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 165,
+    "+weight.total": 258,
+    "-weight.document": 88,
+    "+weight.document": 331,
+    "-weight.script": 63,
+    "+weight.script": 357,
+    "-weight.image": 268,
+    "+weight.image": 149,
+    "-weight.font": 69,
+    "+weight.font": 282,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 346,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 205
+  },
+  "axe": {
+    "passes": 952,
+    "violations": 12
+  }
+}

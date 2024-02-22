@@ -1,0 +1,67 @@
+{
+  "url": "https://delta.ca.gov/",
+  "requestedUrl": "https://delta.ca.gov/",
+  "timestamp": 1708260325163,
+  "ranks": {
+    "hundos": 177,
+    "performance": 293,
+    "accessibility": 299,
+    "cumulative": 173
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 0.98,
+    "total": 325
+  },
+  "firstContentfulPaint": 6238.0425,
+  "firstMeaningfulPaint": 6315.143,
+  "speedIndex": 10663.10497886813,
+  "largestContentfulPaint": 7086.147999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.26952618975610176,
+  "timeToInteractive": 6315.143,
+  "maxPotentialFirstInputDelay": 49,
+  "timeToFirstByte": 1458.881,
+  "weight": {
+    "summary": "57 requests • 2.6 MiB",
+    "total": 2679749,
+    "image": 616016,
+    "imageCount": 18,
+    "script": 1090631,
+    "scriptCount": 17,
+    "document": 50460,
+    "font": 131422,
+    "fontCount": 2,
+    "stylesheet": 790328,
+    "stylesheetCount": 14,
+    "thirdParty": 474845,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 211,
+    "+weight.total": 214,
+    "-weight.document": 278,
+    "+weight.document": 141,
+    "-weight.script": 276,
+    "+weight.script": 145,
+    "-weight.image": 161,
+    "+weight.image": 257,
+    "-weight.font": 130,
+    "+weight.font": 227,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 397,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 87
+  },
+  "axe": {
+    "passes": 514,
+    "violations": 6
+  }
+}

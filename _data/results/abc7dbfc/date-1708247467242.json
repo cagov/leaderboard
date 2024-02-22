@@ -1,0 +1,67 @@
+{
+  "url": "https://calsilc.ca.gov/",
+  "requestedUrl": "https://calsilc.ca.gov/",
+  "timestamp": 1708252853851,
+  "ranks": {
+    "hundos": 147,
+    "performance": 285,
+    "accessibility": 69,
+    "cumulative": 147
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 1,
+    "total": 333
+  },
+  "firstContentfulPaint": 2275.3155,
+  "firstMeaningfulPaint": 2275.3155,
+  "speedIndex": 5576.125249593561,
+  "largestContentfulPaint": 12639.574700000001,
+  "totalBlockingTime": 73.5,
+  "cumulativeLayoutShift": 0.6959815490706663,
+  "timeToInteractive": 9909.8155,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 102.14800000000001,
+  "weight": {
+    "summary": "74 requests • 1.7 MiB",
+    "total": 1755463,
+    "image": 218967,
+    "imageCount": 11,
+    "script": 919900,
+    "scriptCount": 29,
+    "document": 40669,
+    "font": 381200,
+    "fontCount": 5,
+    "stylesheet": 193877,
+    "stylesheetCount": 21,
+    "thirdParty": 780626,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 121,
+    "+weight.total": 304,
+    "-weight.document": 241,
+    "+weight.document": 178,
+    "-weight.script": 215,
+    "+weight.script": 206,
+    "-weight.image": 61,
+    "+weight.image": 357,
+    "-weight.font": 277,
+    "+weight.font": 80,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 195,
+    "-totalBlockingTime": 107,
+    "-largestContentfulPaint": 272
+  },
+  "axe": {
+    "passes": 719,
+    "violations": 4
+  }
+}

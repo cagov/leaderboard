@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calexico.ca.gov/",
+  "requestedUrl": "https://calexico.ca.gov/",
+  "timestamp": 1707764257116,
+  "ranks": {
+    "hundos": 136,
+    "performance": 319,
+    "accessibility": 57,
+    "cumulative": 135
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 336
+  },
+  "firstContentfulPaint": 4000.0358000000006,
+  "firstMeaningfulPaint": 4763.849900000001,
+  "speedIndex": 4761.445162834925,
+  "largestContentfulPaint": 9257.769750000001,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.8366611964572521,
+  "timeToInteractive": 4763.849900000001,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 125.037,
+  "weight": {
+    "summary": "47 requests • 2.4 MiB",
+    "total": 2464265,
+    "image": 2052263,
+    "imageCount": 21,
+    "script": 68165,
+    "scriptCount": 9,
+    "document": 56632,
+    "font": 99805,
+    "fontCount": 2,
+    "stylesheet": 54954,
+    "stylesheetCount": 8,
+    "thirdParty": 290370,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 187,
+    "+weight.total": 239,
+    "-weight.document": 297,
+    "+weight.document": 126,
+    "-weight.script": 10,
+    "+weight.script": 412,
+    "-weight.image": 286,
+    "+weight.image": 136,
+    "-weight.font": 87,
+    "+weight.font": 272,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 234,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 163
+  },
+  "axe": {
+    "passes": 616,
+    "violations": 3
+  }
+}

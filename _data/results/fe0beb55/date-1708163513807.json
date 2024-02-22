@@ -1,0 +1,67 @@
+{
+  "url": "https://barc.ca.gov/",
+  "requestedUrl": "https://barc.ca.gov/",
+  "timestamp": 1708164918067,
+  "ranks": {
+    "hundos": 173,
+    "performance": 80,
+    "accessibility": 43,
+    "cumulative": 173
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.81,
+    "total": 326
+  },
+  "firstContentfulPaint": 1736.7860000000003,
+  "firstMeaningfulPaint": 1736.7860000000003,
+  "speedIndex": 3868.8613221705823,
+  "largestContentfulPaint": 6818.291,
+  "totalBlockingTime": 5.5,
+  "cumulativeLayoutShift": 0.16931738918229022,
+  "timeToInteractive": 2993.4605,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 14.217000000000002,
+  "weight": {
+    "summary": "23 requests • 1.2 MiB",
+    "total": 1217818,
+    "image": 600849,
+    "imageCount": 8,
+    "script": 250273,
+    "scriptCount": 4,
+    "document": 11564,
+    "font": 292422,
+    "fontCount": 4,
+    "stylesheet": 62490,
+    "stylesheetCount": 4,
+    "thirdParty": 217494,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 66,
+    "+weight.total": 357,
+    "-weight.document": 50,
+    "+weight.document": 369,
+    "-weight.script": 46,
+    "+weight.script": 374,
+    "-weight.image": 151,
+    "+weight.image": 266,
+    "-weight.font": 237,
+    "+weight.font": 114,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 117
+  },
+  "axe": {
+    "passes": 671,
+    "violations": 2
+  }
+}

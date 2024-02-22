@@ -1,0 +1,67 @@
+{
+  "url": "https://auburn.ca.gov/",
+  "requestedUrl": "https://auburn.ca.gov/",
+  "timestamp": 1708248763748,
+  "ranks": {
+    "hundos": 411,
+    "performance": 329,
+    "accessibility": 403,
+    "cumulative": 411
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 0.76,
+    "bestPractices": 0.48,
+    "seo": 0.85,
+    "total": 249
+  },
+  "firstContentfulPaint": 2386.215,
+  "firstMeaningfulPaint": 2669.655,
+  "speedIndex": 10473.261074841796,
+  "largestContentfulPaint": 22415.97499999999,
+  "totalBlockingTime": 1088,
+  "cumulativeLayoutShift": 0.0030987490728143804,
+  "timeToInteractive": 20014.461499999994,
+  "maxPotentialFirstInputDelay": 813,
+  "timeToFirstByte": 205.565,
+  "weight": {
+    "summary": "128 requests • 3.3 MiB",
+    "total": 3504286,
+    "image": 935746,
+    "imageCount": 47,
+    "script": 2166330,
+    "scriptCount": 42,
+    "document": 100538,
+    "font": 61349,
+    "fontCount": 4,
+    "stylesheet": 172089,
+    "stylesheetCount": 15,
+    "thirdParty": 2173358,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 268,
+    "+weight.total": 157,
+    "-weight.document": 345,
+    "+weight.document": 74,
+    "-weight.script": 387,
+    "+weight.script": 34,
+    "-weight.image": 207,
+    "+weight.image": 211,
+    "-weight.font": 29,
+    "+weight.font": 328,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 256,
+    "-totalBlockingTime": 235,
+    "-largestContentfulPaint": 370
+  },
+  "axe": {
+    "passes": 1382,
+    "violations": 30
+  }
+}

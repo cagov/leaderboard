@@ -1,0 +1,67 @@
+{
+  "url": "https://broadbandcouncil.ca.gov/",
+  "requestedUrl": "https://broadbandcouncil.ca.gov/",
+  "timestamp": 1708165924653,
+  "ranks": {
+    "hundos": 136,
+    "performance": 309,
+    "accessibility": 52,
+    "cumulative": 134
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 335
+  },
+  "firstContentfulPaint": 2372.933,
+  "firstMeaningfulPaint": 3348.359,
+  "speedIndex": 6150.138569405249,
+  "largestContentfulPaint": 9309.247,
+  "totalBlockingTime": 92.50000000000045,
+  "cumulativeLayoutShift": 0.8655735712812809,
+  "timeToInteractive": 8715.933,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 817.7510000000001,
+  "weight": {
+    "summary": "77 requests • 1.4 MiB",
+    "total": 1509218,
+    "image": 113723,
+    "imageCount": 21,
+    "script": 870015,
+    "scriptCount": 23,
+    "document": 30753,
+    "font": 303446,
+    "fontCount": 5,
+    "stylesheet": 190419,
+    "stylesheetCount": 20,
+    "thirdParty": 795916,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 100,
+    "+weight.total": 323,
+    "-weight.document": 158,
+    "+weight.document": 261,
+    "-weight.script": 199,
+    "+weight.script": 221,
+    "-weight.image": 40,
+    "+weight.image": 377,
+    "-weight.font": 244,
+    "+weight.font": 107,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 381,
+    "-totalBlockingTime": 133,
+    "-largestContentfulPaint": 177
+  },
+  "axe": {
+    "passes": 871,
+    "violations": 3
+  }
+}

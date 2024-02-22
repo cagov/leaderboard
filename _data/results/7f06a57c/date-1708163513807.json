@@ -1,0 +1,66 @@
+{
+  "url": "https://westnile.ca.gov/",
+  "requestedUrl": "https://westnile.ca.gov/",
+  "timestamp": 1708197549204,
+  "ranks": {
+    "hundos": 298,
+    "performance": 409,
+    "accessibility": 340,
+    "cumulative": 298
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.27,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 297
+  },
+  "firstContentfulPaint": 13260.458,
+  "firstMeaningfulPaint": 13279.958,
+  "speedIndex": 19176.742978832295,
+  "largestContentfulPaint": 15899.470000000003,
+  "totalBlockingTime": 2093.4999999999927,
+  "cumulativeLayoutShift": 0.015845729098651017,
+  "timeToInteractive": 44251.2835,
+  "maxPotentialFirstInputDelay": 1255,
+  "timeToFirstByte": 527.822,
+  "weight": {
+    "summary": "113 requests • 7.2 MiB",
+    "total": 7586423,
+    "image": 502307,
+    "imageCount": 20,
+    "script": 2282020,
+    "scriptCount": 40,
+    "document": 119780,
+    "font": 267052,
+    "fontCount": 4,
+    "stylesheet": 1785859,
+    "stylesheetCount": 28,
+    "thirdParty": 4536709,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 362,
+    "+weight.total": 61,
+    "-weight.document": 360,
+    "+weight.document": 59,
+    "-weight.script": 392,
+    "+weight.script": 28,
+    "-weight.image": 126,
+    "+weight.image": 291,
+    "-weight.font": 226,
+    "+weight.font": 125,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 340,
+    "-totalBlockingTime": 255,
+    "-largestContentfulPaint": 346
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

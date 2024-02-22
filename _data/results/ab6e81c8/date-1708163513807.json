@@ -1,0 +1,67 @@
+{
+  "url": "https://theacademy.ca.gov/",
+  "requestedUrl": "https://theacademy.ca.gov/",
+  "timestamp": 1708195234553,
+  "ranks": {
+    "hundos": 29,
+    "performance": 41,
+    "accessibility": 145,
+    "cumulative": 31
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.8,
+    "accessibility": 0.96,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 362
+  },
+  "firstContentfulPaint": 1737.4739999999997,
+  "firstMeaningfulPaint": 1737.4739999999997,
+  "speedIndex": 3637.230516977221,
+  "largestContentfulPaint": 4775.067000000001,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.012435596720740046,
+  "timeToInteractive": 5838.0535,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 13.466999999999999,
+  "weight": {
+    "summary": "95 requests • 2.8 MiB",
+    "total": 2934767,
+    "image": 2416419,
+    "imageCount": 48,
+    "script": 369127,
+    "scriptCount": 17,
+    "document": 38448,
+    "font": 42985,
+    "fontCount": 3,
+    "stylesheet": 67056,
+    "stylesheetCount": 22,
+    "thirdParty": 328242,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 232,
+    "+weight.total": 191,
+    "-weight.document": 226,
+    "+weight.document": 193,
+    "-weight.script": 78,
+    "+weight.script": 342,
+    "-weight.image": 301,
+    "+weight.image": 116,
+    "-weight.font": 20,
+    "+weight.font": 331,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 64
+  },
+  "axe": {
+    "passes": 898,
+    "violations": 25
+  }
+}

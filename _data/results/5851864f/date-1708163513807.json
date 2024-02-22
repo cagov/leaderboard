@@ -1,0 +1,67 @@
+{
+  "url": "https://tribalaffairs.ca.gov/",
+  "requestedUrl": "https://tribalaffairs.ca.gov/",
+  "timestamp": 1708195931281,
+  "ranks": {
+    "hundos": 184,
+    "performance": 362,
+    "accessibility": 176,
+    "cumulative": 183
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 0.98,
+    "total": 324
+  },
+  "firstContentfulPaint": 3323.315,
+  "firstMeaningfulPaint": 8072.3150000000005,
+  "speedIndex": 8194.956558966394,
+  "largestContentfulPaint": 12098.314999999999,
+  "totalBlockingTime": 185,
+  "cumulativeLayoutShift": 0.5584723650093492,
+  "timeToInteractive": 16258.118,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 896.6039999999999,
+  "weight": {
+    "summary": "87 requests • 2.6 MiB",
+    "total": 2680253,
+    "image": 338042,
+    "imageCount": 12,
+    "script": 1384426,
+    "scriptCount": 40,
+    "document": 141842,
+    "font": 625511,
+    "fontCount": 6,
+    "stylesheet": 188916,
+    "stylesheetCount": 18,
+    "thirdParty": 1398501,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 212,
+    "+weight.total": 211,
+    "-weight.document": 370,
+    "+weight.document": 49,
+    "-weight.script": 316,
+    "+weight.script": 104,
+    "-weight.image": 92,
+    "+weight.image": 325,
+    "-weight.font": 315,
+    "+weight.font": 36,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 385,
+    "-totalBlockingTime": 174,
+    "-largestContentfulPaint": 230
+  },
+  "axe": {
+    "passes": 1192,
+    "violations": 5
+  }
+}

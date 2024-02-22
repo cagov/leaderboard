@@ -1,0 +1,67 @@
+{
+  "url": "https://mhsoac.ca.gov/",
+  "requestedUrl": "https://mhsoac.ca.gov/",
+  "timestamp": 1708269628285,
+  "ranks": {
+    "hundos": 410,
+    "performance": 418,
+    "accessibility": 311,
+    "cumulative": 409
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.21,
+    "accessibility": 0.86,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 251
+  },
+  "firstContentfulPaint": 5612.365000000002,
+  "firstMeaningfulPaint": 8486.654,
+  "speedIndex": 14001.051891996161,
+  "largestContentfulPaint": 18077.470329017637,
+  "totalBlockingTime": 770.0000000000018,
+  "cumulativeLayoutShift": 0.3115815985715708,
+  "timeToInteractive": 23820.08933446502,
+  "maxPotentialFirstInputDelay": 336.0000000000018,
+  "timeToFirstByte": 1862.5839999999998,
+  "weight": {
+    "summary": "205 requests • 3.0 MiB",
+    "total": 3091562,
+    "image": 161368,
+    "imageCount": 28,
+    "script": 1510307,
+    "scriptCount": 95,
+    "document": 314048,
+    "font": 699952,
+    "fontCount": 19,
+    "stylesheet": 388670,
+    "stylesheetCount": 33,
+    "thirdParty": 1894537,
+    "thirdPartyCount": 16
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 245,
+    "+weight.total": 180,
+    "-weight.document": 410,
+    "+weight.document": 9,
+    "-weight.script": 329,
+    "+weight.script": 92,
+    "-weight.image": 50,
+    "+weight.image": 368,
+    "-weight.font": 337,
+    "+weight.font": 20,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 408,
+    "-totalBlockingTime": 229,
+    "-largestContentfulPaint": 342
+  },
+  "axe": {
+    "passes": 1280,
+    "violations": 4
+  }
+}

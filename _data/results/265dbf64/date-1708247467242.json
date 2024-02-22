@@ -1,0 +1,67 @@
+{
+  "url": "https://rebuildingca.ca.gov/",
+  "requestedUrl": "https://rebuildingca.ca.gov/",
+  "timestamp": 1708273745289,
+  "ranks": {
+    "hundos": 349,
+    "performance": 168,
+    "accessibility": 318,
+    "cumulative": 349
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.86,
+    "bestPractices": 0.56,
+    "seo": 0.83,
+    "total": 281
+  },
+  "firstContentfulPaint": 8135.931889609599,
+  "firstMeaningfulPaint": 8135.931889609599,
+  "speedIndex": 9870.601977454657,
+  "largestContentfulPaint": 15132.888600358554,
+  "totalBlockingTime": 76,
+  "cumulativeLayoutShift": 0.00616083224824832,
+  "timeToInteractive": 16471.354279219202,
+  "maxPotentialFirstInputDelay": 136,
+  "timeToFirstByte": 13.823000000000008,
+  "weight": {
+    "summary": "102 requests • 9.3 MiB",
+    "total": 9727499,
+    "image": 7527465,
+    "imageCount": 37,
+    "script": 1487634,
+    "scriptCount": 23,
+    "document": 298716,
+    "font": 321385,
+    "fontCount": 6,
+    "stylesheet": 50781,
+    "stylesheetCount": 6,
+    "thirdParty": 6425906,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 387,
+    "+weight.total": 38,
+    "-weight.document": 405,
+    "+weight.document": 14,
+    "-weight.script": 328,
+    "+weight.script": 93,
+    "-weight.image": 384,
+    "+weight.image": 34,
+    "-weight.font": 259,
+    "+weight.font": 98,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 15,
+    "-totalBlockingTime": 111,
+    "-largestContentfulPaint": 310
+  },
+  "axe": {
+    "passes": 867,
+    "violations": 22
+  }
+}

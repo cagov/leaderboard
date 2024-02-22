@@ -1,0 +1,20 @@
+{
+  "url": "https://burbank.ca.gov/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 425,
+    "+weight.total": 425,
+    "-weight.document": 419,
+    "+weight.document": 419,
+    "-weight.script": 421,
+    "+weight.script": 421,
+    "-weight.image": 418,
+    "+weight.image": 418,
+    "-weight.font": 357,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 425,
+    "-totalBlockingTime": 251,
+    "-largestContentfulPaint": 424
+  }
+}

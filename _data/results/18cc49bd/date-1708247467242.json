@@ -1,0 +1,67 @@
+{
+  "url": "https://capitolmuseum.ca.gov/",
+  "requestedUrl": "https://capitolmuseum.ca.gov/",
+  "timestamp": 1708253382156,
+  "ranks": {
+    "hundos": 295,
+    "performance": 378,
+    "accessibility": 313,
+    "cumulative": 295
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.34,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 297
+  },
+  "firstContentfulPaint": 3981.4510000000005,
+  "firstMeaningfulPaint": 5599.592000000001,
+  "speedIndex": 10321.943727661914,
+  "largestContentfulPaint": 14643.391000000003,
+  "totalBlockingTime": 52,
+  "cumulativeLayoutShift": 0.9882202341809857,
+  "timeToInteractive": 10404.015000000001,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 1485.4499999999998,
+  "weight": {
+    "summary": "118 requests • 2.8 MiB",
+    "total": 2982894,
+    "image": 1402179,
+    "imageCount": 19,
+    "script": 1053688,
+    "scriptCount": 55,
+    "document": 51749,
+    "font": 270147,
+    "fontCount": 7,
+    "stylesheet": 203317,
+    "stylesheetCount": 27,
+    "thirdParty": 2031765,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 239,
+    "+weight.total": 186,
+    "-weight.document": 281,
+    "+weight.document": 138,
+    "-weight.script": 269,
+    "+weight.script": 152,
+    "-weight.image": 248,
+    "+weight.image": 170,
+    "-weight.font": 232,
+    "+weight.font": 125,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 399,
+    "-totalBlockingTime": 80,
+    "-largestContentfulPaint": 300
+  },
+  "axe": {
+    "passes": 350,
+    "violations": 7
+  }
+}

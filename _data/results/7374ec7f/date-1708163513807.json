@@ -1,0 +1,67 @@
+{
+  "url": "https://dublin.ca.gov/",
+  "requestedUrl": "https://dublin.ca.gov/",
+  "timestamp": 1708178156101,
+  "ranks": {
+    "hundos": 405,
+    "performance": 371,
+    "accessibility": 354,
+    "cumulative": 405
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.35,
+    "accessibility": 0.83,
+    "bestPractices": 0.52,
+    "seo": 0.85,
+    "total": 255
+  },
+  "firstContentfulPaint": 2436.6115,
+  "firstMeaningfulPaint": 2436.6115,
+  "speedIndex": 8217.8553029968,
+  "largestContentfulPaint": 14786.9555,
+  "totalBlockingTime": 819.5,
+  "cumulativeLayoutShift": 0.1949043134872418,
+  "timeToInteractive": 17020.2755,
+  "maxPotentialFirstInputDelay": 537,
+  "timeToFirstByte": 270.07399999999996,
+  "weight": {
+    "summary": "121 requests • 2.7 MiB",
+    "total": 2843706,
+    "image": 599350,
+    "imageCount": 45,
+    "script": 1992473,
+    "scriptCount": 38,
+    "document": 34410,
+    "font": 37116,
+    "fontCount": 3,
+    "stylesheet": 123245,
+    "stylesheetCount": 10,
+    "thirdParty": 1784108,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 228,
+    "+weight.total": 195,
+    "-weight.document": 198,
+    "+weight.document": 221,
+    "-weight.script": 379,
+    "+weight.script": 41,
+    "-weight.image": 150,
+    "+weight.image": 267,
+    "-weight.font": 17,
+    "+weight.font": 334,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 270,
+    "-totalBlockingTime": 242,
+    "-largestContentfulPaint": 340
+  },
+  "axe": {
+    "passes": 1708,
+    "violations": 35
+  }
+}

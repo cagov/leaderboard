@@ -1,0 +1,67 @@
+{
+  "url": "https://monocounty.ca.gov/",
+  "requestedUrl": "https://mono.ca.gov/",
+  "timestamp": 1708269949919,
+  "ranks": {
+    "hundos": 127,
+    "performance": 92,
+    "accessibility": 211,
+    "cumulative": 127
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.66,
+    "accessibility": 0.92,
+    "bestPractices": 0.96,
+    "seo": 0.84,
+    "total": 338
+  },
+  "firstContentfulPaint": 3295.8474699999997,
+  "firstMeaningfulPaint": 4347.418175,
+  "speedIndex": 4624.984912830138,
+  "largestContentfulPaint": 10188.058972500005,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.00016646850227106365,
+  "timeToInteractive": 9645.154772500007,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 36.142999999999994,
+  "weight": {
+    "summary": "47 requests • 1.7 MiB",
+    "total": 1732000,
+    "image": 1340471,
+    "imageCount": 23,
+    "script": 270550,
+    "scriptCount": 10,
+    "document": 11316,
+    "font": 74692,
+    "fontCount": 3,
+    "stylesheet": 34212,
+    "stylesheetCount": 7,
+    "thirdParty": 280379,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 118,
+    "+weight.total": 307,
+    "-weight.document": 46,
+    "+weight.document": 373,
+    "-weight.script": 50,
+    "+weight.script": 371,
+    "-weight.image": 245,
+    "+weight.image": 173,
+    "-weight.font": 55,
+    "+weight.font": 302,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 106,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 145
+  },
+  "axe": {
+    "passes": 372,
+    "violations": 6
+  }
+}

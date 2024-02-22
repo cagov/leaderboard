@@ -1,0 +1,67 @@
+{
+  "url": "https://post.ca.gov/",
+  "requestedUrl": "https://post.ca.gov/",
+  "timestamp": 1708188941277,
+  "ranks": {
+    "hundos": 25,
+    "performance": 26,
+    "accessibility": 30,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.9,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 2139.0345,
+  "firstMeaningfulPaint": 2139.0345,
+  "speedIndex": 3103.6153415557274,
+  "largestContentfulPaint": 3145.8385000000007,
+  "totalBlockingTime": 97,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7755.054499999998,
+  "maxPotentialFirstInputDelay": 242,
+  "timeToFirstByte": 242.223,
+  "weight": {
+    "summary": "35 requests • 1,020.5 KiB",
+    "total": 1045000,
+    "image": 27556,
+    "imageCount": 10,
+    "script": 719263,
+    "scriptCount": 16,
+    "document": 13397,
+    "font": 186617,
+    "fontCount": 5,
+    "stylesheet": 97916,
+    "stylesheetCount": 2,
+    "thirdParty": 212450,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 54,
+    "+weight.total": 369,
+    "-weight.document": 58,
+    "+weight.document": 361,
+    "-weight.script": 158,
+    "+weight.script": 262,
+    "-weight.image": 9,
+    "+weight.image": 408,
+    "-weight.font": 184,
+    "+weight.font": 167,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 263,
+    "-totalBlockingTime": 137,
+    "-largestContentfulPaint": 30
+  },
+  "axe": {
+    "passes": 482,
+    "violations": 1
+  }
+}

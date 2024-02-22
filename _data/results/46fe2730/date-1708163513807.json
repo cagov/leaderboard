@@ -1,0 +1,67 @@
+{
+  "url": "https://fosteryouthhelp.ca.gov/",
+  "requestedUrl": "https://fosteryouthhelp.ca.gov/",
+  "timestamp": 1708180503788,
+  "ranks": {
+    "hundos": 223,
+    "performance": 365,
+    "accessibility": 238,
+    "cumulative": 223
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 313
+  },
+  "firstContentfulPaint": 3550.122,
+  "firstMeaningfulPaint": 4750.121999999999,
+  "speedIndex": 9738.252167524757,
+  "largestContentfulPaint": 19825.122,
+  "totalBlockingTime": 58,
+  "cumulativeLayoutShift": 0.7616254620590871,
+  "timeToInteractive": 16037.622,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 844.6650000000001,
+  "weight": {
+    "summary": "100 requests • 5.5 MiB",
+    "total": 5760762,
+    "image": 3991219,
+    "imageCount": 34,
+    "script": 771520,
+    "scriptCount": 25,
+    "document": 41382,
+    "font": 756377,
+    "fontCount": 12,
+    "stylesheet": 199402,
+    "stylesheetCount": 21,
+    "thirdParty": 788728,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 333,
+    "+weight.total": 90,
+    "-weight.document": 253,
+    "+weight.document": 166,
+    "-weight.script": 167,
+    "+weight.script": 253,
+    "-weight.image": 344,
+    "+weight.image": 73,
+    "-weight.font": 339,
+    "+weight.font": 12,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 383,
+    "-totalBlockingTime": 91,
+    "-largestContentfulPaint": 304
+  },
+  "axe": {
+    "passes": 1047,
+    "violations": 13
+  }
+}

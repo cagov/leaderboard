@@ -1,0 +1,67 @@
+{
+  "url": "https://calpers.ca.gov/",
+  "requestedUrl": "https://calpers.ca.gov/",
+  "timestamp": 1708252639469,
+  "ranks": {
+    "hundos": 48,
+    "performance": 154,
+    "accessibility": 84,
+    "cumulative": 48
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.57,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 355
+  },
+  "firstContentfulPaint": 5294.749,
+  "firstMeaningfulPaint": 6418.646999999999,
+  "speedIndex": 5294.749,
+  "largestContentfulPaint": 10613.3035,
+  "totalBlockingTime": 45.5,
+  "cumulativeLayoutShift": 0.12393681652490887,
+  "timeToInteractive": 12927.121499999997,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 27.061999999999998,
+  "weight": {
+    "summary": "67 requests • 3.1 MiB",
+    "total": 3270937,
+    "image": 1738761,
+    "imageCount": 19,
+    "script": 719651,
+    "scriptCount": 24,
+    "document": 157616,
+    "font": 119682,
+    "fontCount": 3,
+    "stylesheet": 500133,
+    "stylesheetCount": 12,
+    "thirdParty": 778166,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 258,
+    "+weight.total": 167,
+    "-weight.document": 373,
+    "+weight.document": 46,
+    "-weight.script": 161,
+    "+weight.script": 260,
+    "-weight.image": 269,
+    "+weight.image": 149,
+    "-weight.font": 116,
+    "+weight.font": 241,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 79,
+    "-totalBlockingTime": 71,
+    "-largestContentfulPaint": 151
+  },
+  "axe": {
+    "passes": 885,
+    "violations": 8
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://townofmammothlakes.ca.gov/",
+  "requestedUrl": "https://townofmammothlakes.ca.gov/",
+  "timestamp": 1708279594025,
+  "ranks": {
+    "hundos": 335,
+    "performance": 205,
+    "accessibility": 319,
+    "cumulative": 336
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.86,
+    "bestPractices": 0.7,
+    "seo": 0.77,
+    "total": 285
+  },
+  "firstContentfulPaint": 2606.944,
+  "firstMeaningfulPaint": 2606.944,
+  "speedIndex": 5405.525875316482,
+  "largestContentfulPaint": 11092.710000000001,
+  "totalBlockingTime": 208,
+  "cumulativeLayoutShift": 0.23523079292739338,
+  "timeToInteractive": 8920.666000000001,
+  "maxPotentialFirstInputDelay": 174,
+  "timeToFirstByte": 240.12199999999999,
+  "weight": {
+    "summary": "66 requests • 2.3 MiB",
+    "total": 2392383,
+    "image": 1264889,
+    "imageCount": 25,
+    "script": 851632,
+    "scriptCount": 23,
+    "document": 31300,
+    "font": 92660,
+    "fontCount": 3,
+    "stylesheet": 129363,
+    "stylesheetCount": 6,
+    "thirdParty": 533509,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 178,
+    "+weight.total": 247,
+    "-weight.document": 161,
+    "+weight.document": 258,
+    "-weight.script": 185,
+    "+weight.script": 236,
+    "-weight.image": 241,
+    "+weight.image": 177,
+    "-weight.font": 76,
+    "+weight.font": 281,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 266,
+    "-totalBlockingTime": 169,
+    "-largestContentfulPaint": 161
+  },
+  "axe": {
+    "passes": 1275,
+    "violations": 26
+  }
+}

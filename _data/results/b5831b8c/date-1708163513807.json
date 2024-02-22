@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ttsa.ca.gov/",
+  "requestedUrl": "https://ttsa.ca.gov/",
+  "timestamp": 1708196112238,
+  "ranks": {
+    "hundos": 119,
+    "performance": 138,
+    "accessibility": 121,
+    "cumulative": 119
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.82,
+    "total": 339
+  },
+  "firstContentfulPaint": 3461.3710000000005,
+  "firstMeaningfulPaint": 3461.3710000000005,
+  "speedIndex": 4254.74904199245,
+  "largestContentfulPaint": 5044.894000000001,
+  "totalBlockingTime": 6.5,
+  "cumulativeLayoutShift": 0.274713566130158,
+  "timeToInteractive": 4897.1050000000005,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 380.71700000000004,
+  "weight": {
+    "summary": "78 requests • 570.5 KiB",
+    "total": 584212,
+    "image": 139895,
+    "imageCount": 5,
+    "script": 212448,
+    "scriptCount": 33,
+    "document": 20351,
+    "font": 145551,
+    "fontCount": 3,
+    "stylesheet": 65096,
+    "stylesheetCount": 32,
+    "thirdParty": 193632,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 25,
+    "+weight.total": 398,
+    "-weight.document": 97,
+    "+weight.document": 322,
+    "-weight.script": 35,
+    "+weight.script": 385,
+    "-weight.image": 44,
+    "+weight.image": 373,
+    "-weight.font": 139,
+    "+weight.font": 212,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 310,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 71
+  },
+  "axe": {
+    "passes": 7,
+    "violations": 4
+  }
+}

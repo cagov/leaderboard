@@ -1,0 +1,67 @@
+{
+  "url": "https://www.lemongrove.ca.gov/",
+  "requestedUrl": "https://lemongrove.ca.gov/",
+  "timestamp": 1708184474682,
+  "ranks": {
+    "hundos": 293,
+    "performance": 195,
+    "accessibility": 218,
+    "cumulative": 293
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "bestPractices": 0.56,
+    "seo": 0.98,
+    "total": 300
+  },
+  "firstContentfulPaint": 5133.4415,
+  "firstMeaningfulPaint": 5133.4415,
+  "speedIndex": 14537.259731375683,
+  "largestContentfulPaint": 38574.15500000001,
+  "totalBlockingTime": 142,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 25112.9055,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 309.741,
+  "weight": {
+    "summary": "124 requests • 8.3 MiB",
+    "total": 8703276,
+    "image": 6271518,
+    "imageCount": 48,
+    "script": 1908848,
+    "scriptCount": 34,
+    "document": 75231,
+    "font": 152656,
+    "fontCount": 7,
+    "stylesheet": 231065,
+    "stylesheetCount": 20,
+    "thirdParty": 2324347,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 374,
+    "+weight.total": 49,
+    "-weight.document": 334,
+    "+weight.document": 85,
+    "-weight.script": 373,
+    "+weight.script": 47,
+    "-weight.image": 376,
+    "+weight.image": 41,
+    "-weight.font": 153,
+    "+weight.font": 198,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 294,
+    "-totalBlockingTime": 159,
+    "-largestContentfulPaint": 407
+  },
+  "axe": {
+    "passes": 1481,
+    "violations": 29
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdss.ca.gov/earned-income-tax-credit",
+  "requestedUrl": "https://eitc.ca.gov/",
+  "timestamp": 1708179014509,
+  "ranks": {
+    "hundos": 394,
+    "performance": 210,
+    "accessibility": 139,
+    "cumulative": 394
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.96,
+    "bestPractices": 0.33,
+    "seo": 0.78,
+    "total": 259
+  },
+  "firstContentfulPaint": 6979.333000000002,
+  "firstMeaningfulPaint": 6979.333000000002,
+  "speedIndex": 7187.29902392238,
+  "largestContentfulPaint": 8274.099000000004,
+  "totalBlockingTime": 12,
+  "cumulativeLayoutShift": 0.15122320774345985,
+  "timeToInteractive": 6979.333000000002,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 241.252,
+  "weight": {
+    "summary": "58 requests • 807.1 KiB",
+    "total": 826501,
+    "image": 31320,
+    "imageCount": 12,
+    "script": 607549,
+    "scriptCount": 23,
+    "document": 27601,
+    "font": 64216,
+    "fontCount": 1,
+    "stylesheet": 94785,
+    "stylesheetCount": 15,
+    "thirdParty": 402410,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 43,
+    "+weight.total": 380,
+    "-weight.document": 137,
+    "+weight.document": 282,
+    "-weight.script": 132,
+    "+weight.script": 288,
+    "-weight.image": 12,
+    "+weight.image": 405,
+    "-weight.font": 41,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 262,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 148
+  },
+  "axe": {
+    "passes": 702,
+    "violations": 8
+  }
+}

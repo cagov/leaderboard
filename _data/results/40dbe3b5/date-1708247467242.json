@@ -1,0 +1,67 @@
+{
+  "url": "https://www.caclimateinvestments.ca.gov/",
+  "requestedUrl": "https://caclimateinvestments.ca.gov/",
+  "timestamp": 1708250541616,
+  "ranks": {
+    "hundos": 338,
+    "performance": 343,
+    "accessibility": 340,
+    "cumulative": 338
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.39,
+    "accessibility": 0.85,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 284
+  },
+  "firstContentfulPaint": 8290.187999999998,
+  "firstMeaningfulPaint": 9080.527999999998,
+  "speedIndex": 14825.37641644419,
+  "largestContentfulPaint": 14138.703999999998,
+  "totalBlockingTime": 635.5,
+  "cumulativeLayoutShift": 0.03645200486026731,
+  "timeToInteractive": 26269.911999999997,
+  "maxPotentialFirstInputDelay": 324,
+  "timeToFirstByte": 88.802,
+  "weight": {
+    "summary": "114 requests • 5.3 MiB",
+    "total": 5586310,
+    "image": 721807,
+    "imageCount": 19,
+    "script": 2650674,
+    "scriptCount": 35,
+    "document": 98264,
+    "font": 328712,
+    "fontCount": 23,
+    "stylesheet": 120325,
+    "stylesheetCount": 6,
+    "thirdParty": 5568722,
+    "thirdPartyCount": 16
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 330,
+    "+weight.total": 95,
+    "-weight.document": 343,
+    "+weight.document": 76,
+    "-weight.script": 402,
+    "+weight.script": 19,
+    "-weight.image": 178,
+    "+weight.image": 240,
+    "-weight.font": 262,
+    "+weight.font": 95,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 170,
+    "-totalBlockingTime": 222,
+    "-largestContentfulPaint": 297
+  },
+  "axe": {
+    "passes": 674,
+    "violations": 55
+  }
+}

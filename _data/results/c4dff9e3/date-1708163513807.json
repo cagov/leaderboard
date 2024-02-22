@@ -1,0 +1,67 @@
+{
+  "url": "https://calable.ca.gov/",
+  "requestedUrl": "https://calable.ca.gov/",
+  "timestamp": 1708166885857,
+  "ranks": {
+    "hundos": 185,
+    "performance": 144,
+    "accessibility": 302,
+    "cumulative": 185
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.87,
+    "bestPractices": 0.78,
+    "seo": 0.99,
+    "total": 323
+  },
+  "firstContentfulPaint": 3792.8660000000004,
+  "firstMeaningfulPaint": 3792.8660000000004,
+  "speedIndex": 7350.61725842182,
+  "largestContentfulPaint": 6342.7119999999995,
+  "totalBlockingTime": 115.5,
+  "cumulativeLayoutShift": 0.11400471414796387,
+  "timeToInteractive": 14912.652000000002,
+  "maxPotentialFirstInputDelay": 166,
+  "timeToFirstByte": 172.28999999999996,
+  "weight": {
+    "summary": "51 requests • 2.5 MiB",
+    "total": 2673676,
+    "image": 1120467,
+    "imageCount": 21,
+    "script": 1044276,
+    "scriptCount": 8,
+    "document": 101724,
+    "font": 225409,
+    "fontCount": 6,
+    "stylesheet": 138646,
+    "stylesheetCount": 5,
+    "thirdParty": 1504312,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 211,
+    "+weight.total": 212,
+    "-weight.document": 349,
+    "+weight.document": 70,
+    "-weight.script": 266,
+    "+weight.script": 154,
+    "-weight.image": 231,
+    "+weight.image": 186,
+    "-weight.font": 206,
+    "+weight.font": 145,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 248,
+    "-totalBlockingTime": 146,
+    "-largestContentfulPaint": 105
+  },
+  "axe": {
+    "passes": 734,
+    "violations": 10
+  }
+}

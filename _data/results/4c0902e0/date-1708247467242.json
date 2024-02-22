@@ -1,0 +1,67 @@
+{
+  "url": "https://cfb.ca.gov/",
+  "requestedUrl": "https://cfb.ca.gov/",
+  "timestamp": 1708255024677,
+  "ranks": {
+    "hundos": 88,
+    "performance": 46,
+    "accessibility": 100,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.79,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.77,
+    "total": 345
+  },
+  "firstContentfulPaint": 1930.0064999999995,
+  "firstMeaningfulPaint": 1930.0064999999995,
+  "speedIndex": 4179.464675475544,
+  "largestContentfulPaint": 4202.388499999998,
+  "totalBlockingTime": 23.5,
+  "cumulativeLayoutShift": 0.10840984125242743,
+  "timeToInteractive": 5374.249500000001,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 19.539999999999992,
+  "weight": {
+    "summary": "78 requests • 1.3 MiB",
+    "total": 1333902,
+    "image": 864364,
+    "imageCount": 50,
+    "script": 411368,
+    "scriptCount": 14,
+    "document": 35627,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 21859,
+    "stylesheetCount": 9,
+    "thirdParty": 384918,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 80,
+    "+weight.total": 345,
+    "-weight.document": 202,
+    "+weight.document": 217,
+    "-weight.script": 85,
+    "+weight.script": 336,
+    "-weight.image": 196,
+    "+weight.image": 222,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 50,
+    "-totalBlockingTime": 41,
+    "-largestContentfulPaint": 186
+  },
+  "axe": {
+    "passes": 550,
+    "violations": 39
+  }
+}

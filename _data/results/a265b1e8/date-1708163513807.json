@@ -1,0 +1,67 @@
+{
+  "url": "https://bpelsg.ca.gov/",
+  "requestedUrl": "https://bpelsg.ca.gov/",
+  "timestamp": 1708165762770,
+  "ranks": {
+    "hundos": 107,
+    "performance": 213,
+    "accessibility": 113,
+    "cumulative": 107
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 341
+  },
+  "firstContentfulPaint": 3868.446,
+  "firstMeaningfulPaint": 6179.416000000001,
+  "speedIndex": 8102.812566521858,
+  "largestContentfulPaint": 10419.611,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.17467901980727069,
+  "timeToInteractive": 6179.416000000001,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 16.491,
+  "weight": {
+    "summary": "45 requests • 3.0 MiB",
+    "total": 3161580,
+    "image": 1755483,
+    "imageCount": 20,
+    "script": 896622,
+    "scriptCount": 11,
+    "document": 40108,
+    "font": 80194,
+    "fontCount": 3,
+    "stylesheet": 387970,
+    "stylesheetCount": 4,
+    "thirdParty": 409276,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 247,
+    "+weight.total": 176,
+    "-weight.document": 246,
+    "+weight.document": 173,
+    "-weight.script": 207,
+    "+weight.script": 213,
+    "-weight.image": 271,
+    "+weight.image": 146,
+    "-weight.font": 65,
+    "+weight.font": 286,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 31,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 200
+  },
+  "axe": {
+    "passes": 655,
+    "violations": 2
+  }
+}

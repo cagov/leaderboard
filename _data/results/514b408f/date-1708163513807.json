@@ -1,0 +1,67 @@
+{
+  "url": "https://recycledelnorte.ca.gov/",
+  "requestedUrl": "https://recycledelnorte.ca.gov/",
+  "timestamp": 1708189964701,
+  "ranks": {
+    "hundos": 366,
+    "performance": 280,
+    "accessibility": 416,
+    "cumulative": 369
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.71,
+    "bestPractices": 1,
+    "seo": 0.6,
+    "total": 276
+  },
+  "firstContentfulPaint": 3081.1639999999998,
+  "firstMeaningfulPaint": 3081.1639999999998,
+  "speedIndex": 3134.635205175332,
+  "largestContentfulPaint": 46553.59599999999,
+  "totalBlockingTime": 62,
+  "cumulativeLayoutShift": 0.8783545420362217,
+  "timeToInteractive": 5377.598,
+  "maxPotentialFirstInputDelay": 112,
+  "timeToFirstByte": 14.531000000000006,
+  "weight": {
+    "summary": "52 requests • 9.0 MiB",
+    "total": 9459531,
+    "image": 8758849,
+    "imageCount": 21,
+    "script": 667808,
+    "scriptCount": 21,
+    "document": 3627,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 25364,
+    "stylesheetCount": 1,
+    "thirdParty": 312422,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 382,
+    "+weight.total": 41,
+    "-weight.document": 8,
+    "+weight.document": 411,
+    "-weight.script": 149,
+    "+weight.script": 271,
+    "-weight.image": 393,
+    "+weight.image": 24,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 97,
+    "-largestContentfulPaint": 414
+  },
+  "axe": {
+    "passes": 352,
+    "violations": 35
+  }
+}

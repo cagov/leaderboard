@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiadgstats.ca.gov/",
+  "requestedUrl": "https://californiadgstats.ca.gov/",
+  "timestamp": 1707764757489,
+  "ranks": {
+    "hundos": 159,
+    "performance": 121,
+    "accessibility": 277,
+    "cumulative": 159
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 0.89,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 329
+  },
+  "firstContentfulPaint": 4887.7694,
+  "firstMeaningfulPaint": 5255.105200000001,
+  "speedIndex": 5302.093696192356,
+  "largestContentfulPaint": 7720.774600000001,
+  "totalBlockingTime": 24.499999999999545,
+  "cumulativeLayoutShift": 0.050637101330698785,
+  "timeToInteractive": 7224.597,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 66.32000000000001,
+  "weight": {
+    "summary": "37 requests • 1.1 MiB",
+    "total": 1191954,
+    "image": 589992,
+    "imageCount": 11,
+    "script": 278918,
+    "scriptCount": 9,
+    "document": 24914,
+    "font": 107668,
+    "fontCount": 2,
+    "stylesheet": 184170,
+    "stylesheetCount": 3,
+    "thirdParty": 396827,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 68,
+    "+weight.total": 358,
+    "-weight.document": 123,
+    "+weight.document": 300,
+    "-weight.script": 55,
+    "+weight.script": 367,
+    "-weight.image": 144,
+    "+weight.image": 278,
+    "-weight.font": 95,
+    "+weight.font": 264,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 155,
+    "-totalBlockingTime": 41,
+    "-largestContentfulPaint": 129
+  },
+  "axe": {
+    "passes": 470,
+    "violations": 16
+  }
+}

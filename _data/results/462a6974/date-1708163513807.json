@@ -1,0 +1,67 @@
+{
+  "url": "https://qfd.ca.gov/",
+  "requestedUrl": "https://qfd.ca.gov/",
+  "timestamp": 1708189517622,
+  "ranks": {
+    "hundos": 208,
+    "performance": 220,
+    "accessibility": 76,
+    "cumulative": 208
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.92,
+    "total": 318
+  },
+  "firstContentfulPaint": 8737.504249999998,
+  "firstMeaningfulPaint": 10328.10275,
+  "speedIndex": 13852.71341784098,
+  "largestContentfulPaint": 23646.193499999994,
+  "totalBlockingTime": 194.5,
+  "cumulativeLayoutShift": 0.032806804374240585,
+  "timeToInteractive": 21772.835750000002,
+  "maxPotentialFirstInputDelay": 213,
+  "timeToFirstByte": 279.09,
+  "weight": {
+    "summary": "67 requests • 5.1 MiB",
+    "total": 5360683,
+    "image": 2530595,
+    "imageCount": 25,
+    "script": 2437300,
+    "scriptCount": 18,
+    "document": 72636,
+    "font": 129590,
+    "fontCount": 5,
+    "stylesheet": 148030,
+    "stylesheetCount": 8,
+    "thirdParty": 4351746,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 324,
+    "+weight.total": 99,
+    "-weight.document": 330,
+    "+weight.document": 89,
+    "-weight.script": 397,
+    "+weight.script": 23,
+    "-weight.image": 309,
+    "+weight.image": 108,
+    "-weight.font": 125,
+    "+weight.font": 226,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 278,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 377
+  },
+  "axe": {
+    "passes": 1354,
+    "violations": 5
+  }
+}

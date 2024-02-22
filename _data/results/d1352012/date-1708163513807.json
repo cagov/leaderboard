@@ -1,0 +1,67 @@
+{
+  "url": "https://catc.ca.gov/",
+  "requestedUrl": "https://catc.ca.gov/",
+  "timestamp": 1708169616427,
+  "ranks": {
+    "hundos": 244,
+    "performance": 245,
+    "accessibility": 150,
+    "cumulative": 243
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.49,
+    "accessibility": 0.95,
+    "bestPractices": 0.67,
+    "seo": 0.98,
+    "total": 309
+  },
+  "firstContentfulPaint": 3166.937500000001,
+  "firstMeaningfulPaint": 3524.435000000001,
+  "speedIndex": 7943.051118999976,
+  "largestContentfulPaint": 7658.509500000002,
+  "totalBlockingTime": 151.5,
+  "cumulativeLayoutShift": 0.22697937641431282,
+  "timeToInteractive": 22940.4965,
+  "maxPotentialFirstInputDelay": 348,
+  "timeToFirstByte": 81.606,
+  "weight": {
+    "summary": "57 requests • 4.8 MiB",
+    "total": 5015365,
+    "image": 2851495,
+    "imageCount": 18,
+    "script": 1801160,
+    "scriptCount": 21,
+    "document": 43762,
+    "font": 129367,
+    "fontCount": 3,
+    "stylesheet": 189070,
+    "stylesheetCount": 11,
+    "thirdParty": 1546919,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 314,
+    "+weight.total": 109,
+    "-weight.document": 263,
+    "+weight.document": 156,
+    "-weight.script": 364,
+    "+weight.script": 56,
+    "-weight.image": 320,
+    "+weight.image": 97,
+    "-weight.font": 124,
+    "+weight.font": 227,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 170,
+    "-totalBlockingTime": 163,
+    "-largestContentfulPaint": 138
+  },
+  "axe": {
+    "passes": 985,
+    "violations": 2
+  }
+}

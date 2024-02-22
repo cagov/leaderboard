@@ -1,0 +1,67 @@
+{
+  "url": "https://reedley.ca.gov/",
+  "requestedUrl": "https://reedley.ca.gov/",
+  "timestamp": 1708189974968,
+  "ranks": {
+    "hundos": 295,
+    "performance": 111,
+    "accessibility": 356,
+    "cumulative": 295
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 0.83,
+    "bestPractices": 0.74,
+    "seo": 0.78,
+    "total": 298
+  },
+  "firstContentfulPaint": 5137.504000000001,
+  "firstMeaningfulPaint": 6432.389500000001,
+  "speedIndex": 5137.504000000001,
+  "largestContentfulPaint": 7129.704500000001,
+  "totalBlockingTime": 28,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9126.660500000004,
+  "maxPotentialFirstInputDelay": 67,
+  "timeToFirstByte": 16.70899999999999,
+  "weight": {
+    "summary": "101 requests • 1.9 MiB",
+    "total": 2024692,
+    "image": 843437,
+    "imageCount": 12,
+    "script": 549466,
+    "scriptCount": 33,
+    "document": 35849,
+    "font": 370361,
+    "fontCount": 13,
+    "stylesheet": 225318,
+    "stylesheetCount": 40,
+    "thirdParty": 302878,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 146,
+    "+weight.total": 277,
+    "-weight.document": 211,
+    "+weight.document": 208,
+    "-weight.script": 119,
+    "+weight.script": 301,
+    "-weight.image": 190,
+    "+weight.image": 227,
+    "-weight.font": 270,
+    "+weight.font": 81,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 32,
+    "-totalBlockingTime": 52,
+    "-largestContentfulPaint": 126
+  },
+  "axe": {
+    "passes": 940,
+    "violations": 90
+  }
+}

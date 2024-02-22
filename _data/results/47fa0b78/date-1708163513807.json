@@ -1,0 +1,67 @@
+{
+  "url": "https://chiro.ca.gov/",
+  "requestedUrl": "https://chiro.ca.gov/",
+  "timestamp": 1708171543957,
+  "ranks": {
+    "hundos": 51,
+    "performance": 29,
+    "accessibility": 99,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.89,
+    "seo": 0.77,
+    "total": 353
+  },
+  "firstContentfulPaint": 1918.6854999999998,
+  "firstMeaningfulPaint": 2644.8115,
+  "speedIndex": 1918.6854999999998,
+  "largestContentfulPaint": 3873.672499999999,
+  "totalBlockingTime": 15.5,
+  "cumulativeLayoutShift": 0.011134693995463907,
+  "timeToInteractive": 5746.949499999999,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 17.84400000000001,
+  "weight": {
+    "summary": "63 requests • 940.0 KiB",
+    "total": 962557,
+    "image": 392471,
+    "imageCount": 36,
+    "script": 505701,
+    "scriptCount": 13,
+    "document": 39057,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 24610,
+    "stylesheetCount": 9,
+    "thirdParty": 495366,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 51,
+    "+weight.total": 372,
+    "-weight.document": 231,
+    "+weight.document": 188,
+    "-weight.script": 112,
+    "+weight.script": 308,
+    "-weight.image": 104,
+    "+weight.image": 313,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 41,
+    "-totalBlockingTime": 30,
+    "-largestContentfulPaint": 38
+  },
+  "axe": {
+    "passes": 785,
+    "violations": 39
+  }
+}

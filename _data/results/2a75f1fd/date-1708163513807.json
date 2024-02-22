@@ -1,0 +1,67 @@
+{
+  "url": "https://ncsd.ca.gov/",
+  "requestedUrl": "https://ncsd.ca.gov/",
+  "timestamp": 1708186855640,
+  "ranks": {
+    "hundos": 294,
+    "performance": 163,
+    "accessibility": 400,
+    "cumulative": 294
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.75,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 299
+  },
+  "firstContentfulPaint": 2433.515,
+  "firstMeaningfulPaint": 2433.515,
+  "speedIndex": 6747.351689024532,
+  "largestContentfulPaint": 5283.514999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2969587445588853,
+  "timeToInteractive": 2433.515,
+  "maxPotentialFirstInputDelay": 38,
+  "timeToFirstByte": 320.08,
+  "weight": {
+    "summary": "107 requests • 2.2 MiB",
+    "total": 2334459,
+    "image": 1389897,
+    "imageCount": 36,
+    "script": 327305,
+    "scriptCount": 27,
+    "document": 127420,
+    "font": 216554,
+    "fontCount": 7,
+    "stylesheet": 134000,
+    "stylesheetCount": 22,
+    "thirdParty": 534236,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 175,
+    "+weight.total": 248,
+    "-weight.document": 364,
+    "+weight.document": 55,
+    "-weight.script": 68,
+    "+weight.script": 352,
+    "-weight.image": 247,
+    "+weight.image": 170,
+    "-weight.font": 198,
+    "+weight.font": 153,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 297,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 79
+  },
+  "axe": {
+    "passes": 567,
+    "violations": 20
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://saltoncsd.ca.gov/",
+  "requestedUrl": "https://saltoncsd.ca.gov/",
+  "timestamp": 1708190627168,
+  "ranks": {
+    "hundos": 99,
+    "performance": 164,
+    "accessibility": 40,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 344
+  },
+  "firstContentfulPaint": 8202.28375,
+  "firstMeaningfulPaint": 8484.12975,
+  "speedIndex": 8202.28375,
+  "largestContentfulPaint": 13557.35775,
+  "totalBlockingTime": 111.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14334.965249999997,
+  "maxPotentialFirstInputDelay": 213,
+  "timeToFirstByte": 285.351,
+  "weight": {
+    "summary": "41 requests • 2.5 MiB",
+    "total": 2592106,
+    "image": 1047357,
+    "imageCount": 21,
+    "script": 1354306,
+    "scriptCount": 9,
+    "document": 32300,
+    "font": 62252,
+    "fontCount": 2,
+    "stylesheet": 95022,
+    "stylesheetCount": 6,
+    "thirdParty": 1583476,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 204,
+    "+weight.total": 219,
+    "-weight.document": 174,
+    "+weight.document": 245,
+    "-weight.script": 315,
+    "+weight.script": 105,
+    "-weight.image": 220,
+    "+weight.image": 197,
+    "-weight.font": 31,
+    "+weight.font": 320,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 282,
+    "-totalBlockingTime": 145,
+    "-largestContentfulPaint": 251
+  },
+  "axe": {
+    "passes": 934,
+    "violations": 2
+  }
+}

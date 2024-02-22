@@ -1,0 +1,67 @@
+{
+  "url": "https://eaap.ca.gov/",
+  "requestedUrl": "https://eaap.ca.gov/",
+  "timestamp": 1708178359030,
+  "ranks": {
+    "hundos": 76,
+    "performance": 206,
+    "accessibility": 123,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 348
+  },
+  "firstContentfulPaint": 2274.5825,
+  "firstMeaningfulPaint": 5672.5825,
+  "speedIndex": 5216.889582263988,
+  "largestContentfulPaint": 7974.5825,
+  "totalBlockingTime": 86.5,
+  "cumulativeLayoutShift": 0.3279765077237207,
+  "timeToInteractive": 7644.0825,
+  "maxPotentialFirstInputDelay": 102,
+  "timeToFirstByte": 757.157,
+  "weight": {
+    "summary": "54 requests • 1.2 MiB",
+    "total": 1289894,
+    "image": 184761,
+    "imageCount": 7,
+    "script": 603923,
+    "scriptCount": 21,
+    "document": 33073,
+    "font": 303451,
+    "fontCount": 5,
+    "stylesheet": 163906,
+    "stylesheetCount": 14,
+    "thirdParty": 484610,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 71,
+    "+weight.total": 352,
+    "-weight.document": 180,
+    "+weight.document": 239,
+    "-weight.script": 130,
+    "+weight.script": 290,
+    "-weight.image": 52,
+    "+weight.image": 365,
+    "-weight.font": 246,
+    "+weight.font": 105,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 377,
+    "-totalBlockingTime": 126,
+    "-largestContentfulPaint": 143
+  },
+  "axe": {
+    "passes": 431,
+    "violations": 5
+  }
+}

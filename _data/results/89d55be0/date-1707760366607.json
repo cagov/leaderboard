@@ -1,0 +1,67 @@
+{
+  "url": "https://losaltoshills.ca.gov/",
+  "requestedUrl": "https://losaltoshills.ca.gov/",
+  "timestamp": 1707781572616,
+  "ranks": {
+    "hundos": 399,
+    "performance": 278,
+    "accessibility": 416,
+    "cumulative": 399
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.72,
+    "bestPractices": 0.52,
+    "seo": 0.9,
+    "total": 259
+  },
+  "firstContentfulPaint": 2473.676,
+  "firstMeaningfulPaint": 2473.676,
+  "speedIndex": 8627.09486373968,
+  "largestContentfulPaint": 21944.99550000001,
+  "totalBlockingTime": 592,
+  "cumulativeLayoutShift": 0.11568614705220549,
+  "timeToInteractive": 17653.499499999998,
+  "maxPotentialFirstInputDelay": 417,
+  "timeToFirstByte": 352.476,
+  "weight": {
+    "summary": "133 requests • 8.9 MiB",
+    "total": 9307197,
+    "image": 7255699,
+    "imageCount": 51,
+    "script": 1714713,
+    "scriptCount": 55,
+    "document": 150038,
+    "font": 36828,
+    "fontCount": 3,
+    "stylesheet": 120690,
+    "stylesheetCount": 8,
+    "thirdParty": 1464750,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 381,
+    "+weight.total": 45,
+    "-weight.document": 376,
+    "+weight.document": 47,
+    "-weight.script": 355,
+    "+weight.script": 67,
+    "-weight.image": 386,
+    "+weight.image": 36,
+    "-weight.font": 16,
+    "+weight.font": 343,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 300,
+    "-totalBlockingTime": 224,
+    "-largestContentfulPaint": 359
+  },
+  "axe": {
+    "passes": 1529,
+    "violations": 48
+  }
+}

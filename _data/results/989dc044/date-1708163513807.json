@@ -1,0 +1,67 @@
+{
+  "url": "https://mlfd.ca.gov/",
+  "requestedUrl": "https://mlfd.ca.gov/",
+  "timestamp": 1708185803869,
+  "ranks": {
+    "hundos": 318,
+    "performance": 77,
+    "accessibility": 262,
+    "cumulative": 318
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.69,
+    "accessibility": 0.9,
+    "bestPractices": 0.52,
+    "seo": 0.79,
+    "total": 290
+  },
+  "firstContentfulPaint": 2670.6004999999996,
+  "firstMeaningfulPaint": 3285.5525000000002,
+  "speedIndex": 5263.065824507772,
+  "largestContentfulPaint": 6626.409100000001,
+  "totalBlockingTime": 61.5,
+  "cumulativeLayoutShift": 0.04824093113452617,
+  "timeToInteractive": 7889.700500000003,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 1036.425,
+  "weight": {
+    "summary": "94 requests • 3.3 MiB",
+    "total": 3500438,
+    "image": 2551087,
+    "imageCount": 16,
+    "script": 609798,
+    "scriptCount": 52,
+    "document": 21099,
+    "font": 193435,
+    "fontCount": 7,
+    "stylesheet": 124799,
+    "stylesheetCount": 15,
+    "thirdParty": 312761,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 268,
+    "+weight.total": 155,
+    "-weight.document": 104,
+    "+weight.document": 315,
+    "-weight.script": 134,
+    "+weight.script": 286,
+    "-weight.image": 310,
+    "+weight.image": 107,
+    "-weight.font": 187,
+    "+weight.font": 164,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 395,
+    "-totalBlockingTime": 96,
+    "-largestContentfulPaint": 111
+  },
+  "axe": {
+    "passes": 979,
+    "violations": 43
+  }
+}

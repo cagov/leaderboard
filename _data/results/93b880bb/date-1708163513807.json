@@ -1,0 +1,67 @@
+{
+  "url": "https://sco.ca.gov/search_upd.html",
+  "requestedUrl": "https://claimit.ca.gov/",
+  "timestamp": 1708172196625,
+  "ranks": {
+    "hundos": 14,
+    "performance": 33,
+    "accessibility": 18,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.84,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 369
+  },
+  "firstContentfulPaint": 2898.819,
+  "firstMeaningfulPaint": 2898.819,
+  "speedIndex": 3521.8296257392376,
+  "largestContentfulPaint": 2898.8190000000004,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.13361391956386312,
+  "timeToInteractive": 4165.9865,
+  "maxPotentialFirstInputDelay": 58,
+  "timeToFirstByte": 53.134,
+  "weight": {
+    "summary": "19 requests • 867.3 KiB",
+    "total": 888093,
+    "image": 95619,
+    "imageCount": 3,
+    "script": 213644,
+    "scriptCount": 5,
+    "document": 14618,
+    "font": 428937,
+    "fontCount": 2,
+    "stylesheet": 134674,
+    "stylesheetCount": 4,
+    "thirdParty": 303574,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 45,
+    "+weight.total": 378,
+    "-weight.document": 66,
+    "+weight.document": 353,
+    "-weight.script": 39,
+    "+weight.script": 381,
+    "-weight.image": 36,
+    "+weight.image": 381,
+    "-weight.font": 290,
+    "+weight.font": 61,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 130,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 22
+  },
+  "axe": {
+    "passes": 339,
+    "violations": 0
+  }
+}

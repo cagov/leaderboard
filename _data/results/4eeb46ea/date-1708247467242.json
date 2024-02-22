@@ -1,0 +1,67 @@
+{
+  "url": "https://ojai.ca.gov/",
+  "requestedUrl": "https://ojai.ca.gov/",
+  "timestamp": 1708271594842,
+  "ranks": {
+    "hundos": 380,
+    "performance": 312,
+    "accessibility": 394,
+    "cumulative": 380
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.41,
+    "accessibility": 0.77,
+    "bestPractices": 0.7,
+    "seo": 0.83,
+    "total": 271
+  },
+  "firstContentfulPaint": 2427.329,
+  "firstMeaningfulPaint": 2441.329,
+  "speedIndex": 5753.719344656198,
+  "largestContentfulPaint": 14072.448000000004,
+  "totalBlockingTime": 1606.7480000000005,
+  "cumulativeLayoutShift": 0.0003903854285967668,
+  "timeToInteractive": 9771.857,
+  "maxPotentialFirstInputDelay": 1653,
+  "timeToFirstByte": 299.36199999999997,
+  "weight": {
+    "summary": "79 requests • 8.3 MiB",
+    "total": 8660379,
+    "image": 7578008,
+    "imageCount": 35,
+    "script": 866583,
+    "scriptCount": 24,
+    "document": 35431,
+    "font": 40955,
+    "fontCount": 5,
+    "stylesheet": 116970,
+    "stylesheetCount": 7,
+    "thirdParty": 525429,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 375,
+    "+weight.total": 50,
+    "-weight.document": 200,
+    "+weight.document": 219,
+    "-weight.script": 194,
+    "+weight.script": 227,
+    "-weight.image": 385,
+    "+weight.image": 33,
+    "-weight.font": 18,
+    "+weight.font": 339,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 288,
+    "-totalBlockingTime": 239,
+    "-largestContentfulPaint": 296
+  },
+  "axe": {
+    "passes": 1726,
+    "violations": 16
+  }
+}

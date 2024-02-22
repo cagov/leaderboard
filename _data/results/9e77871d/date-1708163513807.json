@@ -1,0 +1,67 @@
+{
+  "url": "https://hcrc.ca.gov/",
+  "requestedUrl": "https://hcrc.ca.gov/",
+  "timestamp": 1708181776269,
+  "ranks": {
+    "hundos": 18,
+    "performance": 44,
+    "accessibility": 35,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.78,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 366
+  },
+  "firstContentfulPaint": 1283.8955,
+  "firstMeaningfulPaint": 1388.8955,
+  "speedIndex": 2454.1664398279745,
+  "largestContentfulPaint": 1643.8955,
+  "totalBlockingTime": 5,
+  "cumulativeLayoutShift": 0.5228482992543944,
+  "timeToInteractive": 4568.8955000000005,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 63.11499999999998,
+  "weight": {
+    "summary": "13 requests • 570.1 KiB",
+    "total": 583746,
+    "image": 28258,
+    "imageCount": 2,
+    "script": 127980,
+    "scriptCount": 3,
+    "document": 7335,
+    "font": 347644,
+    "fontCount": 4,
+    "stylesheet": 72326,
+    "stylesheetCount": 2,
+    "thirdParty": 88587,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 399,
+    "-weight.document": 17,
+    "+weight.document": 402,
+    "-weight.script": 22,
+    "+weight.script": 398,
+    "-weight.image": 11,
+    "+weight.image": 406,
+    "-weight.font": 262,
+    "+weight.font": 89,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 144,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 216,
+    "violations": 1
+  }
+}

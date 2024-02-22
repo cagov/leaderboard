@@ -1,0 +1,67 @@
+{
+  "url": "https://calsta.ca.gov/",
+  "requestedUrl": "https://calsta.ca.gov/",
+  "timestamp": 1708168878534,
+  "ranks": {
+    "hundos": 345,
+    "performance": 287,
+    "accessibility": 155,
+    "cumulative": 344
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.95,
+    "bestPractices": 0.44,
+    "seo": 0.98,
+    "total": 282
+  },
+  "firstContentfulPaint": 3443.2449500000002,
+  "firstMeaningfulPaint": 4045.8974000000003,
+  "speedIndex": 14134.456609454752,
+  "largestContentfulPaint": 26931.173099999996,
+  "totalBlockingTime": 291.5,
+  "cumulativeLayoutShift": 0.17602024317763176,
+  "timeToInteractive": 28507.8947,
+  "maxPotentialFirstInputDelay": 354.0000000000018,
+  "timeToFirstByte": 103.315,
+  "weight": {
+    "summary": "96 requests • 4.9 MiB",
+    "total": 5133534,
+    "image": 1448625,
+    "imageCount": 22,
+    "script": 3083854,
+    "scriptCount": 42,
+    "document": 182801,
+    "font": 151138,
+    "fontCount": 5,
+    "stylesheet": 223974,
+    "stylesheetCount": 12,
+    "thirdParty": 3258712,
+    "thirdPartyCount": 14
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 319,
+    "+weight.total": 104,
+    "-weight.document": 385,
+    "+weight.document": 34,
+    "-weight.script": 408,
+    "+weight.script": 12,
+    "-weight.image": 251,
+    "+weight.image": 166,
+    "-weight.font": 147,
+    "+weight.font": 204,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 196,
+    "-totalBlockingTime": 207,
+    "-largestContentfulPaint": 385
+  },
+  "axe": {
+    "passes": 836,
+    "violations": 3
+  }
+}

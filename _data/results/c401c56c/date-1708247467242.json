@@ -1,0 +1,67 @@
+{
+  "url": "https://tuolumnecounty.ca.gov/",
+  "requestedUrl": "https://tuolumnecounty.ca.gov/",
+  "timestamp": 1708280314504,
+  "ranks": {
+    "hundos": 395,
+    "performance": 269,
+    "accessibility": 358,
+    "cumulative": 395
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.83,
+    "bestPractices": 0.48,
+    "seo": 0.84,
+    "total": 261
+  },
+  "firstContentfulPaint": 2601.8220000000006,
+  "firstMeaningfulPaint": 3542.9970000000008,
+  "speedIndex": 9457.40130536993,
+  "largestContentfulPaint": 15839.6845,
+  "totalBlockingTime": 646,
+  "cumulativeLayoutShift": 0.000022855336954820837,
+  "timeToInteractive": 19824.812000000005,
+  "maxPotentialFirstInputDelay": 869,
+  "timeToFirstByte": 338.32399999999996,
+  "weight": {
+    "summary": "140 requests • 5.2 MiB",
+    "total": 5430947,
+    "image": 3635450,
+    "imageCount": 44,
+    "script": 1437356,
+    "scriptCount": 60,
+    "document": 70532,
+    "font": 87400,
+    "fontCount": 5,
+    "stylesheet": 148906,
+    "stylesheetCount": 12,
+    "thirdParty": 1310784,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 326,
+    "+weight.total": 99,
+    "-weight.document": 319,
+    "+weight.document": 100,
+    "-weight.script": 322,
+    "+weight.script": 99,
+    "-weight.image": 338,
+    "+weight.image": 80,
+    "-weight.font": 73,
+    "+weight.font": 284,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 302,
+    "-totalBlockingTime": 224,
+    "-largestContentfulPaint": 321
+  },
+  "axe": {
+    "passes": 1780,
+    "violations": 88
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://fiscal.ca.gov/",
+  "requestedUrl": "https://fiscal.ca.gov/",
+  "timestamp": 1708180297472,
+  "ranks": {
+    "hundos": 277,
+    "performance": 145,
+    "accessibility": 326,
+    "cumulative": 279
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.86,
+    "bestPractices": 0.74,
+    "seo": 0.84,
+    "total": 303
+  },
+  "firstContentfulPaint": 2169.862,
+  "firstMeaningfulPaint": 2169.862,
+  "speedIndex": 7359.830307604048,
+  "largestContentfulPaint": 5269.923499999999,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0.2410207343541601,
+  "timeToInteractive": 12418.951,
+  "maxPotentialFirstInputDelay": 86,
+  "timeToFirstByte": 141.943,
+  "weight": {
+    "summary": "99 requests • 2.4 MiB",
+    "total": 2530275,
+    "image": 928206,
+    "imageCount": 25,
+    "script": 1205149,
+    "scriptCount": 47,
+    "document": 76939,
+    "font": 231796,
+    "fontCount": 4,
+    "stylesheet": 75912,
+    "stylesheetCount": 14,
+    "thirdParty": 1230664,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 197,
+    "+weight.total": 226,
+    "-weight.document": 335,
+    "+weight.document": 84,
+    "-weight.script": 293,
+    "+weight.script": 127,
+    "-weight.image": 204,
+    "+weight.image": 213,
+    "-weight.font": 209,
+    "+weight.font": 142,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 240,
+    "-totalBlockingTime": 55,
+    "-largestContentfulPaint": 78
+  },
+  "axe": {
+    "passes": 786,
+    "violations": 65
+  }
+}

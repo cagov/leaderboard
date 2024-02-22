@@ -1,0 +1,67 @@
+{
+  "url": "https://brea.ca.gov/",
+  "requestedUrl": "https://brea.ca.gov/",
+  "timestamp": 1707762747920,
+  "ranks": {
+    "hundos": 119,
+    "performance": 11,
+    "accessibility": 276,
+    "cumulative": 119
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 340
+  },
+  "firstContentfulPaint": 1587.8400000000001,
+  "firstMeaningfulPaint": 1587.8400000000001,
+  "speedIndex": 1587.8400000000001,
+  "largestContentfulPaint": 1781.8760000000002,
+  "totalBlockingTime": 17,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2739.403045501709,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 27.705,
+  "weight": {
+    "summary": "63 requests • 1.8 MiB",
+    "total": 1861337,
+    "image": 1010794,
+    "imageCount": 25,
+    "script": 466734,
+    "scriptCount": 16,
+    "document": 48712,
+    "font": 45011,
+    "fontCount": 3,
+    "stylesheet": 279927,
+    "stylesheetCount": 11,
+    "thirdParty": 351401,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 137,
+    "+weight.total": 289,
+    "-weight.document": 275,
+    "+weight.document": 148,
+    "-weight.script": 104,
+    "+weight.script": 318,
+    "-weight.image": 218,
+    "+weight.image": 204,
+    "-weight.font": 23,
+    "+weight.font": 336,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 84,
+    "-totalBlockingTime": 31,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 649,
+    "violations": 15
+  }
+}

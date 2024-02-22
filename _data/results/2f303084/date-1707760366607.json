@@ -1,0 +1,67 @@
+{
+  "url": "https://ccc.ca.gov/",
+  "requestedUrl": "https://ccc.ca.gov/",
+  "timestamp": 1707766709689,
+  "ranks": {
+    "hundos": 404,
+    "performance": 364,
+    "accessibility": 395,
+    "cumulative": 403
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 0.76,
+    "bestPractices": 0.52,
+    "seo": 0.91,
+    "total": 256
+  },
+  "firstContentfulPaint": 4139.003749999999,
+  "firstMeaningfulPaint": 13424.243149999998,
+  "speedIndex": 33280.73422422337,
+  "largestContentfulPaint": 13472.641249999999,
+  "totalBlockingTime": 388.5,
+  "cumulativeLayoutShift": 0.2120757526902466,
+  "timeToInteractive": 40327.345099999984,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 703.271,
+  "weight": {
+    "summary": "154 requests • 25.6 MiB",
+    "total": 26880157,
+    "image": 24543112,
+    "imageCount": 41,
+    "script": 1439592,
+    "scriptCount": 38,
+    "document": 176991,
+    "font": 360075,
+    "fontCount": 14,
+    "stylesheet": 194113,
+    "stylesheetCount": 19,
+    "thirdParty": 2338787,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 419,
+    "+weight.total": 7,
+    "-weight.document": 387,
+    "+weight.document": 36,
+    "-weight.script": 320,
+    "+weight.script": 102,
+    "-weight.image": 415,
+    "+weight.image": 7,
+    "-weight.font": 270,
+    "+weight.font": 89,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 361,
+    "-totalBlockingTime": 208,
+    "-largestContentfulPaint": 331
+  },
+  "axe": {
+    "passes": 971,
+    "violations": 18
+  }
+}

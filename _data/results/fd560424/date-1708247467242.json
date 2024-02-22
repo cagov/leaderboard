@@ -1,0 +1,67 @@
+{
+  "url": "https://www.insurance.ca.gov/",
+  "requestedUrl": "https://insurance.ca.gov/",
+  "timestamp": 1708266819068,
+  "ranks": {
+    "hundos": 318,
+    "performance": 226,
+    "accessibility": 130,
+    "cumulative": 322
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.5,
+    "accessibility": 0.98,
+    "bestPractices": 0.52,
+    "seo": 0.88,
+    "total": 288
+  },
+  "firstContentfulPaint": 3850.619000000001,
+  "firstMeaningfulPaint": 3850.619000000001,
+  "speedIndex": 5093.782241122573,
+  "largestContentfulPaint": 6847.251749999999,
+  "totalBlockingTime": 42,
+  "cumulativeLayoutShift": 0.3223110128541454,
+  "timeToInteractive": 8819.034,
+  "maxPotentialFirstInputDelay": 91,
+  "timeToFirstByte": 86.84599999999999,
+  "weight": {
+    "summary": "92 requests • 1.3 MiB",
+    "total": 1333837,
+    "image": 439117,
+    "imageCount": 35,
+    "script": 747269,
+    "scriptCount": 25,
+    "document": 27995,
+    "font": 49863,
+    "fontCount": 1,
+    "stylesheet": 66834,
+    "stylesheetCount": 19,
+    "thirdParty": 643636,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 79,
+    "+weight.total": 346,
+    "-weight.document": 135,
+    "+weight.document": 284,
+    "-weight.script": 165,
+    "+weight.script": 256,
+    "-weight.image": 118,
+    "+weight.image": 300,
+    "-weight.font": 25,
+    "+weight.font": 332,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 169,
+    "-totalBlockingTime": 67,
+    "-largestContentfulPaint": 80
+  },
+  "axe": {
+    "passes": 761,
+    "violations": 31
+  }
+}

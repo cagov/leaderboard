@@ -1,0 +1,67 @@
+{
+  "url": "https://sdrc.ca.gov/",
+  "requestedUrl": "https://sdrc.ca.gov/",
+  "timestamp": 1708191493116,
+  "ranks": {
+    "hundos": 220,
+    "performance": 259,
+    "accessibility": 275,
+    "cumulative": 219
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 315
+  },
+  "firstContentfulPaint": 5376.834,
+  "firstMeaningfulPaint": 7857.8385,
+  "speedIndex": 7268.696707107604,
+  "largestContentfulPaint": 11189.84475,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.23063391339328052,
+  "timeToInteractive": 7857.8385,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 329.904,
+  "weight": {
+    "summary": "49 requests • 1.8 MiB",
+    "total": 1877411,
+    "image": 129072,
+    "imageCount": 17,
+    "script": 970704,
+    "scriptCount": 13,
+    "document": 41305,
+    "font": 110024,
+    "fontCount": 3,
+    "stylesheet": 625420,
+    "stylesheetCount": 10,
+    "thirdParty": 413036,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 134,
+    "+weight.total": 289,
+    "-weight.document": 251,
+    "+weight.document": 168,
+    "-weight.script": 245,
+    "+weight.script": 175,
+    "-weight.image": 42,
+    "+weight.image": 375,
+    "-weight.font": 98,
+    "+weight.font": 253,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 301,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 213
+  },
+  "axe": {
+    "passes": 497,
+    "violations": 14
+  }
+}

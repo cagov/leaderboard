@@ -1,0 +1,67 @@
+{
+  "url": "https://www.co.tehama.ca.us/",
+  "requestedUrl": "https://tehamacounty.ca.gov/",
+  "timestamp": 1708194779297,
+  "ranks": {
+    "hundos": 257,
+    "performance": 345,
+    "accessibility": 271,
+    "cumulative": 258
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.89,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 306
+  },
+  "firstContentfulPaint": 5737.17,
+  "firstMeaningfulPaint": 5737.17,
+  "speedIndex": 8168.834959575262,
+  "largestContentfulPaint": 16299.549000000003,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0.4348416157758558,
+  "timeToInteractive": 7941.718500000003,
+  "maxPotentialFirstInputDelay": 65,
+  "timeToFirstByte": 36.482,
+  "weight": {
+    "summary": "54 requests • 5.5 MiB",
+    "total": 5765178,
+    "image": 5352028,
+    "imageCount": 18,
+    "script": 213143,
+    "scriptCount": 15,
+    "document": 47165,
+    "font": 63600,
+    "fontCount": 3,
+    "stylesheet": 88404,
+    "stylesheetCount": 15,
+    "thirdParty": 30109,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 334,
+    "+weight.total": 89,
+    "-weight.document": 273,
+    "+weight.document": 146,
+    "-weight.script": 37,
+    "+weight.script": 383,
+    "-weight.image": 372,
+    "+weight.image": 45,
+    "-weight.font": 35,
+    "+weight.font": 316,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 102,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 283
+  },
+  "axe": {
+    "passes": 590,
+    "violations": 7
+  }
+}

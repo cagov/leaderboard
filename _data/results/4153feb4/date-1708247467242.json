@@ -1,0 +1,67 @@
+{
+  "url": "https://pioneercommunityenergy.org/",
+  "requestedUrl": "https://pioneercommunityenergy.ca.gov/",
+  "timestamp": 1708272700185,
+  "ranks": {
+    "hundos": 261,
+    "performance": 302,
+    "accessibility": 238,
+    "cumulative": 263
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.43,
+    "accessibility": 0.91,
+    "bestPractices": 0.78,
+    "seo": 0.93,
+    "total": 305
+  },
+  "firstContentfulPaint": 6431.194,
+  "firstMeaningfulPaint": 6881.1939999999995,
+  "speedIndex": 13695.98366906809,
+  "largestContentfulPaint": 29654.091999999997,
+  "totalBlockingTime": 474.5,
+  "cumulativeLayoutShift": 0.045413676367023995,
+  "timeToInteractive": 31699.43,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 131.56099999999998,
+  "weight": {
+    "summary": "229 requests • 8.6 MiB",
+    "total": 8999768,
+    "image": 4941526,
+    "imageCount": 25,
+    "script": 3120111,
+    "scriptCount": 103,
+    "document": 112770,
+    "font": 229706,
+    "fontCount": 15,
+    "stylesheet": 381810,
+    "stylesheetCount": 44,
+    "thirdParty": 3103363,
+    "thirdPartyCount": 16
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 379,
+    "+weight.total": 46,
+    "-weight.document": 351,
+    "+weight.document": 68,
+    "-weight.script": 410,
+    "+weight.script": 11,
+    "-weight.image": 361,
+    "+weight.image": 57,
+    "-weight.font": 214,
+    "+weight.font": 143,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 230,
+    "-totalBlockingTime": 212,
+    "-largestContentfulPaint": 391
+  },
+  "axe": {
+    "passes": 760,
+    "violations": 17
+  }
+}

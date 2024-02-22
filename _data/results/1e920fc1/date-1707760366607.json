@@ -1,0 +1,67 @@
+{
+  "url": "https://www.slocity.org/",
+  "requestedUrl": "https://cityofsanluisobispo.ca.gov/",
+  "timestamp": 1707768824968,
+  "ranks": {
+    "hundos": 414,
+    "performance": 409,
+    "accessibility": 284,
+    "cumulative": 414
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.28,
+    "accessibility": 0.88,
+    "bestPractices": 0.52,
+    "seo": 0.73,
+    "total": 241
+  },
+  "firstContentfulPaint": 10142.128999999999,
+  "firstMeaningfulPaint": 11960.546499999997,
+  "speedIndex": 18871.575458245527,
+  "largestContentfulPaint": 25772.476499999997,
+  "totalBlockingTime": 534,
+  "cumulativeLayoutShift": 0.26719813888514343,
+  "timeToInteractive": 33236.7235,
+  "maxPotentialFirstInputDelay": 455,
+  "timeToFirstByte": 21.793,
+  "weight": {
+    "summary": "207 requests • 13.5 MiB",
+    "total": 14127604,
+    "image": 6691979,
+    "imageCount": 86,
+    "script": 3171692,
+    "scriptCount": 64,
+    "document": 164991,
+    "font": 47228,
+    "fontCount": 3,
+    "stylesheet": 281024,
+    "stylesheetCount": 19,
+    "thirdParty": 7654353,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 407,
+    "+weight.total": 19,
+    "-weight.document": 384,
+    "+weight.document": 39,
+    "-weight.script": 411,
+    "+weight.script": 11,
+    "-weight.image": 384,
+    "+weight.image": 38,
+    "-weight.font": 24,
+    "+weight.font": 335,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 64,
+    "-totalBlockingTime": 220,
+    "-largestContentfulPaint": 377
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

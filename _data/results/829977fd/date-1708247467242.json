@@ -1,0 +1,67 @@
+{
+  "url": "https://legislativecounsel.ca.gov/",
+  "requestedUrl": "https://legislativecounsel.ca.gov/",
+  "timestamp": 1708268311519,
+  "ranks": {
+    "hundos": 11,
+    "performance": 6,
+    "accessibility": 208,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 1,
+    "accessibility": 0.92,
+    "bestPractices": 0.96,
+    "seo": 0.86,
+    "total": 374
+  },
+  "firstContentfulPaint": 1224.66,
+  "firstMeaningfulPaint": 1224.66,
+  "speedIndex": 1232.3044360262156,
+  "largestContentfulPaint": 1528.77,
+  "totalBlockingTime": 22,
+  "cumulativeLayoutShift": 0.005227853733927785,
+  "timeToInteractive": 5056.650000000001,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 25.055999999999983,
+  "weight": {
+    "summary": "24 requests • 1.2 MiB",
+    "total": 1292979,
+    "image": 917012,
+    "imageCount": 6,
+    "script": 122065,
+    "scriptCount": 4,
+    "document": 8079,
+    "font": 152144,
+    "fontCount": 4,
+    "stylesheet": 39913,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 72,
+    "+weight.total": 353,
+    "-weight.document": 24,
+    "+weight.document": 395,
+    "-weight.script": 17,
+    "+weight.script": 404,
+    "-weight.image": 203,
+    "+weight.image": 215,
+    "-weight.font": 156,
+    "+weight.font": 201,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 72,
+    "-totalBlockingTime": 38,
+    "-largestContentfulPaint": 174
+  },
+  "axe": {
+    "passes": 144,
+    "violations": 5
+  }
+}

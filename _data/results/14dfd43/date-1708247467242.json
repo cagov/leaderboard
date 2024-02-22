@@ -1,0 +1,67 @@
+{
+  "url": "https://nahc.ca.gov/",
+  "requestedUrl": "https://nahc.ca.gov/",
+  "timestamp": 1708270625773,
+  "ranks": {
+    "hundos": 286,
+    "performance": 360,
+    "accessibility": 379,
+    "cumulative": 282
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.37,
+    "accessibility": 0.8,
+    "bestPractices": 0.96,
+    "seo": 0.88,
+    "total": 301
+  },
+  "firstContentfulPaint": 6180.733000000001,
+  "firstMeaningfulPaint": 7813.629000000001,
+  "speedIndex": 22433.357095890773,
+  "largestContentfulPaint": 10471.653000000002,
+  "totalBlockingTime": 76.5,
+  "cumulativeLayoutShift": 0.38035784279095874,
+  "timeToInteractive": 12733.991750000001,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 10409.075,
+  "weight": {
+    "summary": "53 requests • 1.9 MiB",
+    "total": 2028410,
+    "image": 42755,
+    "imageCount": 13,
+    "script": 1045385,
+    "scriptCount": 17,
+    "document": 42384,
+    "font": 110024,
+    "fontCount": 3,
+    "stylesheet": 786971,
+    "stylesheetCount": 14,
+    "thirdParty": 384577,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 150,
+    "+weight.total": 275,
+    "-weight.document": 252,
+    "+weight.document": 167,
+    "-weight.script": 267,
+    "+weight.script": 154,
+    "-weight.image": 18,
+    "+weight.image": 400,
+    "-weight.font": 97,
+    "+weight.font": 260,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 424,
+    "-totalBlockingTime": 112,
+    "-largestContentfulPaint": 149
+  },
+  "axe": {
+    "passes": 511,
+    "violations": 8
+  }
+}

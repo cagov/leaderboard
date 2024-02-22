@@ -1,0 +1,67 @@
+{
+  "url": "https://calrecycle.ca.gov/",
+  "requestedUrl": "https://calrecycle.ca.gov/",
+  "timestamp": 1708168784983,
+  "ranks": {
+    "hundos": 328,
+    "performance": 415,
+    "accessibility": 107,
+    "cumulative": 327
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.2,
+    "accessibility": 0.99,
+    "bestPractices": 0.74,
+    "seo": 0.93,
+    "total": 286
+  },
+  "firstContentfulPaint": 2869.7025,
+  "firstMeaningfulPaint": 2869.7025,
+  "speedIndex": 14043.317237049388,
+  "largestContentfulPaint": 38285.764499999976,
+  "totalBlockingTime": 662.5,
+  "cumulativeLayoutShift": 0.8475980279395421,
+  "timeToInteractive": 26928.521000000004,
+  "maxPotentialFirstInputDelay": 330,
+  "timeToFirstByte": 109.44799999999998,
+  "weight": {
+    "summary": "164 requests • 11.1 MiB",
+    "total": 11648913,
+    "image": 8243730,
+    "imageCount": 27,
+    "script": 2299119,
+    "scriptCount": 62,
+    "document": 128967,
+    "font": 678137,
+    "fontCount": 13,
+    "stylesheet": 258846,
+    "stylesheetCount": 36,
+    "thirdParty": 2413752,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 396,
+    "+weight.total": 27,
+    "-weight.document": 366,
+    "+weight.document": 53,
+    "-weight.script": 393,
+    "+weight.script": 27,
+    "-weight.image": 390,
+    "+weight.image": 27,
+    "-weight.font": 328,
+    "+weight.font": 23,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 217,
+    "-totalBlockingTime": 236,
+    "-largestContentfulPaint": 404
+  },
+  "axe": {
+    "passes": 1287,
+    "violations": 5
+  }
+}

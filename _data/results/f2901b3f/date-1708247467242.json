@@ -1,0 +1,67 @@
+{
+  "url": "https://unionsanitary.ca.gov/",
+  "requestedUrl": "https://unionsanitary.ca.gov/",
+  "timestamp": 1708280452702,
+  "ranks": {
+    "hundos": 49,
+    "performance": 67,
+    "accessibility": 324,
+    "cumulative": 49
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.72,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 355
+  },
+  "firstContentfulPaint": 2079.49,
+  "firstMeaningfulPaint": 3180.641,
+  "speedIndex": 3386.7529668857915,
+  "largestContentfulPaint": 14251.238000000001,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3866.4875,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 220.616,
+  "weight": {
+    "summary": "56 requests • 4.0 MiB",
+    "total": 4213385,
+    "image": 3622039,
+    "imageCount": 14,
+    "script": 349120,
+    "scriptCount": 21,
+    "document": 9293,
+    "font": 110573,
+    "fontCount": 2,
+    "stylesheet": 75387,
+    "stylesheetCount": 8,
+    "thirdParty": 333651,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 298,
+    "+weight.total": 127,
+    "-weight.document": 31,
+    "+weight.document": 388,
+    "-weight.script": 76,
+    "+weight.script": 345,
+    "-weight.image": 337,
+    "+weight.image": 81,
+    "-weight.font": 104,
+    "+weight.font": 253,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 263,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 298
+  },
+  "axe": {
+    "passes": 399,
+    "violations": 32
+  }
+}

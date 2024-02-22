@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ots.ca.gov/",
+  "requestedUrl": "https://ots.ca.gov/",
+  "timestamp": 1708188129630,
+  "ranks": {
+    "hundos": 323,
+    "performance": 384,
+    "accessibility": 241,
+    "cumulative": 326
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.33,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "seo": 0.96,
+    "total": 287
+  },
+  "firstContentfulPaint": 5238.9220000000005,
+  "firstMeaningfulPaint": 6738.9220000000005,
+  "speedIndex": 8991.360096448943,
+  "largestContentfulPaint": 21663.922,
+  "totalBlockingTime": 92.5,
+  "cumulativeLayoutShift": 0.7478546699152899,
+  "timeToInteractive": 17952.422,
+  "maxPotentialFirstInputDelay": 100,
+  "timeToFirstByte": 106.339,
+  "weight": {
+    "summary": "165 requests • 4.6 MiB",
+    "total": 4869313,
+    "image": 2475848,
+    "imageCount": 58,
+    "script": 1224857,
+    "scriptCount": 47,
+    "document": 57473,
+    "font": 793941,
+    "fontCount": 6,
+    "stylesheet": 288465,
+    "stylesheetCount": 41,
+    "thirdParty": 1392441,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 310,
+    "+weight.total": 113,
+    "-weight.document": 300,
+    "+weight.document": 119,
+    "-weight.script": 297,
+    "+weight.script": 123,
+    "-weight.image": 303,
+    "+weight.image": 114,
+    "-weight.font": 340,
+    "+weight.font": 11,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 203,
+    "-totalBlockingTime": 132,
+    "-largestContentfulPaint": 370
+  },
+  "axe": {
+    "passes": 1742,
+    "violations": 23
+  }
+}

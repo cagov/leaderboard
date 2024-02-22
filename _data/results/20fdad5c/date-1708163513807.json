@@ -1,0 +1,67 @@
+{
+  "url": "https://cpost.ca.gov/",
+  "requestedUrl": "https://cpost.ca.gov/",
+  "timestamp": 1708174644689,
+  "ranks": {
+    "hundos": 32,
+    "performance": 103,
+    "accessibility": 63,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.64,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 361
+  },
+  "firstContentfulPaint": 2499.041,
+  "firstMeaningfulPaint": 4524.041,
+  "speedIndex": 6013.4954710468965,
+  "largestContentfulPaint": 3099.041,
+  "totalBlockingTime": 57.5,
+  "cumulativeLayoutShift": 0.4912516731912717,
+  "timeToInteractive": 9867.041000000001,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 416.356,
+  "weight": {
+    "summary": "65 requests • 1.6 MiB",
+    "total": 1682628,
+    "image": 386049,
+    "imageCount": 11,
+    "script": 792629,
+    "scriptCount": 23,
+    "document": 29732,
+    "font": 288642,
+    "fontCount": 4,
+    "stylesheet": 184730,
+    "stylesheetCount": 18,
+    "thirdParty": 705048,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 111,
+    "+weight.total": 312,
+    "-weight.document": 149,
+    "+weight.document": 270,
+    "-weight.script": 174,
+    "+weight.script": 246,
+    "-weight.image": 103,
+    "+weight.image": 314,
+    "-weight.font": 234,
+    "+weight.font": 117,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 317,
+    "-totalBlockingTime": 90,
+    "-largestContentfulPaint": 29
+  },
+  "axe": {
+    "passes": 361,
+    "violations": 3
+  }
+}

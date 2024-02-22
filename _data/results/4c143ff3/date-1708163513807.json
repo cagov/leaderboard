@@ -1,0 +1,67 @@
+{
+  "url": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
+  "requestedUrl": "https://medi-cal.ca.gov/",
+  "timestamp": 1708185527590,
+  "ranks": {
+    "hundos": 83,
+    "performance": 185,
+    "accessibility": 172,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 0.96,
+    "total": 345
+  },
+  "firstContentfulPaint": 16116.457499999997,
+  "firstMeaningfulPaint": 16116.457499999997,
+  "speedIndex": 16116.457499999997,
+  "largestContentfulPaint": 20215.410250000008,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.03935354372823681,
+  "timeToInteractive": 17381.704999999994,
+  "maxPotentialFirstInputDelay": 200.5,
+  "timeToFirstByte": 35.583,
+  "weight": {
+    "summary": "57 requests • 3.2 MiB",
+    "total": 3407495,
+    "image": 155026,
+    "imageCount": 7,
+    "script": 2135925,
+    "scriptCount": 2,
+    "document": 1324,
+    "font": 429372,
+    "fontCount": 28,
+    "stylesheet": 651251,
+    "stylesheetCount": 6,
+    "thirdParty": 170828,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 264,
+    "+weight.total": 159,
+    "-weight.document": 3,
+    "+weight.document": 416,
+    "-weight.script": 385,
+    "+weight.script": 35,
+    "-weight.image": 47,
+    "+weight.image": 370,
+    "-weight.font": 291,
+    "+weight.font": 60,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 98,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 307
+  },
+  "axe": {
+    "passes": 721,
+    "violations": 1
+  }
+}

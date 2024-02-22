@@ -1,0 +1,67 @@
+{
+  "url": "https://ecos.ca.gov/Login.aspx?ReturnUrl=%2f",
+  "requestedUrl": "https://ecos.ca.gov/",
+  "timestamp": 1708262630377,
+  "ranks": {
+    "hundos": 185,
+    "performance": 39,
+    "accessibility": 92,
+    "cumulative": 187
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.83,
+    "accessibility": 1,
+    "bestPractices": 0.7,
+    "seo": 0.69,
+    "total": 322
+  },
+  "firstContentfulPaint": 1653.933,
+  "firstMeaningfulPaint": 1972.433,
+  "speedIndex": 2614.393513945626,
+  "largestContentfulPaint": 4503.933,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00022124833662219134,
+  "timeToInteractive": 1972.433,
+  "maxPotentialFirstInputDelay": 37,
+  "timeToFirstByte": 84.05799999999999,
+  "weight": {
+    "summary": "39 requests • 706.1 KiB",
+    "total": 723062,
+    "image": 67598,
+    "imageCount": 12,
+    "script": 501852,
+    "scriptCount": 11,
+    "document": 22392,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 130685,
+    "stylesheetCount": 14,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 38,
+    "+weight.total": 387,
+    "-weight.document": 109,
+    "+weight.document": 310,
+    "-weight.script": 113,
+    "+weight.script": 308,
+    "-weight.image": 25,
+    "+weight.image": 393,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 167,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 43
+  },
+  "axe": {
+    "passes": 98,
+    "violations": 11
+  }
+}

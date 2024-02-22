@@ -1,0 +1,67 @@
+{
+  "url": "https://dsh.ca.gov/",
+  "requestedUrl": "https://dsh.ca.gov/",
+  "timestamp": 1708177997765,
+  "ranks": {
+    "hundos": 179,
+    "performance": 142,
+    "accessibility": 317,
+    "cumulative": 181
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.59,
+    "accessibility": 0.86,
+    "bestPractices": 0.89,
+    "seo": 0.9,
+    "total": 324
+  },
+  "firstContentfulPaint": 5435.681750000001,
+  "firstMeaningfulPaint": 5910.864750000001,
+  "speedIndex": 6562.532746114411,
+  "largestContentfulPaint": 10234.608000000002,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5910.864750000001,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 31.558000000000007,
+  "weight": {
+    "summary": "56 requests • 1.1 MiB",
+    "total": 1195755,
+    "image": 258736,
+    "imageCount": 24,
+    "script": 678345,
+    "scriptCount": 15,
+    "document": 11828,
+    "font": 108940,
+    "fontCount": 5,
+    "stylesheet": 137698,
+    "stylesheetCount": 9,
+    "thirdParty": 580004,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 65,
+    "+weight.total": 358,
+    "-weight.document": 52,
+    "+weight.document": 367,
+    "-weight.script": 152,
+    "+weight.script": 268,
+    "-weight.image": 71,
+    "+weight.image": 346,
+    "-weight.font": 96,
+    "+weight.font": 255,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 82,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 195
+  },
+  "axe": {
+    "passes": 540,
+    "violations": 10
+  }
+}

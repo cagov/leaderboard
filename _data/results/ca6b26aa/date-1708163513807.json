@@ -1,0 +1,67 @@
+{
+  "url": "https://innovation.ca.gov/",
+  "requestedUrl": "https://digital.ca.gov/",
+  "timestamp": 1708176993902,
+  "ranks": {
+    "hundos": 37,
+    "performance": 49,
+    "accessibility": 20,
+    "cumulative": 35
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.77,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 358
+  },
+  "firstContentfulPaint": 2194.025,
+  "firstMeaningfulPaint": 2194.025,
+  "speedIndex": 2194.025,
+  "largestContentfulPaint": 5353.156,
+  "totalBlockingTime": 18,
+  "cumulativeLayoutShift": 0.05622479476136757,
+  "timeToInteractive": 5277.992500000001,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 57.178,
+  "weight": {
+    "summary": "20 requests • 904.4 KiB",
+    "total": 926075,
+    "image": 613292,
+    "imageCount": 9,
+    "script": 248517,
+    "scriptCount": 4,
+    "document": 26938,
+    "font": 36381,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 262816,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 49,
+    "+weight.total": 374,
+    "-weight.document": 133,
+    "+weight.document": 286,
+    "-weight.script": 45,
+    "+weight.script": 375,
+    "-weight.image": 158,
+    "+weight.image": 259,
+    "-weight.font": 14,
+    "+weight.font": 337,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 136,
+    "-totalBlockingTime": 36,
+    "-largestContentfulPaint": 81
+  },
+  "axe": {
+    "passes": 325,
+    "violations": 0
+  }
+}

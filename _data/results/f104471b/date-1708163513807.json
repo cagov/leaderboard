@@ -1,0 +1,67 @@
+{
+  "url": "https://rmc.ca.gov/",
+  "requestedUrl": "https://rmc.ca.gov/",
+  "timestamp": 1708190194304,
+  "ranks": {
+    "hundos": 273,
+    "performance": 260,
+    "accessibility": 367,
+    "cumulative": 273
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 304
+  },
+  "firstContentfulPaint": 5374.398999999999,
+  "firstMeaningfulPaint": 6263.0705,
+  "speedIndex": 7283.41066303628,
+  "largestContentfulPaint": 9077.6305,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.2434477314721731,
+  "timeToInteractive": 6789.780249999999,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 341.662,
+  "weight": {
+    "summary": "53 requests • 2.0 MiB",
+    "total": 2126166,
+    "image": 279629,
+    "imageCount": 18,
+    "script": 1063068,
+    "scriptCount": 14,
+    "document": 39923,
+    "font": 110025,
+    "fontCount": 3,
+    "stylesheet": 632391,
+    "stylesheetCount": 11,
+    "thirdParty": 505646,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 157,
+    "+weight.total": 266,
+    "-weight.document": 243,
+    "+weight.document": 176,
+    "-weight.script": 271,
+    "+weight.script": 149,
+    "-weight.image": 79,
+    "+weight.image": 338,
+    "-weight.font": 99,
+    "+weight.font": 252,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 305,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 171
+  },
+  "axe": {
+    "passes": 583,
+    "violations": 18
+  }
+}

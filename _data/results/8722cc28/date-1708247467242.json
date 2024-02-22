@@ -1,0 +1,67 @@
+{
+  "url": "https://first5.ca.gov/",
+  "requestedUrl": "https://first5.ca.gov/",
+  "timestamp": 1708264186766,
+  "ranks": {
+    "hundos": 265,
+    "performance": 185,
+    "accessibility": 322,
+    "cumulative": 270
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.86,
+    "bestPractices": 0.74,
+    "seo": 0.89,
+    "total": 304
+  },
+  "firstContentfulPaint": 10808.753,
+  "firstMeaningfulPaint": 13422.673000000003,
+  "speedIndex": 18424.73094036548,
+  "largestContentfulPaint": 29919.712999999996,
+  "totalBlockingTime": 71,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 26976.64899999999,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 33.458,
+  "weight": {
+    "summary": "82 requests • 5.6 MiB",
+    "total": 5837572,
+    "image": 2506047,
+    "imageCount": 17,
+    "script": 1824435,
+    "scriptCount": 32,
+    "document": 157844,
+    "font": 367352,
+    "fontCount": 6,
+    "stylesheet": 980382,
+    "stylesheetCount": 19,
+    "thirdParty": 960297,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 337,
+    "+weight.total": 88,
+    "-weight.document": 374,
+    "+weight.document": 45,
+    "-weight.script": 364,
+    "+weight.script": 57,
+    "-weight.image": 307,
+    "+weight.image": 111,
+    "-weight.font": 272,
+    "+weight.font": 85,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 94,
+    "-totalBlockingTime": 104,
+    "-largestContentfulPaint": 392
+  },
+  "axe": {
+    "passes": 937,
+    "violations": 28
+  }
+}

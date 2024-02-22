@@ -1,0 +1,67 @@
+{
+  "url": "https://oal.ca.gov/",
+  "requestedUrl": "https://oal.ca.gov/",
+  "timestamp": 1708271087818,
+  "ranks": {
+    "hundos": 112,
+    "performance": 119,
+    "accessibility": 314,
+    "cumulative": 112
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 341
+  },
+  "firstContentfulPaint": 2285.077,
+  "firstMeaningfulPaint": 4235.077,
+  "speedIndex": 4454.406303136816,
+  "largestContentfulPaint": 3560.077,
+  "totalBlockingTime": 49,
+  "cumulativeLayoutShift": 0.6550556868063155,
+  "timeToInteractive": 8719.577000000001,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 396.115,
+  "weight": {
+    "summary": "63 requests • 1.4 MiB",
+    "total": 1451696,
+    "image": 170578,
+    "imageCount": 10,
+    "script": 772868,
+    "scriptCount": 22,
+    "document": 34289,
+    "font": 288947,
+    "fontCount": 4,
+    "stylesheet": 184332,
+    "stylesheetCount": 19,
+    "thirdParty": 674404,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 94,
+    "+weight.total": 331,
+    "-weight.document": 189,
+    "+weight.document": 230,
+    "-weight.script": 172,
+    "+weight.script": 249,
+    "-weight.image": 52,
+    "+weight.image": 366,
+    "-weight.font": 240,
+    "+weight.font": 117,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 312,
+    "-totalBlockingTime": 75,
+    "-largestContentfulPaint": 33
+  },
+  "axe": {
+    "passes": 809,
+    "violations": 8
+  }
+}

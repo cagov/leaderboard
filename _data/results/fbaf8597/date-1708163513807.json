@@ -1,0 +1,67 @@
+{
+  "url": "https://solanosr2s.ca.gov/",
+  "requestedUrl": "https://solanosr2s.ca.gov/",
+  "timestamp": 1708193143253,
+  "ranks": {
+    "hundos": 200,
+    "performance": 316,
+    "accessibility": 203,
+    "cumulative": 200
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 319
+  },
+  "firstContentfulPaint": 3532.6299999999997,
+  "firstMeaningfulPaint": 5487.343250000002,
+  "speedIndex": 11509.482462143442,
+  "largestContentfulPaint": 17892.56200000001,
+  "totalBlockingTime": 25.5,
+  "cumulativeLayoutShift": 0.33864886473979383,
+  "timeToInteractive": 20904.492750000005,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 1011.028,
+  "weight": {
+    "summary": "104 requests • 5.8 MiB",
+    "total": 6121857,
+    "image": 5296196,
+    "imageCount": 25,
+    "script": 473701,
+    "scriptCount": 42,
+    "document": 39544,
+    "font": 146853,
+    "fontCount": 4,
+    "stylesheet": 153693,
+    "stylesheetCount": 23,
+    "thirdParty": 317143,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 342,
+    "+weight.total": 81,
+    "-weight.document": 235,
+    "+weight.document": 184,
+    "-weight.script": 103,
+    "+weight.script": 317,
+    "-weight.image": 370,
+    "+weight.image": 47,
+    "-weight.font": 144,
+    "+weight.font": 207,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 393,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 296
+  },
+  "axe": {
+    "passes": 610,
+    "violations": 63
+  }
+}

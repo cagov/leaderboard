@@ -1,0 +1,67 @@
+{
+  "url": "https://heber.ca.gov/",
+  "requestedUrl": "https://heber.ca.gov/",
+  "timestamp": 1708265877527,
+  "ranks": {
+    "hundos": 213,
+    "performance": 98,
+    "accessibility": 396,
+    "cumulative": 213
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.77,
+    "bestPractices": 0.96,
+    "seo": 0.79,
+    "total": 317
+  },
+  "firstContentfulPaint": 4561.244999999999,
+  "firstMeaningfulPaint": 5354.757,
+  "speedIndex": 4685.043664294387,
+  "largestContentfulPaint": 5963.268999999998,
+  "totalBlockingTime": 104,
+  "cumulativeLayoutShift": 0.07798934380575288,
+  "timeToInteractive": 5828.946,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 194.90300000000002,
+  "weight": {
+    "summary": "94 requests • 2.9 MiB",
+    "total": 3002473,
+    "image": 2096039,
+    "imageCount": 38,
+    "script": 557216,
+    "scriptCount": 8,
+    "document": 20733,
+    "font": 154165,
+    "fontCount": 3,
+    "stylesheet": 174275,
+    "stylesheetCount": 43,
+    "thirdParty": 315677,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 240,
+    "+weight.total": 185,
+    "-weight.document": 100,
+    "+weight.document": 319,
+    "-weight.script": 123,
+    "+weight.script": 298,
+    "-weight.image": 289,
+    "+weight.image": 129,
+    "-weight.font": 159,
+    "+weight.font": 198,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 255,
+    "-totalBlockingTime": 130,
+    "-largestContentfulPaint": 69
+  },
+  "axe": {
+    "passes": 1072,
+    "violations": 34
+  }
+}

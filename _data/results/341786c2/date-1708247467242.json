@@ -1,0 +1,67 @@
+{
+  "url": "https://californiasciencecenter.ca.gov/",
+  "requestedUrl": "https://californiasciencecenter.ca.gov/",
+  "timestamp": 1708252021109,
+  "ranks": {
+    "hundos": 347,
+    "performance": 191,
+    "accessibility": 344,
+    "cumulative": 347
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": 0.84,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 282
+  },
+  "firstContentfulPaint": 3619.502,
+  "firstMeaningfulPaint": 5323.8095,
+  "speedIndex": 9817.279604185173,
+  "largestContentfulPaint": 13692.46,
+  "totalBlockingTime": 257.5000000000018,
+  "cumulativeLayoutShift": 0.00075674843062528,
+  "timeToInteractive": 36549.70349999999,
+  "maxPotentialFirstInputDelay": 181,
+  "timeToFirstByte": 42.232,
+  "weight": {
+    "summary": "208 requests • 10.4 MiB",
+    "total": 10866470,
+    "image": 9303266,
+    "imageCount": 59,
+    "script": 1198511,
+    "scriptCount": 122,
+    "document": 39682,
+    "font": 238101,
+    "fontCount": 7,
+    "stylesheet": 83170,
+    "stylesheetCount": 7,
+    "thirdParty": 1183785,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 392,
+    "+weight.total": 33,
+    "-weight.document": 233,
+    "+weight.document": 186,
+    "-weight.script": 292,
+    "+weight.script": 129,
+    "-weight.image": 397,
+    "+weight.image": 21,
+    "-weight.font": 220,
+    "+weight.font": 137,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 119,
+    "-totalBlockingTime": 185,
+    "-largestContentfulPaint": 290
+  },
+  "axe": {
+    "passes": 58,
+    "violations": 4
+  }
+}

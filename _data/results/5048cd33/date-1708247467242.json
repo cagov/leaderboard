@@ -1,0 +1,67 @@
+{
+  "url": "https://srta.ca.gov/",
+  "requestedUrl": "https://srta.ca.gov/",
+  "timestamp": 1708277502158,
+  "ranks": {
+    "hundos": 365,
+    "performance": 220,
+    "accessibility": 413,
+    "cumulative": 366
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 0.73,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 276
+  },
+  "firstContentfulPaint": 2389.376,
+  "firstMeaningfulPaint": 2401.876,
+  "speedIndex": 5619.252203517756,
+  "largestContentfulPaint": 12414.364000000003,
+  "totalBlockingTime": 253,
+  "cumulativeLayoutShift": 0.22621609443193105,
+  "timeToInteractive": 9186.878,
+  "maxPotentialFirstInputDelay": 215,
+  "timeToFirstByte": 175.72099999999998,
+  "weight": {
+    "summary": "69 requests • 2.3 MiB",
+    "total": 2415859,
+    "image": 1366233,
+    "imageCount": 27,
+    "script": 864747,
+    "scriptCount": 23,
+    "document": 28929,
+    "font": 20770,
+    "fontCount": 2,
+    "stylesheet": 118226,
+    "stylesheetCount": 8,
+    "thirdParty": 493613,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 184,
+    "+weight.total": 241,
+    "-weight.document": 139,
+    "+weight.document": 280,
+    "-weight.script": 191,
+    "+weight.script": 230,
+    "-weight.image": 246,
+    "+weight.image": 172,
+    "-weight.font": 5,
+    "+weight.font": 352,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 245,
+    "-totalBlockingTime": 182,
+    "-largestContentfulPaint": 270
+  },
+  "axe": {
+    "passes": 943,
+    "violations": 30
+  }
+}

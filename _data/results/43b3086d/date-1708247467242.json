@@ -1,0 +1,67 @@
+{
+  "url": "https://slocounty.ca.gov/",
+  "requestedUrl": "https://slocounty.ca.gov/",
+  "timestamp": 1708276724422,
+  "ranks": {
+    "hundos": 262,
+    "performance": 129,
+    "accessibility": 227,
+    "cumulative": 261
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 0.91,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 305
+  },
+  "firstContentfulPaint": 2060.8675000000003,
+  "firstMeaningfulPaint": 2545.2070000000003,
+  "speedIndex": 25937.94397551268,
+  "largestContentfulPaint": 9325.0275,
+  "totalBlockingTime": 155,
+  "cumulativeLayoutShift": 0.027759116039993006,
+  "timeToInteractive": 18582.567750000002,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 107.798,
+  "weight": {
+    "summary": "91 requests • 3.5 MiB",
+    "total": 3659024,
+    "image": 1776243,
+    "imageCount": 28,
+    "script": 1592309,
+    "scriptCount": 36,
+    "document": 87275,
+    "font": 35732,
+    "fontCount": 3,
+    "stylesheet": 124647,
+    "stylesheetCount": 9,
+    "thirdParty": 1859396,
+    "thirdPartyCount": 16
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 272,
+    "+weight.total": 153,
+    "-weight.document": 334,
+    "+weight.document": 85,
+    "-weight.script": 341,
+    "+weight.script": 80,
+    "-weight.image": 273,
+    "+weight.image": 145,
+    "-weight.font": 13,
+    "+weight.font": 344,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 206,
+    "-totalBlockingTime": 153,
+    "-largestContentfulPaint": 129
+  },
+  "axe": {
+    "passes": 1703,
+    "violations": 7
+  }
+}

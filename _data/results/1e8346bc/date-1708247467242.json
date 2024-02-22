@@ -1,0 +1,67 @@
+{
+  "url": "https://taxes.ca.gov/",
+  "requestedUrl": "https://taxes.ca.gov/",
+  "timestamp": 1708278465016,
+  "ranks": {
+    "hundos": 52,
+    "performance": 108,
+    "accessibility": 17,
+    "cumulative": 50
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.63,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.95,
+    "total": 354
+  },
+  "firstContentfulPaint": 2253.095,
+  "firstMeaningfulPaint": 3984.7715000000003,
+  "speedIndex": 3814.313970260855,
+  "largestContentfulPaint": 5925.713,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.23950544419286451,
+  "timeToInteractive": 5535.061,
+  "maxPotentialFirstInputDelay": 89,
+  "timeToFirstByte": 29.900999999999982,
+  "weight": {
+    "summary": "24 requests • 691.4 KiB",
+    "total": 707984,
+    "image": 19749,
+    "imageCount": 5,
+    "script": 422537,
+    "scriptCount": 7,
+    "document": 9850,
+    "font": 146109,
+    "fontCount": 3,
+    "stylesheet": 109031,
+    "stylesheetCount": 4,
+    "thirdParty": 272157,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 37,
+    "+weight.total": 388,
+    "-weight.document": 36,
+    "+weight.document": 383,
+    "-weight.script": 92,
+    "+weight.script": 329,
+    "-weight.image": 7,
+    "+weight.image": 411,
+    "-weight.font": 145,
+    "+weight.font": 212,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 85,
+    "-totalBlockingTime": 61,
+    "-largestContentfulPaint": 67
+  },
+  "axe": {
+    "passes": 391,
+    "violations": 0
+  }
+}

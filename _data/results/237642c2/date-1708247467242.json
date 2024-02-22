@@ -1,0 +1,67 @@
+{
+  "url": "https://ccfc.ca.gov/",
+  "requestedUrl": "https://ccfc.ca.gov/",
+  "timestamp": 1708253904313,
+  "ranks": {
+    "hundos": 267,
+    "performance": 186,
+    "accessibility": 321,
+    "cumulative": 272
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.86,
+    "bestPractices": 0.74,
+    "seo": 0.89,
+    "total": 304
+  },
+  "firstContentfulPaint": 11808.729999999996,
+  "firstMeaningfulPaint": 14256.182,
+  "speedIndex": 18660.210713299406,
+  "largestContentfulPaint": 30426.847,
+  "totalBlockingTime": 74,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 25285.307000000008,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 59.887,
+  "weight": {
+    "summary": "82 requests • 5.6 MiB",
+    "total": 5845510,
+    "image": 2506085,
+    "imageCount": 17,
+    "script": 1831899,
+    "scriptCount": 32,
+    "document": 158204,
+    "font": 367347,
+    "fontCount": 6,
+    "stylesheet": 980470,
+    "stylesheetCount": 19,
+    "thirdParty": 968134,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 339,
+    "+weight.total": 86,
+    "-weight.document": 375,
+    "+weight.document": 44,
+    "-weight.script": 366,
+    "+weight.script": 55,
+    "-weight.image": 308,
+    "+weight.image": 110,
+    "-weight.font": 271,
+    "+weight.font": 86,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 139,
+    "-totalBlockingTime": 108,
+    "-largestContentfulPaint": 394
+  },
+  "axe": {
+    "passes": 937,
+    "violations": 28
+  }
+}

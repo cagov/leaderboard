@@ -1,0 +1,67 @@
+{
+  "url": "https://drinc.ca.gov/drinc/",
+  "requestedUrl": "https://drinc.ca.gov/",
+  "timestamp": 1707774692463,
+  "ranks": {
+    "hundos": 59,
+    "performance": 13,
+    "accessibility": 188,
+    "cumulative": 59
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.98,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.67,
+    "total": 352
+  },
+  "firstContentfulPaint": 1237.797,
+  "firstMeaningfulPaint": 1262.297,
+  "speedIndex": 1237.797,
+  "largestContentfulPaint": 2341.797,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1939.797,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 45.033,
+  "weight": {
+    "summary": "36 requests • 222.7 KiB",
+    "total": 228088,
+    "image": 85335,
+    "imageCount": 14,
+    "script": 100732,
+    "scriptCount": 8,
+    "document": 9691,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 32046,
+    "stylesheetCount": 11,
+    "thirdParty": 17669,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 417,
+    "-weight.document": 35,
+    "+weight.document": 388,
+    "-weight.script": 12,
+    "+weight.script": 410,
+    "-weight.image": 32,
+    "+weight.image": 390,
+    "-weight.font": 1,
+    "+weight.font": 359,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 129,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 20
+  },
+  "axe": {
+    "passes": 281,
+    "violations": 12
+  }
+}

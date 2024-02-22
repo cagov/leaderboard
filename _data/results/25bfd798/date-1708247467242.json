@@ -1,0 +1,67 @@
+{
+  "url": "https://sco.ca.gov/",
+  "requestedUrl": "https://sco.ca.gov/",
+  "timestamp": 1708275277412,
+  "ranks": {
+    "hundos": 10,
+    "performance": 17,
+    "accessibility": 34,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 379
+  },
+  "firstContentfulPaint": 1847.939,
+  "firstMeaningfulPaint": 1847.939,
+  "speedIndex": 1847.939,
+  "largestContentfulPaint": 2384.2965000000004,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.10198114709373786,
+  "timeToInteractive": 3107.5932500000004,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 24.85900000000001,
+  "weight": {
+    "summary": "17 requests • 640.8 KiB",
+    "total": 656212,
+    "image": 193265,
+    "imageCount": 3,
+    "script": 213647,
+    "scriptCount": 5,
+    "document": 11484,
+    "font": 102913,
+    "fontCount": 1,
+    "stylesheet": 134575,
+    "stylesheetCount": 4,
+    "thirdParty": 303640,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 32,
+    "+weight.total": 393,
+    "-weight.document": 49,
+    "+weight.document": 370,
+    "-weight.script": 38,
+    "+weight.script": 383,
+    "-weight.image": 55,
+    "+weight.image": 363,
+    "-weight.font": 86,
+    "+weight.font": 271,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 69,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 15
+  },
+  "axe": {
+    "passes": 263,
+    "violations": 1
+  }
+}

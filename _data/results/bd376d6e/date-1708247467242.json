@@ -1,0 +1,67 @@
+{
+  "url": "https://www.dgs.ca.gov/",
+  "requestedUrl": "https://dgs.ca.gov/",
+  "timestamp": 1708260754435,
+  "ranks": {
+    "hundos": 271,
+    "performance": 249,
+    "accessibility": 66,
+    "cumulative": 265
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.48,
+    "accessibility": 1,
+    "bestPractices": 0.67,
+    "seo": 0.89,
+    "total": 304
+  },
+  "firstContentfulPaint": 3144.6775000000002,
+  "firstMeaningfulPaint": 3144.6775000000002,
+  "speedIndex": 14602.1863953568,
+  "largestContentfulPaint": 9630.653499999999,
+  "totalBlockingTime": 179.5,
+  "cumulativeLayoutShift": 0.19642529838962905,
+  "timeToInteractive": 20892.008,
+  "maxPotentialFirstInputDelay": 127,
+  "timeToFirstByte": 1692.668,
+  "weight": {
+    "summary": "81 requests • 3.8 MiB",
+    "total": 3983822,
+    "image": 1954583,
+    "imageCount": 27,
+    "script": 1670302,
+    "scriptCount": 23,
+    "document": 59256,
+    "font": 129348,
+    "fontCount": 10,
+    "stylesheet": 128004,
+    "stylesheetCount": 9,
+    "thirdParty": 1700469,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 289,
+    "+weight.total": 136,
+    "-weight.document": 297,
+    "+weight.document": 122,
+    "-weight.script": 348,
+    "+weight.script": 73,
+    "-weight.image": 285,
+    "+weight.image": 133,
+    "-weight.font": 123,
+    "+weight.font": 234,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 405,
+    "-totalBlockingTime": 158,
+    "-largestContentfulPaint": 134
+  },
+  "axe": {
+    "passes": 7,
+    "violations": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://pent.ca.gov/",
+  "requestedUrl": "https://pent.ca.gov/",
+  "timestamp": 1708188461103,
+  "ranks": {
+    "hundos": 31,
+    "performance": 68,
+    "accessibility": 13,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.71,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 362
+  },
+  "firstContentfulPaint": 3176.8550000000005,
+  "firstMeaningfulPaint": 3176.8550000000005,
+  "speedIndex": 3536.398914890503,
+  "largestContentfulPaint": 5896.5715,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0.06720692638690864,
+  "timeToInteractive": 3606.6675,
+  "maxPotentialFirstInputDelay": 64,
+  "timeToFirstByte": 113.888,
+  "weight": {
+    "summary": "32 requests • 686.7 KiB",
+    "total": 703176,
+    "image": 311953,
+    "imageCount": 12,
+    "script": 334069,
+    "scriptCount": 9,
+    "document": 8709,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 48194,
+    "stylesheetCount": 9,
+    "thirdParty": 330802,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 35,
+    "+weight.total": 388,
+    "-weight.document": 28,
+    "+weight.document": 391,
+    "-weight.script": 71,
+    "+weight.script": 349,
+    "-weight.image": 86,
+    "+weight.image": 331,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 224,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 97
+  },
+  "axe": {
+    "passes": 452,
+    "violations": 0
+  }
+}

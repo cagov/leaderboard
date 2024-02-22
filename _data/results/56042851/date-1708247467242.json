@@ -1,0 +1,67 @@
+{
+  "url": "https://scag.ca.gov/",
+  "requestedUrl": "https://scag.ca.gov/",
+  "timestamp": 1708275151255,
+  "ranks": {
+    "hundos": 307,
+    "performance": 174,
+    "accessibility": 146,
+    "cumulative": 307
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.96,
+    "bestPractices": 0.56,
+    "seo": 0.86,
+    "total": 293
+  },
+  "firstContentfulPaint": 3431.9240000000004,
+  "firstMeaningfulPaint": 5052.335000000001,
+  "speedIndex": 5603.032327236844,
+  "largestContentfulPaint": 15218.285000000003,
+  "totalBlockingTime": 195,
+  "cumulativeLayoutShift": 0.15141148297136925,
+  "timeToInteractive": 8613.574999999999,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 11.423000000000002,
+  "weight": {
+    "summary": "66 requests • 2.9 MiB",
+    "total": 3016415,
+    "image": 2077853,
+    "imageCount": 21,
+    "script": 677665,
+    "scriptCount": 14,
+    "document": 20855,
+    "font": 150589,
+    "fontCount": 7,
+    "stylesheet": 88594,
+    "stylesheetCount": 13,
+    "thirdParty": 646788,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 241,
+    "+weight.total": 184,
+    "-weight.document": 101,
+    "+weight.document": 318,
+    "-weight.script": 151,
+    "+weight.script": 270,
+    "-weight.image": 288,
+    "+weight.image": 130,
+    "-weight.font": 150,
+    "+weight.font": 207,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 166,
+    "-largestContentfulPaint": 312
+  },
+  "axe": {
+    "passes": 637,
+    "violations": 15
+  }
+}

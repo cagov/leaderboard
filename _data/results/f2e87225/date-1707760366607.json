@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cityofriodell.ca.gov/",
+  "requestedUrl": "https://cityofriodell.ca.gov/",
+  "timestamp": 1707768744187,
+  "ranks": {
+    "hundos": 61,
+    "performance": 70,
+    "accessibility": 119,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.7,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 351
+  },
+  "firstContentfulPaint": 3163.1875,
+  "firstMeaningfulPaint": 3163.1875,
+  "speedIndex": 3780.580493026063,
+  "largestContentfulPaint": 3728.1875,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.2333436556075121,
+  "timeToInteractive": 5067.2105,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 156.197,
+  "weight": {
+    "summary": "81 requests • 610.7 KiB",
+    "total": 625403,
+    "image": 103965,
+    "imageCount": 7,
+    "script": 314279,
+    "scriptCount": 34,
+    "document": 21497,
+    "font": 111457,
+    "fontCount": 2,
+    "stylesheet": 72297,
+    "stylesheetCount": 32,
+    "thirdParty": 252609,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 32,
+    "+weight.total": 394,
+    "-weight.document": 107,
+    "+weight.document": 316,
+    "-weight.script": 64,
+    "+weight.script": 358,
+    "-weight.image": 38,
+    "+weight.image": 384,
+    "-weight.font": 110,
+    "+weight.font": 249,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 246,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 40
+  },
+  "axe": {
+    "passes": 763,
+    "violations": 5
+  }
+}

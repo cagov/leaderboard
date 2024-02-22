@@ -1,0 +1,67 @@
+{
+  "url": "https://loomis.ca.gov/",
+  "requestedUrl": "https://loomis.ca.gov/",
+  "timestamp": 1708268656574,
+  "ranks": {
+    "hundos": 162,
+    "performance": 234,
+    "accessibility": 259,
+    "cumulative": 163
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.49,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 329
+  },
+  "firstContentfulPaint": 3421.925,
+  "firstMeaningfulPaint": 3421.925,
+  "speedIndex": 4881.493216649228,
+  "largestContentfulPaint": 8356.1,
+  "totalBlockingTime": 73,
+  "cumulativeLayoutShift": 0.3343800442190926,
+  "timeToInteractive": 9372.371500000003,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 572.042,
+  "weight": {
+    "summary": "89 requests • 1.3 MiB",
+    "total": 1395770,
+    "image": 63913,
+    "imageCount": 8,
+    "script": 854476,
+    "scriptCount": 51,
+    "document": 18069,
+    "font": 309607,
+    "fontCount": 6,
+    "stylesheet": 122374,
+    "stylesheetCount": 19,
+    "thirdParty": 541806,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 87,
+    "+weight.total": 338,
+    "-weight.document": 80,
+    "+weight.document": 339,
+    "-weight.script": 187,
+    "+weight.script": 234,
+    "-weight.image": 23,
+    "+weight.image": 395,
+    "-weight.font": 252,
+    "+weight.font": 105,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 338,
+    "-totalBlockingTime": 106,
+    "-largestContentfulPaint": 110
+  },
+  "axe": {
+    "passes": 1127,
+    "violations": 40
+  }
+}

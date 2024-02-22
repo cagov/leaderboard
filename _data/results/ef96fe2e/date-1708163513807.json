@@ -1,0 +1,67 @@
+{
+  "url": "https://bhc.ca.gov/",
+  "requestedUrl": "https://bhc.ca.gov/",
+  "timestamp": 1708165444446,
+  "ranks": {
+    "hundos": 237,
+    "performance": 277,
+    "accessibility": 386,
+    "cumulative": 239
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.79,
+    "bestPractices": 0.96,
+    "seo": 0.89,
+    "total": 310
+  },
+  "firstContentfulPaint": 5934.8279999999995,
+  "firstMeaningfulPaint": 8578.956879999998,
+  "speedIndex": 11996.345947302209,
+  "largestContentfulPaint": 15644.173999999999,
+  "totalBlockingTime": 13,
+  "cumulativeLayoutShift": 0.21205298246057505,
+  "timeToInteractive": 16502.540299999997,
+  "maxPotentialFirstInputDelay": 75,
+  "timeToFirstByte": 88.31799999999998,
+  "weight": {
+    "summary": "60 requests • 3.2 MiB",
+    "total": 3407039,
+    "image": 1658735,
+    "imageCount": 28,
+    "script": 969854,
+    "scriptCount": 13,
+    "document": 42775,
+    "font": 110025,
+    "fontCount": 3,
+    "stylesheet": 624756,
+    "stylesheetCount": 10,
+    "thirdParty": 411905,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 263,
+    "+weight.total": 160,
+    "-weight.document": 261,
+    "+weight.document": 158,
+    "-weight.script": 242,
+    "+weight.script": 178,
+    "-weight.image": 265,
+    "+weight.image": 152,
+    "-weight.font": 99,
+    "+weight.font": 252,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 175,
+    "-totalBlockingTime": 26,
+    "-largestContentfulPaint": 275
+  },
+  "axe": {
+    "passes": 613,
+    "violations": 12
+  }
+}

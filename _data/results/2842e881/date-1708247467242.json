@@ -1,0 +1,67 @@
+{
+  "url": "https://bcdc.ca.gov/",
+  "requestedUrl": "https://bcdc.ca.gov/",
+  "timestamp": 1708249054787,
+  "ranks": {
+    "hundos": 302,
+    "performance": 198,
+    "accessibility": 4,
+    "cumulative": 302
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.53,
+    "accessibility": 1,
+    "bestPractices": 0.52,
+    "seo": 0.9,
+    "total": 295
+  },
+  "firstContentfulPaint": 2195.6690000000003,
+  "firstMeaningfulPaint": 4178.931500000001,
+  "speedIndex": 5749.930699185836,
+  "largestContentfulPaint": 12250.382499999998,
+  "totalBlockingTime": 63.5,
+  "cumulativeLayoutShift": 0.2960794844179637,
+  "timeToInteractive": 9500.264,
+  "maxPotentialFirstInputDelay": 86,
+  "timeToFirstByte": 93.72399999999999,
+  "weight": {
+    "summary": "80 requests • 8.9 MiB",
+    "total": 9285657,
+    "image": 1551787,
+    "imageCount": 19,
+    "script": 955388,
+    "scriptCount": 20,
+    "document": 29847,
+    "font": 166805,
+    "fontCount": 5,
+    "stylesheet": 106483,
+    "stylesheetCount": 9,
+    "thirdParty": 7500634,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 382,
+    "+weight.total": 43,
+    "-weight.document": 147,
+    "+weight.document": 272,
+    "-weight.script": 235,
+    "+weight.script": 186,
+    "-weight.image": 257,
+    "+weight.image": 161,
+    "-weight.font": 176,
+    "+weight.font": 181,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 181,
+    "-totalBlockingTime": 93,
+    "-largestContentfulPaint": 264
+  },
+  "axe": {
+    "passes": 942,
+    "violations": 0
+  }
+}

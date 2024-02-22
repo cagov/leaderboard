@@ -1,0 +1,67 @@
+{
+  "url": "https://iep.ca.gov/",
+  "requestedUrl": "https://iep.ca.gov/",
+  "timestamp": 1708182561446,
+  "ranks": {
+    "hundos": 300,
+    "performance": 342,
+    "accessibility": 177,
+    "cumulative": 300
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "bestPractices": 0.74,
+    "seo": 0.9,
+    "total": 297
+  },
+  "firstContentfulPaint": 10129.482,
+  "firstMeaningfulPaint": 10970.576,
+  "speedIndex": 10129.482,
+  "largestContentfulPaint": 13730.696,
+  "totalBlockingTime": 27.5,
+  "cumulativeLayoutShift": 0.3543850280657661,
+  "timeToInteractive": 14633.590500000002,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 89.48400000000001,
+  "weight": {
+    "summary": "68 requests • 2.5 MiB",
+    "total": 2616464,
+    "image": 278420,
+    "imageCount": 12,
+    "script": 1579508,
+    "scriptCount": 28,
+    "document": 49299,
+    "font": 125734,
+    "fontCount": 3,
+    "stylesheet": 582300,
+    "stylesheetCount": 19,
+    "thirdParty": 435660,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 206,
+    "+weight.total": 217,
+    "-weight.document": 279,
+    "+weight.document": 140,
+    "-weight.script": 336,
+    "+weight.script": 84,
+    "-weight.image": 77,
+    "+weight.image": 340,
+    "-weight.font": 117,
+    "+weight.font": 234,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 177,
+    "-totalBlockingTime": 51,
+    "-largestContentfulPaint": 253
+  },
+  "axe": {
+    "passes": 740,
+    "violations": 5
+  }
+}

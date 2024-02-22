@@ -1,0 +1,67 @@
+{
+  "url": "https://cvfpb.ca.gov/",
+  "requestedUrl": "https://cvfpb.ca.gov/",
+  "timestamp": 1708175604297,
+  "ranks": {
+    "hundos": 316,
+    "performance": 276,
+    "accessibility": 353,
+    "cumulative": 316
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.83,
+    "bestPractices": 0.78,
+    "seo": 0.83,
+    "total": 290
+  },
+  "firstContentfulPaint": 7357.922500000002,
+  "firstMeaningfulPaint": 7687.236500000001,
+  "speedIndex": 9713.478986037946,
+  "largestContentfulPaint": 11392.019,
+  "totalBlockingTime": 36.5,
+  "cumulativeLayoutShift": 0.21551513235402717,
+  "timeToInteractive": 9452.337500000001,
+  "maxPotentialFirstInputDelay": 121,
+  "timeToFirstByte": 154.69600000000003,
+  "weight": {
+    "summary": "70 requests • 2.6 MiB",
+    "total": 2720434,
+    "image": 578701,
+    "imageCount": 26,
+    "script": 1137768,
+    "scriptCount": 18,
+    "document": 55757,
+    "font": 146229,
+    "fontCount": 3,
+    "stylesheet": 800844,
+    "stylesheetCount": 16,
+    "thirdParty": 504790,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 217,
+    "+weight.total": 206,
+    "-weight.document": 295,
+    "+weight.document": 124,
+    "-weight.script": 285,
+    "+weight.script": 135,
+    "-weight.image": 139,
+    "+weight.image": 278,
+    "-weight.font": 143,
+    "+weight.font": 208,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 242,
+    "-totalBlockingTime": 62,
+    "-largestContentfulPaint": 217
+  },
+  "axe": {
+    "passes": 729,
+    "violations": 25
+  }
+}

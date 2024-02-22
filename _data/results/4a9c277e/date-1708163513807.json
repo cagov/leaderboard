@@ -1,0 +1,67 @@
+{
+  "url": "https://morganhill.ca.gov/",
+  "requestedUrl": "https://morganhill.ca.gov/",
+  "timestamp": 1708186161149,
+  "ranks": {
+    "hundos": 397,
+    "performance": 373,
+    "accessibility": 389,
+    "cumulative": 397
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.35,
+    "accessibility": 0.79,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 258
+  },
+  "firstContentfulPaint": 2829.034,
+  "firstMeaningfulPaint": 3529.4635,
+  "speedIndex": 13828.133013893723,
+  "largestContentfulPaint": 10875.187999999996,
+  "totalBlockingTime": 466.49999999999955,
+  "cumulativeLayoutShift": 0.2669794794456379,
+  "timeToInteractive": 16583.017,
+  "maxPotentialFirstInputDelay": 220,
+  "timeToFirstByte": 434.76399999999995,
+  "weight": {
+    "summary": "109 requests • 3.1 MiB",
+    "total": 3212494,
+    "image": 1511661,
+    "imageCount": 38,
+    "script": 1400273,
+    "scriptCount": 47,
+    "document": 50493,
+    "font": 63563,
+    "fontCount": 3,
+    "stylesheet": 165124,
+    "stylesheetCount": 7,
+    "thirdParty": 1078121,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 250,
+    "+weight.total": 173,
+    "-weight.document": 285,
+    "+weight.document": 134,
+    "-weight.script": 317,
+    "+weight.script": 103,
+    "-weight.image": 253,
+    "+weight.image": 164,
+    "-weight.font": 34,
+    "+weight.font": 317,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 323,
+    "-totalBlockingTime": 224,
+    "-largestContentfulPaint": 323
+  },
+  "axe": {
+    "passes": 2395,
+    "violations": 51
+  }
+}

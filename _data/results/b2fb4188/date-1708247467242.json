@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californiavolunteers.ca.gov/climateactioncorps/",
+  "requestedUrl": "https://climateactioncorps.ca.gov/",
+  "timestamp": 1708256235588,
+  "ranks": {
+    "hundos": 324,
+    "performance": 398,
+    "accessibility": 246,
+    "cumulative": 324
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.9,
+    "bestPractices": 0.78,
+    "seo": 0.88,
+    "total": 287
+  },
+  "firstContentfulPaint": 4812.717499999999,
+  "firstMeaningfulPaint": 8946.5095,
+  "speedIndex": 14450.230667878188,
+  "largestContentfulPaint": 23339.250662500002,
+  "totalBlockingTime": 230.7584999999999,
+  "cumulativeLayoutShift": 0.4929541100131073,
+  "timeToInteractive": 28247.249000000003,
+  "maxPotentialFirstInputDelay": 121,
+  "timeToFirstByte": 671.794,
+  "weight": {
+    "summary": "142 requests • 10.8 MiB",
+    "total": 11302757,
+    "image": 8313934,
+    "imageCount": 40,
+    "script": 1863633,
+    "scriptCount": 40,
+    "document": 114019,
+    "font": 711955,
+    "fontCount": 13,
+    "stylesheet": 256129,
+    "stylesheetCount": 25,
+    "thirdParty": 2083060,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 395,
+    "+weight.total": 30,
+    "-weight.document": 353,
+    "+weight.document": 66,
+    "-weight.script": 370,
+    "+weight.script": 51,
+    "-weight.image": 392,
+    "+weight.image": 26,
+    "-weight.font": 339,
+    "+weight.font": 18,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 351,
+    "-totalBlockingTime": 177,
+    "-largestContentfulPaint": 373
+  },
+  "axe": {
+    "passes": 571,
+    "violations": 6
+  }
+}

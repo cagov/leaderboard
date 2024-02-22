@@ -1,0 +1,67 @@
+{
+  "url": "https://deltaconservancy.ca.gov/",
+  "requestedUrl": "https://deltaconservancy.ca.gov/",
+  "timestamp": 1708260338285,
+  "ranks": {
+    "hundos": 244,
+    "performance": 275,
+    "accessibility": 393,
+    "cumulative": 243
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.78,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 309
+  },
+  "firstContentfulPaint": 5505.859999999999,
+  "firstMeaningfulPaint": 6646.029,
+  "speedIndex": 8823.749750892079,
+  "largestContentfulPaint": 9815.3445,
+  "totalBlockingTime": 57,
+  "cumulativeLayoutShift": 0.24742171807896715,
+  "timeToInteractive": 6646.029,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 1437.279,
+  "weight": {
+    "summary": "59 requests • 2.4 MiB",
+    "total": 2540989,
+    "image": 694320,
+    "imageCount": 24,
+    "script": 998801,
+    "scriptCount": 14,
+    "document": 63965,
+    "font": 146228,
+    "fontCount": 3,
+    "stylesheet": 636793,
+    "stylesheetCount": 12,
+    "thirdParty": 412921,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 196,
+    "+weight.total": 229,
+    "-weight.document": 308,
+    "+weight.document": 111,
+    "-weight.script": 256,
+    "+weight.script": 165,
+    "-weight.image": 172,
+    "+weight.image": 246,
+    "-weight.font": 146,
+    "+weight.font": 211,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 395,
+    "-totalBlockingTime": 86,
+    "-largestContentfulPaint": 136
+  },
+  "axe": {
+    "passes": 752,
+    "violations": 14
+  }
+}

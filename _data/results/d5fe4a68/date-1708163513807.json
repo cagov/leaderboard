@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdcr.ca.gov/",
+  "requestedUrl": "https://cdcr.ca.gov/",
+  "timestamp": 1708170357303,
+  "ranks": {
+    "hundos": 142,
+    "performance": 93,
+    "accessibility": 112,
+    "cumulative": 142
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.65,
+    "accessibility": 0.98,
+    "bestPractices": 0.78,
+    "seo": 0.93,
+    "total": 334
+  },
+  "firstContentfulPaint": 4287.1525,
+  "firstMeaningfulPaint": 4287.1525,
+  "speedIndex": 4287.1525,
+  "largestContentfulPaint": 8249.175,
+  "totalBlockingTime": 58,
+  "cumulativeLayoutShift": 0.00023943276794815134,
+  "timeToInteractive": 6636.279499999999,
+  "maxPotentialFirstInputDelay": 80,
+  "timeToFirstByte": 109.32999999999998,
+  "weight": {
+    "summary": "41 requests • 1.1 MiB",
+    "total": 1125477,
+    "image": 611291,
+    "imageCount": 11,
+    "script": 256522,
+    "scriptCount": 9,
+    "document": 11688,
+    "font": 109311,
+    "fontCount": 5,
+    "stylesheet": 102183,
+    "stylesheetCount": 6,
+    "thirdParty": 230614,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 59,
+    "+weight.total": 364,
+    "-weight.document": 51,
+    "+weight.document": 368,
+    "-weight.script": 47,
+    "+weight.script": 373,
+    "-weight.image": 155,
+    "+weight.image": 262,
+    "-weight.font": 97,
+    "+weight.font": 254,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 216,
+    "-totalBlockingTime": 91,
+    "-largestContentfulPaint": 147
+  },
+  "axe": {
+    "passes": 775,
+    "violations": 2
+  }
+}

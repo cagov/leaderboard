@@ -1,0 +1,67 @@
+{
+  "url": "https://emsa.ca.gov/",
+  "requestedUrl": "https://emsa.ca.gov/",
+  "timestamp": 1708263237024,
+  "ranks": {
+    "hundos": 121,
+    "performance": 288,
+    "accessibility": 112,
+    "cumulative": 121
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.99,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 2273.1620000000003,
+  "firstMeaningfulPaint": 6273.662,
+  "speedIndex": 6389.605666378338,
+  "largestContentfulPaint": 10748.162,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 0.6010951684047019,
+  "timeToInteractive": 11408.662,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 425.20399999999995,
+  "weight": {
+    "summary": "75 requests • 2.2 MiB",
+    "total": 2346738,
+    "image": 766890,
+    "imageCount": 22,
+    "script": 772125,
+    "scriptCount": 21,
+    "document": 36392,
+    "font": 576253,
+    "fontCount": 6,
+    "stylesheet": 194225,
+    "stylesheetCount": 18,
+    "thirdParty": 669223,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 174,
+    "+weight.total": 251,
+    "-weight.document": 207,
+    "+weight.document": 212,
+    "-weight.script": 171,
+    "+weight.script": 250,
+    "-weight.image": 185,
+    "+weight.image": 233,
+    "-weight.font": 314,
+    "+weight.font": 43,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 318,
+    "-totalBlockingTime": 99,
+    "-largestContentfulPaint": 154
+  },
+  "axe": {
+    "passes": 615,
+    "violations": 7
+  }
+}

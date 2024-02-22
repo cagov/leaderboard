@@ -1,0 +1,67 @@
+{
+  "url": "https://piedmont.ca.gov/",
+  "requestedUrl": "https://piedmont.ca.gov/",
+  "timestamp": 1707785520665,
+  "ranks": {
+    "hundos": 391,
+    "performance": 367,
+    "accessibility": 220,
+    "cumulative": 390
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.92,
+    "bestPractices": 0.52,
+    "seo": 0.82,
+    "total": 262
+  },
+  "firstContentfulPaint": 5566.426500000001,
+  "firstMeaningfulPaint": 6358.066500000001,
+  "speedIndex": 8979.804863203299,
+  "largestContentfulPaint": 42400.935499999934,
+  "totalBlockingTime": 49.5,
+  "cumulativeLayoutShift": 0.4811059322722045,
+  "timeToInteractive": 11852.2385,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 1516.867,
+  "weight": {
+    "summary": "107 requests • 7.7 MiB",
+    "total": 8077576,
+    "image": 6549737,
+    "imageCount": 13,
+    "script": 1130957,
+    "scriptCount": 54,
+    "document": 45263,
+    "font": 216086,
+    "fontCount": 4,
+    "stylesheet": 119420,
+    "stylesheetCount": 27,
+    "thirdParty": 7807856,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 365,
+    "+weight.total": 61,
+    "-weight.document": 267,
+    "+weight.document": 156,
+    "-weight.script": 284,
+    "+weight.script": 138,
+    "-weight.image": 381,
+    "+weight.image": 41,
+    "-weight.font": 203,
+    "+weight.font": 156,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 399,
+    "-totalBlockingTime": 77,
+    "-largestContentfulPaint": 411
+  },
+  "axe": {
+    "passes": 918,
+    "violations": 24
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://climateresilience.ca.gov/",
+  "requestedUrl": "https://climateresilience.ca.gov/",
+  "timestamp": 1708172388825,
+  "ranks": {
+    "hundos": 30,
+    "performance": 118,
+    "accessibility": 32,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 362
+  },
+  "firstContentfulPaint": 2589.833,
+  "firstMeaningfulPaint": 2913.1050000000005,
+  "speedIndex": 4785.621912182152,
+  "largestContentfulPaint": 21098.871000000014,
+  "totalBlockingTime": 32.5,
+  "cumulativeLayoutShift": 0.15357305589307413,
+  "timeToInteractive": 4695.2565,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 19.58,
+  "weight": {
+    "summary": "48 requests • 5.1 MiB",
+    "total": 5300503,
+    "image": 4593265,
+    "imageCount": 14,
+    "script": 420280,
+    "scriptCount": 8,
+    "document": 9013,
+    "font": 78504,
+    "fontCount": 3,
+    "stylesheet": 136770,
+    "stylesheetCount": 12,
+    "thirdParty": 334656,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 322,
+    "+weight.total": 101,
+    "-weight.document": 29,
+    "+weight.document": 390,
+    "-weight.script": 88,
+    "+weight.script": 332,
+    "-weight.image": 358,
+    "+weight.image": 59,
+    "-weight.font": 58,
+    "+weight.font": 293,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 51,
+    "-totalBlockingTime": 58,
+    "-largestContentfulPaint": 369
+  },
+  "axe": {
+    "passes": 269,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ccap.ca.gov/",
+  "requestedUrl": "https://ccap.ca.gov/",
+  "timestamp": 1708169835945,
+  "ranks": {
+    "hundos": 166,
+    "performance": 270,
+    "accessibility": 108,
+    "cumulative": 167
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.99,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 328
+  },
+  "firstContentfulPaint": 4014.7699999999995,
+  "firstMeaningfulPaint": 4833.371999999999,
+  "speedIndex": 5890.033901099574,
+  "largestContentfulPaint": 7163.634499999999,
+  "totalBlockingTime": 8.5,
+  "cumulativeLayoutShift": 0.3694649090854616,
+  "timeToInteractive": 7421.393999999999,
+  "maxPotentialFirstInputDelay": 67,
+  "timeToFirstByte": 36.715,
+  "weight": {
+    "summary": "53 requests • 1.9 MiB",
+    "total": 2032654,
+    "image": 437101,
+    "imageCount": 24,
+    "script": 1079791,
+    "scriptCount": 15,
+    "document": 37499,
+    "font": 80183,
+    "fontCount": 3,
+    "stylesheet": 397224,
+    "stylesheetCount": 6,
+    "thirdParty": 611998,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 149,
+    "+weight.total": 274,
+    "-weight.document": 220,
+    "+weight.document": 199,
+    "-weight.script": 274,
+    "+weight.script": 146,
+    "-weight.image": 116,
+    "+weight.image": 301,
+    "-weight.font": 63,
+    "+weight.font": 288,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 105,
+    "-totalBlockingTime": 16,
+    "-largestContentfulPaint": 127
+  },
+  "axe": {
+    "passes": 661,
+    "violations": 5
+  }
+}

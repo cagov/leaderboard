@@ -1,0 +1,67 @@
+{
+  "url": "https://cjp.ca.gov/",
+  "requestedUrl": "https://cjp.ca.gov/",
+  "timestamp": 1708256085918,
+  "ranks": {
+    "hundos": 28,
+    "performance": 84,
+    "accessibility": 120,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 362
+  },
+  "firstContentfulPaint": 2272.514,
+  "firstMeaningfulPaint": 4222.514,
+  "speedIndex": 4434.231249291006,
+  "largestContentfulPaint": 3022.514,
+  "totalBlockingTime": 42.5,
+  "cumulativeLayoutShift": 0.5730615598753854,
+  "timeToInteractive": 9075.014,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 100.953,
+  "weight": {
+    "summary": "61 requests • 1.3 MiB",
+    "total": 1400064,
+    "image": 33189,
+    "imageCount": 6,
+    "script": 766033,
+    "scriptCount": 21,
+    "document": 29382,
+    "font": 381200,
+    "fontCount": 5,
+    "stylesheet": 189416,
+    "stylesheetCount": 21,
+    "thirdParty": 664158,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 89,
+    "+weight.total": 336,
+    "-weight.document": 145,
+    "+weight.document": 274,
+    "-weight.script": 166,
+    "+weight.script": 255,
+    "-weight.image": 14,
+    "+weight.image": 404,
+    "-weight.font": 277,
+    "+weight.font": 80,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 191,
+    "-totalBlockingTime": 68,
+    "-largestContentfulPaint": 24
+  },
+  "axe": {
+    "passes": 341,
+    "violations": 4
+  }
+}

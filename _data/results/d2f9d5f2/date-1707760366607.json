@@ -1,0 +1,67 @@
+{
+  "url": "https://ncric.ca.gov/",
+  "requestedUrl": "https://ncric.ca.gov/",
+  "timestamp": 1707783668737,
+  "ranks": {
+    "hundos": 17,
+    "performance": 29,
+    "accessibility": 301,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.89,
+    "accessibility": 0.87,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 367
+  },
+  "firstContentfulPaint": 2690.902,
+  "firstMeaningfulPaint": 2690.902,
+  "speedIndex": 2789.075252057838,
+  "largestContentfulPaint": 3113.4095,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.05135412800854964,
+  "timeToInteractive": 2690.902,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 115.73499999999999,
+  "weight": {
+    "summary": "40 requests • 597.1 KiB",
+    "total": 611392,
+    "image": 238338,
+    "imageCount": 6,
+    "script": 4187,
+    "scriptCount": 1,
+    "document": 26279,
+    "font": 163647,
+    "fontCount": 6,
+    "stylesheet": 178941,
+    "stylesheetCount": 26,
+    "thirdParty": 52978,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 30,
+    "+weight.total": 396,
+    "-weight.document": 129,
+    "+weight.document": 294,
+    "-weight.script": 2,
+    "+weight.script": 420,
+    "-weight.image": 64,
+    "+weight.image": 358,
+    "-weight.font": 174,
+    "+weight.font": 185,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 222,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 32
+  },
+  "axe": {
+    "passes": 833,
+    "violations": 13
+  }
+}

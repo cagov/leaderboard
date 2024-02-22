@@ -1,0 +1,67 @@
+{
+  "url": "https://cityofblythe.ca.gov/",
+  "requestedUrl": "https://cityofblythe.ca.gov/",
+  "timestamp": 1708255801475,
+  "ranks": {
+    "hundos": 344,
+    "performance": 187,
+    "accessibility": 400,
+    "cumulative": 343
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": 0.76,
+    "bestPractices": 0.7,
+    "seo": 0.82,
+    "total": 282
+  },
+  "firstContentfulPaint": 2379.925,
+  "firstMeaningfulPaint": 3285.2780000000002,
+  "speedIndex": 5484.702530172277,
+  "largestContentfulPaint": 11620.357,
+  "totalBlockingTime": 157,
+  "cumulativeLayoutShift": 0.23926938464089034,
+  "timeToInteractive": 9259.797999999999,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 168.17299999999997,
+  "weight": {
+    "summary": "66 requests • 2.0 MiB",
+    "total": 2058592,
+    "image": 1008200,
+    "imageCount": 25,
+    "script": 864457,
+    "scriptCount": 23,
+    "document": 29984,
+    "font": 33699,
+    "fontCount": 1,
+    "stylesheet": 108894,
+    "stylesheetCount": 9,
+    "thirdParty": 504787,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 153,
+    "+weight.total": 272,
+    "-weight.document": 148,
+    "+weight.document": 271,
+    "-weight.script": 190,
+    "+weight.script": 231,
+    "-weight.image": 217,
+    "+weight.image": 201,
+    "-weight.font": 12,
+    "+weight.font": 345,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 241,
+    "-totalBlockingTime": 154,
+    "-largestContentfulPaint": 256
+  },
+  "axe": {
+    "passes": 939,
+    "violations": 24
+  }
+}

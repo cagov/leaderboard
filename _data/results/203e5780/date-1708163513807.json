@@ -1,0 +1,67 @@
+{
+  "url": "https://bvwd.ca.gov/",
+  "requestedUrl": "https://bvwd.ca.gov/",
+  "timestamp": 1708166338549,
+  "ranks": {
+    "hundos": 216,
+    "performance": 147,
+    "accessibility": 306,
+    "cumulative": 217
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.58,
+    "accessibility": 0.87,
+    "bestPractices": 0.7,
+    "seo": 1,
+    "total": 315
+  },
+  "firstContentfulPaint": 2685.848,
+  "firstMeaningfulPaint": 3773.9839999999995,
+  "speedIndex": 2738.529638578458,
+  "largestContentfulPaint": 4680.763999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.4841408705356321,
+  "timeToInteractive": 3773.9839999999995,
+  "maxPotentialFirstInputDelay": 48,
+  "timeToFirstByte": 39.854,
+  "weight": {
+    "summary": "39 requests • 585.5 KiB",
+    "total": 599501,
+    "image": 76624,
+    "imageCount": 10,
+    "script": 345961,
+    "scriptCount": 18,
+    "document": 9647,
+    "font": 111772,
+    "fontCount": 2,
+    "stylesheet": 55277,
+    "stylesheetCount": 6,
+    "thirdParty": 241708,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 29,
+    "+weight.total": 394,
+    "-weight.document": 32,
+    "+weight.document": 387,
+    "-weight.script": 75,
+    "+weight.script": 345,
+    "-weight.image": 28,
+    "+weight.image": 389,
+    "-weight.font": 106,
+    "+weight.font": 245,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 112,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 63
+  },
+  "axe": {
+    "passes": 615,
+    "violations": 24
+  }
+}

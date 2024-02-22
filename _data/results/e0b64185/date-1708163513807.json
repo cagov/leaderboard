@@ -1,0 +1,67 @@
+{
+  "url": "https://lao.ca.gov/",
+  "requestedUrl": "https://lao.ca.gov/",
+  "timestamp": 1708184016524,
+  "ranks": {
+    "hundos": 82,
+    "performance": 87,
+    "accessibility": 165,
+    "cumulative": 87
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.66,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 345
+  },
+  "firstContentfulPaint": 3987.4320000000007,
+  "firstMeaningfulPaint": 3987.4320000000007,
+  "speedIndex": 4190.650078617589,
+  "largestContentfulPaint": 7082.361000000001,
+  "totalBlockingTime": 24.5,
+  "cumulativeLayoutShift": 0.00003529891763459747,
+  "timeToInteractive": 6796.488500000001,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 34.129000000000005,
+  "weight": {
+    "summary": "45 requests • 1.9 MiB",
+    "total": 1947849,
+    "image": 1053731,
+    "imageCount": 28,
+    "script": 551205,
+    "scriptCount": 8,
+    "document": 59124,
+    "font": 121719,
+    "fontCount": 1,
+    "stylesheet": 161820,
+    "stylesheetCount": 6,
+    "thirdParty": 340746,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 142,
+    "+weight.total": 281,
+    "-weight.document": 303,
+    "+weight.document": 116,
+    "-weight.script": 120,
+    "+weight.script": 300,
+    "-weight.image": 222,
+    "+weight.image": 195,
+    "-weight.font": 115,
+    "+weight.font": 236,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 92,
+    "-totalBlockingTime": 46,
+    "-largestContentfulPaint": 124
+  },
+  "axe": {
+    "passes": 1451,
+    "violations": 15
+  }
+}

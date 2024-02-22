@@ -1,0 +1,67 @@
+{
+  "url": "https://escog.ca.gov/",
+  "requestedUrl": "https://escog.ca.gov/",
+  "timestamp": 1708179650903,
+  "ranks": {
+    "hundos": 45,
+    "performance": 122,
+    "accessibility": 26,
+    "cumulative": 45
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.62,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 355
+  },
+  "firstContentfulPaint": 2697.297,
+  "firstMeaningfulPaint": 5271.432,
+  "speedIndex": 7559.458501144779,
+  "largestContentfulPaint": 12124.367999999999,
+  "totalBlockingTime": 141.5,
+  "cumulativeLayoutShift": 0.003082545709921382,
+  "timeToInteractive": 10896.657,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 95.422,
+  "weight": {
+    "summary": "66 requests • 5.6 MiB",
+    "total": 5837859,
+    "image": 4496518,
+    "imageCount": 14,
+    "script": 1043105,
+    "scriptCount": 17,
+    "document": 26060,
+    "font": 131228,
+    "fontCount": 7,
+    "stylesheet": 128348,
+    "stylesheetCount": 4,
+    "thirdParty": 5811015,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 337,
+    "+weight.total": 86,
+    "-weight.document": 128,
+    "+weight.document": 291,
+    "-weight.script": 265,
+    "+weight.script": 155,
+    "-weight.image": 357,
+    "+weight.image": 60,
+    "-weight.font": 127,
+    "+weight.font": 224,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 185,
+    "-totalBlockingTime": 158,
+    "-largestContentfulPaint": 231
+  },
+  "axe": {
+    "passes": 924,
+    "violations": 1
+  }
+}

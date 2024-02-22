@@ -1,0 +1,67 @@
+{
+  "url": "https://captain.ca.gov/",
+  "requestedUrl": "https://captain.ca.gov/",
+  "timestamp": 1708169445197,
+  "ranks": {
+    "hundos": 375,
+    "performance": 215,
+    "accessibility": 405,
+    "cumulative": 375
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.74,
+    "bestPractices": 0.48,
+    "seo": 1,
+    "total": 274
+  },
+  "firstContentfulPaint": 8778.202000000001,
+  "firstMeaningfulPaint": 8778.202000000001,
+  "speedIndex": 8949.912546349635,
+  "largestContentfulPaint": 9378.202,
+  "totalBlockingTime": 259.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 12463.202000000001,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 288.14300000000003,
+  "weight": {
+    "summary": "86 requests • 1.6 MiB",
+    "total": 1663565,
+    "image": 239851,
+    "imageCount": 22,
+    "script": 1059602,
+    "scriptCount": 25,
+    "document": 164200,
+    "font": 22186,
+    "fontCount": 8,
+    "stylesheet": 52323,
+    "stylesheetCount": 5,
+    "thirdParty": 1584173,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 108,
+    "+weight.total": 315,
+    "-weight.document": 381,
+    "+weight.document": 38,
+    "-weight.script": 269,
+    "+weight.script": 151,
+    "-weight.image": 65,
+    "+weight.image": 352,
+    "-weight.font": 6,
+    "+weight.font": 345,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 285,
+    "-totalBlockingTime": 201,
+    "-largestContentfulPaint": 320
+  },
+  "axe": {
+    "passes": 734,
+    "violations": 23
+  }
+}

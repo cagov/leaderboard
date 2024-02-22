@@ -1,0 +1,66 @@
+{
+  "url": "https://www.calvet.ca.gov/",
+  "requestedUrl": "https://calvet.ca.gov/",
+  "timestamp": 1708169106640,
+  "ranks": {
+    "hundos": 403,
+    "performance": 399,
+    "accessibility": 286,
+    "cumulative": 403
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.89,
+    "bestPractices": 0.52,
+    "seo": 0.84,
+    "total": 256
+  },
+  "firstContentfulPaint": 16157.921944390015,
+  "firstMeaningfulPaint": 17075.587825571463,
+  "speedIndex": 25896.601759679586,
+  "largestContentfulPaint": 31951.02831941305,
+  "totalBlockingTime": 1214.1415940927764,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 32980.738918316165,
+  "maxPotentialFirstInputDelay": 1162,
+  "timeToFirstByte": 347.532,
+  "weight": {
+    "summary": "213 requests • 6.1 MiB",
+    "total": 6448142,
+    "image": 2941374,
+    "imageCount": 56,
+    "script": 2687760,
+    "scriptCount": 84,
+    "document": 91818,
+    "font": 319986,
+    "fontCount": 5,
+    "stylesheet": 272171,
+    "stylesheetCount": 23,
+    "thirdParty": 3139817,
+    "thirdPartyCount": 29
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 346,
+    "+weight.total": 77,
+    "-weight.document": 342,
+    "+weight.document": 77,
+    "-weight.script": 403,
+    "+weight.script": 17,
+    "-weight.image": 323,
+    "+weight.image": 94,
+    "-weight.font": 252,
+    "+weight.font": 99,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 306,
+    "-totalBlockingTime": 250,
+    "-largestContentfulPaint": 398
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

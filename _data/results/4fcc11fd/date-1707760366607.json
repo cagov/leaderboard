@@ -1,0 +1,67 @@
+{
+  "url": "https://ota.ca.gov/",
+  "requestedUrl": "https://ota.ca.gov/",
+  "timestamp": 1707784939698,
+  "ranks": {
+    "hundos": 266,
+    "performance": 352,
+    "accessibility": 285,
+    "cumulative": 263
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.88,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 305
+  },
+  "firstContentfulPaint": 2343.8045,
+  "firstMeaningfulPaint": 2343.8045,
+  "speedIndex": 22020.965615614772,
+  "largestContentfulPaint": 45318.8045,
+  "totalBlockingTime": 62,
+  "cumulativeLayoutShift": 0.8677522758511742,
+  "timeToInteractive": 27523.8045,
+  "maxPotentialFirstInputDelay": 110,
+  "timeToFirstByte": 2746.455,
+  "weight": {
+    "summary": "67 requests • 8.4 MiB",
+    "total": 8776064,
+    "image": 7294194,
+    "imageCount": 10,
+    "script": 871915,
+    "scriptCount": 23,
+    "document": 31711,
+    "font": 381248,
+    "fontCount": 5,
+    "stylesheet": 196152,
+    "stylesheetCount": 21,
+    "thirdParty": 791384,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 372,
+    "+weight.total": 54,
+    "-weight.document": 170,
+    "+weight.document": 253,
+    "-weight.script": 202,
+    "+weight.script": 220,
+    "-weight.image": 388,
+    "+weight.image": 34,
+    "-weight.font": 282,
+    "+weight.font": 77,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 414,
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 414
+  },
+  "axe": {
+    "passes": 456,
+    "violations": 7
+  }
+}

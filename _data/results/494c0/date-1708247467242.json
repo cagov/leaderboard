@@ -1,0 +1,67 @@
+{
+  "url": "https://www.assembly.ca.gov/",
+  "requestedUrl": "https://assembly.ca.gov/",
+  "timestamp": 1708248719080,
+  "ranks": {
+    "hundos": 15,
+    "performance": 27,
+    "accessibility": 168,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.88,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 369
+  },
+  "firstContentfulPaint": 2166.7925,
+  "firstMeaningfulPaint": 2166.7925,
+  "speedIndex": 2278.4733012998404,
+  "largestContentfulPaint": 3543.77725,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3905.469,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 13.512000000000008,
+  "weight": {
+    "summary": "21 requests • 641.5 KiB",
+    "total": 656878,
+    "image": 352487,
+    "imageCount": 10,
+    "script": 163197,
+    "scriptCount": 2,
+    "document": 12323,
+    "font": 70508,
+    "fontCount": 4,
+    "stylesheet": 57970,
+    "stylesheetCount": 2,
+    "thirdParty": 94268,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 33,
+    "+weight.total": 392,
+    "-weight.document": 56,
+    "+weight.document": 363,
+    "-weight.script": 28,
+    "+weight.script": 393,
+    "-weight.image": 98,
+    "+weight.image": 320,
+    "-weight.font": 53,
+    "+weight.font": 304,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 32
+  },
+  "axe": {
+    "passes": 693,
+    "violations": 15
+  }
+}

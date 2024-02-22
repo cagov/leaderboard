@@ -1,0 +1,67 @@
+{
+  "url": "https://www.placer.ca.gov//",
+  "requestedUrl": "https://placer.ca.gov/",
+  "timestamp": 1707785589884,
+  "ranks": {
+    "hundos": 386,
+    "performance": 329,
+    "accessibility": 386,
+    "cumulative": 386
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.4,
+    "accessibility": 0.8,
+    "bestPractices": 0.52,
+    "seo": 0.91,
+    "total": 263
+  },
+  "firstContentfulPaint": 9396.776000000002,
+  "firstMeaningfulPaint": 11325.953000000001,
+  "speedIndex": 20897.177233883525,
+  "largestContentfulPaint": 23187.130679999995,
+  "totalBlockingTime": 582.5,
+  "cumulativeLayoutShift": 0.0005810148119482063,
+  "timeToInteractive": 25620.195499999994,
+  "maxPotentialFirstInputDelay": 214,
+  "timeToFirstByte": 366.327,
+  "weight": {
+    "summary": "162 requests • 5.2 MiB",
+    "total": 5439607,
+    "image": 2703771,
+    "imageCount": 50,
+    "script": 2353480,
+    "scriptCount": 63,
+    "document": 30635,
+    "font": 173227,
+    "fontCount": 8,
+    "stylesheet": 144741,
+    "stylesheetCount": 16,
+    "thirdParty": 2224762,
+    "thirdPartyCount": 19
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 325,
+    "+weight.total": 101,
+    "-weight.document": 156,
+    "+weight.document": 267,
+    "-weight.script": 393,
+    "+weight.script": 29,
+    "-weight.image": 314,
+    "+weight.image": 108,
+    "-weight.font": 182,
+    "+weight.font": 177,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 302,
+    "-totalBlockingTime": 223,
+    "-largestContentfulPaint": 368
+  },
+  "axe": {
+    "passes": 2526,
+    "violations": 43
+  }
+}

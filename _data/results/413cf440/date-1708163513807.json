@@ -1,0 +1,67 @@
+{
+  "url": "https://cdss.ca.gov/inforesources/community-care-licensing",
+  "requestedUrl": "https://ccldpartners.ca.gov/",
+  "timestamp": 1708170106931,
+  "ranks": {
+    "hundos": 395,
+    "performance": 181,
+    "accessibility": 233,
+    "cumulative": 395
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "bestPractices": 0.33,
+    "seo": 0.8,
+    "total": 259
+  },
+  "firstContentfulPaint": 8692.646999999995,
+  "firstMeaningfulPaint": 8692.646999999995,
+  "speedIndex": 12007.953741538873,
+  "largestContentfulPaint": 17012.829679999995,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8692.646999999995,
+  "maxPotentialFirstInputDelay": 34,
+  "timeToFirstByte": 714.8009999999999,
+  "weight": {
+    "summary": "59 requests • 5.1 MiB",
+    "total": 5337851,
+    "image": 4202715,
+    "imageCount": 13,
+    "script": 895767,
+    "scriptCount": 23,
+    "document": 33946,
+    "font": 64216,
+    "fontCount": 1,
+    "stylesheet": 140153,
+    "stylesheetCount": 15,
+    "thirdParty": 402194,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 323,
+    "+weight.total": 100,
+    "-weight.document": 189,
+    "+weight.document": 230,
+    "-weight.script": 206,
+    "+weight.script": 214,
+    "-weight.image": 349,
+    "+weight.image": 68,
+    "-weight.font": 41,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 367,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 289
+  },
+  "axe": {
+    "passes": 532,
+    "violations": 8
+  }
+}

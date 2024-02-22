@@ -1,0 +1,67 @@
+{
+  "url": "https://www.statebarcourt.ca.gov/",
+  "requestedUrl": "https://statebarcourt.ca.gov/",
+  "timestamp": 1708193651868,
+  "ranks": {
+    "hundos": 351,
+    "performance": 75,
+    "accessibility": 406,
+    "cumulative": 351
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.69,
+    "accessibility": 0.74,
+    "bestPractices": 0.48,
+    "seo": 0.9,
+    "total": 281
+  },
+  "firstContentfulPaint": 3980.2811,
+  "firstMeaningfulPaint": 4395.008900000001,
+  "speedIndex": 4062.1018466852647,
+  "largestContentfulPaint": 5868.838299999999,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4883.446320000001,
+  "maxPotentialFirstInputDelay": 54,
+  "timeToFirstByte": 118.99900000000002,
+  "weight": {
+    "summary": "45 requests • 778.1 KiB",
+    "total": 796760,
+    "image": 142341,
+    "imageCount": 8,
+    "script": 338105,
+    "scriptCount": 18,
+    "document": 13634,
+    "font": 65952,
+    "fontCount": 6,
+    "stylesheet": 33337,
+    "stylesheetCount": 6,
+    "thirdParty": 485034,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 41,
+    "+weight.total": 382,
+    "-weight.document": 61,
+    "+weight.document": 358,
+    "-weight.script": 73,
+    "+weight.script": 347,
+    "-weight.image": 45,
+    "+weight.image": 372,
+    "-weight.font": 47,
+    "+weight.font": 304,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 228,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 95
+  },
+  "axe": {
+    "passes": 473,
+    "violations": 25
+  }
+}

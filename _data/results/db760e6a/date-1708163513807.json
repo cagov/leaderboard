@@ -1,0 +1,67 @@
+{
+  "url": "https://nvta.ca.gov/",
+  "requestedUrl": "https://nvta.ca.gov/",
+  "timestamp": 1708187136193,
+  "ranks": {
+    "hundos": 261,
+    "performance": 279,
+    "accessibility": 360,
+    "cumulative": 261
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.46,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 305
+  },
+  "firstContentfulPaint": 2418.456,
+  "firstMeaningfulPaint": 2418.456,
+  "speedIndex": 15885.441935539626,
+  "largestContentfulPaint": 31917.42100000001,
+  "totalBlockingTime": 28.5,
+  "cumulativeLayoutShift": 0.3276826772918732,
+  "timeToInteractive": 6005.145,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 903.4050000000001,
+  "weight": {
+    "summary": "93 requests • 9.7 MiB",
+    "total": 10180612,
+    "image": 9609175,
+    "imageCount": 32,
+    "script": 330553,
+    "scriptCount": 28,
+    "document": 16900,
+    "font": 125878,
+    "fontCount": 5,
+    "stylesheet": 97665,
+    "stylesheetCount": 23,
+    "thirdParty": 213674,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 389,
+    "+weight.total": 34,
+    "-weight.document": 74,
+    "+weight.document": 345,
+    "-weight.script": 69,
+    "+weight.script": 351,
+    "-weight.image": 397,
+    "+weight.image": 20,
+    "-weight.font": 118,
+    "+weight.font": 233,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 386,
+    "-totalBlockingTime": 53,
+    "-largestContentfulPaint": 397
+  },
+  "axe": {
+    "passes": 519,
+    "violations": 14
+  }
+}

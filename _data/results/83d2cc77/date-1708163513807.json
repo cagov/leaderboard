@@ -1,0 +1,67 @@
+{
+  "url": "https://wildlife.ca.gov/",
+  "requestedUrl": "https://wildlife.ca.gov/",
+  "timestamp": 1708197730557,
+  "ranks": {
+    "hundos": 335,
+    "performance": 386,
+    "accessibility": 309,
+    "cumulative": 336
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.33,
+    "accessibility": 0.87,
+    "bestPractices": 0.74,
+    "seo": 0.9,
+    "total": 284
+  },
+  "firstContentfulPaint": 13791.980499999998,
+  "firstMeaningfulPaint": 13791.980499999998,
+  "speedIndex": 15836.787400652644,
+  "largestContentfulPaint": 33114.69899999999,
+  "totalBlockingTime": 3,
+  "cumulativeLayoutShift": 0.5898792694686799,
+  "timeToInteractive": 15776.374,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 393.20300000000003,
+  "weight": {
+    "summary": "91 requests • 5.5 MiB",
+    "total": 5812186,
+    "image": 2743411,
+    "imageCount": 24,
+    "script": 2071374,
+    "scriptCount": 32,
+    "document": 64537,
+    "font": 244943,
+    "fontCount": 6,
+    "stylesheet": 664517,
+    "stylesheetCount": 21,
+    "thirdParty": 477620,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 335,
+    "+weight.total": 88,
+    "-weight.document": 315,
+    "+weight.document": 104,
+    "-weight.script": 381,
+    "+weight.script": 39,
+    "-weight.image": 317,
+    "+weight.image": 100,
+    "-weight.font": 221,
+    "+weight.font": 130,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 313,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 400
+  },
+  "axe": {
+    "passes": 1029,
+    "violations": 44
+  }
+}

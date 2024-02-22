@@ -1,0 +1,67 @@
+{
+  "url": "https://cityofcorcoran.ca.gov/",
+  "requestedUrl": "https://cityofcorcoran.ca.gov/",
+  "timestamp": 1708255811215,
+  "ranks": {
+    "hundos": 152,
+    "performance": 218,
+    "accessibility": 279,
+    "cumulative": 152
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 332
+  },
+  "firstContentfulPaint": 2152.878,
+  "firstMeaningfulPaint": 2544.5955000000004,
+  "speedIndex": 3496.453900098227,
+  "largestContentfulPaint": 25864.180000000033,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.4972298036188319,
+  "timeToInteractive": 2544.5955000000004,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 69.30799999999999,
+  "weight": {
+    "summary": "89 requests • 4.8 MiB",
+    "total": 5022538,
+    "image": 4427466,
+    "imageCount": 28,
+    "script": 324905,
+    "scriptCount": 12,
+    "document": 42097,
+    "font": 159705,
+    "fontCount": 6,
+    "stylesheet": 49299,
+    "stylesheetCount": 7,
+    "thirdParty": 4495550,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 313,
+    "+weight.total": 112,
+    "-weight.document": 251,
+    "+weight.document": 168,
+    "-weight.script": 68,
+    "+weight.script": 353,
+    "-weight.image": 353,
+    "+weight.image": 65,
+    "-weight.font": 164,
+    "+weight.font": 193,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 155,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 381
+  },
+  "axe": {
+    "passes": 451,
+    "violations": 29
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cdss.ca.gov/inforesources/community-care-licensing",
+  "requestedUrl": "https://babysafe.ca.gov/",
+  "timestamp": 1708164826319,
+  "ranks": {
+    "hundos": 396,
+    "performance": 165,
+    "accessibility": 231,
+    "cumulative": 396
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.91,
+    "bestPractices": 0.33,
+    "seo": 0.78,
+    "total": 258
+  },
+  "firstContentfulPaint": 8068.356000000002,
+  "firstMeaningfulPaint": 8068.356000000002,
+  "speedIndex": 9105.150129213092,
+  "largestContentfulPaint": 14694.246000000001,
+  "totalBlockingTime": 9,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8068.356000000002,
+  "maxPotentialFirstInputDelay": 68,
+  "timeToFirstByte": 741.705,
+  "weight": {
+    "summary": "59 requests • 5.0 MiB",
+    "total": 5191381,
+    "image": 4203003,
+    "imageCount": 13,
+    "script": 810413,
+    "scriptCount": 23,
+    "document": 33893,
+    "font": 64216,
+    "fontCount": 1,
+    "stylesheet": 78745,
+    "stylesheetCount": 15,
+    "thirdParty": 402579,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 320,
+    "+weight.total": 103,
+    "-weight.document": 188,
+    "+weight.document": 231,
+    "-weight.script": 178,
+    "+weight.script": 242,
+    "-weight.image": 350,
+    "+weight.image": 67,
+    "-weight.font": 41,
+    "+weight.font": 310,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 373,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 266
+  },
+  "axe": {
+    "passes": 532,
+    "violations": 8
+  }
+}

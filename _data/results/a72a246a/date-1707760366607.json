@@ -1,0 +1,67 @@
+{
+  "url": "https://www.firedepartment.org/",
+  "requestedUrl": "https://srvfire.ca.gov/",
+  "timestamp": 1707790375238,
+  "ranks": {
+    "hundos": 344,
+    "performance": 215,
+    "accessibility": 74,
+    "cumulative": 342
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 1,
+    "bestPractices": 0.48,
+    "seo": 0.82,
+    "total": 282
+  },
+  "firstContentfulPaint": 9098.766,
+  "firstMeaningfulPaint": 10373.673000000003,
+  "speedIndex": 9254.024786625854,
+  "largestContentfulPaint": 14801.945500000003,
+  "totalBlockingTime": 229.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11325.699,
+  "maxPotentialFirstInputDelay": 491,
+  "timeToFirstByte": 413.662,
+  "weight": {
+    "summary": "57 requests • 4.2 MiB",
+    "total": 4441583,
+    "image": 2595021,
+    "imageCount": 23,
+    "script": 1545205,
+    "scriptCount": 13,
+    "document": 18411,
+    "font": 160446,
+    "fontCount": 4,
+    "stylesheet": 121090,
+    "stylesheetCount": 11,
+    "thirdParty": 377803,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 299,
+    "+weight.total": 127,
+    "-weight.document": 85,
+    "+weight.document": 338,
+    "-weight.script": 333,
+    "+weight.script": 89,
+    "-weight.image": 311,
+    "+weight.image": 111,
+    "-weight.font": 169,
+    "+weight.font": 190,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 311,
+    "-totalBlockingTime": 182,
+    "-largestContentfulPaint": 338
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

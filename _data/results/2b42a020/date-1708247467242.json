@@ -1,0 +1,67 @@
+{
+  "url": "https://lhc.ca.gov/",
+  "requestedUrl": "https://lhc.ca.gov/",
+  "timestamp": 1708268534713,
+  "ranks": {
+    "hundos": 207,
+    "performance": 258,
+    "accessibility": 258,
+    "cumulative": 207
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.9,
+    "bestPractices": 0.96,
+    "seo": 0.85,
+    "total": 318
+  },
+  "firstContentfulPaint": 8891.406,
+  "firstMeaningfulPaint": 8891.406,
+  "speedIndex": 9251.684414747971,
+  "largestContentfulPaint": 18062.109,
+  "totalBlockingTime": 34,
+  "cumulativeLayoutShift": 0.20431636769780048,
+  "timeToInteractive": 9480.581750000001,
+  "maxPotentialFirstInputDelay": 118,
+  "timeToFirstByte": 1685.696,
+  "weight": {
+    "summary": "58 requests • 3.8 MiB",
+    "total": 3941258,
+    "image": 2504526,
+    "imageCount": 14,
+    "script": 374524,
+    "scriptCount": 14,
+    "document": 647371,
+    "font": 138705,
+    "fontCount": 4,
+    "stylesheet": 275540,
+    "stylesheetCount": 23,
+    "thirdParty": 189133,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 288,
+    "+weight.total": 137,
+    "-weight.document": 415,
+    "+weight.document": 4,
+    "-weight.script": 80,
+    "+weight.script": 341,
+    "-weight.image": 306,
+    "+weight.image": 112,
+    "-weight.font": 136,
+    "+weight.font": 221,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 404,
+    "-totalBlockingTime": 56,
+    "-largestContentfulPaint": 341
+  },
+  "axe": {
+    "passes": 298,
+    "violations": 23
+  }
+}

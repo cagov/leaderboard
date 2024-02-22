@@ -1,0 +1,67 @@
+{
+  "url": "https://data.ca.gov/",
+  "requestedUrl": "https://data.ca.gov/",
+  "timestamp": 1707772717511,
+  "ranks": {
+    "hundos": 263,
+    "performance": 251,
+    "accessibility": 128,
+    "cumulative": 262
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.47,
+    "accessibility": 0.97,
+    "bestPractices": 0.78,
+    "seo": 0.83,
+    "total": 305
+  },
+  "firstContentfulPaint": 2375.1445,
+  "firstMeaningfulPaint": 2375.1445,
+  "speedIndex": 6483.460307072779,
+  "largestContentfulPaint": 8581.59,
+  "totalBlockingTime": 45,
+  "cumulativeLayoutShift": 0.42090272969266046,
+  "timeToInteractive": 12932.59,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 340.85,
+  "weight": {
+    "summary": "60 requests • 3.4 MiB",
+    "total": 3586740,
+    "image": 2875696,
+    "imageCount": 18,
+    "script": 561223,
+    "scriptCount": 20,
+    "document": 10308,
+    "font": 79208,
+    "fontCount": 2,
+    "stylesheet": 59381,
+    "stylesheetCount": 14,
+    "thirdParty": 191358,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 269,
+    "+weight.total": 157,
+    "-weight.document": 41,
+    "+weight.document": 382,
+    "-weight.script": 127,
+    "+weight.script": 295,
+    "-weight.image": 322,
+    "+weight.image": 100,
+    "-weight.font": 63,
+    "+weight.font": 296,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 296,
+    "-totalBlockingTime": 71,
+    "-largestContentfulPaint": 149
+  },
+  "axe": {
+    "passes": 759,
+    "violations": 4
+  }
+}

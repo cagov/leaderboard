@@ -1,0 +1,67 @@
+{
+  "url": "https://www.calbar.ca.gov/",
+  "requestedUrl": "https://calbar.ca.gov/",
+  "timestamp": 1708250981344,
+  "ranks": {
+    "hundos": 360,
+    "performance": 271,
+    "accessibility": 365,
+    "cumulative": 359
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.82,
+    "bestPractices": 0.52,
+    "seo": 0.98,
+    "total": 277
+  },
+  "firstContentfulPaint": 3998.1864400000004,
+  "firstMeaningfulPaint": 4311.0696,
+  "speedIndex": 5861.401263333069,
+  "largestContentfulPaint": 9874.80558,
+  "totalBlockingTime": 98,
+  "cumulativeLayoutShift": 0.3336289791632573,
+  "timeToInteractive": 7562.0107499999995,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 60.787000000000006,
+  "weight": {
+    "summary": "49 requests • 1.1 MiB",
+    "total": 1108238,
+    "image": 677941,
+    "imageCount": 12,
+    "script": 296393,
+    "scriptCount": 17,
+    "document": 27270,
+    "font": 64129,
+    "fontCount": 6,
+    "stylesheet": 35565,
+    "stylesheetCount": 7,
+    "thirdParty": 249661,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 59,
+    "+weight.total": 366,
+    "-weight.document": 132,
+    "+weight.document": 287,
+    "-weight.script": 58,
+    "+weight.script": 363,
+    "-weight.image": 169,
+    "+weight.image": 249,
+    "-weight.font": 41,
+    "+weight.font": 316,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 140,
+    "-totalBlockingTime": 127,
+    "-largestContentfulPaint": 138
+  },
+  "axe": {
+    "passes": 510,
+    "violations": 22
+  }
+}

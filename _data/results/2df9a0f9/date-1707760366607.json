@@ -1,0 +1,67 @@
+{
+  "url": "https://women.ca.gov/",
+  "requestedUrl": "https://women.ca.gov/",
+  "timestamp": 1707794817604,
+  "ranks": {
+    "hundos": 259,
+    "performance": 349,
+    "accessibility": 202,
+    "cumulative": 257
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.38,
+    "accessibility": 0.93,
+    "bestPractices": 0.89,
+    "seo": 0.86,
+    "total": 306
+  },
+  "firstContentfulPaint": 2669.426,
+  "firstMeaningfulPaint": 7221.4259999999995,
+  "speedIndex": 10522.848480948614,
+  "largestContentfulPaint": 28740.59272,
+  "totalBlockingTime": 60.5,
+  "cumulativeLayoutShift": 0.7808780860993869,
+  "timeToInteractive": 14246.926,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 1118.075,
+  "weight": {
+    "summary": "96 requests • 6.7 MiB",
+    "total": 6999691,
+    "image": 5129474,
+    "imageCount": 15,
+    "script": 914925,
+    "scriptCount": 25,
+    "document": 35689,
+    "font": 651006,
+    "fontCount": 11,
+    "stylesheet": 267679,
+    "stylesheetCount": 36,
+    "thirdParty": 888639,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 351,
+    "+weight.total": 75,
+    "-weight.document": 209,
+    "+weight.document": 214,
+    "-weight.script": 212,
+    "+weight.script": 210,
+    "-weight.image": 369,
+    "+weight.image": 53,
+    "-weight.font": 327,
+    "+weight.font": 32,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 389,
+    "-totalBlockingTime": 91,
+    "-largestContentfulPaint": 385
+  },
+  "axe": {
+    "passes": 822,
+    "violations": 8
+  }
+}

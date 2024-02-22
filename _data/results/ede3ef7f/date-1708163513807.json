@@ -1,0 +1,67 @@
+{
+  "url": "https://sanbruno.ca.gov/",
+  "requestedUrl": "https://sanbruno.ca.gov/",
+  "timestamp": 1708190685731,
+  "ranks": {
+    "hundos": 354,
+    "performance": 231,
+    "accessibility": 202,
+    "cumulative": 355
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.51,
+    "accessibility": 0.93,
+    "bestPractices": 0.52,
+    "seo": 0.84,
+    "total": 280
+  },
+  "firstContentfulPaint": 2445.9900000000002,
+  "firstMeaningfulPaint": 2445.9900000000002,
+  "speedIndex": 12567.204907495448,
+  "largestContentfulPaint": 31383.00561999997,
+  "totalBlockingTime": 269,
+  "cumulativeLayoutShift": 0.15194817873827057,
+  "timeToInteractive": 23188.47249999999,
+  "maxPotentialFirstInputDelay": 208,
+  "timeToFirstByte": 272.336,
+  "weight": {
+    "summary": "122 requests • 5.6 MiB",
+    "total": 5832017,
+    "image": 3957216,
+    "imageCount": 35,
+    "script": 1481041,
+    "scriptCount": 54,
+    "document": 33057,
+    "font": 194749,
+    "fontCount": 7,
+    "stylesheet": 126354,
+    "stylesheetCount": 10,
+    "thirdParty": 1438492,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 336,
+    "+weight.total": 87,
+    "-weight.document": 179,
+    "+weight.document": 240,
+    "-weight.script": 326,
+    "+weight.script": 94,
+    "-weight.image": 342,
+    "+weight.image": 75,
+    "-weight.font": 188,
+    "+weight.font": 163,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 273,
+    "-totalBlockingTime": 204,
+    "-largestContentfulPaint": 396
+  },
+  "axe": {
+    "passes": 1571,
+    "violations": 24
+  }
+}

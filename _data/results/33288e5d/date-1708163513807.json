@@ -1,0 +1,67 @@
+{
+  "url": "https://www.californianature.ca.gov/",
+  "requestedUrl": "https://californianature.ca.gov/",
+  "timestamp": 1708167933404,
+  "ranks": {
+    "hundos": 209,
+    "performance": 402,
+    "accessibility": 249,
+    "cumulative": 209
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.29,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 318
+  },
+  "firstContentfulPaint": 13588.673479999998,
+  "firstMeaningfulPaint": 13603.846039999997,
+  "speedIndex": 22145.18494052672,
+  "largestContentfulPaint": 22616.897599999997,
+  "totalBlockingTime": 859.4999999999982,
+  "cumulativeLayoutShift": 0.15007562527926835,
+  "timeToInteractive": 33975.885279999995,
+  "maxPotentialFirstInputDelay": 830.9999999999982,
+  "timeToFirstByte": 270.875,
+  "weight": {
+    "summary": "91 requests • 37.4 MiB",
+    "total": 39194754,
+    "image": 36042535,
+    "imageCount": 14,
+    "script": 2552914,
+    "scriptCount": 35,
+    "document": 131474,
+    "font": 116926,
+    "fontCount": 5,
+    "stylesheet": 182233,
+    "stylesheetCount": 4,
+    "thirdParty": 39169146,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 418,
+    "+weight.total": 5,
+    "-weight.document": 367,
+    "+weight.document": 52,
+    "-weight.script": 399,
+    "+weight.script": 21,
+    "-weight.image": 413,
+    "+weight.image": 4,
+    "-weight.font": 111,
+    "+weight.font": 240,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 272,
+    "-totalBlockingTime": 244,
+    "-largestContentfulPaint": 374
+  },
+  "axe": {
+    "passes": 1501,
+    "violations": 8
+  }
+}

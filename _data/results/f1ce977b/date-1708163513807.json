@@ -1,0 +1,67 @@
+{
+  "url": "https://opc.ca.gov/",
+  "requestedUrl": "https://opc.ca.gov/",
+  "timestamp": 1708187739551,
+  "ranks": {
+    "hundos": 357,
+    "performance": 370,
+    "accessibility": 408,
+    "cumulative": 357
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.36,
+    "accessibility": 0.73,
+    "bestPractices": 0.96,
+    "seo": 0.74,
+    "total": 279
+  },
+  "firstContentfulPaint": 10578.3445,
+  "firstMeaningfulPaint": 10899.4705,
+  "speedIndex": 19609.627213484615,
+  "largestContentfulPaint": 17009.421000000002,
+  "totalBlockingTime": 13.5,
+  "cumulativeLayoutShift": 0.4210290310287107,
+  "timeToInteractive": 19569.872500000005,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 388.163,
+  "weight": {
+    "summary": "90 requests • 55.2 MiB",
+    "total": 57867236,
+    "image": 54991548,
+    "imageCount": 34,
+    "script": 1335019,
+    "scriptCount": 26,
+    "document": 112117,
+    "font": 141752,
+    "fontCount": 4,
+    "stylesheet": 1317650,
+    "stylesheetCount": 20,
+    "thirdParty": 531957,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 421,
+    "+weight.total": 2,
+    "-weight.document": 354,
+    "+weight.document": 65,
+    "-weight.script": 309,
+    "+weight.script": 111,
+    "-weight.image": 415,
+    "+weight.image": 2,
+    "-weight.font": 135,
+    "+weight.font": 216,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 312,
+    "-totalBlockingTime": 27,
+    "-largestContentfulPaint": 288
+  },
+  "axe": {
+    "passes": 830,
+    "violations": 28
+  }
+}

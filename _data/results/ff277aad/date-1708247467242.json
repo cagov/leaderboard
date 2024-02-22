@@ -1,0 +1,67 @@
+{
+  "url": "https://agencyreports.ca.gov/",
+  "requestedUrl": "https://agencyreports.ca.gov/",
+  "timestamp": 1708248064977,
+  "ranks": {
+    "hundos": 5,
+    "performance": 10,
+    "accessibility": 1,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 386
+  },
+  "firstContentfulPaint": 1254.759,
+  "firstMeaningfulPaint": 1254.759,
+  "speedIndex": 1254.759,
+  "largestContentfulPaint": 1738.2599999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0911996330439122,
+  "timeToInteractive": 1254.759,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 26.135000000000005,
+  "weight": {
+    "summary": "15 requests • 178.3 KiB",
+    "total": 182599,
+    "image": 21902,
+    "imageCount": 2,
+    "script": 38033,
+    "scriptCount": 2,
+    "document": 23292,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11232,
+    "stylesheetCount": 2,
+    "thirdParty": 615,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 419,
+    "-weight.document": 112,
+    "+weight.document": 307,
+    "-weight.script": 8,
+    "+weight.script": 413,
+    "-weight.image": 8,
+    "+weight.image": 410,
+    "-weight.font": 1,
+    "+weight.font": 357,
+    "+weight.fontCount": 26,
+    "-timeToFirstByte": 75,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 3862,
+    "violations": 0
+  }
+}

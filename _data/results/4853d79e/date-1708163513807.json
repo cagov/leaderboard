@@ -1,0 +1,67 @@
+{
+  "url": "https://metrofire.ca.gov/",
+  "requestedUrl": "https://metrofire.ca.gov/",
+  "timestamp": 1708185628495,
+  "ranks": {
+    "hundos": 411,
+    "performance": 418,
+    "accessibility": 245,
+    "cumulative": 411
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.15,
+    "accessibility": 0.91,
+    "bestPractices": 0.52,
+    "seo": 0.85,
+    "total": 243
+  },
+  "firstContentfulPaint": 10102.324,
+  "firstMeaningfulPaint": 10102.324,
+  "speedIndex": 16901.23298940743,
+  "largestContentfulPaint": 15615.370000000003,
+  "totalBlockingTime": 2921.5000000000036,
+  "cumulativeLayoutShift": 0.21992709599027946,
+  "timeToInteractive": 29716.723499999996,
+  "maxPotentialFirstInputDelay": 2330.999999999998,
+  "timeToFirstByte": 275.354,
+  "weight": {
+    "summary": "417 requests • 26.1 MiB",
+    "total": 27381433,
+    "image": 9106573,
+    "imageCount": 223,
+    "script": 3435004,
+    "scriptCount": 92,
+    "document": 298404,
+    "font": 43998,
+    "fontCount": 1,
+    "stylesheet": 344969,
+    "stylesheetCount": 24,
+    "thirdParty": 26379687,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 415,
+    "+weight.total": 8,
+    "-weight.document": 405,
+    "+weight.document": 14,
+    "-weight.script": 412,
+    "+weight.script": 8,
+    "-weight.image": 395,
+    "+weight.image": 22,
+    "-weight.font": 21,
+    "+weight.font": 330,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 276,
+    "-totalBlockingTime": 259,
+    "-largestContentfulPaint": 345
+  },
+  "axe": {
+    "passes": 24852,
+    "violations": 514
+  }
+}

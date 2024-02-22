@@ -1,0 +1,67 @@
+{
+  "url": "https://seeleywaterdistrict.ca.gov/",
+  "requestedUrl": "https://seeleywaterdistrict.ca.gov/",
+  "timestamp": 1708191695737,
+  "ranks": {
+    "hundos": 75,
+    "performance": 152,
+    "accessibility": 105,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.57,
+    "accessibility": 0.99,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 348
+  },
+  "firstContentfulPaint": 6828.453,
+  "firstMeaningfulPaint": 7589.869500000001,
+  "speedIndex": 6828.453,
+  "largestContentfulPaint": 23727.201500000003,
+  "totalBlockingTime": 94.5,
+  "cumulativeLayoutShift": 0.07614767897137138,
+  "timeToInteractive": 15198.192,
+  "maxPotentialFirstInputDelay": 193,
+  "timeToFirstByte": 103.96800000000002,
+  "weight": {
+    "summary": "33 requests • 4.5 MiB",
+    "total": 4697630,
+    "image": 3107342,
+    "imageCount": 12,
+    "script": 1354253,
+    "scriptCount": 9,
+    "document": 32438,
+    "font": 107820,
+    "fontCount": 3,
+    "stylesheet": 95024,
+    "stylesheetCount": 6,
+    "thirdParty": 3689011,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 306,
+    "+weight.total": 117,
+    "-weight.document": 176,
+    "+weight.document": 243,
+    "-weight.script": 313,
+    "+weight.script": 107,
+    "-weight.image": 325,
+    "+weight.image": 92,
+    "-weight.font": 92,
+    "+weight.font": 259,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 198,
+    "-totalBlockingTime": 134,
+    "-largestContentfulPaint": 378
+  },
+  "axe": {
+    "passes": 1206,
+    "violations": 3
+  }
+}

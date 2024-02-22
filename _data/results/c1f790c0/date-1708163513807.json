@@ -1,0 +1,67 @@
+{
+  "url": "https://coastal.ca.gov/",
+  "requestedUrl": "https://coastal.ca.gov/",
+  "timestamp": 1708173297808,
+  "ranks": {
+    "hundos": 228,
+    "performance": 85,
+    "accessibility": 384,
+    "cumulative": 228
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.67,
+    "accessibility": 0.8,
+    "bestPractices": 0.89,
+    "seo": 0.76,
+    "total": 312
+  },
+  "firstContentfulPaint": 3580.927,
+  "firstMeaningfulPaint": 3883.701,
+  "speedIndex": 12164.1049138247,
+  "largestContentfulPaint": 4644.479500000001,
+  "totalBlockingTime": 50.5,
+  "cumulativeLayoutShift": 0.007866311207527647,
+  "timeToInteractive": 35303.22875,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 16.11099999999999,
+  "weight": {
+    "summary": "103 requests • 28.2 MiB",
+    "total": 29566818,
+    "image": 28795729,
+    "imageCount": 73,
+    "script": 506414,
+    "scriptCount": 14,
+    "document": 38781,
+    "font": 166008,
+    "fontCount": 2,
+    "stylesheet": 58151,
+    "stylesheetCount": 3,
+    "thirdParty": 473365,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 416,
+    "+weight.total": 7,
+    "-weight.document": 230,
+    "+weight.document": 189,
+    "-weight.script": 114,
+    "+weight.script": 306,
+    "-weight.image": 411,
+    "+weight.image": 6,
+    "-weight.font": 169,
+    "+weight.font": 182,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 28,
+    "-totalBlockingTime": 81,
+    "-largestContentfulPaint": 61
+  },
+  "axe": {
+    "passes": 1634,
+    "violations": 51
+  }
+}

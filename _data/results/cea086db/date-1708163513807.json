@@ -1,0 +1,67 @@
+{
+  "url": "https://waterboards.ca.gov/",
+  "requestedUrl": "https://waterboards.ca.gov/",
+  "timestamp": 1708197080586,
+  "ranks": {
+    "hundos": 259,
+    "performance": 161,
+    "accessibility": 219,
+    "cumulative": 259
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "bestPractices": 0.7,
+    "seo": 0.88,
+    "total": 306
+  },
+  "firstContentfulPaint": 2848.1150000000007,
+  "firstMeaningfulPaint": 4158.245,
+  "speedIndex": 5367.685056382573,
+  "largestContentfulPaint": 6834.1900000000005,
+  "totalBlockingTime": 25.5,
+  "cumulativeLayoutShift": 0.2381473750675967,
+  "timeToInteractive": 11342.9985,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 138.545,
+  "weight": {
+    "summary": "75 requests • 2.6 MiB",
+    "total": 2747350,
+    "image": 1584451,
+    "imageCount": 21,
+    "script": 946755,
+    "scriptCount": 34,
+    "document": 20713,
+    "font": 129653,
+    "fontCount": 7,
+    "stylesheet": 66798,
+    "stylesheetCount": 6,
+    "thirdParty": 876542,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 223,
+    "+weight.total": 200,
+    "-weight.document": 100,
+    "+weight.document": 319,
+    "-weight.script": 231,
+    "+weight.script": 189,
+    "-weight.image": 260,
+    "+weight.image": 157,
+    "-weight.font": 126,
+    "+weight.font": 225,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 239,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 119
+  },
+  "axe": {
+    "passes": 1355,
+    "violations": 30
+  }
+}

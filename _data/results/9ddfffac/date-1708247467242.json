@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ych.ca.gov/",
+  "requestedUrl": "https://ych.ca.gov/",
+  "timestamp": 1708282097306,
+  "ranks": {
+    "hundos": 321,
+    "performance": 247,
+    "accessibility": 338,
+    "cumulative": 320
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.48,
+    "accessibility": 0.85,
+    "bestPractices": 0.78,
+    "seo": 0.77,
+    "total": 288
+  },
+  "firstContentfulPaint": 5447.130000000001,
+  "firstMeaningfulPaint": 5447.130000000001,
+  "speedIndex": 11162.639904269636,
+  "largestContentfulPaint": 27071.710000000014,
+  "totalBlockingTime": 305.5,
+  "cumulativeLayoutShift": 0.0776345856297309,
+  "timeToInteractive": 18846.15688217164,
+  "maxPotentialFirstInputDelay": 202,
+  "timeToFirstByte": 104.326,
+  "weight": {
+    "summary": "100 requests • 4.6 MiB",
+    "total": 4813855,
+    "image": 3458179,
+    "imageCount": 11,
+    "script": 698928,
+    "scriptCount": 41,
+    "document": 46627,
+    "font": 381970,
+    "fontCount": 11,
+    "stylesheet": 217857,
+    "stylesheetCount": 29,
+    "thirdParty": 1400780,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 308,
+    "+weight.total": 117,
+    "-weight.document": 265,
+    "+weight.document": 154,
+    "-weight.script": 160,
+    "+weight.script": 261,
+    "-weight.image": 333,
+    "+weight.image": 85,
+    "-weight.font": 280,
+    "+weight.font": 77,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 202,
+    "-totalBlockingTime": 197,
+    "-largestContentfulPaint": 386
+  },
+  "axe": {
+    "passes": 387,
+    "violations": 26
+  }
+}

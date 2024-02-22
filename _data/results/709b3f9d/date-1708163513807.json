@@ -1,0 +1,67 @@
+{
+  "url": "https://islavistacsd.ca.gov/",
+  "requestedUrl": "https://islavistacsd.ca.gov/",
+  "timestamp": 1708183137742,
+  "ranks": {
+    "hundos": 84,
+    "performance": 193,
+    "accessibility": 68,
+    "cumulative": 82
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.54,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 345
+  },
+  "firstContentfulPaint": 8687.61875,
+  "firstMeaningfulPaint": 9531.16075,
+  "speedIndex": 10181.501032485108,
+  "largestContentfulPaint": 17197.4625,
+  "totalBlockingTime": 139.5,
+  "cumulativeLayoutShift": 0.03359159655056848,
+  "timeToInteractive": 18859.550249999997,
+  "maxPotentialFirstInputDelay": 226,
+  "timeToFirstByte": 284.75999999999993,
+  "weight": {
+    "summary": "55 requests • 3.4 MiB",
+    "total": 3596616,
+    "image": 1624836,
+    "imageCount": 20,
+    "script": 1769256,
+    "scriptCount": 19,
+    "document": 34476,
+    "font": 62252,
+    "fontCount": 2,
+    "stylesheet": 102805,
+    "stylesheetCount": 8,
+    "thirdParty": 2586223,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 271,
+    "+weight.total": 152,
+    "-weight.document": 199,
+    "+weight.document": 220,
+    "-weight.script": 359,
+    "+weight.script": 61,
+    "-weight.image": 263,
+    "+weight.image": 154,
+    "-weight.font": 31,
+    "+weight.font": 320,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 281,
+    "-totalBlockingTime": 157,
+    "-largestContentfulPaint": 290
+  },
+  "axe": {
+    "passes": 1355,
+    "violations": 4
+  }
+}

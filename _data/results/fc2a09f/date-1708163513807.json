@@ -1,0 +1,67 @@
+{
+  "url": "https://clsd.ca.gov/",
+  "requestedUrl": "https://clsd.ca.gov/",
+  "timestamp": 1708172430452,
+  "ranks": {
+    "hundos": 121,
+    "performance": 72,
+    "accessibility": 279,
+    "cumulative": 121
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.71,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 338
+  },
+  "firstContentfulPaint": 2758.3219999999997,
+  "firstMeaningfulPaint": 2758.3219999999997,
+  "speedIndex": 5409.617924094155,
+  "largestContentfulPaint": 3959.048,
+  "totalBlockingTime": 17.5,
+  "cumulativeLayoutShift": 0.18064117358206286,
+  "timeToInteractive": 3969.5079999999994,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 1758.589,
+  "weight": {
+    "summary": "50 requests • 1.1 MiB",
+    "total": 1109927,
+    "image": 726740,
+    "imageCount": 6,
+    "script": 102448,
+    "scriptCount": 16,
+    "document": 23947,
+    "font": 185788,
+    "fontCount": 9,
+    "stylesheet": 70672,
+    "stylesheetCount": 17,
+    "thirdParty": 97091,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 58,
+    "+weight.total": 365,
+    "-weight.document": 117,
+    "+weight.document": 302,
+    "-weight.script": 14,
+    "+weight.script": 406,
+    "-weight.image": 179,
+    "+weight.image": 238,
+    "-weight.font": 182,
+    "+weight.font": 169,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 408,
+    "-totalBlockingTime": 34,
+    "-largestContentfulPaint": 41
+  },
+  "axe": {
+    "passes": 582,
+    "violations": 19
+  }
+}

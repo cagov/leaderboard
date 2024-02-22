@@ -1,0 +1,67 @@
+{
+  "url": "https://etp.ca.gov/",
+  "requestedUrl": "https://etp.ca.gov/",
+  "timestamp": 1708263647565,
+  "ranks": {
+    "hundos": 233,
+    "performance": 273,
+    "accessibility": 250,
+    "cumulative": 234
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.45,
+    "accessibility": 0.9,
+    "bestPractices": 0.89,
+    "seo": 0.88,
+    "total": 312
+  },
+  "firstContentfulPaint": 2279.4785,
+  "firstMeaningfulPaint": 7708.478500000001,
+  "speedIndex": 6500.221495611434,
+  "largestContentfulPaint": 20792.26898,
+  "totalBlockingTime": 76,
+  "cumulativeLayoutShift": 0.4824370007759061,
+  "timeToInteractive": 12428.978500000001,
+  "maxPotentialFirstInputDelay": 104,
+  "timeToFirstByte": 112.41499999999999,
+  "weight": {
+    "summary": "75 requests • 4.2 MiB",
+    "total": 4401907,
+    "image": 2642363,
+    "imageCount": 17,
+    "script": 873441,
+    "scriptCount": 25,
+    "document": 41245,
+    "font": 653740,
+    "fontCount": 6,
+    "stylesheet": 190274,
+    "stylesheetCount": 19,
+    "thirdParty": 766636,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 303,
+    "+weight.total": 122,
+    "-weight.document": 245,
+    "+weight.document": 174,
+    "-weight.script": 201,
+    "+weight.script": 220,
+    "-weight.image": 314,
+    "+weight.image": 104,
+    "-weight.font": 326,
+    "+weight.font": 31,
+    "+weight.fontCount": 20,
+    "-timeToFirstByte": 214,
+    "-totalBlockingTime": 111,
+    "-largestContentfulPaint": 361
+  },
+  "axe": {
+    "passes": 930,
+    "violations": 10
+  }
+}

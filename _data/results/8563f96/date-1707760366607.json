@@ -1,0 +1,67 @@
+{
+  "url": "https://www.senate.ca.gov/",
+  "requestedUrl": "https://senate.ca.gov/",
+  "timestamp": 1707788673949,
+  "ranks": {
+    "hundos": 365,
+    "performance": 400,
+    "accessibility": 421,
+    "cumulative": 365
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.66,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 276
+  },
+  "firstContentfulPaint": 10944.283000000003,
+  "firstMeaningfulPaint": 12932.283,
+  "speedIndex": 13894.926054275067,
+  "largestContentfulPaint": 21790.493000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 1.0010882623518045,
+  "timeToInteractive": 12932.283,
+  "maxPotentialFirstInputDelay": 49,
+  "timeToFirstByte": 383.47,
+  "weight": {
+    "summary": "172 requests • 108.9 MiB",
+    "total": 114224032,
+    "image": 112587407,
+    "imageCount": 99,
+    "script": 905993,
+    "scriptCount": 28,
+    "document": 75699,
+    "font": 361598,
+    "fontCount": 7,
+    "stylesheet": 280391,
+    "stylesheetCount": 34,
+    "thirdParty": 95745,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 425,
+    "+weight.total": 1,
+    "-weight.document": 333,
+    "+weight.document": 90,
+    "-weight.script": 210,
+    "+weight.script": 212,
+    "-weight.image": 421,
+    "+weight.image": 1,
+    "-weight.font": 271,
+    "+weight.font": 88,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 304,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 358
+  },
+  "axe": {
+    "passes": 1244,
+    "violations": 233
+  }
+}

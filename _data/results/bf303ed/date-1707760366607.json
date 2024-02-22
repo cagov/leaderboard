@@ -1,0 +1,67 @@
+{
+  "url": "https://stateentityprofile.ca.gov/Account/Login",
+  "requestedUrl": "https://stateentityprofile.ca.gov/",
+  "timestamp": 1707790592678,
+  "ranks": {
+    "hundos": 154,
+    "performance": 212,
+    "accessibility": 314,
+    "cumulative": 155
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.99,
+    "total": 330
+  },
+  "firstContentfulPaint": 7563.465569986311,
+  "firstMeaningfulPaint": 9920.96556998631,
+  "speedIndex": 7563.465569986311,
+  "largestContentfulPaint": 10520.96556998631,
+  "totalBlockingTime": 263.5,
+  "cumulativeLayoutShift": 0.061770182649331894,
+  "timeToInteractive": 10445.96556998631,
+  "maxPotentialFirstInputDelay": 398,
+  "timeToFirstByte": 53.814,
+  "weight": {
+    "summary": "57 requests • 1.6 MiB",
+    "total": 1631555,
+    "image": 28068,
+    "imageCount": 6,
+    "script": 1218772,
+    "scriptCount": 21,
+    "document": 9591,
+    "font": 146105,
+    "fontCount": 10,
+    "stylesheet": 229019,
+    "stylesheetCount": 18,
+    "thirdParty": 1277066,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 108,
+    "+weight.total": 318,
+    "-weight.document": 33,
+    "+weight.document": 390,
+    "-weight.script": 294,
+    "+weight.script": 128,
+    "-weight.image": 11,
+    "+weight.image": 411,
+    "-weight.font": 147,
+    "+weight.font": 212,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 139,
+    "-totalBlockingTime": 195,
+    "-largestContentfulPaint": 322
+  },
+  "axe": {
+    "passes": 184,
+    "violations": 9
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.contracosta.ca.gov/",
+  "requestedUrl": "https://contracosta.ca.gov/",
+  "timestamp": 1707770628134,
+  "ranks": {
+    "hundos": 416,
+    "performance": 402,
+    "accessibility": 415,
+    "cumulative": 417
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.31,
+    "accessibility": 0.73,
+    "bestPractices": 0.52,
+    "seo": 0.84,
+    "total": 240
+  },
+  "firstContentfulPaint": 3438.8014999999996,
+  "firstMeaningfulPaint": 3500.6629999999996,
+  "speedIndex": 16618.15590994153,
+  "largestContentfulPaint": 22342.753999999997,
+  "totalBlockingTime": 857.5,
+  "cumulativeLayoutShift": 0.1749176828022383,
+  "timeToInteractive": 38979.52600000001,
+  "maxPotentialFirstInputDelay": 178,
+  "timeToFirstByte": 426.088,
+  "weight": {
+    "summary": "185 requests • 9.6 MiB",
+    "total": 10019036,
+    "image": 6519311,
+    "imageCount": 48,
+    "script": 2750204,
+    "scriptCount": 73,
+    "document": 269348,
+    "font": 129421,
+    "fontCount": 11,
+    "stylesheet": 184353,
+    "stylesheetCount": 10,
+    "thirdParty": 3034656,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 390,
+    "+weight.total": 36,
+    "-weight.document": 404,
+    "+weight.document": 19,
+    "-weight.script": 405,
+    "+weight.script": 17,
+    "-weight.image": 380,
+    "+weight.image": 42,
+    "-weight.font": 128,
+    "+weight.font": 231,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 316,
+    "-totalBlockingTime": 234,
+    "-largestContentfulPaint": 364
+  },
+  "axe": {
+    "passes": 2258,
+    "violations": 51
+  }
+}

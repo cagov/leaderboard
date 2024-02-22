@@ -1,0 +1,67 @@
+{
+  "url": "https://waterresilience.ca.gov/",
+  "requestedUrl": "https://waterresilience.ca.gov/",
+  "timestamp": 1708281166081,
+  "ranks": {
+    "hundos": 168,
+    "performance": 291,
+    "accessibility": 297,
+    "cumulative": 168
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.44,
+    "accessibility": 0.87,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 327
+  },
+  "firstContentfulPaint": 5367.953,
+  "firstMeaningfulPaint": 8258.2635,
+  "speedIndex": 7181.762303931248,
+  "largestContentfulPaint": 11504.5435,
+  "totalBlockingTime": 2.5,
+  "cumulativeLayoutShift": 0.2977649932891743,
+  "timeToInteractive": 8785.2035,
+  "maxPotentialFirstInputDelay": 55,
+  "timeToFirstByte": 311.745,
+  "weight": {
+    "summary": "45 requests • 1.7 MiB",
+    "total": 1795195,
+    "image": 43366,
+    "imageCount": 13,
+    "script": 995638,
+    "scriptCount": 14,
+    "document": 34780,
+    "font": 95218,
+    "fontCount": 2,
+    "stylesheet": 625303,
+    "stylesheetCount": 10,
+    "thirdParty": 370371,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 126,
+    "+weight.total": 299,
+    "-weight.document": 196,
+    "+weight.document": 223,
+    "-weight.script": 255,
+    "+weight.script": 166,
+    "-weight.image": 19,
+    "+weight.image": 399,
+    "-weight.font": 78,
+    "+weight.font": 279,
+    "+weight.fontCount": 24,
+    "-timeToFirstByte": 293,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 170
+  },
+  "axe": {
+    "passes": 285,
+    "violations": 5
+  }
+}

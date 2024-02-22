@@ -1,0 +1,67 @@
+{
+  "url": "https://www.wca.ca.gov/",
+  "requestedUrl": "https://wca.ca.gov/",
+  "timestamp": 1707794103596,
+  "ranks": {
+    "hundos": 419,
+    "performance": 208,
+    "accessibility": 401,
+    "cumulative": 419
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.53,
+    "accessibility": 0.76,
+    "bestPractices": 0.37,
+    "seo": 0.71,
+    "total": 237
+  },
+  "firstContentfulPaint": 4704.983,
+  "firstMeaningfulPaint": 5740.73316,
+  "speedIndex": 22530.635799192,
+  "largestContentfulPaint": 38976.98299999999,
+  "totalBlockingTime": 75,
+  "cumulativeLayoutShift": 0.09643253632733613,
+  "timeToInteractive": 19585.983,
+  "maxPotentialFirstInputDelay": 131,
+  "timeToFirstByte": 546.203,
+  "weight": {
+    "summary": "68 requests • 9.3 MiB",
+    "total": 9724055,
+    "image": 8600973,
+    "imageCount": 22,
+    "script": 689816,
+    "scriptCount": 17,
+    "document": 132562,
+    "font": 258139,
+    "fontCount": 11,
+    "stylesheet": 57675,
+    "stylesheetCount": 7,
+    "thirdParty": 9707677,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 387,
+    "+weight.total": 39,
+    "-weight.document": 368,
+    "+weight.document": 55,
+    "-weight.script": 158,
+    "+weight.script": 264,
+    "-weight.image": 396,
+    "+weight.image": 26,
+    "-weight.font": 229,
+    "+weight.font": 130,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 337,
+    "-totalBlockingTime": 110,
+    "-largestContentfulPaint": 407
+  },
+  "axe": {
+    "passes": 707,
+    "violations": 68
+  }
+}

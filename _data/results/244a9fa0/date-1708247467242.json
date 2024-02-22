@@ -1,0 +1,67 @@
+{
+  "url": "https://oycr.ca.gov/",
+  "requestedUrl": "https://oycr.ca.gov/",
+  "timestamp": 1708272119446,
+  "ranks": {
+    "hundos": 163,
+    "performance": 310,
+    "accessibility": 126,
+    "cumulative": 161
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.42,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.96,
+    "total": 329
+  },
+  "firstContentfulPaint": 2435.48,
+  "firstMeaningfulPaint": 2435.48,
+  "speedIndex": 16142.102513437949,
+  "largestContentfulPaint": 38522.98075,
+  "totalBlockingTime": 115,
+  "cumulativeLayoutShift": 0.40467580552018956,
+  "timeToInteractive": 26243.618999999995,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 1104.008,
+  "weight": {
+    "summary": "75 requests • 7.1 MiB",
+    "total": 7486082,
+    "image": 5655418,
+    "imageCount": 12,
+    "script": 1040566,
+    "scriptCount": 28,
+    "document": 39577,
+    "font": 550053,
+    "fontCount": 4,
+    "stylesheet": 195329,
+    "stylesheetCount": 23,
+    "thirdParty": 927149,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 363,
+    "+weight.total": 62,
+    "-weight.document": 232,
+    "+weight.document": 187,
+    "-weight.script": 264,
+    "+weight.script": 157,
+    "-weight.image": 372,
+    "+weight.image": 46,
+    "-weight.font": 311,
+    "+weight.font": 46,
+    "+weight.fontCount": 22,
+    "-timeToFirstByte": 387,
+    "-totalBlockingTime": 136,
+    "-largestContentfulPaint": 404
+  },
+  "axe": {
+    "passes": 597,
+    "violations": 7
+  }
+}

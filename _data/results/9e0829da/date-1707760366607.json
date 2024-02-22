@@ -1,0 +1,67 @@
+{
+  "url": "https://pharmacy.ca.gov/",
+  "requestedUrl": "https://pharmacy.ca.gov/",
+  "timestamp": 1707785475502,
+  "ranks": {
+    "hundos": 88,
+    "performance": 108,
+    "accessibility": 203,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.64,
+    "accessibility": 0.93,
+    "bestPractices": 0.89,
+    "seo": 0.99,
+    "total": 345
+  },
+  "firstContentfulPaint": 2974.8414999999995,
+  "firstMeaningfulPaint": 2974.8414999999995,
+  "speedIndex": 6650.055442571686,
+  "largestContentfulPaint": 9005.932999999999,
+  "totalBlockingTime": 20.000000000000455,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5273.212500000001,
+  "maxPotentialFirstInputDelay": 80.00000000000091,
+  "timeToFirstByte": 16.027,
+  "weight": {
+    "summary": "61 requests • 1.6 MiB",
+    "total": 1708082,
+    "image": 936825,
+    "imageCount": 28,
+    "script": 620618,
+    "scriptCount": 17,
+    "document": 39692,
+    "font": 32118,
+    "fontCount": 1,
+    "stylesheet": 78110,
+    "stylesheetCount": 10,
+    "thirdParty": 598007,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 119,
+    "+weight.total": 307,
+    "-weight.document": 236,
+    "+weight.document": 187,
+    "-weight.script": 146,
+    "+weight.script": 276,
+    "-weight.image": 207,
+    "+weight.image": 215,
+    "-weight.font": 10,
+    "+weight.font": 349,
+    "+weight.fontCount": 23,
+    "-timeToFirstByte": 30,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 158
+  },
+  "axe": {
+    "passes": 664,
+    "violations": 14
+  }
+}

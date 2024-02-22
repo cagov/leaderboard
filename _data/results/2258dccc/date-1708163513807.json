@@ -1,0 +1,67 @@
+{
+  "url": "https://oehha.ca.gov/",
+  "requestedUrl": "https://oehha.ca.gov/",
+  "timestamp": 1708187444312,
+  "ranks": {
+    "hundos": 317,
+    "performance": 218,
+    "accessibility": 213,
+    "cumulative": 317
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "bestPractices": 0.56,
+    "seo": 0.9,
+    "total": 290
+  },
+  "firstContentfulPaint": 2253.2079999999996,
+  "firstMeaningfulPaint": 3564.3827499999993,
+  "speedIndex": 10624.18154729604,
+  "largestContentfulPaint": 5806.446999999999,
+  "totalBlockingTime": 182,
+  "cumulativeLayoutShift": 0.2536069365874197,
+  "timeToInteractive": 12884.647,
+  "maxPotentialFirstInputDelay": 166,
+  "timeToFirstByte": 115.548,
+  "weight": {
+    "summary": "85 requests • 2.0 MiB",
+    "total": 2091439,
+    "image": 600975,
+    "imageCount": 23,
+    "script": 1169495,
+    "scriptCount": 35,
+    "document": 13765,
+    "font": 215289,
+    "fontCount": 4,
+    "stylesheet": 92941,
+    "stylesheetCount": 10,
+    "thirdParty": 999682,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 153,
+    "+weight.total": 270,
+    "-weight.document": 63,
+    "+weight.document": 356,
+    "-weight.script": 290,
+    "+weight.script": 130,
+    "-weight.image": 152,
+    "+weight.image": 265,
+    "-weight.font": 195,
+    "+weight.font": 156,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 226,
+    "-totalBlockingTime": 173,
+    "-largestContentfulPaint": 93
+  },
+  "axe": {
+    "passes": 913,
+    "violations": 9
+  }
+}

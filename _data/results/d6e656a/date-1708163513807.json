@@ -1,0 +1,67 @@
+{
+  "url": "https://ociac.ca.gov/?AspxAutoDetectCookieSupport=1",
+  "requestedUrl": "https://ociac.ca.gov/",
+  "timestamp": 1708187293094,
+  "ranks": {
+    "hundos": 41,
+    "performance": 43,
+    "accessibility": 243,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.78,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 357
+  },
+  "firstContentfulPaint": 911.753,
+  "firstMeaningfulPaint": 911.753,
+  "speedIndex": 1237.0888939815277,
+  "largestContentfulPaint": 2251.9300000000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.48905037286163744,
+  "timeToInteractive": 911.753,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 255.849,
+  "weight": {
+    "summary": "4 requests • 184.8 KiB",
+    "total": 189252,
+    "image": 163538,
+    "imageCount": 1,
+    "script": 21298,
+    "scriptCount": 1,
+    "document": 4090,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 21298,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 415,
+    "-weight.document": 9,
+    "+weight.document": 410,
+    "-weight.script": 6,
+    "+weight.script": 414,
+    "-weight.image": 50,
+    "+weight.image": 367,
+    "-weight.font": 1,
+    "+weight.font": 351,
+    "+weight.fontCount": 25,
+    "-timeToFirstByte": 266,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 15
+  },
+  "axe": {
+    "passes": 1004,
+    "violations": 86
+  }
+}

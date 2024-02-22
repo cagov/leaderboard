@@ -1,0 +1,67 @@
+{
+  "url": "https://www.wheatland.ca.gov/",
+  "requestedUrl": "https://wheatland.ca.gov/",
+  "timestamp": 1708197588643,
+  "ranks": {
+    "hundos": 167,
+    "performance": 47,
+    "accessibility": 190,
+    "cumulative": 168
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.78,
+    "accessibility": 0.94,
+    "bestPractices": 0.7,
+    "seo": 0.86,
+    "total": 328
+  },
+  "firstContentfulPaint": 3332.1795599999996,
+  "firstMeaningfulPaint": 4114.61271,
+  "speedIndex": 3332.1795599999996,
+  "largestContentfulPaint": 4271.099339999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.017350504703032055,
+  "timeToInteractive": 4114.61271,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 35.59700000000001,
+  "weight": {
+    "summary": "25 requests • 442.3 KiB",
+    "total": 421154,
+    "image": 129669,
+    "imageCount": 3,
+    "script": 54131,
+    "scriptCount": 5,
+    "document": 10049,
+    "font": 173409,
+    "fontCount": 6,
+    "stylesheet": 85192,
+    "stylesheetCount": 8,
+    "thirdParty": 410673,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 406,
+    "-weight.document": 38,
+    "+weight.document": 381,
+    "-weight.script": 11,
+    "+weight.script": 409,
+    "-weight.image": 43,
+    "+weight.image": 374,
+    "-weight.font": 175,
+    "+weight.font": 176,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 99,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 51
+  },
+  "axe": {
+    "passes": 389,
+    "violations": 33
+  }
+}

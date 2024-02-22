@@ -1,0 +1,67 @@
+{
+  "url": "https://pestboard.ca.gov/",
+  "requestedUrl": "https://pestboard.ca.gov/",
+  "timestamp": 1707785434137,
+  "ranks": {
+    "hundos": 106,
+    "performance": 156,
+    "accessibility": 326,
+    "cumulative": 109
+  },
+  "lighthouse": {
+    "version": "11.5.0",
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 342
+  },
+  "firstContentfulPaint": 5377.561,
+  "firstMeaningfulPaint": 7940.51,
+  "speedIndex": 7416.13196403979,
+  "largestContentfulPaint": 12692.092,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7940.51,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 36.354,
+  "weight": {
+    "summary": "43 requests • 1.9 MiB",
+    "total": 2001997,
+    "image": 334394,
+    "imageCount": 19,
+    "script": 1004600,
+    "scriptCount": 10,
+    "document": 38393,
+    "font": 110237,
+    "fontCount": 3,
+    "stylesheet": 513186,
+    "stylesheetCount": 4,
+    "thirdParty": 425845,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 147,
+    "+weight.total": 279,
+    "-weight.document": 224,
+    "+weight.document": 199,
+    "-weight.script": 258,
+    "+weight.script": 164,
+    "-weight.image": 92,
+    "+weight.image": 330,
+    "-weight.font": 107,
+    "+weight.font": 252,
+    "+weight.fontCount": 21,
+    "-timeToFirstByte": 114,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 238
+  },
+  "axe": {
+    "passes": 736,
+    "violations": 6
+  }
+}
